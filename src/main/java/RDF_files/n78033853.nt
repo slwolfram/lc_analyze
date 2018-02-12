@@ -1,0 +1,98 @@
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vari, Richard P."@en . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiesnamesn78033853 . 
+_:bnode7authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiesnamesn78033853 . 
+_:bnode7authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode8authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vari, Richard P."@en . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_LCNAF> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://viaf.org/viaf/sourceID/LC%7Cn+78033853#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/n78033853> . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#deathDate> _:bnode18authoritiesnamesn78033853 . 
+_:bnode18authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+_:bnode18authoritiesnamesn78033853 <http://www.w3.org/2000/01/rdf-schema#label> "(edtf) 2016-01-15" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#hasAffiliation> _:bnode22authoritiesnamesn78033853 . 
+_:bnode22authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Affiliation> . 
+_:bnode22authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#organization> <http://id.loc.gov/authorities/names/n79006850> . 
+<http://id.loc.gov/authorities/names/n79006850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Organization> . 
+<http://id.loc.gov/authorities/names/n79006850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "American Museum of Natural History" . 
+_:bnode22authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#organization> <http://id.loc.gov/authorities/names/n78083411> . 
+<http://id.loc.gov/authorities/names/n78083411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Organization> . 
+<http://id.loc.gov/authorities/names/n78083411> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National Museum of Natural History (U.S.)" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#birthPlace> <http://id.loc.gov/authorities/names/n81103575> . 
+<http://id.loc.gov/authorities/names/n81103575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n81103575> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Newburgh (N.Y.)" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#deathPlace> <http://id.loc.gov/authorities/names/n79116237> . 
+<http://id.loc.gov/authorities/names/n79116237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79116237> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Falls Church (Va.)" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#associatedLocale> <http://id.loc.gov/authorities/names/n79116237> . 
+<http://id.loc.gov/authorities/names/n79116237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79116237> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Falls Church (Va.)" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#associatedLocale> <http://id.loc.gov/authorities/names/n79007751> . 
+<http://id.loc.gov/authorities/names/n79007751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79007751> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "New York (N.Y.)" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#associatedLocale> <http://id.loc.gov/authorities/names/n79018774> . 
+<http://id.loc.gov/authorities/names/n79018774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79018774> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Washington (D.C.)" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#fieldOfActivity> <http://id.loc.gov/authorities/subjects/sh85064050> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ichthyology" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#occupation> <http://id.loc.gov/authorities/subjects/sh85064049> . 
+<http://id.loc.gov/authorities/subjects/sh85064049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Occupation> . 
+<http://id.loc.gov/authorities/subjects/sh85064049> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ichthyologists" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#gender> _:bnode60authoritiesnamesn78033853 . 
+_:bnode60authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+_:bnode60authoritiesnamesn78033853 <http://www.w3.org/2000/01/rdf-schema#label> "male" . 
+<http://id.loc.gov/rwo/agents/n78033853> <http://www.loc.gov/mads/rdf/v1#associatedLanguage> <http://id.loc.gov/vocabulary/languages/eng> . 
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Language> . 
+<http://id.loc.gov/vocabulary/languages/eng> <http://www.loc.gov/mads/rdf/v1#code> "eng" . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://id.loc.gov/vocabulary/identifiers/lccn> "n 78033853" . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode71authoritiesnamesn78033853 . 
+_:bnode71authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode71authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-source> "His Terapon perches ... 1978:" . 
+_:bnode71authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (Richard P. Vari, Dept. of Ichthyology, Amer. Museum of Natural Hist.)"@en . 
+_:bnode71authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode79authoritiesnamesn78033853 . 
+_:bnode79authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode79authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-source> "National Museum of Natural History (U.S.). Catalog of type specimens of recent fishes ... 1991- :" . 
+_:bnode79authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-note> "v. 1, t.p. (Richard P. Vari) p. 1 (Div. of Fishes, Dept. of Vertebrate Zoology, Nat'l Museum of Natural History, Smithsonian Inst., Wash., D.C.)"@en . 
+_:bnode79authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode87authoritiesnamesn78033853 . 
+_:bnode87authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode87authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-source> "Washington post WWW site, viewed Feb. 4, 2016" . 
+_:bnode87authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Richard P. Vari, 66, a senior scientist at the Smithsonian Institution's National Museum of Natural History whose specialties included fresh water fish, died Jan. 15 [2016] at his home in Falls Church, Va.; Dr. Vari was born in Newburgh, N.Y.; came to the Smithsonian in 1978 as a postdoctoral fellow; twice was chairman of the department of vertebrate zoology and most recently he was interim associate director for science)"@en . 
+_:bnode87authoritiesnamesn78033853 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiesnamesn78033853 . 
+_:bnode95authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1978-06-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode95authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode103authoritiesnamesn78033853 . 
+_:bnode103authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode103authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2016-02-04T09:36:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode103authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode103authoritiesnamesn78033853 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vari, Richard P."@en . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://viaf.org/viaf/sourceID/LC%7Cn+78033853#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode116authoritiesnamesn78033853 . 
+_:bnode116authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode116authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n78033853> . 
+_:bnode116authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode116authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#createdDate> "1978-06-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode116authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/names/n78033853> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode124authoritiesnamesn78033853 . 
+_:bnode124authoritiesnamesn78033853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode124authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n78033853> . 
+_:bnode124authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode124authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#createdDate> "2016-02-04T09:36:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode124authoritiesnamesn78033853 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

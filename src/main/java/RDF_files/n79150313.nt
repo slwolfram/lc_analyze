@@ -1,0 +1,81 @@
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Haggett, Peter"@en . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiesnamesn79150313 . 
+_:bnode7authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiesnamesn79150313 . 
+_:bnode7authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode8authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#elementValue> "Haggett, Peter"@en . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiesnamesn79150313 . 
+_:bnode11authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+_:bnode11authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Haggett, P. (Peter)"@en . 
+_:bnode11authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiesnamesn79150313 . 
+_:bnode16authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiesnamesn79150313 . 
+_:bnode16authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode019 . 
+_:bnode17authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode17authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#elementValue> "Haggett, P."@en . 
+_:bnode019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode20authoritiesnamesn79150313 . 
+_:bnode019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode20authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode20authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#elementValue> "(Peter)"@en . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_LCNAF> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://viaf.org/viaf/sourceID/LC%7Cn+79150313#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/n79150313> . 
+<http://id.loc.gov/rwo/agents/n79150313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/n79150313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> . 
+<http://id.loc.gov/rwo/agents/n79150313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> . 
+<http://id.loc.gov/rwo/agents/n79150313> <http://www.loc.gov/mads/rdf/v1#birthDate> _:bnode30authoritiesnamesn79150313 . 
+_:bnode30authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+_:bnode30authoritiesnamesn79150313 <http://www.w3.org/2000/01/rdf-schema#label> "19330124" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://id.loc.gov/vocabulary/identifiers/lccn> "n 79150313" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://id.loc.gov/vocabulary/identifiers/local> "(OCoLC)oca00381354" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode39authoritiesnamesn79150313 . 
+_:bnode39authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode39authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-source> "His Locational analysis in human geography, 1965." . 
+_:bnode39authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiesnamesn79150313 . 
+_:bnode45authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-source> "Cliff, A. D. Spatial aspects of influenza epidemics, c1986:" . 
+_:bnode45authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (P. Haggett) jkt. (Peter Haggett, Prof. of Urban & Regional Geog., Univ. of Bristol)"@en . 
+_:bnode45authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode53authoritiesnamesn79150313 . 
+_:bnode53authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode53authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-source> "Info. converted from 678, 2012-10-02" . 
+_:bnode53authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-note> "(b. 1-24-33)"@en . 
+_:bnode53authoritiesnamesn79150313 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiesnamesn79150313 . 
+_:bnode61authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1980-06-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode61authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiesnamesn79150313 . 
+_:bnode69authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2012-11-14T07:47:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode69authoritiesnamesn79150313 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haggett, Peter"@en . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiesnamesn79150313 . 
+_:bnode80authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiesnamesn79150313 <http://www.w3.org/2008/05/skos-xl#literalForm> "Haggett, P. (Peter)"@en . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2004/02/skos/core#altLabel> "Haggett, P. (Peter)" . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://viaf.org/viaf/sourceID/LC%7Cn+79150313#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2008/05/skos-xl#altLabel> "Haggett, P. (Peter)"@en . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode91authoritiesnamesn79150313 . 
+_:bnode91authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode91authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n79150313> . 
+_:bnode91authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode91authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#createdDate> "1980-06-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/names/n79150313> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode99authoritiesnamesn79150313 . 
+_:bnode99authoritiesnamesn79150313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode99authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n79150313> . 
+_:bnode99authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode99authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#createdDate> "2012-11-14T07:47:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiesnamesn79150313 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

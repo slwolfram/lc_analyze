@@ -1,0 +1,799 @@
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85002415 . 
+_:bnode7authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85002415 . 
+_:bnode7authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85002415 . 
+_:bnode11authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Farming"@en . 
+_:bnode11authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85002415 . 
+_:bnode16authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85002415 . 
+_:bnode16authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85002415 . 
+_:bnode20authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Husbandry"@en . 
+_:bnode20authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85002415 . 
+_:bnode25authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85002415 . 
+_:bnode25authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Husbandry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#classification> "S1-S790.3" . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135363> . 
+<http://id.loc.gov/authorities/subjects/sh85135363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135363> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tillage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11946055d> . 
+<http://data.bnf.fr/ark:/12148/cb11946055d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11946055d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Techniques agricoles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004766> . 
+<http://id.loc.gov/authorities/subjects/sh90004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004766> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phosphorus in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009010906> . 
+<http://id.loc.gov/authorities/subjects/sh2009010906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009010906> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lasers in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006265> . 
+<http://id.loc.gov/authorities/subjects/sh86006265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006265> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seed technology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003295> . 
+<http://id.loc.gov/authorities/subjects/sh91003295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003295> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crop improvement"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006390> . 
+<http://id.loc.gov/authorities/subjects/sh88006390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006390> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Copper in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13506370w> . 
+<http://data.bnf.fr/ark:/12148/cb13506370w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13506370w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rongeurs nuisibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006305> . 
+<http://id.loc.gov/authorities/subjects/sh88006305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006305> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Natural products in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053089> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/5260> . 
+<http://lod.nal.usda.gov/nalt/5260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/5260> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119500764> . 
+<http://data.bnf.fr/ark:/12148/cb119500764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119500764> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Comptabilité nationale -- Agriculture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088143> . 
+<http://id.loc.gov/authorities/subjects/sh85088143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088143> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motion pictures in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121413> . 
+<http://id.loc.gov/authorities/subjects/sh85121413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121413> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shifting cultivation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023045> . 
+<http://id.loc.gov/authorities/subjects/sh85023045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023045> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chemurgy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105612> . 
+<http://id.loc.gov/authorities/subjects/sh85105612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105612> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Potassium in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006798> . 
+<http://id.loc.gov/authorities/subjects/sh86006798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sulfur in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013002527> . 
+<http://id.loc.gov/authorities/subjects/sh2013002527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013002527> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Goat farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103025> . 
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants, Protection of"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110721> . 
+<http://id.loc.gov/authorities/subjects/sh85110721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110721> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radioisotopes in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97005670> . 
+<http://id.loc.gov/authorities/subjects/sh97005670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97005670> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Boron in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029049> . 
+<http://id.loc.gov/authorities/subjects/sh85029049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029049> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Communication in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh00005841> . 
+<http://id.loc.gov/authorities/subjects/sh00005841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005841> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Food supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005841> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode124authoritiessubjectssh85002415 . 
+_:bnode124authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode125authoritiessubjectssh85002415 . 
+_:bnode124authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode125authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode125authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Food supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082676> . 
+<http://id.loc.gov/authorities/subjects/sh85082676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082676> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meadows"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012000570> . 
+<http://id.loc.gov/authorities/subjects/sh2012000570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012000570> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Comparative agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001383> . 
+<http://id.loc.gov/authorities/subjects/sh85001383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001383> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047299> . 
+<http://id.loc.gov/authorities/subjects/sh85047299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047299> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Farms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96008768> . 
+<http://id.loc.gov/authorities/subjects/sh96008768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96008768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005853> . 
+<http://id.loc.gov/authorities/subjects/sh94005853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005853> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mycorrhizas in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008003735> . 
+<http://id.loc.gov/authorities/subjects/sh2008003735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008003735> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Subsistence farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124376> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/5506> . 
+<http://lod.nal.usda.gov/nalt/5506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/5506> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "farming systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005645> . 
+<http://id.loc.gov/authorities/subjects/sh85005645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005645> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Antibiotics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004904> . 
+<http://id.loc.gov/authorities/subjects/sh98004904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004904> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural intensification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107038> . 
+<http://id.loc.gov/authorities/subjects/sh85107038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107038> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Private plot agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003008394> . 
+<http://id.loc.gov/authorities/subjects/sh2003008394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003008394> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Raised field agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042395> . 
+<http://id.loc.gov/authorities/subjects/sh85042395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042395> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electronics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102702> . 
+<http://id.loc.gov/authorities/subjects/sh85102702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102702> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant breeding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005003870> . 
+<http://id.loc.gov/authorities/subjects/sh2005003870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005003870> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National socialism and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141304> . 
+<http://id.loc.gov/authorities/subjects/sh85141304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141304> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Urban agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91006254> . 
+<http://id.loc.gov/authorities/subjects/sh91006254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91006254> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agronomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034244> . 
+<http://id.loc.gov/authorities/subjects/sh85034244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034244> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crop rotation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002507> . 
+<http://id.loc.gov/authorities/subjects/sh85002507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agroforestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00003774> . 
+<http://id.loc.gov/authorities/subjects/sh00003774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00003774> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Volunteer workers in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008234> . 
+<http://id.loc.gov/authorities/subjects/sh85008234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008234> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Artificial satellites in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002402> . 
+<http://id.loc.gov/authorities/subjects/sh85002402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002402> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87004216> . 
+<http://id.loc.gov/authorities/subjects/sh87004216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004216> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sustainable agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002295> . 
+<http://id.loc.gov/authorities/subjects/sh85002295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002295> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural conservation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119731516> . 
+<http://data.bnf.fr/ark:/12148/cb119731516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119731516> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture -- Planification"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103181> . 
+<http://id.loc.gov/authorities/subjects/sh85103181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103181> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plastics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110622> . 
+<http://id.loc.gov/authorities/subjects/sh85110622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110622> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radioactive tracers in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94009645> . 
+<http://id.loc.gov/authorities/subjects/sh94009645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94009645> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Precision farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098332> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Part-time farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89005737> . 
+<http://id.loc.gov/authorities/subjects/sh89005737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005737> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Astrology and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85007144> . 
+<http://id.loc.gov/authorities/subjects/sh85007144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85007144> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arid regions agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059214> . 
+<http://id.loc.gov/authorities/subjects/sh85059214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059214> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Harvesting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95004499> . 
+<http://id.loc.gov/authorities/subjects/sh95004499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95004499> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crop science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098618> . 
+<http://id.loc.gov/authorities/subjects/sh85098618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098618> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pastures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11973153w> . 
+<http://data.bnf.fr/ark:/12148/cb11973153w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11973153w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture -- Sociétés, etc."@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89005487> . 
+<http://id.loc.gov/authorities/subjects/sh89005487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005487> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005767> . 
+<http://id.loc.gov/authorities/subjects/sh92005767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005767> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Optics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11934798x> . 
+<http://data.bnf.fr/ark:/12148/cb11934798x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11934798x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002480> . 
+<http://id.loc.gov/authorities/subjects/sh85002480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002480> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Traditional farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055246> . 
+<http://id.loc.gov/authorities/subjects/sh85055246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055246> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gleaning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077784> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb126504280> . 
+<http://data.bnf.fr/ark:/12148/cb126504280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb126504280> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture -- Vulgarisation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029132> . 
+<http://id.loc.gov/authorities/subjects/sh85029132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029132> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Communism and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85043133> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Energy crops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047239> . 
+<http://id.loc.gov/authorities/subjects/sh85047239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047239> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Farm produce"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102884> . 
+<http://id.loc.gov/authorities/subjects/sh85102884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants, Cultivated"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102814> . 
+<http://id.loc.gov/authorities/subjects/sh85102814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102814> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant spacing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004648> . 
+<http://id.loc.gov/authorities/subjects/sh98004648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004648> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear accidents and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057221> . 
+<http://id.loc.gov/authorities/subjects/sh85057221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Green Revolution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85050707> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forests and forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85145569> . 
+<http://id.loc.gov/authorities/subjects/sh85145569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145569> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12163806v> . 
+<http://data.bnf.fr/ark:/12148/cb12163806v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12163806v> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture -- Aspect économique -- Bases de données"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016006> . 
+<http://id.loc.gov/authorities/subjects/sh85016006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016006> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Botany, Economic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042075> . 
+<http://id.loc.gov/authorities/subjects/sh85042075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042075> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electricity in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005039> . 
+<http://id.loc.gov/authorities/subjects/sh94005039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005039> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Floodplain agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85006210> . 
+<http://id.loc.gov/authorities/subjects/sh85006210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006210> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aquaculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85046481> . 
+<http://id.loc.gov/authorities/subjects/sh85046481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046481> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Explosives in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96008428> . 
+<http://id.loc.gov/authorities/subjects/sh96008428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96008428> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saponins in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86003137> . 
+<http://id.loc.gov/authorities/subjects/sh86003137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86003137> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Herb farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93008698> . 
+<http://id.loc.gov/authorities/subjects/sh93008698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93008698> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zinc in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005420> . 
+<http://id.loc.gov/authorities/subjects/sh92005420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005420> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Minerals in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147552> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85074350> . 
+<http://id.loc.gov/authorities/subjects/sh85074350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85074350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074350> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Land use, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074350> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode385authoritiessubjectssh85002415 . 
+_:bnode385authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode386authoritiessubjectssh85002415 . 
+_:bnode385authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode386authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode386authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Land use, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027924> . 
+<http://id.loc.gov/authorities/subjects/sh85027924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027924> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cold regions agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12036258c> . 
+<http://data.bnf.fr/ark:/12148/cb12036258c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12036258c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture -- Droit européen"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb131817268> . 
+<http://data.bnf.fr/ark:/12148/cb131817268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb131817268> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture -- Documentation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012000508> . 
+<http://id.loc.gov/authorities/subjects/sh2012000508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012000508> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rice farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110481> . 
+<http://id.loc.gov/authorities/subjects/sh85110481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110481> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005429> . 
+<http://id.loc.gov/authorities/subjects/sh87005429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005429> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nitrogen in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062204> . 
+<http://id.loc.gov/authorities/subjects/sh85062204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062204> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Horticulture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85137223> . 
+<http://id.loc.gov/authorities/subjects/sh85137223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137223> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tree crops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4034402-2> . 
+<http://d-nb.info/gnd/4034402-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4034402-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Landwirtschaft"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11940980n> . 
+<http://data.bnf.fr/ark:/12148/cb11940980n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11940980n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Géographie agricole"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004014753> . 
+<http://id.loc.gov/authorities/subjects/sh2004014753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004014753> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Internet in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90001140> . 
+<http://id.loc.gov/authorities/subjects/sh90001140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90001140> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural diversification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85074292> . 
+<http://id.loc.gov/authorities/subjects/sh85074292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074292> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Land capability for agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85076841> . 
+<http://id.loc.gov/authorities/subjects/sh85076841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85076841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076841> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Life sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076841> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode446authoritiessubjectssh85002415 . 
+_:bnode446authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode447authoritiessubjectssh85002415 . 
+_:bnode446authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode447authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode447authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Life sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124507> . 
+<http://id.loc.gov/authorities/subjects/sh85124507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Solar energy in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97004278> . 
+<http://id.loc.gov/authorities/subjects/sh97004278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97004278> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ranching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068298> . 
+<http://id.loc.gov/authorities/subjects/sh85068298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068298> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Irrigation farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002408> . 
+<http://id.loc.gov/authorities/subjects/sh85002408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002408> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural virology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102837> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Planting (Plant culture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96003192> . 
+<http://id.loc.gov/authorities/subjects/sh96003192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96003192> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Molybdenum in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12469385k> . 
+<http://data.bnf.fr/ark:/12148/cb12469385k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12469385k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture ancienne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12035238h> . 
+<http://data.bnf.fr/ark:/12148/cb12035238h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12035238h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Droit rural (droit juif)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001254> . 
+<http://id.loc.gov/authorities/subjects/sh85001254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001254> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aerial photography in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095504> . 
+<http://id.loc.gov/authorities/subjects/sh85095504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095504> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organic farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89002041> . 
+<http://id.loc.gov/authorities/subjects/sh89002041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89002041> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Selenium in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96009831> . 
+<http://id.loc.gov/authorities/subjects/sh96009831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96009831> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wetland agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060816> . 
+<http://id.loc.gov/authorities/subjects/sh85060816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060816> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hill farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001001654> . 
+<http://id.loc.gov/authorities/subjects/sh2001001654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001001654> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Silicon in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85065826> . 
+<http://id.loc.gov/authorities/subjects/sh85065826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85065826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065826> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrial arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065826> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode511authoritiessubjectssh85002415 . 
+_:bnode511authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode512authoritiessubjectssh85002415 . 
+_:bnode511authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode512authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode512authoritiessubjectssh85002415 <http://www.loc.gov/mads/rdf/v1#elementValue> "Industrial arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12349612m> . 
+<http://data.bnf.fr/ark:/12148/cb12349612m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12349612m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acariens nuisibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/303> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Agriculture] under ethnic groups; and headings beginning with the words [Agricultural] and [Farm]" . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85002415" . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85002415> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85002415#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode530authoritiessubjectssh85002415 . 
+_:bnode530authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode530authoritiessubjectssh85002415 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode530authoritiessubjectssh85002415 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode530authoritiessubjectssh85002415 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode537authoritiessubjectssh85002415 . 
+_:bnode537authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode537authoritiessubjectssh85002415 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-01-03T14:38:27"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode537authoritiessubjectssh85002415 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode537authoritiessubjectssh85002415 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode547authoritiessubjectssh85002415 . 
+_:bnode547authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode547authoritiessubjectssh85002415 <http://www.w3.org/2008/05/skos-xl#literalForm> "Farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#altLabel> "Farming" . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode554authoritiessubjectssh85002415 . 
+_:bnode554authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode554authoritiessubjectssh85002415 <http://www.w3.org/2008/05/skos-xl#literalForm> "Husbandry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#altLabel> "Husbandry" . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85076841> . 
+<http://id.loc.gov/authorities/subjects/sh85076841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Life sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85065826> . 
+<http://id.loc.gov/authorities/subjects/sh85065826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrial arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135363> . 
+<http://id.loc.gov/authorities/subjects/sh85135363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tillage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004766> . 
+<http://id.loc.gov/authorities/subjects/sh90004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphorus in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009010906> . 
+<http://id.loc.gov/authorities/subjects/sh2009010906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009010906> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lasers in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006265> . 
+<http://id.loc.gov/authorities/subjects/sh86006265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seed technology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003295> . 
+<http://id.loc.gov/authorities/subjects/sh91003295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crop improvement"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006390> . 
+<http://id.loc.gov/authorities/subjects/sh88006390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Copper in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006305> . 
+<http://id.loc.gov/authorities/subjects/sh88006305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural products in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053089> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088143> . 
+<http://id.loc.gov/authorities/subjects/sh85088143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088143> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motion pictures in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121413> . 
+<http://id.loc.gov/authorities/subjects/sh85121413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121413> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shifting cultivation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023045> . 
+<http://id.loc.gov/authorities/subjects/sh85023045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023045> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemurgy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105612> . 
+<http://id.loc.gov/authorities/subjects/sh85105612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potassium in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006798> . 
+<http://id.loc.gov/authorities/subjects/sh86006798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfur in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013002527> . 
+<http://id.loc.gov/authorities/subjects/sh2013002527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013002527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goat farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103025> . 
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants, Protection of"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110721> . 
+<http://id.loc.gov/authorities/subjects/sh85110721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110721> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radioisotopes in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97005670> . 
+<http://id.loc.gov/authorities/subjects/sh97005670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97005670> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boron in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029049> . 
+<http://id.loc.gov/authorities/subjects/sh85029049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029049> <http://www.w3.org/2004/02/skos/core#prefLabel> "Communication in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082676> . 
+<http://id.loc.gov/authorities/subjects/sh85082676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082676> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meadows"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012000570> . 
+<http://id.loc.gov/authorities/subjects/sh2012000570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012000570> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comparative agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001383> . 
+<http://id.loc.gov/authorities/subjects/sh85001383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001383> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047299> . 
+<http://id.loc.gov/authorities/subjects/sh85047299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047299> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96008768> . 
+<http://id.loc.gov/authorities/subjects/sh96008768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96008768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005853> . 
+<http://id.loc.gov/authorities/subjects/sh94005853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005853> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mycorrhizas in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008003735> . 
+<http://id.loc.gov/authorities/subjects/sh2008003735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008003735> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subsistence farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124376> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005645> . 
+<http://id.loc.gov/authorities/subjects/sh85005645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antibiotics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004904> . 
+<http://id.loc.gov/authorities/subjects/sh98004904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural intensification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107038> . 
+<http://id.loc.gov/authorities/subjects/sh85107038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Private plot agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003008394> . 
+<http://id.loc.gov/authorities/subjects/sh2003008394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003008394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Raised field agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042395> . 
+<http://id.loc.gov/authorities/subjects/sh85042395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042395> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102702> . 
+<http://id.loc.gov/authorities/subjects/sh85102702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant breeding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005003870> . 
+<http://id.loc.gov/authorities/subjects/sh2005003870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005003870> <http://www.w3.org/2004/02/skos/core#prefLabel> "National socialism and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141304> . 
+<http://id.loc.gov/authorities/subjects/sh85141304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141304> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urban agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91006254> . 
+<http://id.loc.gov/authorities/subjects/sh91006254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agronomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034244> . 
+<http://id.loc.gov/authorities/subjects/sh85034244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crop rotation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002507> . 
+<http://id.loc.gov/authorities/subjects/sh85002507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agroforestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00003774> . 
+<http://id.loc.gov/authorities/subjects/sh00003774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00003774> <http://www.w3.org/2004/02/skos/core#prefLabel> "Volunteer workers in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008234> . 
+<http://id.loc.gov/authorities/subjects/sh85008234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008234> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artificial satellites in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002402> . 
+<http://id.loc.gov/authorities/subjects/sh85002402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87004216> . 
+<http://id.loc.gov/authorities/subjects/sh87004216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sustainable agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002295> . 
+<http://id.loc.gov/authorities/subjects/sh85002295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural conservation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103181> . 
+<http://id.loc.gov/authorities/subjects/sh85103181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103181> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plastics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110622> . 
+<http://id.loc.gov/authorities/subjects/sh85110622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110622> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radioactive tracers in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94009645> . 
+<http://id.loc.gov/authorities/subjects/sh94009645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94009645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Precision farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098332> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Part-time farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89005737> . 
+<http://id.loc.gov/authorities/subjects/sh89005737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005737> <http://www.w3.org/2004/02/skos/core#prefLabel> "Astrology and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85007144> . 
+<http://id.loc.gov/authorities/subjects/sh85007144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85007144> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arid regions agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059214> . 
+<http://id.loc.gov/authorities/subjects/sh85059214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harvesting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95004499> . 
+<http://id.loc.gov/authorities/subjects/sh95004499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95004499> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crop science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098618> . 
+<http://id.loc.gov/authorities/subjects/sh85098618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098618> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pastures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89005487> . 
+<http://id.loc.gov/authorities/subjects/sh89005487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005487> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005767> . 
+<http://id.loc.gov/authorities/subjects/sh92005767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005767> <http://www.w3.org/2004/02/skos/core#prefLabel> "Optics in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002480> . 
+<http://id.loc.gov/authorities/subjects/sh85002480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002480> <http://www.w3.org/2004/02/skos/core#prefLabel> "Traditional farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055246> . 
+<http://id.loc.gov/authorities/subjects/sh85055246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gleaning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077784> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029132> . 
+<http://id.loc.gov/authorities/subjects/sh85029132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Communism and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85043133> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Energy crops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047239> . 
+<http://id.loc.gov/authorities/subjects/sh85047239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047239> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farm produce"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102884> . 
+<http://id.loc.gov/authorities/subjects/sh85102884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants, Cultivated"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102814> . 
+<http://id.loc.gov/authorities/subjects/sh85102814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant spacing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004648> . 
+<http://id.loc.gov/authorities/subjects/sh98004648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear accidents and agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057221> . 
+<http://id.loc.gov/authorities/subjects/sh85057221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Green Revolution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85050707> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forests and forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85145569> . 
+<http://id.loc.gov/authorities/subjects/sh85145569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145569> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016006> . 
+<http://id.loc.gov/authorities/subjects/sh85016006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016006> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botany, Economic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042075> . 
+<http://id.loc.gov/authorities/subjects/sh85042075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electricity in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005039> . 
+<http://id.loc.gov/authorities/subjects/sh94005039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005039> <http://www.w3.org/2004/02/skos/core#prefLabel> "Floodplain agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85006210> . 
+<http://id.loc.gov/authorities/subjects/sh85006210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquaculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85046481> . 
+<http://id.loc.gov/authorities/subjects/sh85046481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046481> <http://www.w3.org/2004/02/skos/core#prefLabel> "Explosives in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96008428> . 
+<http://id.loc.gov/authorities/subjects/sh96008428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96008428> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saponins in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86003137> . 
+<http://id.loc.gov/authorities/subjects/sh86003137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86003137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herb farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93008698> . 
+<http://id.loc.gov/authorities/subjects/sh93008698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93008698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zinc in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005420> . 
+<http://id.loc.gov/authorities/subjects/sh92005420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minerals in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147552> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027924> . 
+<http://id.loc.gov/authorities/subjects/sh85027924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cold regions agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012000508> . 
+<http://id.loc.gov/authorities/subjects/sh2012000508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012000508> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rice farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110481> . 
+<http://id.loc.gov/authorities/subjects/sh85110481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110481> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005429> . 
+<http://id.loc.gov/authorities/subjects/sh87005429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrogen in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062204> . 
+<http://id.loc.gov/authorities/subjects/sh85062204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horticulture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85137223> . 
+<http://id.loc.gov/authorities/subjects/sh85137223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tree crops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004014753> . 
+<http://id.loc.gov/authorities/subjects/sh2004014753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004014753> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internet in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90001140> . 
+<http://id.loc.gov/authorities/subjects/sh90001140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90001140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural diversification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85074292> . 
+<http://id.loc.gov/authorities/subjects/sh85074292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Land capability for agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124507> . 
+<http://id.loc.gov/authorities/subjects/sh85124507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Solar energy in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97004278> . 
+<http://id.loc.gov/authorities/subjects/sh97004278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97004278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ranching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068298> . 
+<http://id.loc.gov/authorities/subjects/sh85068298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068298> <http://www.w3.org/2004/02/skos/core#prefLabel> "Irrigation farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002408> . 
+<http://id.loc.gov/authorities/subjects/sh85002408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002408> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural virology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102837> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planting (Plant culture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96003192> . 
+<http://id.loc.gov/authorities/subjects/sh96003192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003192> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molybdenum in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001254> . 
+<http://id.loc.gov/authorities/subjects/sh85001254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aerial photography in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095504> . 
+<http://id.loc.gov/authorities/subjects/sh85095504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095504> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organic farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89002041> . 
+<http://id.loc.gov/authorities/subjects/sh89002041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89002041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Selenium in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96009831> . 
+<http://id.loc.gov/authorities/subjects/sh96009831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96009831> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetland agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060816> . 
+<http://id.loc.gov/authorities/subjects/sh85060816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060816> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hill farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001001654> . 
+<http://id.loc.gov/authorities/subjects/sh2001001654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001001654> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicon in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh00005841> . 
+<http://id.loc.gov/authorities/subjects/sh00005841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Food supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85074350> . 
+<http://id.loc.gov/authorities/subjects/sh85074350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074350> <http://www.w3.org/2004/02/skos/core#prefLabel> "Land use, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/5260> . 
+<http://lod.nal.usda.gov/nalt/5260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/5260> <http://www.w3.org/2004/02/skos/core#prefLabel> "agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/303> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11946055d> . 
+<http://data.bnf.fr/ark:/12148/cb11946055d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11946055d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Techniques agricoles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13506370w> . 
+<http://data.bnf.fr/ark:/12148/cb13506370w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13506370w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rongeurs nuisibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119500764> . 
+<http://data.bnf.fr/ark:/12148/cb119500764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119500764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comptabilité nationale -- Agriculture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/5506> . 
+<http://lod.nal.usda.gov/nalt/5506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/5506> <http://www.w3.org/2004/02/skos/core#prefLabel> "farming systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119731516> . 
+<http://data.bnf.fr/ark:/12148/cb119731516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119731516> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture -- Planification"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11973153w> . 
+<http://data.bnf.fr/ark:/12148/cb11973153w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11973153w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture -- Sociétés, etc."@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11934798x> . 
+<http://data.bnf.fr/ark:/12148/cb11934798x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11934798x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb126504280> . 
+<http://data.bnf.fr/ark:/12148/cb126504280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb126504280> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture -- Vulgarisation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12163806v> . 
+<http://data.bnf.fr/ark:/12148/cb12163806v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12163806v> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture -- Aspect économique -- Bases de données"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12036258c> . 
+<http://data.bnf.fr/ark:/12148/cb12036258c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12036258c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture -- Droit européen"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb131817268> . 
+<http://data.bnf.fr/ark:/12148/cb131817268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb131817268> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture -- Documentation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4034402-2> . 
+<http://d-nb.info/gnd/4034402-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4034402-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landwirtschaft"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11940980n> . 
+<http://data.bnf.fr/ark:/12148/cb11940980n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11940980n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Géographie agricole"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12469385k> . 
+<http://data.bnf.fr/ark:/12148/cb12469385k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12469385k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture ancienne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12035238h> . 
+<http://data.bnf.fr/ark:/12148/cb12035238h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12035238h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Droit rural (droit juif)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12349612m> . 
+<http://data.bnf.fr/ark:/12148/cb12349612m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12349612m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acariens nuisibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Agriculture] under ethnic groups; and headings beginning with the words [Agricultural] and [Farm]" . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2008/05/skos-xl#altLabel> "Farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2008/05/skos-xl#altLabel> "Husbandry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode1154authoritiessubjectssh85002415 . 
+_:bnode1154authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode1154authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002415> . 
+_:bnode1154authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode1154authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode1154authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode1162authoritiessubjectssh85002415 . 
+_:bnode1162authoritiessubjectssh85002415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode1162authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002415> . 
+_:bnode1162authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode1162authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#createdDate> "1994-01-03T14:38:27"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode1162authoritiessubjectssh85002415 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,73 @@
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adams, Hazard, 1926-"@en . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiesnamesn50036848 . 
+_:bnode7authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiesnamesn50036848 . 
+_:bnode7authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode010 . 
+_:bnode8authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode8authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#elementValue> "Adams, Hazard,"@en . 
+_:bnode010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode11authoritiesnamesn50036848 . 
+_:bnode010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode11authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DateNameElement> . 
+_:bnode11authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#elementValue> "1926-"@en . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#classification> "PS3551.D37" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_LCNAF> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://viaf.org/viaf/sourceID/LC%7Cn+50036848#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/n50036848> . 
+<http://id.loc.gov/rwo/agents/n50036848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/n50036848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> . 
+<http://id.loc.gov/rwo/agents/n50036848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> . 
+<http://id.loc.gov/rwo/agents/n50036848> <http://www.loc.gov/mads/rdf/v1#birthDate> _:bnode23authoritiesnamesn50036848 . 
+_:bnode23authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+_:bnode23authoritiesnamesn50036848 <http://www.w3.org/2000/01/rdf-schema#label> "1926" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://id.loc.gov/vocabulary/identifiers/lccn> "n 50036848" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://id.loc.gov/vocabulary/identifiers/local> "(OCoLC)oca00072094" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiesnamesn50036848 . 
+_:bnode32authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-source> "His Structure of myth in the poetry of William Blake and ... 1954." . 
+_:bnode32authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode38authoritiesnamesn50036848 . 
+_:bnode38authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode38authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-source> "Academic child, 2008:" . 
+_:bnode38authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-note> "ECIP t.p. (Hazard Adams) data view (grad. of Princeton and Univ. of Washington; author of works of poetry and fiction;  prof. of English lit., Univ. of Washington; resides in Lake Forest Park, WA)"@en . 
+_:bnode38authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode46authoritiesnamesn50036848 . 
+_:bnode46authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode46authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-source> "Adams, Hazard. William Blake on his poetry and painting, 2010:" . 
+_:bnode46authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (Hazard Adams) data view ( resides in Lake Forest Park, Wash.; b. Feb. 15, 1926)"@en . 
+_:bnode46authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode54authoritiesnamesn50036848 . 
+_:bnode54authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode54authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-source> "Information from 678 converted Dec. 8, 2014" . 
+_:bnode54authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Ph.D.)"@en . 
+_:bnode54authoritiesnamesn50036848 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiesnamesn50036848 . 
+_:bnode62authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1980-07-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode62authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiesnamesn50036848 . 
+_:bnode70authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2014-12-09T07:06:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode70authoritiesnamesn50036848 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adams, Hazard, 1926-"@en . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://viaf.org/viaf/sourceID/LC%7Cn+50036848#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode83authoritiesnamesn50036848 . 
+_:bnode83authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode83authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n50036848> . 
+_:bnode83authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode83authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#createdDate> "1980-07-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/names/n50036848> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode91authoritiesnamesn50036848 . 
+_:bnode91authoritiesnamesn50036848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode91authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n50036848> . 
+_:bnode91authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode91authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#createdDate> "2014-12-09T07:06:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiesnamesn50036848 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

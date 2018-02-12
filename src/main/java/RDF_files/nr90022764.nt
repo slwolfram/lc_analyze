@@ -1,0 +1,53 @@
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edgell, Michael C. R."@en . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiesnamesnr90022764 . 
+_:bnode7authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiesnamesnr90022764 . 
+_:bnode7authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode8authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#elementValue> "Edgell, Michael C. R."@en . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_LCNAF> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://viaf.org/viaf/sourceID/LC%7Cnr+90022764#skos:Concept> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/nr90022764> . 
+<http://id.loc.gov/rwo/agents/nr90022764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/nr90022764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/bibframe/Person> . 
+<http://id.loc.gov/rwo/agents/nr90022764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://id.loc.gov/vocabulary/identifiers/lccn> "nr 90022764" . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode21authoritiesnamesnr90022764 . 
+_:bnode21authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode21authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#citation-source> "Occasional papers in geography, Castlegar, 1988, 1989:" . 
+_:bnode21authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (Michael C. R. Edgell, Dept. of Geography, Univ. of Victoria)"@en . 
+_:bnode21authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode29authoritiesnamesnr90022764 . 
+_:bnode29authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode29authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#citation-source> "NLC 6/27/90" . 
+_:bnode29authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Edgell, Michael C. R.)"@en . 
+_:bnode29authoritiesnamesnr90022764 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode37authoritiesnamesnr90022764 . 
+_:bnode37authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode37authoritiesnamesnr90022764 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-10-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode37authoritiesnamesnr90022764 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode37authoritiesnamesnr90022764 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/njp> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiesnamesnr90022764 . 
+_:bnode44authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiesnamesnr90022764 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-11-13T05:41:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiesnamesnr90022764 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiesnamesnr90022764 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/njp> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edgell, Michael C. R."@en . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://viaf.org/viaf/sourceID/LC%7Cnr+90022764#skos:Concept> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode56authoritiesnamesnr90022764 . 
+_:bnode56authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode56authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/nr90022764> . 
+_:bnode56authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/njp> . 
+_:bnode56authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#createdDate> "1990-10-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/names/nr90022764> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode64authoritiesnamesnr90022764 . 
+_:bnode64authoritiesnamesnr90022764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode64authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/nr90022764> . 
+_:bnode64authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/njp> . 
+_:bnode64authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#createdDate> "1990-11-13T05:41:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiesnamesnr90022764 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Title> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Times (London, England)"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiesnamesn82037624 . 
+_:bnode7authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiesnamesn82037624 . 
+_:bnode7authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MainTitleElement> . 
+_:bnode8authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#elementValue> "Times (London, England)"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiesnamesn82037624 . 
+_:bnode11authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Title> . 
+_:bnode11authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#variantLabel> "London Times (England)"@en . 
+_:bnode11authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiesnamesn82037624 . 
+_:bnode16authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiesnamesn82037624 . 
+_:bnode16authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MainTitleElement> . 
+_:bnode17authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#elementValue> "London Times (England)"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode20authoritiesnamesn82037624 . 
+_:bnode20authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Title> . 
+_:bnode20authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Times, London"@en . 
+_:bnode20authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiesnamesn82037624 . 
+_:bnode25authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiesnamesn82037624 . 
+_:bnode25authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#MainTitleElement> . 
+_:bnode26authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#elementValue> "Times, London"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/authorities/names/n79071258> . 
+<http://id.loc.gov/authorities/names/n79071258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority> . 
+<http://id.loc.gov/authorities/names/n79071258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79071258> <http://www.w3.org/2000/01/rdf-schema#label> "n79071258" . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_LCNAF> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/names/collection_FRBRWork> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://viaf.org/viaf/sourceID/LC%7Cn+82037624#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://id.loc.gov/vocabulary/identifiers/lccn> "n 82037624" . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiesnamesn82037624 . 
+_:bnode41authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#citation-source> "Its Old and true, 1940-" . 
+_:bnode41authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiesnamesn82037624 . 
+_:bnode47authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#citation-source> "Whiteside, D. Whiteside names listed in The London Times ... 1980:" . 
+_:bnode47authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (The London Times (England))"@en . 
+_:bnode47authoritiesnamesn82037624 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiesnamesn82037624 . 
+_:bnode55authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiesnamesn82037624 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1982-04-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiesnamesn82037624 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiesnamesn82037624 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiesnamesn82037624 . 
+_:bnode62authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiesnamesn82037624 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-05-29T09:19:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiesnamesn82037624 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiesnamesn82037624 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#prefLabel> "Times (London, England)"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode72authoritiesnamesn82037624 . 
+_:bnode72authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode72authoritiesnamesn82037624 <http://www.w3.org/2008/05/skos-xl#literalForm> "London Times (England)"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#altLabel> "London Times (England)" . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode79authoritiesnamesn82037624 . 
+_:bnode79authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode79authoritiesnamesn82037624 <http://www.w3.org/2008/05/skos-xl#literalForm> "Times, London"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#altLabel> "Times, London" . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://viaf.org/viaf/sourceID/LC%7Cn+82037624#skos:Concept> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/names> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2008/05/skos-xl#altLabel> "London Times (England)"@en . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiesnamesn82037624 . 
+_:bnode90authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n82037624> . 
+_:bnode90authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#createdDate> "1982-04-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/names/n82037624> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiesnamesn82037624 . 
+_:bnode98authoritiesnamesn82037624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/names/n82037624> . 
+_:bnode98authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#createdDate> "1987-05-29T09:19:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiesnamesn82037624 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
