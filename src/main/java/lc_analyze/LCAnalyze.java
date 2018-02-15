@@ -183,11 +183,14 @@ public class LCAnalyze {
 						System.out.println("unrecognized control number format. Skipping.");
 						continue;
 					}
+					
+					
 					boolean hasURI = false;
-					for (int j = 0; j < authorityURIs.size(); j++) {
+					 for (int j = 0; j < authorityURIs.size(); j++) {
 						if (authorityURIs.get(j).contentEquals(uri))
 							hasURI = true;
 					}
+					/*
 					System.out.println(hasURI);
 					if (!hasURI) {
 						authorityURIs.add(uri);
@@ -208,7 +211,7 @@ public class LCAnalyze {
 							subjectHeadings.add(new SubjectHeading(recordname, mainHeading, subheadings, uri));
 						}
 						System.out.println(uri);
-					}
+					}*/
 				}
 			}
 		}
