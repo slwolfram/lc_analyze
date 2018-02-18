@@ -72,10 +72,16 @@ public class LCAnalyze {
 	 */
 	public static Model rdfModel = new TreeModel();
 	/**
-	 * headingTrees - a list of all the LCHeading trees. Used to model the structure
-	 * and distribution of LC name/subject headings for a given MARCXML dataset.
+	 * subjectHeadingTrees - a list of all the LCHeading subject trees. Used to
+	 * model the structure and distribution of LC subject headings for a given
+	 * MARCXML dataset.
 	 */
-	public static ArrayList<LCHeading> headingTrees = new ArrayList<LCHeading>();
+	public static ArrayList<LCHeading> subjectHeadingTrees = new ArrayList<LCHeading>();
+	/**
+	 * nameHeadingTrees - a list of all the LCHeading name trees. Used to model the
+	 * structure and distribution of LC name headings for a given MARCXML dataset.
+	 */
+	public static ArrayList<LCHeading> nameHeadingTrees = new ArrayList<LCHeading>();
 
 	public static void main(String[] args) throws URISyntaxException, IOException {
 
@@ -110,8 +116,11 @@ public class LCAnalyze {
 					buildLCHeadings(file);
 				}
 			}
-			for (int i = 0; i < headingTrees.size(); i++) {
-				headingTrees.get(i).print();
+			for (int i = 0; i < subjectHeadingTrees.size(); i++) {
+				subjectHeadingTrees.get(i).print();
+			}
+			for (int i = 0; i < nameHeadingTrees.size(); i++) {
+				nameHeadingTrees.get(i).print();
 			}
 			System.exit(0);
 		case "c":
@@ -184,13 +193,23 @@ public class LCAnalyze {
 
 	private static void addConceptString(ArrayList<String> conceptString, URI uri, String oclc) {
 		System.out.println("starting addConceptString...");
-		for (int i = 0; i < headingTrees.size(); i++) {
-			if (headingTrees.get(i).getHeading().contentEquals(conceptString.get(0))) {
-				headingTrees.get(i).addHeadingElements(conceptString, uri, oclc);
-				return;
+		if (uri.toString().contains("subject")) {
+			for (int i = 0; i < subjectHeadingTrees.size(); i++) {
+				if (subjectHeadingTrees.get(i).getHeading().contentEquals(conceptString.get(0))) {
+					subjectHeadingTrees.get(i).addHeadingElements(conceptString, uri, oclc);
+					return;
+				}
 			}
+			subjectHeadingTrees.add(new LCHeading(conceptString, uri, oclc));
+		} else {
+			for (int i = 0; i < nameHeadingTrees.size(); i++) {
+				if (nameHeadingTrees.get(i).getHeading().contentEquals(conceptString.get(0))) {
+					nameHeadingTrees.get(i).addHeadingElements(conceptString, uri, oclc);
+					return;
+				}
+			}
+			nameHeadingTrees.add(new LCHeading(conceptString, uri, oclc));
 		}
-		headingTrees.add(new LCHeading(conceptString, uri, oclc));
 	}
 
 	/**
@@ -209,7 +228,7 @@ public class LCAnalyze {
 		IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
 		System.out.println(rdfModel.filter(iri, auth, null).toString());
 		authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth, null).toString(), "Label, \"", "\"@");
-		
+
 		if (uri.toString().contains("subjects")) {
 			String[] s = authorityLabel.split("--");
 			for (int i = 0; i < s.length; i++) {
@@ -223,8 +242,7 @@ public class LCAnalyze {
 				System.out.println(conceptString.get(i));
 			}
 		}
-		
-		
+
 		return conceptString;
 	}
 
