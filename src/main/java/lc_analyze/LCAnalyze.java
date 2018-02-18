@@ -27,6 +27,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -49,6 +50,7 @@ import org.eclipse.rdf4j.rio.Rio;
 import org.eclipse.rdf4j.rio.UnsupportedRDFormatException;
 import org.marc4j.MarcReader;
 import org.marc4j.MarcXmlReader;
+import org.marc4j.marc.DataField;
 import org.marc4j.marc.Record;
 import org.marc4j.marc.VariableField;
 
@@ -60,10 +62,20 @@ public class LCAnalyze {
 	 * record subject/authority headings (needs RDF headings)
 	 **/
 
+	/**
+	 * authorityURIS - a non-redundant list of all subject/name heading URIs. Used
+	 * to download RDF headings.
+	 */
 	public static ArrayList<String> authorityURIs = new ArrayList<String>();
-	public static Model rdfModel;
-	public static ArrayList<SubjectHeading> subjectHeadings = new ArrayList<SubjectHeading>();
-	public static ArrayList<NameHeading> nameHeadings = new ArrayList<NameHeading>();
+	/**
+	 * rdfModel - This is the model rdf4j constructs from the lc rdf files
+	 */
+	public static Model rdfModel = new TreeModel();
+	/**
+	 * headingTrees - a list of all the LCHeading trees. Used to model the structure
+	 * and distribution of LC name/subject headings for a given MARCXML dataset.
+	 */
+	public static ArrayList<LCHeading> headingTrees = new ArrayList<LCHeading>();
 
 	public static void main(String[] args) throws URISyntaxException, IOException {
 
@@ -77,22 +89,37 @@ public class LCAnalyze {
 
 		switch (args[0]) {
 
+		// use to extract uri from MARCXML and download RDF headings
 		case "d":
 			for (File file : filesList) {
 				if (file.isFile() && !file.getName().startsWith("._") && file.getName().endsWith(".xml")) {
 					System.out.println(file.getName());
-					genHeadings(file);
+					extractAuthorityURIs(file);
 				}
 			}
 			dlRDF(authorityURIs);
 			System.exit(0);
 
+			// analyzes the distribution of subject headings by constructing LCHeading trees
+			// from RDF data
+			// MUST already have dl'ed the RDF files for this to work!
+		case "a":
+			genRDFModel(new File("./src/main/java/RDF_files/"));
+			for (File file : filesList) {
+				if (file.isFile() && !file.getName().startsWith("._") && file.getName().endsWith(".xml")) {
+					buildLCHeadings(file);
+				}
+			}
+			for (int i = 0; i < headingTrees.size(); i++) {
+				headingTrees.get(i).print();
+			}
+			System.exit(0);
 		case "c":
 
 			for (File file : filesList) {
 				if (file.getName().endsWith(".xml") && !file.getName().startsWith("._")) {
 					System.out.println(file.getName());
-					genHeadings(file);
+					extractAuthorityURIs(file);
 				}
 			}
 			rdfModel = genRDFModel(authorityURIs);
@@ -108,6 +135,169 @@ public class LCAnalyze {
 					+ " - is not valid. Use the 'h' command or consult the README for a list of valid actions.");
 		}
 
+	}
+
+	/**
+	 * Method name: genRDFModel
+	 * 
+	 * Description: This method takes a pointer to the folder where the RDF ntriples
+	 * files are kept, and generates an rdf4j model from the .nt files.
+	 * 
+	 * @throws FileNotFoundException
+	 */
+	private static void genRDFModel(File file) throws FileNotFoundException {
+		File[] filesList = file.listFiles();
+		for (File f : filesList) {
+			if (f.isFile() && f.getName().endsWith(".nt")) {
+				System.out.println(f.getPath());
+				InputStream input = new FileInputStream(f.getPath());
+				try {
+					rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+				} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+	}
+
+	/**
+	 * Method name: buildLCHeadings
+	 * 
+	 * Description: This method takes a MARCXML file, extracts the uris for its
+	 * name/subject headings, builds LCHeading strings for the headings from the RDF
+	 * authority data, and adds the strings to the headingTrees database.
+	 */
+	private static void buildLCHeadings(File file) throws FileNotFoundException, UnsupportedEncodingException {
+		MarcReader marcReader = new MarcXmlReader(getRecordElement(file));
+		while (marcReader.hasNext()) {
+			Record record = marcReader.next();
+			String oclc = extractOCLC(record);
+			// extract URI & save to array
+			ArrayList<URI> uris = extractURIs(record);
+			// build subject heading string arrays from RDF, and add to headingTrees
+			for (int i = 0; i < uris.size(); i++) {
+				ArrayList<String> conceptString = buildConceptString(uris.get(i));
+				addConceptString(conceptString, uris.get(i), oclc);
+			}
+		}
+	}
+
+	private static void addConceptString(ArrayList<String> conceptString, URI uri, String oclc) {
+		System.out.println("starting addConceptString...");
+		for (int i = 0; i < headingTrees.size(); i++) {
+			if (headingTrees.get(i).getHeading().contentEquals(conceptString.get(0))) {
+				headingTrees.get(i).addHeadingElements(conceptString, uri, oclc);
+				return;
+			}
+		}
+		headingTrees.add(new LCHeading(conceptString, uri, oclc));
+	}
+
+	/**
+	 * Method name: buildConceptString
+	 * 
+	 * Description: This method queries an RDF file for the authoritativeLabel
+	 * corresponding to a heading uri converts the concept string into an ArrayList,
+	 * with the root concept at index 0 and subsequent concepts following
+	 * respectively.
+	 */
+	private static ArrayList<String> buildConceptString(URI uri) {
+		ArrayList<String> conceptString = new ArrayList<String>();
+		String authorityLabel;
+		ValueFactory vf = SimpleValueFactory.getInstance();
+		IRI iri = vf.createIRI(uri.toString());
+		IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
+		System.out.println(rdfModel.filter(iri, auth, null).toString());
+		authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth, null).toString(), "Label, \"", "\"@");
+		
+		if (uri.toString().contains("subjects")) {
+			String[] s = authorityLabel.split("--");
+			for (int i = 0; i < s.length; i++) {
+				conceptString.add(s[i]);
+				System.out.println(conceptString.get(i));
+			}
+		} else {
+			String[] s = authorityLabel.split("--");
+			for (int i = 0; i < s.length; i++) {
+				conceptString.add(s[i]);
+				System.out.println(conceptString.get(i));
+			}
+		}
+		
+		
+		return conceptString;
+	}
+
+	/**
+	 * Method name: extractURIs
+	 * 
+	 * Description: This method takes a marc4j record and returns an ArrayList
+	 * containing all of the uris for name/subject headings, excluding duplicates.
+	 */
+	private static ArrayList<URI> extractURIs(Record record) {
+		ArrayList<URI> uris = new ArrayList<URI>();
+		List<DataField> fields = record.getDataFields();
+		// extract URI & save to array
+
+		for (int i = 0; i < fields.size(); i++) {
+			// the subfield for uris is $041, but since marc4j only recognizes character
+			// subheading tags,
+			// we need to search for the following prefix:
+			if (fields.get(i).toString().contains("$041-LIBRARY_OF_CONGRESS")) {
+				String uri;
+				String field = fields.get(i).toString();
+				uri = StringUtils.substringBetween(field, "CONGRESS-", "$9");
+				uri = uri.replaceAll("\\s", "");
+
+				// lc subject heading control numbers start with 'sh'
+				if (uri.startsWith("sh")) {
+					uri = "http://id.loc.gov/authorities/subjects/" + uri;
+					System.out.println(uri);
+				}
+				// lc names control numbers start with 'n'
+				else if (uri.startsWith("n")) {
+					uri = "http://id.loc.gov/authorities/names/" + uri;
+					System.out.println(uri);
+				} else {
+					System.out.println("unrecognized control number format. Skipping.");
+					continue;
+				}
+				// try to add uri to arraylist
+				boolean hasURI = false;
+				for (int j = 0; j < uris.size(); j++) {
+					if (uris.get(j).toString().contentEquals(uri)) {
+						hasURI = true;
+						break;
+					}
+				}
+				try {
+
+					if (!hasURI)
+						uris.add(new URI(uri));
+				} catch (URISyntaxException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+
+		return uris;
+	}
+
+	/**
+	 * Method name: extractOCLC This method takes a list of record fields and
+	 * returns the OCLC number as a string. However, it only looks in the "035"
+	 * field and expects the format (OCoLC)#######, as this matches the format of
+	 * records exported from Primo (and saves the time of having to look through all
+	 * record fields.)
+	 */
+	private static String extractOCLC(Record record) {
+		String oclc = "";
+		oclc = record.getVariableField("035").toString();
+		// remove whitespaces (just in case)
+		oclc.replaceAll("\\s+", "");
+		oclc = StringUtils.substringAfter(oclc, "(OCoLC)");
+		// System.out.println(oclc);
+		return oclc;
 	}
 
 	/**
@@ -136,7 +326,13 @@ public class LCAnalyze {
 		return headingTriples;
 	}
 
-	public static void genHeadings(File f) throws IOException {
+	/**
+	 * Method name: extractAuthorityURIs
+	 *
+	 * This method extracts the LC name/subject uris and adds them to the public
+	 * authorityURIs ArrayList, also checking to avoid redundant URIs.
+	 */
+	public static void extractAuthorityURIs(File f) throws IOException {
 
 		MarcReader marcReader = new MarcXmlReader(getRecordElement(f));
 		while (marcReader.hasNext()) {
@@ -152,13 +348,8 @@ public class LCAnalyze {
 				// we need to search for the following prefix:
 				if (fields.get(i).toString().contains("$041-LIBRARY_OF_CONGRESS")) {
 
-					boolean isName = true;
 					String uri;
-					String recordname = f.getName();
-					String mainHeading;
-					ArrayList<String> subheadings = new ArrayList<String>();
 					String field = fields.get(i).toString();
-
 					System.out.println(field.toString());
 
 					uri = StringUtils.substringBetween(field, "CONGRESS-", "$9");
@@ -170,48 +361,25 @@ public class LCAnalyze {
 					if (uri.startsWith("sh")) {
 						uri = "http://id.loc.gov/authorities/subjects/" + uri;
 						System.out.println(uri);
-						isName = false;
 
 					}
 					// lc names control numbers start with 'n'
 					else if (uri.startsWith("n")) {
 						uri = "http://id.loc.gov/authorities/names/" + uri;
 						System.out.println(uri);
-						isName = true;
 
 					} else {
 						System.out.println("unrecognized control number format. Skipping.");
 						continue;
 					}
-					
-					
 					boolean hasURI = false;
-					 for (int j = 0; j < authorityURIs.size(); j++) {
+					for (int j = 0; j < authorityURIs.size(); j++) {
 						if (authorityURIs.get(j).contentEquals(uri))
 							hasURI = true;
 					}
-					/*
-					System.out.println(hasURI);
-					if (!hasURI) {
+
+					if (!hasURI)
 						authorityURIs.add(uri);
-						mainHeading = StringUtils.substringBetween(field, "$a", "$");
-						System.out.println(StringUtils.substringBetween(field, "$a", "$"));
-						for (int j = 0; j < field.length(); j++) {
-							System.out.println(field.charAt(j));
-							if (field.charAt(j) == '$' && field.charAt(j + 1) != 'a'
-									&& Character.isLetter(field.charAt(j + 1))) {
-								System.out.println(field.substring(j, j + 2));
-								System.out.println(StringUtils.substringBetween(field, field.substring(j, j + 2), "$"));
-								subheadings.add(StringUtils.substringBetween(field, field.substring(j, j + 2), "$"));
-							}
-						}
-						if (isName) {
-							nameHeadings.add(new NameHeading(recordname, mainHeading, subheadings, uri));
-						} else {
-							subjectHeadings.add(new SubjectHeading(recordname, mainHeading, subheadings, uri));
-						}
-						System.out.println(uri);
-					}*/
 				}
 			}
 		}
@@ -331,22 +499,20 @@ public class LCAnalyze {
 	}
 
 	public static void verify(Model model) {
-		String authorityLabel;
-		for (int i = 0; i < subjectHeadings.size(); i++) {
-			ValueFactory vf = SimpleValueFactory.getInstance();
-			IRI iri = vf.createIRI(subjectHeadings.get(i).getURI());
-			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
-			System.out.println(rdfModel.filter(iri, auth, null).toString());
-			authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth, null).toString(), "Label, \"",
-					"\"@");
-			System.out.println(authorityLabel);
-			System.out.println(subjectHeadings.get(i).getMainHeading());
-			for (int j = 0; j < subjectHeadings.get(i).getSubdivision().size(); j++) {
-				System.out.println(subjectHeadings.get(i).getSubdivision().get(j));
-			}
-		}
-		for (int i = 0; i < nameHeadings.size(); i++) {
-
-		}
+		/*
+		 * String authorityLabel; for (int i = 0; i < subjectHeadings.size(); i++) {
+		 * ValueFactory vf = SimpleValueFactory.getInstance(); IRI iri =
+		 * vf.createIRI(subjectHeadings.get(i).getURI()); IRI auth =
+		 * vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
+		 * System.out.println(rdfModel.filter(iri, auth, null).toString());
+		 * authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth,
+		 * null).toString(), "Label, \"", "\"@"); System.out.println(authorityLabel);
+		 * System.out.println(subjectHeadings.get(i).getMainHeading()); for (int j = 0;
+		 * j < subjectHeadings.get(i).getSubdivision().size(); j++) {
+		 * System.out.println(subjectHeadings.get(i).getSubdivision().get(j)); } } for
+		 * (int i = 0; i < nameHeadings.size(); i++) {
+		 * 
+		 * }
+		 */
 	}
 }

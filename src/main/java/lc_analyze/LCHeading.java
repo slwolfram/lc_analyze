@@ -32,8 +32,8 @@ public class LCHeading {
 		NAME, SUBJECT;
 	}
 
-	// The heading or concept represented by this LCSH instance
-	public String headingName;
+	// The heading or concept represented by this LCHeading instance
+	public String headingName = null;
 
 	/**
 	 * The subheadings ArrayList *does not* simply contain the LCSH/name string.
@@ -62,12 +62,18 @@ public class LCHeading {
 	 * hierarchy.) Other concepts will have their URI field set to null, unless
 	 * already exist and have had the field set.
 	 **/
-	public URI uri;
+	public URI uri = null;
+	/**
+	 * A list of all the oclc numbers for records which contain the given heading
+	 * concept or string.
+	 **/
+	public ArrayList<String> oclcNumbers = new ArrayList<String>();
 
 	/**
 	 * A simple constructor for the LCHeading class, used for headings which are not
 	 * subdivided.
 	 **/
+
 	public LCHeading(String headingName, URI uri) {
 		this.headingName = headingName;
 		this.uri = uri;
@@ -79,15 +85,25 @@ public class LCHeading {
 	 * ArrayList where element 0 is the root concept and subsequent elements are
 	 * less general. The method recursively constructs the heading string and
 	 * assigns the uri to the last element.
+	 * 
+	 * @param oclc
 	 **/
-	public LCHeading(ArrayList<String> conceptString, URI uri) {
+	public LCHeading(ArrayList<String> conceptString, URI uri, String oclc) {
+		System.out.println("Starting LCHeading constructor");
+		if (conceptString.isEmpty()) {
+			System.exit(-1);
+		}
 		this.headingName = conceptString.get(0);
 		conceptString.remove(0);
 		this.count = 1;
 		if (!conceptString.isEmpty()) {
-			this.subheadings.add(new LCHeading(conceptString, uri));
+			this.subheadings.add(new LCHeading(conceptString, uri, oclc));
+		} else {
+			System.out.println("ok got here");
+			this.uri = uri;
+			this.oclcNumbers.add(oclc);
+			System.out.println("got here?");
 		}
-		this.uri = uri;
 	}
 
 	/**
@@ -106,31 +122,36 @@ public class LCHeading {
 	 * root, use the constructor instead.
 	 **/
 
-	public int addHeadingElements(ArrayList<String> conceptString, URI uri) {
+	public boolean addHeadingElements(ArrayList<String> conceptString, URI uri, String oclc) {
+		System.out.println("Starting addHeadingElements w/ " + conceptString.get(0));
 		// because the if statement below checks for equality, this can only be false if
 		// the first element of conceptString doesn't match the root concept in the
 		// hierarchy.
+
 		if (!this.headingName.contentEquals(conceptString.get(0))) {
-			return -1;
+			System.out.println("returning");
+			System.exit(0);
+			return false;
 		}
 		// since we know the current node in the LCHeading hierarchy currently matches
 		// the first element of the conceptString, we can increment the counter for the
 		// LCHeading and remove the concept from the string.
 		this.count++;
 		conceptString.remove(0);
+		if (conceptString.isEmpty())
+			return true;
 		for (int i = 0; i < subheadings.size(); i++) {
 			// if a subheading matches the current root string element, we one level down
 			// the hierarchy.
 			if (conceptString.get(0).contentEquals(subheadings.get(i).getHeading())) {
-				addHeadingElements(conceptString, uri);
-				return 0;
+				return this.subheadings.get(i).addHeadingElements(conceptString, uri, oclc);
 			}
 		}
 		// since no subheadings are a match, we have reached the part of the concept
 		// string that is new to the hierarchy (and the level of the hierarchy at which
 		// we can add the remaining part of the string.)
-		this.subheadings.add(new LCHeading(conceptString, uri));
-		return 0;
+		this.subheadings.add(new LCHeading(conceptString, uri, oclc));
+		return true;
 	}
 
 	/**
@@ -141,16 +162,47 @@ public class LCHeading {
 	}
 
 	/**
-	 * Returns the number of instances of an LCHeading concept, at the given level of
-	 * the LCHeading hierarchy.
+	 * Returns the number of instances of an LCHeading concept, at the given level
+	 * of the LCHeading hierarchy.
 	 **/
 	public int getCount() {
 		return this.count;
 	}
+
 	/**
 	 * Returns the URI for an LCHeading concept or concept string.
 	 **/
 	public URI getURI() {
 		return this.uri;
+	}
+
+	/**
+	 * Returns a string representation of an LCHeading object.
+	 * 
+	 * @param level
+	 *            - set to 1 for default
+	 * @return
+	 */
+	public String toString(int level) {
+		String headingTree = "";
+		String uri = "";
+		for (int i = 1; i < level; i++) {
+			headingTree += "\t";
+		}
+		if (this.uri != null)
+			uri = this.uri.toString();
+			
+		headingTree += this.headingName + " (count:" + this.count + ") (URI:" + uri + ")" + "\n";
+		for (int j = 0; j < this.subheadings.size(); j++) {
+			headingTree += this.subheadings.get(j).toString(level + 1);
+		}
+		return headingTree;
+	}
+
+	/**
+	 * Prints the LCHeading tree
+	 */
+	public void print() {
+		System.out.println(this.toString(1));
 	}
 }
