@@ -133,13 +133,17 @@ public class LCHeading {
 			System.exit(0);
 			return false;
 		}
-		// since we know the current node in the LCHeading hierarchy currently matches
-		// the first element of the conceptString, we can increment the counter for the
+		// the current node in the LCHeading hierarchy currently matches
+		// the first element of the conceptString, so increment the counter for the
 		// LCHeading and remove the concept from the string.
 		this.count++;
 		conceptString.remove(0);
-		if (conceptString.isEmpty())
+		if (conceptString.isEmpty()) {
+			if (this.uri == null) {
+				this.uri = uri;
+			}
 			return true;
+		}
 		for (int i = 0; i < subheadings.size(); i++) {
 			// if a subheading matches the current root string element, we one level down
 			// the hierarchy.
