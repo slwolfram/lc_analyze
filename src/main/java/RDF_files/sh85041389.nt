@@ -1,0 +1,88 @@
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eigenvalues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85041389 . 
+_:bnode7authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85041389 . 
+_:bnode7authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85041389 <http://www.loc.gov/mads/rdf/v1#elementValue> "Eigenvalues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146339> . 
+<http://id.loc.gov/authorities/subjects/sh85146339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146339> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Weyl's problem"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082210> . 
+<http://id.loc.gov/authorities/subjects/sh85082210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082210> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Matrices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082210> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85041389 . 
+_:bnode20authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85041389 . 
+_:bnode20authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85041389 <http://www.loc.gov/mads/rdf/v1#elementValue> "Matrices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060814> . 
+<http://id.loc.gov/authorities/subjects/sh85060814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060814> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hill determinant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4013802-1> . 
+<http://d-nb.info/gnd/4013802-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4013802-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eigenwertproblem"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4123087-5> . 
+<http://d-nb.info/gnd/4123087-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4123087-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eigenwertverteilung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11977521b> . 
+<http://data.bnf.fr/ark:/12148/cb11977521b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11977521b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Valeurs propres"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062520> . 
+<http://id.loc.gov/authorities/subjects/sh85062520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062520> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hough functions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85069210> . 
+<http://id.loc.gov/authorities/subjects/sh85069210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069210> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jacobi method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124804> . 
+<http://id.loc.gov/authorities/subjects/sh85124804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124804> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sommerfeld polynomial method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85041389" . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85041389> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85041389#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85041389 . 
+_:bnode59authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85041389 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85041389 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85041389 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eigenvalues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082210> . 
+<http://id.loc.gov/authorities/subjects/sh85082210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Matrices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146339> . 
+<http://id.loc.gov/authorities/subjects/sh85146339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weyl's problem"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060814> . 
+<http://id.loc.gov/authorities/subjects/sh85060814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hill determinant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062520> . 
+<http://id.loc.gov/authorities/subjects/sh85062520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hough functions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85069210> . 
+<http://id.loc.gov/authorities/subjects/sh85069210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacobi method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124804> . 
+<http://id.loc.gov/authorities/subjects/sh85124804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sommerfeld polynomial method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4013802-1> . 
+<http://d-nb.info/gnd/4013802-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4013802-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eigenwertproblem"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4123087-5> . 
+<http://d-nb.info/gnd/4123087-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4123087-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eigenwertverteilung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11977521b> . 
+<http://data.bnf.fr/ark:/12148/cb11977521b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11977521b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Valeurs propres"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041389> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh85041389 . 
+_:bnode115authoritiessubjectssh85041389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh85041389 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85041389> . 
+_:bnode115authoritiessubjectssh85041389 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode115authoritiessubjectssh85041389 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh85041389 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

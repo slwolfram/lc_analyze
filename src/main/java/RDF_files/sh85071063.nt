@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jupiter (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85071063 . 
+_:bnode7authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85071063 . 
+_:bnode7authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode8authoritiessubjectssh85071063 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jupiter (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#classification> "QB384" . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#classification> "QB661-QB663" . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121083440> . 
+<http://data.bnf.fr/ark:/12148/cb121083440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121083440> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jupiter (planète)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85125928> . 
+<http://id.loc.gov/authorities/subjects/sh85125928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125928> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space flight to Jupiter"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4162926-7> . 
+<http://d-nb.info/gnd/4162926-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4162926-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jupiter <Planet>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071074> . 
+<http://id.loc.gov/authorities/subjects/sh85071074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jupiter probes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh86005799> . 
+<http://id.loc.gov/authorities/subjects/sh86005799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh86005799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005799> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Outer planets"@en . 
+<http://id.loc.gov/authorities/subjects/sh86005799> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode36authoritiessubjectssh85071063 . 
+_:bnode36authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode37authoritiessubjectssh85071063 . 
+_:bnode36authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode37authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode37authoritiessubjectssh85071063 <http://www.loc.gov/mads/rdf/v1#elementValue> "Outer planets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85071063> . 
+<http://id.loc.gov/rwo/agents/sh85071063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85071063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#editorialNote> "[This heading is not valid for use as a geographic subdivision, except where specifically established.]" . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85071063" . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85071063> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85071063#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode52authoritiessubjectssh85071063 . 
+_:bnode52authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode52authoritiessubjectssh85071063 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh85071063 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode52authoritiessubjectssh85071063 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85071063 . 
+_:bnode59authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85071063 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-07-27T08:44:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85071063 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85071063 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jupiter (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh86005799> . 
+<http://id.loc.gov/authorities/subjects/sh86005799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Outer planets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85125928> . 
+<http://id.loc.gov/authorities/subjects/sh85125928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space flight to Jupiter"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071074> . 
+<http://id.loc.gov/authorities/subjects/sh85071074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jupiter probes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121083440> . 
+<http://data.bnf.fr/ark:/12148/cb121083440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121083440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jupiter (planète)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4162926-7> . 
+<http://d-nb.info/gnd/4162926-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4162926-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jupiter <Planet>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#editorial> "[This heading is not valid for use as a geographic subdivision, except where specifically established.]" . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh85071063 . 
+_:bnode97authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85071063> . 
+_:bnode97authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85071063> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh85071063 . 
+_:bnode105authoritiessubjectssh85071063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85071063> . 
+_:bnode105authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode105authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#createdDate> "2005-07-27T08:44:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85071063 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

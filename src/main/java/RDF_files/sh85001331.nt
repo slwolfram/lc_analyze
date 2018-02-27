@@ -1,0 +1,97 @@
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics--Competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85001331 . 
+_:bnode7authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85001319> . 
+_:bnode7authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85001319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85001319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001319> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001319> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85001331 . 
+_:bnode12authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85001331 . 
+_:bnode12authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aeronautics"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99005287> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99005287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99005287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99005287> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh99005287> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85001331 . 
+_:bnode20authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85001331 . 
+_:bnode20authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#elementValue> "Competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85001331 . 
+_:bnode24authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Aeronautical competitions"@en . 
+_:bnode24authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85001331 . 
+_:bnode29authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85001331 . 
+_:bnode29authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aeronautical competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85001331 . 
+_:bnode33authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Air meets"@en . 
+_:bnode33authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85001331 . 
+_:bnode38authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85001331 . 
+_:bnode38authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85001331 <http://www.loc.gov/mads/rdf/v1#elementValue> "Air meets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#classification> "TL721.5" . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002780> . 
+<http://id.loc.gov/authorities/subjects/sh85002780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002780> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplane racing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011321> . 
+<http://id.loc.gov/authorities/subjects/sh85011321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011321> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Balloon racing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85001331" . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85001331> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85001331#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode60authoritiessubjectssh85001331 . 
+_:bnode60authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode60authoritiessubjectssh85001331 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh85001331 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode60authoritiessubjectssh85001331 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh85001331 . 
+_:bnode67authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh85001331 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-08-05T07:56:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85001331 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh85001331 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics--Competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode77authoritiessubjectssh85001331 . 
+_:bnode77authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode77authoritiessubjectssh85001331 <http://www.w3.org/2008/05/skos-xl#literalForm> "Aeronautical competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#altLabel> "Aeronautical competitions" . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode84authoritiessubjectssh85001331 . 
+_:bnode84authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode84authoritiessubjectssh85001331 <http://www.w3.org/2008/05/skos-xl#literalForm> "Air meets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#altLabel> "Air meets" . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002780> . 
+<http://id.loc.gov/authorities/subjects/sh85002780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airplane racing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011321> . 
+<http://id.loc.gov/authorities/subjects/sh85011321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011321> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balloon racing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2008/05/skos-xl#altLabel> "Aeronautical competitions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2008/05/skos-xl#altLabel> "Air meets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode106authoritiessubjectssh85001331 . 
+_:bnode106authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode106authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85001331> . 
+_:bnode106authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode106authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85001331> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode114authoritiessubjectssh85001331 . 
+_:bnode114authoritiessubjectssh85001331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode114authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85001331> . 
+_:bnode114authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode114authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#createdDate> "2010-08-05T07:56:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode114authoritiessubjectssh85001331 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

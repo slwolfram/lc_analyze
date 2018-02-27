@@ -1,0 +1,162 @@
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85133461 . 
+_:bnode7authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85133456> . 
+_:bnode7authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85133456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85133456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133456> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133456> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85133461 . 
+_:bnode12authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85133461 . 
+_:bnode12authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Television"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85133461 . 
+_:bnode20authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85133461 . 
+_:bnode20authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010012646> . 
+<http://id.loc.gov/authorities/subjects/sh2010012646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010012646> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Digital video recorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133470> . 
+<http://id.loc.gov/authorities/subjects/sh85133470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133470> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television--Receivers and reception"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003033> . 
+<http://id.loc.gov/authorities/subjects/sh92003033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003033> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Video tape recorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133628> . 
+<http://id.loc.gov/authorities/subjects/sh85133628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133628> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television supplies industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133475> . 
+<http://id.loc.gov/authorities/subjects/sh85133475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television--Transmitters and transmission"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode44authoritiessubjectssh85133461 . 
+_:bnode44authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode44authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode44authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Television--Apparatus and supplies"@en . 
+_:bnode44authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode49authoritiessubjectssh85133461 . 
+_:bnode49authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode50authoritiessubjectssh85133461 . 
+_:bnode49authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode057 . 
+_:bnode50authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode50authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode50authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Television"@en . 
+_:bnode50authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode54authoritiessubjectssh85133461 . 
+_:bnode54authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode55authoritiessubjectssh85133461 . 
+_:bnode54authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode55authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode55authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Television"@en . 
+_:bnode057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh85133461 . 
+_:bnode057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode58authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode58authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Apparatus and supplies"@en . 
+_:bnode58authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode62authoritiessubjectssh85133461 . 
+_:bnode62authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode63authoritiessubjectssh85133461 . 
+_:bnode62authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode63authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode63authoritiessubjectssh85133461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Apparatus and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11937701f> . 
+<http://data.bnf.fr/ark:/12148/cb11937701f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11937701f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Télévision -- Appareils et matériel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117991> . 
+<http://id.loc.gov/authorities/subjects/sh85117991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117991> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scanning systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133477> . 
+<http://id.loc.gov/authorities/subjects/sh85133477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133477> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television--Ultrahigh frequency apparatus and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064471> . 
+<http://id.loc.gov/authorities/subjects/sh85064471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064471> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Imaging systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88003654> . 
+<http://id.loc.gov/authorities/subjects/sh88003654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88003654> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Used television equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133591> . 
+<http://id.loc.gov/authorities/subjects/sh85133591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television measurements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133525> . 
+<http://id.loc.gov/authorities/subjects/sh85133525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133525> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television cameras"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85143197> . 
+<http://id.loc.gov/authorities/subjects/sh85143197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143197> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Videodisc players"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85133461" . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85133461> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85133461#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh85133461 . 
+_:bnode105authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh85133461 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85133461 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh85133461 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode112authoritiessubjectssh85133461 . 
+_:bnode112authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode112authoritiessubjectssh85133461 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-02-23T17:32:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode112authoritiessubjectssh85133461 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode112authoritiessubjectssh85133461 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010012646> . 
+<http://id.loc.gov/authorities/subjects/sh2010012646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010012646> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digital video recorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133470> . 
+<http://id.loc.gov/authorities/subjects/sh85133470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television--Receivers and reception"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003033> . 
+<http://id.loc.gov/authorities/subjects/sh92003033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Video tape recorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133628> . 
+<http://id.loc.gov/authorities/subjects/sh85133628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television supplies industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133475> . 
+<http://id.loc.gov/authorities/subjects/sh85133475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television--Transmitters and transmission"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117991> . 
+<http://id.loc.gov/authorities/subjects/sh85117991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117991> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scanning systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133477> . 
+<http://id.loc.gov/authorities/subjects/sh85133477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133477> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television--Ultrahigh frequency apparatus and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064471> . 
+<http://id.loc.gov/authorities/subjects/sh85064471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imaging systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88003654> . 
+<http://id.loc.gov/authorities/subjects/sh88003654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88003654> <http://www.w3.org/2004/02/skos/core#prefLabel> "Used television equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133591> . 
+<http://id.loc.gov/authorities/subjects/sh85133591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television measurements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133525> . 
+<http://id.loc.gov/authorities/subjects/sh85133525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133525> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television cameras"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85143197> . 
+<http://id.loc.gov/authorities/subjects/sh85143197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143197> <http://www.w3.org/2004/02/skos/core#prefLabel> "Videodisc players"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode182authoritiessubjectssh85133461 . 
+_:bnode182authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode182authoritiessubjectssh85133461 <http://www.w3.org/2008/05/skos-xl#literalForm> "Television--Apparatus and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#altLabel> "Television--Apparatus and supplies" . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11937701f> . 
+<http://data.bnf.fr/ark:/12148/cb11937701f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11937701f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Télévision -- Appareils et matériel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode195authoritiessubjectssh85133461 . 
+_:bnode195authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode195authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85133461> . 
+_:bnode195authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode195authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode195authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85133461> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode203authoritiessubjectssh85133461 . 
+_:bnode203authoritiessubjectssh85133461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode203authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85133461> . 
+_:bnode203authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode203authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#createdDate> "1989-02-23T17:32:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode203authoritiessubjectssh85133461 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

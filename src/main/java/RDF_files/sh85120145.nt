@@ -1,0 +1,200 @@
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85120145 . 
+_:bnode7authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85120145 . 
+_:bnode7authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85120145 . 
+_:bnode11authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Mathematical sequences"@en . 
+_:bnode11authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85120145 . 
+_:bnode16authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85120145 . 
+_:bnode16authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mathematical sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85120145 . 
+_:bnode20authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Numerical sequences"@en . 
+_:bnode20authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85120145 . 
+_:bnode25authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85120145 . 
+_:bnode25authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Numerical sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#classification> "QA292" . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121105993> . 
+<http://data.bnf.fr/ark:/12148/cb121105993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121105993> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Suites (mathématiques)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027148> . 
+<http://id.loc.gov/authorities/subjects/sh85027148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027148> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Closure of functions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014782> . 
+<http://id.loc.gov/authorities/subjects/sh85014782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014782> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blaschke products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082139> . 
+<http://id.loc.gov/authorities/subjects/sh85082139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082139> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mathematics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082139> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85120145 . 
+_:bnode48authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85120145 . 
+_:bnode48authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mathematics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120143> . 
+<http://id.loc.gov/authorities/subjects/sh85120143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120143> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aliquot sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005499> . 
+<http://id.loc.gov/authorities/subjects/sh94005499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005499> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Davenport-Schinzel sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127557> . 
+<http://id.loc.gov/authorities/subjects/sh85127557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stationary sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000276> . 
+<http://id.loc.gov/authorities/subjects/sh95000276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000276> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recurrent sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130426> . 
+<http://id.loc.gov/authorities/subjects/sh85130426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130426> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Summability theory"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126406> . 
+<http://id.loc.gov/authorities/subjects/sh85126406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126406> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spectral sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005567> . 
+<http://id.loc.gov/authorities/subjects/sh87005567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005567> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exponential sums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85041411> . 
+<http://id.loc.gov/authorities/subjects/sh85041411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041411> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eilenberg-Moore spectral sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038546> . 
+<http://id.loc.gov/authorities/subjects/sh85038546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038546> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Distribution modulo one"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120237> . 
+<http://id.loc.gov/authorities/subjects/sh85120237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120237> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Series"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4017790-7> . 
+<http://d-nb.info/gnd/4017790-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4017790-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Folge <Mathematik>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128184> . 
+<http://id.loc.gov/authorities/subjects/sh85128184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128184> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stochastic sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88001453> . 
+<http://id.loc.gov/authorities/subjects/sh88001453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88001453> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Euler polynomials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85003425> . 
+<http://id.loc.gov/authorities/subjects/sh85003425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85003425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85003425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Algebra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003425> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode109authoritiessubjectssh85120145 . 
+_:bnode109authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode110authoritiessubjectssh85120145 . 
+_:bnode109authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode110authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode110authoritiessubjectssh85120145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Algebra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012059> . 
+<http://id.loc.gov/authorities/subjects/sh85012059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012059> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bases (Linear topological spaces)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88001425> . 
+<http://id.loc.gov/authorities/subjects/sh88001425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88001425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bernoulli polynomials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85120145" . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85120145> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85120145#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode128authoritiessubjectssh85120145 . 
+_:bnode128authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode128authoritiessubjectssh85120145 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh85120145 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode128authoritiessubjectssh85120145 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode135authoritiessubjectssh85120145 . 
+_:bnode135authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode135authoritiessubjectssh85120145 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-08-09T15:17:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode135authoritiessubjectssh85120145 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode135authoritiessubjectssh85120145 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode145authoritiessubjectssh85120145 . 
+_:bnode145authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode145authoritiessubjectssh85120145 <http://www.w3.org/2008/05/skos-xl#literalForm> "Mathematical sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#altLabel> "Mathematical sequences" . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode152authoritiessubjectssh85120145 . 
+_:bnode152authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode152authoritiessubjectssh85120145 <http://www.w3.org/2008/05/skos-xl#literalForm> "Numerical sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#altLabel> "Numerical sequences" . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082139> . 
+<http://id.loc.gov/authorities/subjects/sh85082139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082139> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mathematics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85003425> . 
+<http://id.loc.gov/authorities/subjects/sh85003425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85003425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algebra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027148> . 
+<http://id.loc.gov/authorities/subjects/sh85027148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027148> <http://www.w3.org/2004/02/skos/core#prefLabel> "Closure of functions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014782> . 
+<http://id.loc.gov/authorities/subjects/sh85014782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014782> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blaschke products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120143> . 
+<http://id.loc.gov/authorities/subjects/sh85120143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120143> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aliquot sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005499> . 
+<http://id.loc.gov/authorities/subjects/sh94005499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005499> <http://www.w3.org/2004/02/skos/core#prefLabel> "Davenport-Schinzel sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127557> . 
+<http://id.loc.gov/authorities/subjects/sh85127557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stationary sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000276> . 
+<http://id.loc.gov/authorities/subjects/sh95000276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000276> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recurrent sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130426> . 
+<http://id.loc.gov/authorities/subjects/sh85130426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130426> <http://www.w3.org/2004/02/skos/core#prefLabel> "Summability theory"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126406> . 
+<http://id.loc.gov/authorities/subjects/sh85126406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spectral sequences (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005567> . 
+<http://id.loc.gov/authorities/subjects/sh87005567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005567> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exponential sums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85041411> . 
+<http://id.loc.gov/authorities/subjects/sh85041411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041411> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eilenberg-Moore spectral sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038546> . 
+<http://id.loc.gov/authorities/subjects/sh85038546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038546> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distribution modulo one"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120237> . 
+<http://id.loc.gov/authorities/subjects/sh85120237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120237> <http://www.w3.org/2004/02/skos/core#prefLabel> "Series"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128184> . 
+<http://id.loc.gov/authorities/subjects/sh85128184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128184> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stochastic sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88001453> . 
+<http://id.loc.gov/authorities/subjects/sh88001453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euler polynomials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012059> . 
+<http://id.loc.gov/authorities/subjects/sh85012059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012059> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bases (Linear topological spaces)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88001425> . 
+<http://id.loc.gov/authorities/subjects/sh88001425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bernoulli polynomials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121105993> . 
+<http://data.bnf.fr/ark:/12148/cb121105993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121105993> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suites (mathématiques)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4017790-7> . 
+<http://d-nb.info/gnd/4017790-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4017790-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Folge <Mathematik>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2008/05/skos-xl#altLabel> "Mathematical sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2008/05/skos-xl#altLabel> "Numerical sequences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode264authoritiessubjectssh85120145 . 
+_:bnode264authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode264authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85120145> . 
+_:bnode264authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode264authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode264authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85120145> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode272authoritiessubjectssh85120145 . 
+_:bnode272authoritiessubjectssh85120145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode272authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85120145> . 
+_:bnode272authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode272authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#createdDate> "1994-08-09T15:17:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode272authoritiessubjectssh85120145 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

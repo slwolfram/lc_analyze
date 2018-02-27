@@ -1,0 +1,63 @@
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muscadet (Wine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2009006192 . 
+_:bnode7authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2009006192 . 
+_:bnode7authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#elementValue> "Muscadet (Wine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85146975> . 
+<http://id.loc.gov/authorities/subjects/sh85146975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85146975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146975> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wine and wine making"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146975> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2009006192 . 
+_:bnode16authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2009006192 . 
+_:bnode16authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wine and wine making"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2009006192" . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2009006192> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2009006192#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh2009006192 . 
+_:bnode28authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Le muscadet et son vignoble, 1956." . 
+_:bnode28authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh2009006192 . 
+_:bnode34authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#citation-source> "Oxford companion to wine, 2006:" . 
+_:bnode34authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 463 (Muscadet: One of France's dry white commodity wines currently undergoing revolution. The Muscadet region extends mainly southeast of Nantes)"@en . 
+_:bnode34authoritiessubjectssh2009006192 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode42authoritiessubjectssh2009006192 . 
+_:bnode42authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode42authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-06-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode42authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode42authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/cua> . 
+_:bnode42authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh2009006192 . 
+_:bnode50authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-10-01T07:59:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/cua> . 
+_:bnode50authoritiessubjectssh2009006192 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muscadet (Wine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85146975> . 
+<http://id.loc.gov/authorities/subjects/sh85146975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146975> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wine and wine making"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode67authoritiessubjectssh2009006192 . 
+_:bnode67authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode67authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2009006192> . 
+_:bnode67authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/cua> . 
+_:bnode67authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#createdDate> "2009-06-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2009006192> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode75authoritiessubjectssh2009006192 . 
+_:bnode75authoritiessubjectssh2009006192 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode75authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2009006192> . 
+_:bnode75authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/cua> . 
+_:bnode75authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#createdDate> "2009-10-01T07:59:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh2009006192 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

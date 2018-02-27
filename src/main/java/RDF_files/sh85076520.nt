@@ -1,0 +1,97 @@
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Libraries--Inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85076520 . 
+_:bnode7authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006394> . 
+_:bnode7authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh2002006394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006394> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Libraries"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006394> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85076520 . 
+_:bnode12authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85076520 . 
+_:bnode12authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Libraries"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002011446> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002011446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002011446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002011446> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011446> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85076520 . 
+_:bnode20authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85076520 . 
+_:bnode20authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85076520 . 
+_:bnode24authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Inventories in libraries"@en . 
+_:bnode24authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85076520 . 
+_:bnode29authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85076520 . 
+_:bnode29authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Inventories in libraries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85076520 . 
+_:bnode33authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Library inventories"@en . 
+_:bnode33authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85076520 . 
+_:bnode38authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85076520 . 
+_:bnode38authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Library inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85076526> . 
+<http://id.loc.gov/authorities/subjects/sh85076526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85076526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076526> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stack management (Libraries)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076526> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85076520 . 
+_:bnode47authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85076520 . 
+_:bnode47authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85076520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Stack management (Libraries)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Inventories]" . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85076520" . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85076520> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85076520#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode60authoritiessubjectssh85076520 . 
+_:bnode60authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode60authoritiessubjectssh85076520 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh85076520 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode60authoritiessubjectssh85076520 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh85076520 . 
+_:bnode67authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh85076520 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-01-13T11:33:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85076520 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh85076520 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Libraries--Inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode77authoritiessubjectssh85076520 . 
+_:bnode77authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode77authoritiessubjectssh85076520 <http://www.w3.org/2008/05/skos-xl#literalForm> "Inventories in libraries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#altLabel> "Inventories in libraries" . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode84authoritiessubjectssh85076520 . 
+_:bnode84authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode84authoritiessubjectssh85076520 <http://www.w3.org/2008/05/skos-xl#literalForm> "Library inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#altLabel> "Library inventories" . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85076526> . 
+<http://id.loc.gov/authorities/subjects/sh85076526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076526> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stack management (Libraries)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#example> "Example under [Inventories]" . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2008/05/skos-xl#altLabel> "Inventories in libraries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2008/05/skos-xl#altLabel> "Library inventories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh85076520 . 
+_:bnode103authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85076520> . 
+_:bnode103authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode103authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85076520> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode111authoritiessubjectssh85076520 . 
+_:bnode111authoritiessubjectssh85076520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode111authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85076520> . 
+_:bnode111authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode111authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#createdDate> "1992-01-13T11:33:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode111authoritiessubjectssh85076520 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

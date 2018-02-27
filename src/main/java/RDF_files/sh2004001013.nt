@@ -1,0 +1,72 @@
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Isometrus"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2004001013 . 
+_:bnode7authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2004001013 . 
+_:bnode7authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#elementValue> "Isometrus"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#classification> "QL458.72.B8" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85018363> . 
+<http://id.loc.gov/authorities/subjects/sh85018363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85018363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018363> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Buthidae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018363> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh2004001013 . 
+_:bnode18authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh2004001013 . 
+_:bnode18authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#elementValue> "Buthidae"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/130454> . 
+<http://lod.nal.usda.gov/nalt/130454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/130454> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Isometrus"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2004001013" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2004001013> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2004001013#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh2004001013 . 
+_:bnode34authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Kovařík, F. A review of the genus Isometrus Ehrenberg, 1828 (Scorpiones:Buthidae) with descriptions of four new species from Asia and Australia, 2003." . 
+_:bnode34authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh2004001013 . 
+_:bnode40authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-source> "The scorpion files, via WWW, Jan. 17, 2004" . 
+_:bnode40authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Isometrus Ehrenberg, 1828. 26 species listed. Buthidae)"@en . 
+_:bnode40authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh2004001013 . 
+_:bnode48authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-source> "Arachnida catalog, via WWW, Jan. 17, 2004:" . 
+_:bnode48authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-note> "Scorpiones (Isometrus Ehrenberg in Hemprich & Ehrenberg 1828. Buthidae)"@en . 
+_:bnode48authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh2004001013 . 
+_:bnode56authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-source> "Index to organism names, via WWW, Jan. 17, 2004" . 
+_:bnode56authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Name: Isometrus. Classification: Scorpiones. Group: Arachnida)"@en . 
+_:bnode56authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh2004001013 . 
+_:bnode64authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-source> "ITIS, Jan. 17, 2004;NCBI taxonomy browser, Jan. 17, 2004" . 
+_:bnode64authoritiessubjectssh2004001013 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh2004001013 . 
+_:bnode70authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh2004001013 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh2004001013 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh2004001013 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode70authoritiessubjectssh2004001013 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isometrus"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85018363> . 
+<http://id.loc.gov/authorities/subjects/sh85018363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buthidae"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/130454> . 
+<http://lod.nal.usda.gov/nalt/130454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/130454> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isometrus"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004001013> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode92authoritiessubjectssh2004001013 . 
+_:bnode92authoritiessubjectssh2004001013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode92authoritiessubjectssh2004001013 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2004001013> . 
+_:bnode92authoritiessubjectssh2004001013 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode92authoritiessubjectssh2004001013 <http://purl.org/vocab/changeset/schema#createdDate> "2004-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh2004001013 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

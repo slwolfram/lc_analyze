@@ -1,0 +1,137 @@
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85002313 . 
+_:bnode7authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85002313 . 
+_:bnode7authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85002313 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agricultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#classification> "S671-S760" . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85043176> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh85002313 . 
+_:bnode18authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh85002313 . 
+_:bnode18authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh85002313 <http://www.loc.gov/mads/rdf/v1#elementValue> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/5316> . 
+<http://lod.nal.usda.gov/nalt/5316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/5316> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "agricultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035439> . 
+<http://id.loc.gov/authorities/subjects/sh85035439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035439> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dairy engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/21018> . 
+<http://purl.org/bncf/tid/21018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/21018> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ingegneria agraria"@it . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068296> . 
+<http://id.loc.gov/authorities/subjects/sh85068296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068296> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Irrigation engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002396> . 
+<http://id.loc.gov/authorities/subjects/sh85002396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002396> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural processing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85050689> . 
+<http://id.loc.gov/authorities/subjects/sh85050689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050689> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forestry engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014134> . 
+<http://id.loc.gov/authorities/subjects/sh85014134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014134> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bioengineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014134> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85002313 . 
+_:bnode51authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85002313 . 
+_:bnode51authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85002313 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bioengineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85006209> . 
+<http://id.loc.gov/authorities/subjects/sh85006209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006209> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aquacultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039296> . 
+<http://id.loc.gov/authorities/subjects/sh85039296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039296> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drainage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119778513> . 
+<http://data.bnf.fr/ark:/12148/cb119778513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119778513> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Génie rural"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85047212> . 
+<http://id.loc.gov/authorities/subjects/sh85047212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85047212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047212> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Farm equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047212> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode72authoritiessubjectssh85002313 . 
+_:bnode72authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode73authoritiessubjectssh85002313 . 
+_:bnode72authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode73authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode73authoritiessubjectssh85002313 <http://www.loc.gov/mads/rdf/v1#elementValue> "Farm equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002382> . 
+<http://id.loc.gov/authorities/subjects/sh85002382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002382> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural mechanics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85002313" . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85002313> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85002313#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85002313 . 
+_:bnode88authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85002313 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85002313 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85002313 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh85002313 . 
+_:bnode95authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh85002313 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-11-20T15:37:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85002313 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh85002313 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85043176> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014134> . 
+<http://id.loc.gov/authorities/subjects/sh85014134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014134> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bioengineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035439> . 
+<http://id.loc.gov/authorities/subjects/sh85035439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035439> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dairy engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068296> . 
+<http://id.loc.gov/authorities/subjects/sh85068296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068296> <http://www.w3.org/2004/02/skos/core#prefLabel> "Irrigation engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002396> . 
+<http://id.loc.gov/authorities/subjects/sh85002396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural processing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85050689> . 
+<http://id.loc.gov/authorities/subjects/sh85050689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050689> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forestry engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85006209> . 
+<http://id.loc.gov/authorities/subjects/sh85006209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006209> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquacultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039296> . 
+<http://id.loc.gov/authorities/subjects/sh85039296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039296> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drainage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002382> . 
+<http://id.loc.gov/authorities/subjects/sh85002382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002382> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural mechanics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85047212> . 
+<http://id.loc.gov/authorities/subjects/sh85047212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farm equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/5316> . 
+<http://lod.nal.usda.gov/nalt/5316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/5316> <http://www.w3.org/2004/02/skos/core#prefLabel> "agricultural engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/21018> . 
+<http://purl.org/bncf/tid/21018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/21018> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ingegneria agraria"@it . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119778513> . 
+<http://data.bnf.fr/ark:/12148/cb119778513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119778513> <http://www.w3.org/2004/02/skos/core#prefLabel> "Génie rural"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode171authoritiessubjectssh85002313 . 
+_:bnode171authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode171authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002313> . 
+_:bnode171authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode171authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode171authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85002313> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode179authoritiessubjectssh85002313 . 
+_:bnode179authoritiessubjectssh85002313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode179authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002313> . 
+_:bnode179authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode179authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#createdDate> "1989-11-20T15:37:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode179authoritiessubjectssh85002313 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

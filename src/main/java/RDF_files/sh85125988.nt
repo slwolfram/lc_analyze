@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space vehicles--Guidance systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85125988 . 
+_:bnode7authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85125971> . 
+_:bnode7authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85125988 . 
+_:bnode12authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85125988 . 
+_:bnode12authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85125988 <http://www.loc.gov/mads/rdf/v1#elementValue> "Space vehicles"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85125988 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85125988 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guidance systems"@en . 
+_:bnode16authoritiessubjectssh85125988 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85125988 . 
+_:bnode20authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85125988 . 
+_:bnode20authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85125988 <http://www.loc.gov/mads/rdf/v1#elementValue> "Guidance systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85125977> . 
+<http://id.loc.gov/authorities/subjects/sh85125977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125977> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space vehicles--Command control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85057711> . 
+<http://id.loc.gov/authorities/subjects/sh85057711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85057711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057711> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guidance systems (Flight)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85057711> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85125988 . 
+_:bnode33authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85125988 . 
+_:bnode33authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85125988 <http://www.loc.gov/mads/rdf/v1#elementValue> "Guidance systems (Flight)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119787919> . 
+<http://data.bnf.fr/ark:/12148/cb119787919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119787919> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Véhicules spatiaux -- Systèmes de guidage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85065990> . 
+<http://id.loc.gov/authorities/subjects/sh85065990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inertial navigation (Astronautics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85125988" . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85125988> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85125988#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode52authoritiessubjectssh85125988 . 
+_:bnode52authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode52authoritiessubjectssh85125988 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh85125988 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode52authoritiessubjectssh85125988 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85125988 . 
+_:bnode59authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85125988 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-03-15T15:55:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85125988 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85125988 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space vehicles--Guidance systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85057711> . 
+<http://id.loc.gov/authorities/subjects/sh85057711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057711> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guidance systems (Flight)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85125977> . 
+<http://id.loc.gov/authorities/subjects/sh85125977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125977> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space vehicles--Command control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85065990> . 
+<http://id.loc.gov/authorities/subjects/sh85065990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inertial navigation (Astronautics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119787919> . 
+<http://data.bnf.fr/ark:/12148/cb119787919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119787919> <http://www.w3.org/2004/02/skos/core#prefLabel> "Véhicules spatiaux -- Systèmes de guidage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh85125988 . 
+_:bnode90authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85125988> . 
+_:bnode90authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85125988> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh85125988 . 
+_:bnode98authoritiessubjectssh85125988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85125988> . 
+_:bnode98authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#createdDate> "1989-03-15T15:55:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh85125988 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

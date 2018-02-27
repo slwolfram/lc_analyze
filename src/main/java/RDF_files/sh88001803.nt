@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cleaning--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh88001803 . 
+_:bnode7authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85026891> . 
+_:bnode7authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85026891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85026891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85026891> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cleaning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85026891> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh88001803 . 
+_:bnode12authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh88001803 . 
+_:bnode12authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh88001803 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cleaning"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh88001803 . 
+_:bnode20authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh88001803 . 
+_:bnode20authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh88001803 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85026898> . 
+<http://id.loc.gov/authorities/subjects/sh85026898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85026898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cleaning machinery and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85087190> . 
+<http://id.loc.gov/authorities/subjects/sh85087190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087190> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mops and mopsticks"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017214> . 
+<http://id.loc.gov/authorities/subjects/sh85017214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017214> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brooms and brushes"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11981075n> . 
+<http://data.bnf.fr/ark:/12148/cb11981075n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11981075n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nettoyage -- Appareils et matériel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85026894> . 
+<http://id.loc.gov/authorities/subjects/sh85026894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85026894> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cleaning compounds"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88001803" . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88001803> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88001803#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh88001803 . 
+_:bnode51authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh88001803 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-03-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh88001803 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh88001803 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh88001803 . 
+_:bnode58authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh88001803 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-04-08T11:18:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh88001803 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh88001803 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleaning--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85026898> . 
+<http://id.loc.gov/authorities/subjects/sh85026898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85026898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleaning machinery and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85087190> . 
+<http://id.loc.gov/authorities/subjects/sh85087190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mops and mopsticks"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017214> . 
+<http://id.loc.gov/authorities/subjects/sh85017214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brooms and brushes"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85026894> . 
+<http://id.loc.gov/authorities/subjects/sh85026894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85026894> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleaning compounds"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11981075n> . 
+<http://data.bnf.fr/ark:/12148/cb11981075n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11981075n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nettoyage -- Appareils et matériel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh88001803 . 
+_:bnode94authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88001803> . 
+_:bnode94authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode94authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#createdDate> "1988-03-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88001803> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh88001803 . 
+_:bnode102authoritiessubjectssh88001803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88001803> . 
+_:bnode102authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode102authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#createdDate> "1988-04-08T11:18:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh88001803 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

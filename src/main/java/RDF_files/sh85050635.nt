@@ -1,0 +1,122 @@
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forest reserves--Colorado"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85050635 . 
+_:bnode7authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85050621> . 
+_:bnode7authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85050621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050621> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forest reserves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050621> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85050635 . 
+_:bnode12authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85050635 . 
+_:bnode12authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85050635 <http://www.loc.gov/mads/rdf/v1#elementValue> "Forest reserves"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n80125532> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n80125532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n80125532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n80125532> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Colorado"@en . 
+<http://id.loc.gov/authorities/names/n80125532> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85050635 . 
+_:bnode20authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85050635 . 
+_:bnode20authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85050635 <http://www.loc.gov/mads/rdf/v1#elementValue> "Colorado"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005004048> . 
+<http://id.loc.gov/authorities/subjects/sh2005004048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005004048> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "San Isabel National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117124> . 
+<http://id.loc.gov/authorities/subjects/sh85117124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117124> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "San Juan National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006111> . 
+<http://id.loc.gov/authorities/subjects/sh86006111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006111> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Grand Mesa National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92001337> . 
+<http://id.loc.gov/authorities/subjects/sh92001337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001337> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "White River National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028689> . 
+<http://id.loc.gov/authorities/subjects/sh85028689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028689> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Colorado State Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006099> . 
+<http://id.loc.gov/authorities/subjects/sh86006099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006099> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arapaho National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003557> . 
+<http://id.loc.gov/authorities/subjects/sh91003557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gunnison National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006120> . 
+<http://id.loc.gov/authorities/subjects/sh86006120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006120> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Roosevelt National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006122> . 
+<http://id.loc.gov/authorities/subjects/sh86006122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006122> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Routt National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080644> . 
+<http://id.loc.gov/authorities/subjects/sh85080644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manti-La Sal National Forest (Utah and Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92001503> . 
+<http://id.loc.gov/authorities/subjects/sh92001503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001503> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Uncompahgre National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006118> . 
+<http://id.loc.gov/authorities/subjects/sh86006118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006118> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pike National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92000067> . 
+<http://id.loc.gov/authorities/subjects/sh92000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000067> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rio Grande National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85050635" . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85050635> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85050635#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85050635 . 
+_:bnode83authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85050635 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85050635 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85050635 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forest reserves--Colorado"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005004048> . 
+<http://id.loc.gov/authorities/subjects/sh2005004048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005004048> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Isabel National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117124> . 
+<http://id.loc.gov/authorities/subjects/sh85117124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117124> <http://www.w3.org/2004/02/skos/core#prefLabel> "San Juan National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006111> . 
+<http://id.loc.gov/authorities/subjects/sh86006111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006111> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Mesa National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92001337> . 
+<http://id.loc.gov/authorities/subjects/sh92001337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001337> <http://www.w3.org/2004/02/skos/core#prefLabel> "White River National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028689> . 
+<http://id.loc.gov/authorities/subjects/sh85028689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028689> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colorado State Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006099> . 
+<http://id.loc.gov/authorities/subjects/sh86006099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arapaho National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003557> . 
+<http://id.loc.gov/authorities/subjects/sh91003557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gunnison National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006120> . 
+<http://id.loc.gov/authorities/subjects/sh86006120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roosevelt National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006122> . 
+<http://id.loc.gov/authorities/subjects/sh86006122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006122> <http://www.w3.org/2004/02/skos/core#prefLabel> "Routt National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080644> . 
+<http://id.loc.gov/authorities/subjects/sh85080644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manti-La Sal National Forest (Utah and Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92001503> . 
+<http://id.loc.gov/authorities/subjects/sh92001503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001503> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uncompahgre National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006118> . 
+<http://id.loc.gov/authorities/subjects/sh86006118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pike National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92000067> . 
+<http://id.loc.gov/authorities/subjects/sh92000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rio Grande National Forest (Colo.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85050635> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode159authoritiessubjectssh85050635 . 
+_:bnode159authoritiessubjectssh85050635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode159authoritiessubjectssh85050635 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85050635> . 
+_:bnode159authoritiessubjectssh85050635 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode159authoritiessubjectssh85050635 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode159authoritiessubjectssh85050635 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

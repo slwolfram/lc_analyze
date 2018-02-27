@@ -1,0 +1,187 @@
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Atmospheric temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85009298 . 
+_:bnode7authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85009298 . 
+_:bnode7authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Atmospheric temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85009298 . 
+_:bnode11authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Isotherms"@en . 
+_:bnode11authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85009298 . 
+_:bnode16authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85009298 . 
+_:bnode16authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Isotherms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#classification> "QC901-QC906" . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141239> . 
+<http://id.loc.gov/authorities/subjects/sh85141239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141239> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Upper air temperature distribution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87006388> . 
+<http://id.loc.gov/authorities/subjects/sh87006388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006388> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperature lapse rate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2001009098> . 
+<http://id.loc.gov/authorities/subjects/sh2001009098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001009098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001009098> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009098> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85009298 . 
+_:bnode35authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85009298 . 
+_:bnode35authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13318641g> . 
+<http://data.bnf.fr/ark:/12148/cb13318641g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13318641g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Température atmosphérique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133720> . 
+<http://id.loc.gov/authorities/subjects/sh85133720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133720> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperature normals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057237> . 
+<http://id.loc.gov/authorities/subjects/sh85057237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057237> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Greenhouse effect, Atmospheric"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141330> . 
+<http://id.loc.gov/authorities/subjects/sh85141330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141330> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Urban temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036479> . 
+<http://id.loc.gov/authorities/subjects/sh85036479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036479> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Degree days"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85084334> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85009298 . 
+_:bnode64authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85009298 . 
+_:bnode64authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85055290> . 
+<http://id.loc.gov/authorities/subjects/sh85055290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85055290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055290> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Global temperature changes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85055290> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode73authoritiessubjectssh85009298 . 
+_:bnode73authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode74authoritiessubjectssh85009298 . 
+_:bnode73authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode74authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode74authoritiessubjectssh85009298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Global temperature changes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/37023> . 
+<http://purl.org/bncf/tid/37023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/37023> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperatura atmosferica"@it . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133718> . 
+<http://id.loc.gov/authorities/subjects/sh85133718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133718> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperature forecasting, Minimum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130399> . 
+<http://id.loc.gov/authorities/subjects/sh85130399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130399> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sultriness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4197822-5> . 
+<http://d-nb.info/gnd/4197822-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4197822-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Umgebungstemperatur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97002190> . 
+<http://id.loc.gov/authorities/subjects/sh97002190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97002190> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Freezes (Meteorology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4168286-5> . 
+<http://d-nb.info/gnd/4168286-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4168286-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lufttemperatur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141238> . 
+<http://id.loc.gov/authorities/subjects/sh85141238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141238> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Upper air temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027935> . 
+<http://id.loc.gov/authorities/subjects/sh85027935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027935> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cold waves (Meteorology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133719> . 
+<http://id.loc.gov/authorities/subjects/sh85133719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133719> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperature inversions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85009298" . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85009298> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85009298#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode121authoritiessubjectssh85009298 . 
+_:bnode121authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode121authoritiessubjectssh85009298 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode121authoritiessubjectssh85009298 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode121authoritiessubjectssh85009298 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode128authoritiessubjectssh85009298 . 
+_:bnode128authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode128authoritiessubjectssh85009298 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-03-21T16:09:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh85009298 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode128authoritiessubjectssh85009298 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atmospheric temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode138authoritiessubjectssh85009298 . 
+_:bnode138authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode138authoritiessubjectssh85009298 <http://www.w3.org/2008/05/skos-xl#literalForm> "Isotherms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#altLabel> "Isotherms" . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2001009098> . 
+<http://id.loc.gov/authorities/subjects/sh2001009098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001009098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85084334> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141239> . 
+<http://id.loc.gov/authorities/subjects/sh85141239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141239> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upper air temperature distribution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87006388> . 
+<http://id.loc.gov/authorities/subjects/sh87006388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperature lapse rate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133720> . 
+<http://id.loc.gov/authorities/subjects/sh85133720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133720> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperature normals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057237> . 
+<http://id.loc.gov/authorities/subjects/sh85057237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057237> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greenhouse effect, Atmospheric"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141330> . 
+<http://id.loc.gov/authorities/subjects/sh85141330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urban temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036479> . 
+<http://id.loc.gov/authorities/subjects/sh85036479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036479> <http://www.w3.org/2004/02/skos/core#prefLabel> "Degree days"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133718> . 
+<http://id.loc.gov/authorities/subjects/sh85133718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperature forecasting, Minimum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130399> . 
+<http://id.loc.gov/authorities/subjects/sh85130399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sultriness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97002190> . 
+<http://id.loc.gov/authorities/subjects/sh97002190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97002190> <http://www.w3.org/2004/02/skos/core#prefLabel> "Freezes (Meteorology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141238> . 
+<http://id.loc.gov/authorities/subjects/sh85141238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141238> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upper air temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027935> . 
+<http://id.loc.gov/authorities/subjects/sh85027935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027935> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cold waves (Meteorology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133719> . 
+<http://id.loc.gov/authorities/subjects/sh85133719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133719> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperature inversions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85055290> . 
+<http://id.loc.gov/authorities/subjects/sh85055290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Global temperature changes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13318641g> . 
+<http://data.bnf.fr/ark:/12148/cb13318641g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13318641g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Température atmosphérique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/37023> . 
+<http://purl.org/bncf/tid/37023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/37023> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperatura atmosferica"@it . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4197822-5> . 
+<http://d-nb.info/gnd/4197822-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4197822-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Umgebungstemperatur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4168286-5> . 
+<http://d-nb.info/gnd/4168286-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4168286-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lufttemperatur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2008/05/skos-xl#altLabel> "Isotherms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode243authoritiessubjectssh85009298 . 
+_:bnode243authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode243authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85009298> . 
+_:bnode243authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode243authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode243authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85009298> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode251authoritiessubjectssh85009298 . 
+_:bnode251authoritiessubjectssh85009298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode251authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85009298> . 
+_:bnode251authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode251authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#createdDate> "1989-03-21T16:09:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode251authoritiessubjectssh85009298 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

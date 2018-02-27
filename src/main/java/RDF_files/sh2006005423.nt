@@ -1,0 +1,91 @@
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Functional medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2006005423 . 
+_:bnode7authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2006005423 . 
+_:bnode7authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#elementValue> "Functional medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85134721> . 
+<http://id.loc.gov/authorities/subjects/sh85134721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85134721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134721> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alternative medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134721> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2006005423 . 
+_:bnode16authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2006005423 . 
+_:bnode16authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#elementValue> "Alternative medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85061482> . 
+<http://id.loc.gov/authorities/subjects/sh85061482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061482> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Holistic medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061482> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2006005423 . 
+_:bnode25authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2006005423 . 
+_:bnode25authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#elementValue> "Holistic medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2006005423" . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2006005423> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2006005423#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh2006005423 . 
+_:bnode37authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Textbook of functional medicine, c2005:" . 
+_:bnode37authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. iii (\"Functional medicine reflects a systems biology approach to health care ...\")"@en . 
+_:bnode37authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh2006005423 . 
+_:bnode45authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-source> "World Health Network/American Academy of Anti-Aging Medicine web site viewed July 20, 2006" . 
+_:bnode45authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Functional medicine)"@en . 
+_:bnode45authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode53authoritiessubjectssh2006005423 . 
+_:bnode53authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode53authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-source> "Vaughan Medical Center online web site viewed July 20, 2006:" . 
+_:bnode53authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-note> "Functional medicine : medicine  of the future (\"Functional Medicine is a true holistic approach to helping people achieve vitality ... We try to find causes, not just treat symptoms ... Dr. Jeffrey S. Bland ... coined the term Functional Medicine in 1993, to describe the integrated medicine of the future.\")"@en . 
+_:bnode53authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode61authoritiessubjectssh2006005423 . 
+_:bnode61authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode61authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-source> "Canadian Center for Functional Medicine web site viewed July 20, 2006" . 
+_:bnode61authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-note> "(science based field of health care that is patient-centered rather than disease-oriented)"@en . 
+_:bnode61authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode69authoritiessubjectssh2006005423 . 
+_:bnode69authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode69authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-source> "Rakel, D. Integrative medicine, 2003:" . 
+_:bnode69authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-note> "pp. 789-793 (\"Functional medicine has been defined as 'the field of healthcare which employs assessment and early intervention into the improvement of physiological, cognitive/emotional, and physical functioning.' A central concept of functional medicine is that nutritional pharmacology can be used as an effective biologic response modifier for the restoration of homeodynamics/homeostasis in individuals with complex, chronic illness.\")"@en . 
+_:bnode69authoritiessubjectssh2006005423 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh2006005423 . 
+_:bnode77authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-07-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nncuc> . 
+_:bnode77authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode85authoritiessubjectssh2006005423 . 
+_:bnode85authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode85authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-11-02T07:53:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode85authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nncuc> . 
+_:bnode85authoritiessubjectssh2006005423 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Functional medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85134721> . 
+<http://id.loc.gov/authorities/subjects/sh85134721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134721> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alternative medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85061482> . 
+<http://id.loc.gov/authorities/subjects/sh85061482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061482> <http://www.w3.org/2004/02/skos/core#prefLabel> "Holistic medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh2006005423 . 
+_:bnode107authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2006005423> . 
+_:bnode107authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nncuc> . 
+_:bnode107authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#createdDate> "2006-07-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2006005423> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh2006005423 . 
+_:bnode115authoritiessubjectssh2006005423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2006005423> . 
+_:bnode115authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nncuc> . 
+_:bnode115authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#createdDate> "2006-11-02T07:53:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh2006005423 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

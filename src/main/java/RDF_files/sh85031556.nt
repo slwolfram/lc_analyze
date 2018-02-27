@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Continents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85031556 . 
+_:bnode7authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85031556 . 
+_:bnode7authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Continents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89003758> . 
+<http://id.loc.gov/authorities/subjects/sh89003758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89003758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pangaea (Supercontinent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12326141p> . 
+<http://data.bnf.fr/ark:/12148/cb12326141p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12326141p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Croûte continentale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/29200> . 
+<http://purl.org/bncf/tid/29200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/29200> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Continenti"@it . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008001394> . 
+<http://id.loc.gov/authorities/subjects/sh2008001394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008001394> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rodinia (Supercontinent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85040430> . 
+<http://id.loc.gov/authorities/subjects/sh85040430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85040430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040430> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Earth (Planet)--Crust"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040430> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode32authoritiessubjectssh85031556 . 
+_:bnode32authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode33authoritiessubjectssh85031556 . 
+_:bnode32authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode040 . 
+_:bnode33authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+_:bnode33authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode33authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Earth (Planet)"@en . 
+_:bnode33authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode37authoritiessubjectssh85031556 . 
+_:bnode37authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh85031556 . 
+_:bnode37authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode38authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Earth (Planet)"@en . 
+_:bnode040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh85031556 . 
+_:bnode040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode41authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode41authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode41authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crust"@en . 
+_:bnode41authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85031556 . 
+_:bnode45authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85031556 . 
+_:bnode45authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85031556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Crust"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99011705> . 
+<http://id.loc.gov/authorities/subjects/sh99011705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99011705> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Laurentia (Continent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4165153-4> . 
+<http://d-nb.info/gnd/4165153-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4165153-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kontinent"@de . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85078439> . 
+<http://id.loc.gov/authorities/subjects/sh85078439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078439> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lost continents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055849> . 
+<http://id.loc.gov/authorities/subjects/sh85055849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055849> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gondwana (Continent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119817987> . 
+<http://data.bnf.fr/ark:/12148/cb119817987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119817987> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Continents"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85031556" . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85031556> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85031556#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode76authoritiessubjectssh85031556 . 
+_:bnode76authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode76authoritiessubjectssh85031556 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode76authoritiessubjectssh85031556 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode76authoritiessubjectssh85031556 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85031556 . 
+_:bnode83authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85031556 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2013-03-13T10:37:15"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85031556 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85031556 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85040430> . 
+<http://id.loc.gov/authorities/subjects/sh85040430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040430> <http://www.w3.org/2004/02/skos/core#prefLabel> "Earth (Planet)--Crust"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89003758> . 
+<http://id.loc.gov/authorities/subjects/sh89003758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89003758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pangaea (Supercontinent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008001394> . 
+<http://id.loc.gov/authorities/subjects/sh2008001394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008001394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rodinia (Supercontinent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99011705> . 
+<http://id.loc.gov/authorities/subjects/sh99011705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99011705> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laurentia (Continent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85078439> . 
+<http://id.loc.gov/authorities/subjects/sh85078439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078439> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lost continents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055849> . 
+<http://id.loc.gov/authorities/subjects/sh85055849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gondwana (Continent)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12326141p> . 
+<http://data.bnf.fr/ark:/12148/cb12326141p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12326141p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Croûte continentale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/29200> . 
+<http://purl.org/bncf/tid/29200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/29200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continenti"@it . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4165153-4> . 
+<http://d-nb.info/gnd/4165153-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4165153-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kontinent"@de . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119817987> . 
+<http://data.bnf.fr/ark:/12148/cb119817987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119817987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continents"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode144authoritiessubjectssh85031556 . 
+_:bnode144authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode144authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85031556> . 
+_:bnode144authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode144authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode144authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85031556> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode152authoritiessubjectssh85031556 . 
+_:bnode152authoritiessubjectssh85031556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode152authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85031556> . 
+_:bnode152authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode152authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#createdDate> "2013-03-13T10:37:15"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode152authoritiessubjectssh85031556 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,50 @@
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Floods--Religious aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85049169 . 
+_:bnode7authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85049168> . 
+_:bnode7authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85049168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85049168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049168> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Floods"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049168> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85049169 . 
+_:bnode12authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85049169 . 
+_:bnode12authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85049169 <http://www.loc.gov/mads/rdf/v1#elementValue> "Floods"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006568> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006568> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Religious aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006568> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85049169 . 
+_:bnode20authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85049169 . 
+_:bnode20authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85049169 <http://www.loc.gov/mads/rdf/v1#elementValue> "Religious aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036618> . 
+<http://id.loc.gov/authorities/subjects/sh85036618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036618> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deluge"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85049169" . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85049169> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85049169#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode35authoritiessubjectssh85049169 . 
+_:bnode35authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode35authoritiessubjectssh85049169 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode35authoritiessubjectssh85049169 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode35authoritiessubjectssh85049169 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Floods--Religious aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036618> . 
+<http://id.loc.gov/authorities/subjects/sh85036618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036618> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deluge"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85049169> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode51authoritiessubjectssh85049169 . 
+_:bnode51authoritiessubjectssh85049169 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode51authoritiessubjectssh85049169 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85049169> . 
+_:bnode51authoritiessubjectssh85049169 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode51authoritiessubjectssh85049169 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85049169 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

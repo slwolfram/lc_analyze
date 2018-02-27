@@ -1,0 +1,327 @@
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cells and tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85102712 . 
+_:bnode7authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85102712 . 
+_:bnode7authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant cells and tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85102712 . 
+_:bnode11authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Plant tissues"@en . 
+_:bnode11authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85102712 . 
+_:bnode16authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85102712 . 
+_:bnode16authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#classification> "QK725" . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102772> . 
+<http://id.loc.gov/authorities/subjects/sh85102772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102772> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95007580> . 
+<http://id.loc.gov/authorities/subjects/sh95007580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95007580> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tapetum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052980> . 
+<http://id.loc.gov/authorities/subjects/sh85052980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052980> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gamma particle (Cytology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083841> . 
+<http://id.loc.gov/authorities/subjects/sh85083841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083841> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meristems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/33107> . 
+<http://purl.org/bncf/tid/33107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/33107> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cellule vegetali"@it . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015978> . 
+<http://id.loc.gov/authorities/subjects/sh85015978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015978> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015978> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85102712 . 
+_:bnode47authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85102712 . 
+_:bnode47authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4174061-0> . 
+<http://d-nb.info/gnd/4174061-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4174061-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pflanzengewebe"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102805> . 
+<http://id.loc.gov/authorities/subjects/sh85102805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102805> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant protoplasts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136408> . 
+<http://id.loc.gov/authorities/subjects/sh85136408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136408> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tracheary cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103222> . 
+<http://id.loc.gov/authorities/subjects/sh85103222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103222> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plastids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126869> . 
+<http://id.loc.gov/authorities/subjects/sh85126869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126869> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant spores"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034502> . 
+<http://id.loc.gov/authorities/subjects/sh85034502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034502> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crystalloids (Botany)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102786> . 
+<http://id.loc.gov/authorities/subjects/sh85102786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102786> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant organelles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85021678> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode84authoritiessubjectssh85102712 . 
+_:bnode84authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode85authoritiessubjectssh85102712 . 
+_:bnode84authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode85authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode85authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/15840> . 
+<http://lod.nal.usda.gov/nalt/15840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/15840> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "plant tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102726> . 
+<http://id.loc.gov/authorities/subjects/sh85102726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102726> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cytochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102710> . 
+<http://id.loc.gov/authorities/subjects/sh85102710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102710> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cell microbodies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007009535> . 
+<http://id.loc.gov/authorities/subjects/sh2007009535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007009535> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Endosperm"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112482> . 
+<http://id.loc.gov/authorities/subjects/sh85112482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112482> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rejuvenescence (Botany)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000514> . 
+<http://id.loc.gov/authorities/subjects/sh91000514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000514> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sieve elements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11946982s> . 
+<http://data.bnf.fr/ark:/12148/cb11946982s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11946982s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cellules végétales"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138769> . 
+<http://id.loc.gov/authorities/subjects/sh85138769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Turgor"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85135594> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode125authoritiessubjectssh85102712 . 
+_:bnode125authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode126authoritiessubjectssh85102712 . 
+_:bnode125authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode126authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode126authoritiessubjectssh85102712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103096> . 
+<http://id.loc.gov/authorities/subjects/sh85103096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103096> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasmodesmata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142362> . 
+<http://id.loc.gov/authorities/subjects/sh85142362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142362> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vascular system of plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102729> . 
+<http://id.loc.gov/authorities/subjects/sh85102729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102729> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cytoskeleton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005149> . 
+<http://id.loc.gov/authorities/subjects/sh87005149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant chromosomes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102728> . 
+<http://id.loc.gov/authorities/subjects/sh85102728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102728> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cytomorphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102724> . 
+<http://id.loc.gov/authorities/subjects/sh85102724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102724> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cuticle"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92002672> . 
+<http://id.loc.gov/authorities/subjects/sh92002672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92002672> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sclereids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017382> . 
+<http://id.loc.gov/authorities/subjects/sh85017382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017382> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bryophytes--Conducting tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111422> . 
+<http://id.loc.gov/authorities/subjects/sh85111422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111422> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Raphides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102708> . 
+<http://id.loc.gov/authorities/subjects/sh85102708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102708> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cell differentiation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4115551-8> . 
+<http://d-nb.info/gnd/4115551-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4115551-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pflanzenzelle"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102711> . 
+<http://id.loc.gov/authorities/subjects/sh85102711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102711> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cell walls"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102749> . 
+<http://id.loc.gov/authorities/subjects/sh85102749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102749> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant histochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85148852> . 
+<http://id.loc.gov/authorities/subjects/sh85148852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85148852> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Xylem"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097978> . 
+<http://id.loc.gov/authorities/subjects/sh85097978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097978> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parenchyma, Plant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102709> . 
+<http://id.loc.gov/authorities/subjects/sh85102709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102709> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant cell membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87003033> . 
+<http://id.loc.gov/authorities/subjects/sh87003033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003033> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant vacuoles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101014> . 
+<http://id.loc.gov/authorities/subjects/sh85101014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phloem"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005996> . 
+<http://id.loc.gov/authorities/subjects/sh92005996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005996> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant ultrastructure"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Cytology] under individual plants and groups of plants, e.g. [Corn--Cytology]" . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85102712" . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85102712> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85102712#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode215authoritiessubjectssh85102712 . 
+_:bnode215authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode215authoritiessubjectssh85102712 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-07-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode215authoritiessubjectssh85102712 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode215authoritiessubjectssh85102712 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode222authoritiessubjectssh85102712 . 
+_:bnode222authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode222authoritiessubjectssh85102712 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-09-12T12:39:15"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode222authoritiessubjectssh85102712 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode222authoritiessubjectssh85102712 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cells and tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode232authoritiessubjectssh85102712 . 
+_:bnode232authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode232authoritiessubjectssh85102712 <http://www.w3.org/2008/05/skos-xl#literalForm> "Plant tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#altLabel> "Plant tissues" . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015978> . 
+<http://id.loc.gov/authorities/subjects/sh85015978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85021678> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85135594> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102772> . 
+<http://id.loc.gov/authorities/subjects/sh85102772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95007580> . 
+<http://id.loc.gov/authorities/subjects/sh95007580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95007580> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tapetum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052980> . 
+<http://id.loc.gov/authorities/subjects/sh85052980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052980> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gamma particle (Cytology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083841> . 
+<http://id.loc.gov/authorities/subjects/sh85083841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meristems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102805> . 
+<http://id.loc.gov/authorities/subjects/sh85102805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102805> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant protoplasts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136408> . 
+<http://id.loc.gov/authorities/subjects/sh85136408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136408> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tracheary cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103222> . 
+<http://id.loc.gov/authorities/subjects/sh85103222> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103222> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plastids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126869> . 
+<http://id.loc.gov/authorities/subjects/sh85126869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126869> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant spores"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034502> . 
+<http://id.loc.gov/authorities/subjects/sh85034502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034502> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crystalloids (Botany)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102786> . 
+<http://id.loc.gov/authorities/subjects/sh85102786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant organelles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102726> . 
+<http://id.loc.gov/authorities/subjects/sh85102726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102726> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cytochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102710> . 
+<http://id.loc.gov/authorities/subjects/sh85102710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cell microbodies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007009535> . 
+<http://id.loc.gov/authorities/subjects/sh2007009535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007009535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endosperm"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112482> . 
+<http://id.loc.gov/authorities/subjects/sh85112482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112482> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rejuvenescence (Botany)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000514> . 
+<http://id.loc.gov/authorities/subjects/sh91000514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sieve elements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138769> . 
+<http://id.loc.gov/authorities/subjects/sh85138769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138769> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turgor"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103096> . 
+<http://id.loc.gov/authorities/subjects/sh85103096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103096> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasmodesmata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142362> . 
+<http://id.loc.gov/authorities/subjects/sh85142362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142362> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vascular system of plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102729> . 
+<http://id.loc.gov/authorities/subjects/sh85102729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cytoskeleton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005149> . 
+<http://id.loc.gov/authorities/subjects/sh87005149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant chromosomes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102728> . 
+<http://id.loc.gov/authorities/subjects/sh85102728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102728> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cytomorphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102724> . 
+<http://id.loc.gov/authorities/subjects/sh85102724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102724> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cuticle"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92002672> . 
+<http://id.loc.gov/authorities/subjects/sh92002672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92002672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sclereids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017382> . 
+<http://id.loc.gov/authorities/subjects/sh85017382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017382> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bryophytes--Conducting tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111422> . 
+<http://id.loc.gov/authorities/subjects/sh85111422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111422> <http://www.w3.org/2004/02/skos/core#prefLabel> "Raphides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102708> . 
+<http://id.loc.gov/authorities/subjects/sh85102708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102708> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cell differentiation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102711> . 
+<http://id.loc.gov/authorities/subjects/sh85102711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102711> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cell walls"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102749> . 
+<http://id.loc.gov/authorities/subjects/sh85102749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102749> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant histochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85148852> . 
+<http://id.loc.gov/authorities/subjects/sh85148852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148852> <http://www.w3.org/2004/02/skos/core#prefLabel> "Xylem"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097978> . 
+<http://id.loc.gov/authorities/subjects/sh85097978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parenchyma, Plant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102709> . 
+<http://id.loc.gov/authorities/subjects/sh85102709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102709> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant cell membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87003033> . 
+<http://id.loc.gov/authorities/subjects/sh87003033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant vacuoles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101014> . 
+<http://id.loc.gov/authorities/subjects/sh85101014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phloem"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005996> . 
+<http://id.loc.gov/authorities/subjects/sh92005996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005996> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant ultrastructure"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/33107> . 
+<http://purl.org/bncf/tid/33107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/33107> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cellule vegetali"@it . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4174061-0> . 
+<http://d-nb.info/gnd/4174061-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4174061-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzengewebe"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/15840> . 
+<http://lod.nal.usda.gov/nalt/15840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/15840> <http://www.w3.org/2004/02/skos/core#prefLabel> "plant tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11946982s> . 
+<http://data.bnf.fr/ark:/12148/cb11946982s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11946982s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cellules végétales"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4115551-8> . 
+<http://d-nb.info/gnd/4115551-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4115551-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzenzelle"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Cytology] under individual plants and groups of plants, e.g. [Corn--Cytology]" . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2008/05/skos-xl#altLabel> "Plant tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode454authoritiessubjectssh85102712 . 
+_:bnode454authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode454authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102712> . 
+_:bnode454authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode454authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#createdDate> "2003-07-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode454authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85102712> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode462authoritiessubjectssh85102712 . 
+_:bnode462authoritiessubjectssh85102712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode462authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102712> . 
+_:bnode462authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode462authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#createdDate> "2003-09-12T12:39:15"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode462authoritiessubjectssh85102712 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mediterranean Sea"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85083236 . 
+_:bnode7authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85083236 . 
+_:bnode7authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode8authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mediterranean Sea"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85083236 . 
+_:bnode11authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+_:bnode11authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Mare Nostrum"@en . 
+_:bnode11authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85083236 . 
+_:bnode16authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85083236 . 
+_:bnode16authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode17authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mare Nostrum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2003003080> . 
+<http://id.loc.gov/authorities/subjects/sh2003003080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2003003080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003003080> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seas"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003003080> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85083236 . 
+_:bnode25authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85083236 . 
+_:bnode25authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#elementValue> "Seas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1145.5> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#usePatternCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1145.5> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85083236> . 
+<http://id.loc.gov/rwo/agents/sh85083236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85083236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#usePatternCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1145.5> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85083236" . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85083236> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85083236#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh85083236 . 
+_:bnode42authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-source> "Palau Boix, M. Mare Nostrum, c1997." . 
+_:bnode42authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh85083236 . 
+_:bnode48authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-source> "Columbia gaz. of the world online, Feb. 7, 2002" . 
+_:bnode48authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Mediterranean Sea; under the Roman Empire it virtually became a lake and was called Mare Nostrum)"@en . 
+_:bnode48authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh85083236 . 
+_:bnode56authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-source> "GeoNames [algorithmically matched]" . 
+_:bnode56authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-note> "sea; 35°00ʹ00ʺN 020°00ʹ00ʺE"@en . 
+_:bnode56authoritiessubjectssh85083236 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh85083236 . 
+_:bnode64authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh85083236 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-10-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh85083236 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh85083236 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85083236 . 
+_:bnode71authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85083236 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2014-10-18T07:14:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85083236 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85083236 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mediterranean Sea"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode81authoritiessubjectssh85083236 . 
+_:bnode81authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode81authoritiessubjectssh85083236 <http://www.w3.org/2008/05/skos-xl#literalForm> "Mare Nostrum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2004/02/skos/core#altLabel> "Mare Nostrum" . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2003003080> . 
+<http://id.loc.gov/authorities/subjects/sh2003003080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003003080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2008/05/skos-xl#altLabel> "Mare Nostrum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode96authoritiessubjectssh85083236 . 
+_:bnode96authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode96authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083236> . 
+_:bnode96authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode96authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#createdDate> "2003-10-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85083236> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode104authoritiessubjectssh85083236 . 
+_:bnode104authoritiessubjectssh85083236 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode104authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083236> . 
+_:bnode104authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode104authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#createdDate> "2014-10-18T07:14:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode104authoritiessubjectssh85083236 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

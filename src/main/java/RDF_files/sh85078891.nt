@@ -1,0 +1,154 @@
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lungs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85078891 . 
+_:bnode7authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85078891 . 
+_:bnode7authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lungs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85078891 . 
+_:bnode11authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Lung"@en . 
+_:bnode11authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85078891 . 
+_:bnode16authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85078891 . 
+_:bnode16authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lung"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#classification> "QL848" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#classification> "QM261" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#classification> "QP121-QP124" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017066> . 
+<http://id.loc.gov/authorities/subjects/sh85017066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017066> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bronchi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/12274> . 
+<http://purl.org/bncf/tid/12274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/12274> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Polmoni"@it . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4036651-0> . 
+<http://d-nb.info/gnd/4036651-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4036651-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lunge"@de . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11944806x> . 
+<http://data.bnf.fr/ark:/12148/cb11944806x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11944806x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lung -- Collections d'art"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87003040> . 
+<http://id.loc.gov/authorities/subjects/sh87003040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003040> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulmonary endothelium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85113196> . 
+<http://id.loc.gov/authorities/subjects/sh85113196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85113196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Respiratory organs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113196> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85078891 . 
+_:bnode51authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85078891 . 
+_:bnode51authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#elementValue> "Respiratory organs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85023136> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chest"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85078891 . 
+_:bnode60authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85078891 . 
+_:bnode60authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chest"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh89000797> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cardiopulmonary system"@en . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85078891 . 
+_:bnode69authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85078891 . 
+_:bnode69authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85078891 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cardiopulmonary system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11932850q> . 
+<http://data.bnf.fr/ark:/12148/cb11932850q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11932850q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poumon"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85108995> . 
+<http://id.loc.gov/authorities/subjects/sh85108995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108995> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulmonary alveoli"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/9345> . 
+<http://lod.nal.usda.gov/nalt/9345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/9345> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "lungs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103493> . 
+<http://id.loc.gov/authorities/subjects/sh85103493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103493> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pleura"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038699> . 
+<http://id.loc.gov/authorities/subjects/sh85038699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038699> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Docimasia pulmonum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings beginning with [Pulmonary]" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85078891" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85078891> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85078891#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode102authoritiessubjectssh85078891 . 
+_:bnode102authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode102authoritiessubjectssh85078891 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh85078891 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode102authoritiessubjectssh85078891 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode109authoritiessubjectssh85078891 . 
+_:bnode109authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode109authoritiessubjectssh85078891 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-03-21T13:31:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode109authoritiessubjectssh85078891 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode109authoritiessubjectssh85078891 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lungs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode119authoritiessubjectssh85078891 . 
+_:bnode119authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode119authoritiessubjectssh85078891 <http://www.w3.org/2008/05/skos-xl#literalForm> "Lung"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#altLabel> "Lung" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85113196> . 
+<http://id.loc.gov/authorities/subjects/sh85113196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Respiratory organs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85023136> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chest"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh89000797> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cardiopulmonary system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017066> . 
+<http://id.loc.gov/authorities/subjects/sh85017066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017066> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bronchi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87003040> . 
+<http://id.loc.gov/authorities/subjects/sh87003040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulmonary endothelium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85108995> . 
+<http://id.loc.gov/authorities/subjects/sh85108995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108995> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulmonary alveoli"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103493> . 
+<http://id.loc.gov/authorities/subjects/sh85103493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103493> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pleura"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038699> . 
+<http://id.loc.gov/authorities/subjects/sh85038699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038699> <http://www.w3.org/2004/02/skos/core#prefLabel> "Docimasia pulmonum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/9345> . 
+<http://lod.nal.usda.gov/nalt/9345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/9345> <http://www.w3.org/2004/02/skos/core#prefLabel> "lungs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/12274> . 
+<http://purl.org/bncf/tid/12274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/12274> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polmoni"@it . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4036651-0> . 
+<http://d-nb.info/gnd/4036651-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4036651-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lunge"@de . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11944806x> . 
+<http://data.bnf.fr/ark:/12148/cb11944806x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11944806x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lung -- Collections d'art"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11932850q> . 
+<http://data.bnf.fr/ark:/12148/cb11932850q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11932850q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poumon"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#editorial> "headings beginning with [Pulmonary]" . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2008/05/skos-xl#altLabel> "Lung"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode196authoritiessubjectssh85078891 . 
+_:bnode196authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode196authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85078891> . 
+_:bnode196authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode196authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode196authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85078891> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode204authoritiessubjectssh85078891 . 
+_:bnode204authoritiessubjectssh85078891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode204authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85078891> . 
+_:bnode204authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode204authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#createdDate> "1989-03-21T13:31:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode204authoritiessubjectssh85078891 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

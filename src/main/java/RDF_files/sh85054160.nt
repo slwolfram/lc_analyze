@@ -1,0 +1,98 @@
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geometry, Solid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85054160 . 
+_:bnode7authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85054160 . 
+_:bnode7authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85054160 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geometry, Solid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85054160 . 
+_:bnode11authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85054160 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Solid geometry"@en . 
+_:bnode11authoritiessubjectssh85054160 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85054160 . 
+_:bnode16authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85054160 . 
+_:bnode16authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85054160 <http://www.loc.gov/mads/rdf/v1#elementValue> "Solid geometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#classification> "QA457" . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#classification> "QA491" . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4057321-7> . 
+<http://d-nb.info/gnd/4057321-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4057321-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stereometrie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85030814> . 
+<http://id.loc.gov/authorities/subjects/sh85030814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030814> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cone"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035126> . 
+<http://id.loc.gov/authorities/subjects/sh85035126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cylinder (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11961082h> . 
+<http://data.bnf.fr/ark:/12148/cb11961082h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11961082h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Géométrie dans l'espace"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85054143> . 
+<http://id.loc.gov/authorities/subjects/sh85054143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054143> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geometry, Analytic--Solid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034644> . 
+<http://id.loc.gov/authorities/subjects/sh85034644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cube"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126590> . 
+<http://id.loc.gov/authorities/subjects/sh85126590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126590> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sphere"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104647> . 
+<http://id.loc.gov/authorities/subjects/sh85104647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104647> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Polyhedra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85134198> . 
+<http://id.loc.gov/authorities/subjects/sh85134198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134198> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tetrahedra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85054160" . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85054160> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85054160#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh85054160 . 
+_:bnode67authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh85054160 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85054160 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh85054160 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geometry, Solid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode77authoritiessubjectssh85054160 . 
+_:bnode77authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode77authoritiessubjectssh85054160 <http://www.w3.org/2008/05/skos-xl#literalForm> "Solid geometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#altLabel> "Solid geometry" . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85030814> . 
+<http://id.loc.gov/authorities/subjects/sh85030814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cone"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035126> . 
+<http://id.loc.gov/authorities/subjects/sh85035126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cylinder (Mathematics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85054143> . 
+<http://id.loc.gov/authorities/subjects/sh85054143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054143> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geometry, Analytic--Solid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034644> . 
+<http://id.loc.gov/authorities/subjects/sh85034644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cube"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126590> . 
+<http://id.loc.gov/authorities/subjects/sh85126590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sphere"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104647> . 
+<http://id.loc.gov/authorities/subjects/sh85104647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104647> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polyhedra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85134198> . 
+<http://id.loc.gov/authorities/subjects/sh85134198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tetrahedra"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4057321-7> . 
+<http://d-nb.info/gnd/4057321-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4057321-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stereometrie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11961082h> . 
+<http://data.bnf.fr/ark:/12148/cb11961082h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11961082h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Géométrie dans l'espace"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2008/05/skos-xl#altLabel> "Solid geometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054160> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode132authoritiessubjectssh85054160 . 
+_:bnode132authoritiessubjectssh85054160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode132authoritiessubjectssh85054160 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85054160> . 
+_:bnode132authoritiessubjectssh85054160 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode132authoritiessubjectssh85054160 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode132authoritiessubjectssh85054160 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

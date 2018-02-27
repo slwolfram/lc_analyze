@@ -1,0 +1,59 @@
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sainfoin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85116549 . 
+_:bnode7authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85116549 . 
+_:bnode7authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85116549 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sainfoin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#classification> "SB207.S24" . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/44841> . 
+<http://lod.nal.usda.gov/nalt/44841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/44841> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Onobrychis viciifolia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85050435> . 
+<http://id.loc.gov/authorities/subjects/sh85050435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050435> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forage plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050435> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85116549 . 
+_:bnode22authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85116549 . 
+_:bnode22authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85116549 <http://www.loc.gov/mads/rdf/v1#elementValue> "Forage plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85116549" . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85116549> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85116549#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode34authoritiessubjectssh85116549 . 
+_:bnode34authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode34authoritiessubjectssh85116549 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode34authoritiessubjectssh85116549 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode34authoritiessubjectssh85116549 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh85116549 . 
+_:bnode41authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh85116549 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2012-09-18T07:49:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh85116549 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh85116549 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sainfoin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85050435> . 
+<http://id.loc.gov/authorities/subjects/sh85050435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050435> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forage plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/44841> . 
+<http://lod.nal.usda.gov/nalt/44841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/44841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onobrychis viciifolia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode62authoritiessubjectssh85116549 . 
+_:bnode62authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode62authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85116549> . 
+_:bnode62authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode62authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85116549> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode70authoritiessubjectssh85116549 . 
+_:bnode70authoritiessubjectssh85116549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode70authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85116549> . 
+_:bnode70authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode70authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#createdDate> "2012-09-18T07:49:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh85116549 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

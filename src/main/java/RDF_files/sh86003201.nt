@@ -1,0 +1,79 @@
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnology--Great Britain"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh86003201 . 
+_:bnode7authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85045198> . 
+_:bnode7authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh86003201 . 
+_:bnode12authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh86003201 . 
+_:bnode12authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh86003201 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ethnology"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79023147> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n79023147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79023147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79023147> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Great Britain"@en . 
+<http://id.loc.gov/authorities/names/n79023147> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh86003201 . 
+_:bnode20authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh86003201 . 
+_:bnode20authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh86003201 <http://www.loc.gov/mads/rdf/v1#elementValue> "Great Britain"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016982> . 
+<http://id.loc.gov/authorities/subjects/sh85016982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016982> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Britons"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89003953> . 
+<http://id.loc.gov/authorities/subjects/sh89003953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89003953> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brigantes (Celtic people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016960> . 
+<http://id.loc.gov/authorities/subjects/sh85016960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016960> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "British"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb120695336> . 
+<http://data.bnf.fr/ark:/12148/cb120695336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb120695336> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnologie -- Grande-Bretagne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 86003201" . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh86003201> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh86003201#concept> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh86003201 . 
+_:bnode47authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh86003201 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-06-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh86003201 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh86003201 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh86003201 . 
+_:bnode54authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh86003201 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-07-21T07:38:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh86003201 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh86003201 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethnology--Great Britain"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016982> . 
+<http://id.loc.gov/authorities/subjects/sh85016982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Britons"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89003953> . 
+<http://id.loc.gov/authorities/subjects/sh89003953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89003953> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brigantes (Celtic people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016960> . 
+<http://id.loc.gov/authorities/subjects/sh85016960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016960> <http://www.w3.org/2004/02/skos/core#prefLabel> "British"@en . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb120695336> . 
+<http://data.bnf.fr/ark:/12148/cb120695336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb120695336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethnologie -- Grande-Bretagne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode85authoritiessubjectssh86003201 . 
+_:bnode85authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode85authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh86003201> . 
+_:bnode85authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode85authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#createdDate> "1986-06-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh86003201> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh86003201 . 
+_:bnode93authoritiessubjectssh86003201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh86003201> . 
+_:bnode93authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode93authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#createdDate> "1986-07-21T07:38:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh86003201 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

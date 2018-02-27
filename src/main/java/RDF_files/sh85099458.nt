@@ -1,0 +1,86 @@
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Peninsulas--Michigan"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85099458 . 
+_:bnode7authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85099426> . 
+_:bnode7authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85099426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85099426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099426> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Peninsulas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099426> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85099458 . 
+_:bnode12authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85099458 . 
+_:bnode12authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85099458 <http://www.loc.gov/mads/rdf/v1#elementValue> "Peninsulas"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n80046126> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Michigan"@en . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85099458 . 
+_:bnode20authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85099458 . 
+_:bnode20authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85099458 <http://www.loc.gov/mads/rdf/v1#elementValue> "Michigan"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006251> . 
+<http://id.loc.gov/authorities/subjects/sh86006251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006251> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thumb District (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141245> . 
+<http://id.loc.gov/authorities/subjects/sh85141245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Upper Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005726> . 
+<http://id.loc.gov/authorities/subjects/sh92005726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005726> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lookout, Point (Arenac County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072110> . 
+<http://id.loc.gov/authorities/subjects/sh85072110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072110> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Keweenaw Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85078667> . 
+<http://id.loc.gov/authorities/subjects/sh85078667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078667> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lower Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006690> . 
+<http://id.loc.gov/authorities/subjects/sh93006690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006690> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Old Mission Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001001506> . 
+<http://id.loc.gov/authorities/subjects/sh2001001506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001001506> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Garden Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85099458" . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85099458> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85099458#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85099458 . 
+_:bnode59authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85099458 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85099458 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85099458 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peninsulas--Michigan"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006251> . 
+<http://id.loc.gov/authorities/subjects/sh86006251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thumb District (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141245> . 
+<http://id.loc.gov/authorities/subjects/sh85141245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upper Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005726> . 
+<http://id.loc.gov/authorities/subjects/sh92005726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005726> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lookout, Point (Arenac County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072110> . 
+<http://id.loc.gov/authorities/subjects/sh85072110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keweenaw Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85078667> . 
+<http://id.loc.gov/authorities/subjects/sh85078667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lower Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006690> . 
+<http://id.loc.gov/authorities/subjects/sh93006690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Old Mission Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001001506> . 
+<http://id.loc.gov/authorities/subjects/sh2001001506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001001506> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garden Peninsula (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85099458> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh85099458 . 
+_:bnode105authoritiessubjectssh85099458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh85099458 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85099458> . 
+_:bnode105authoritiessubjectssh85099458 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode105authoritiessubjectssh85099458 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85099458 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

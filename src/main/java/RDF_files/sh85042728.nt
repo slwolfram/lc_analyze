@@ -1,0 +1,117 @@
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embryology, Human"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85042728 . 
+_:bnode7authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85042728 . 
+_:bnode7authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#elementValue> "Embryology, Human"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85042728 . 
+_:bnode11authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Human embryology"@en . 
+_:bnode11authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85042728 . 
+_:bnode16authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85042728 . 
+_:bnode16authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#elementValue> "Human embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#classification> "QM601-QM611" . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042722> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85042728 . 
+_:bnode27authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85042728 . 
+_:bnode27authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#elementValue> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005010> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Human blastogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4014562-1> . 
+<http://d-nb.info/gnd/4014562-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4014562-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embryologie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062864> . 
+<http://id.loc.gov/authorities/subjects/sh85062864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062864> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Human embryo"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85062843> . 
+<http://id.loc.gov/authorities/subjects/sh85062843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85062843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062843> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Human biology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062843> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85042728 . 
+_:bnode48authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85042728 . 
+_:bnode48authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#elementValue> "Human biology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85062887> . 
+<http://id.loc.gov/authorities/subjects/sh85062887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85062887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062887> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Human reproduction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062887> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode57authoritiessubjectssh85042728 . 
+_:bnode57authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh85042728 . 
+_:bnode57authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode58authoritiessubjectssh85042728 <http://www.loc.gov/mads/rdf/v1#elementValue> "Human reproduction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11942202d> . 
+<http://data.bnf.fr/ark:/12148/cb11942202d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11942202d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embryologie humaine"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#note> "Works on the fetal development of a special organ of the body have duplicate entry, e.g. [1. Heart. 2. Embryology, Human.]" . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85042728" . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85042728> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85042728#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85042728 . 
+_:bnode75authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85042728 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85042728 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85042728 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode82authoritiessubjectssh85042728 . 
+_:bnode82authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode82authoritiessubjectssh85042728 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-04-08T06:41:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85042728 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode82authoritiessubjectssh85042728 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embryology, Human"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode92authoritiessubjectssh85042728 . 
+_:bnode92authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode92authoritiessubjectssh85042728 <http://www.w3.org/2008/05/skos-xl#literalForm> "Human embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#altLabel> "Human embryology" . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042722> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85062843> . 
+<http://id.loc.gov/authorities/subjects/sh85062843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Human biology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85062887> . 
+<http://id.loc.gov/authorities/subjects/sh85062887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062887> <http://www.w3.org/2004/02/skos/core#prefLabel> "Human reproduction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005010> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Human blastogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062864> . 
+<http://id.loc.gov/authorities/subjects/sh85062864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Human embryo"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4014562-1> . 
+<http://d-nb.info/gnd/4014562-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4014562-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embryologie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11942202d> . 
+<http://data.bnf.fr/ark:/12148/cb11942202d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11942202d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embryologie humaine"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#note> "Works on the fetal development of a special organ of the body have duplicate entry, e.g. [1. Heart. 2. Embryology, Human.]" . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2008/05/skos-xl#altLabel> "Human embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode139authoritiessubjectssh85042728 . 
+_:bnode139authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode139authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042728> . 
+_:bnode139authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode139authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode139authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85042728> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode147authoritiessubjectssh85042728 . 
+_:bnode147authoritiessubjectssh85042728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode147authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042728> . 
+_:bnode147authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode147authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#createdDate> "1988-04-08T06:41:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85042728 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -31,7 +31,7 @@ import org.marc4j.marc.VariableField;
  * is useful for testing purposes, or if the full dataset (which for name
  * authorities is ~10GB) cannot be practically be loaded.
  **/
-public class DlRDF{
+public class DlRDF {
 
 	static ArrayList<String> authorityURIs = new ArrayList<String>();
 
@@ -49,15 +49,15 @@ public class DlRDF{
 			}
 		}
 		try {
-			dlRDF(authorityURIs);
+			dlRDF(0);
 		} catch (IOException | URISyntaxException e) {
 			e.printStackTrace();
 		}
 		System.exit(0);
 	}
 
-	public static void dlRDF(ArrayList<String> authorityURIs) throws IOException, URISyntaxException {
-		for (int i = 0; i < authorityURIs.size(); i++) {
+	public static void dlRDF(int startIndex) throws IOException, URISyntaxException {
+		for (int i = startIndex; i < authorityURIs.size(); i++) {
 			String filename = authorityURIs.get(i).substring(authorityURIs.get(i).lastIndexOf("/") + 1) + ".nt";
 			boolean check = new File("./src/main/java/RDF_files/", filename).exists();
 			System.out.println(filename);
@@ -82,6 +82,45 @@ public class DlRDF{
 				}
 			}
 		}
+	}
+
+	public static String download(String uri) {
+		
+		String filepath = "./src/main/java/RDF_files/" + uri.substring(uri.lastIndexOf("/") + 1) + ".nt";
+		String filename = uri.substring(uri.lastIndexOf("/") + 1) + ".nt";
+		boolean check = new File("./src/main/java/RDF_files/", filename).exists();
+		System.out.println(filename);
+		// we use check to verify if the RDF file already exists (to avoid
+		// re-downloading existing files)
+		if (!check) {
+
+			// dl file ...
+			
+			File rdfFile = new File(filepath);
+			CloseableHttpClient client = HttpClientBuilder.create().build();
+			HttpUriRequest request = RequestBuilder.get().setUri(uri).setHeader("accept", "text/plain").build();
+			HttpResponse response = null;
+			try {
+				response = client.execute(request);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			HttpEntity entity = response.getEntity();
+			if (entity != null) {
+				try (FileOutputStream outstream = new FileOutputStream(rdfFile)) {
+					entity.writeTo(outstream);
+					System.out.println("COMPLETE");
+				} catch (FileNotFoundException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		}
+		return filepath;
 	}
 
 	/**
@@ -171,5 +210,11 @@ public class DlRDF{
 		in.close();
 		out.close();
 		return new FileInputStream(tmp);
+	}
+
+	public static int getBroader() {
+		int startIndex = authorityURIs.size();
+
+		return startIndex;
 	}
 }

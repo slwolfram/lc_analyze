@@ -1,0 +1,78 @@
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parenting--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85098013 . 
+_:bnode7authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85098009> . 
+_:bnode7authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85098009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85098009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098009> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parenting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098009> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85098013 . 
+_:bnode12authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85098013 . 
+_:bnode12authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85098013 <http://www.loc.gov/mads/rdf/v1#elementValue> "Parenting"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2001008697> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85098013 . 
+_:bnode20authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85098013 . 
+_:bnode20authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85098013 <http://www.loc.gov/mads/rdf/v1#elementValue> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85098013 . 
+_:bnode24authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85098013 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Parent education"@en . 
+_:bnode24authoritiessubjectssh85098013 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85098013 . 
+_:bnode29authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85098013 . 
+_:bnode29authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85098013 <http://www.loc.gov/mads/rdf/v1#elementValue> "Parent education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#classification> "HQ755.7" . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85047054> . 
+<http://id.loc.gov/authorities/subjects/sh85047054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85047054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047054> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Family life education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047054> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode40authoritiessubjectssh85098013 . 
+_:bnode40authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh85098013 . 
+_:bnode40authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode41authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode41authoritiessubjectssh85098013 <http://www.loc.gov/mads/rdf/v1#elementValue> "Family life education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/4389> . 
+<http://lod.nal.usda.gov/nalt/4389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/4389> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "parent education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85098013" . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85098013> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85098013#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh85098013 . 
+_:bnode56authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh85098013 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85098013 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh85098013 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parenting--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode66authoritiessubjectssh85098013 . 
+_:bnode66authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode66authoritiessubjectssh85098013 <http://www.w3.org/2008/05/skos-xl#literalForm> "Parent education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2004/02/skos/core#altLabel> "Parent education" . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85047054> . 
+<http://id.loc.gov/authorities/subjects/sh85047054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Family life education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/4389> . 
+<http://lod.nal.usda.gov/nalt/4389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/4389> <http://www.w3.org/2004/02/skos/core#prefLabel> "parent education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2008/05/skos-xl#altLabel> "Parent education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098013> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh85098013 . 
+_:bnode86authoritiessubjectssh85098013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh85098013 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85098013> . 
+_:bnode86authoritiessubjectssh85098013 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode86authoritiessubjectssh85098013 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh85098013 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

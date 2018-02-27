@@ -1,0 +1,88 @@
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animal dealers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85005170 . 
+_:bnode7authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85005170 . 
+_:bnode7authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85005170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animal dealers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85146663> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wild animal trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85005170 . 
+_:bnode16authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85005170 . 
+_:bnode16authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85005170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wild animal trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001008510> . 
+<http://id.loc.gov/authorities/subjects/sh2001008510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008510> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Horse dealers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85005236> . 
+<http://id.loc.gov/authorities/subjects/sh85005236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85005236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005236> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animal specialists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005236> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85005170 . 
+_:bnode29authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85005170 . 
+_:bnode29authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85005170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animal specialists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100305> . 
+<http://id.loc.gov/authorities/subjects/sh85100305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100305> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pet shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh94003372> . 
+<http://id.loc.gov/authorities/subjects/sh94003372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh94003372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94003372> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dealers (Retail trade)"@en . 
+<http://id.loc.gov/authorities/subjects/sh94003372> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85005170 . 
+_:bnode42authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85005170 . 
+_:bnode42authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh85005170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dealers (Retail trade)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85005170" . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85005170> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85005170#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85005170 . 
+_:bnode54authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85005170 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85005170 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85005170 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh85005170 . 
+_:bnode61authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh85005170 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-06-22T11:59:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh85005170 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh85005170 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal dealers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85005236> . 
+<http://id.loc.gov/authorities/subjects/sh85005236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005236> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal specialists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh94003372> . 
+<http://id.loc.gov/authorities/subjects/sh94003372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94003372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dealers (Retail trade)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001008510> . 
+<http://id.loc.gov/authorities/subjects/sh2001008510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001008510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horse dealers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100305> . 
+<http://id.loc.gov/authorities/subjects/sh85100305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100305> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pet shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85146663> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wild animal trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh85005170 . 
+_:bnode97authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85005170> . 
+_:bnode97authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85005170> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh85005170 . 
+_:bnode105authoritiessubjectssh85005170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85005170> . 
+_:bnode105authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode105authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#createdDate> "1994-06-22T11:59:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85005170 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

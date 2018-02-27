@@ -1,0 +1,581 @@
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98003200 . 
+_:bnode7authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98003200 . 
+_:bnode7authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementValue> "Computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh98003200 . 
+_:bnode11authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#variantLabel> "ADP systems (Computer systems)"@en . 
+_:bnode11authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh98003200 . 
+_:bnode16authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh98003200 . 
+_:bnode16authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementValue> "ADP systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh98003200 . 
+_:bnode20authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Computing systems"@en . 
+_:bnode20authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh98003200 . 
+_:bnode25authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh98003200 . 
+_:bnode25authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementValue> "Computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#classification> "QA75.5-QA76.95" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029552> . 
+<http://id.loc.gov/authorities/subjects/sh85029552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Computers"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016000350> . 
+<http://id.loc.gov/authorities/subjects/sh2016000350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016000350> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heterogeneous distributed computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044813> . 
+<http://id.loc.gov/authorities/subjects/sh85044813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044813> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ESER (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005992> . 
+<http://id.loc.gov/authorities/subjects/sh85005992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005992> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "APL PLUS System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063284> . 
+<http://id.loc.gov/authorities/subjects/sh85063284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063284> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "HYDRA/C.mmp (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083452> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MELTS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85143804> . 
+<http://id.loc.gov/authorities/subjects/sh85143804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143804> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Virtual computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004261> . 
+<http://id.loc.gov/authorities/subjects/sh98004261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004261> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SIMATIC S7 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85134986> . 
+<http://id.loc.gov/authorities/subjects/sh85134986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thoth (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080855> . 
+<http://id.loc.gov/authorities/subjects/sh85080855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080855> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MAPPER (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029534> . 
+<http://id.loc.gov/authorities/subjects/sh85029534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029534> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Computer software"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064037> . 
+<http://id.loc.gov/authorities/subjects/sh85064037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064037> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ICES (Electronic computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103325> . 
+<http://id.loc.gov/authorities/subjects/sh85103325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103325> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PLATOFORM (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053942> . 
+<http://id.loc.gov/authorities/subjects/sh85053942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053942> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genstat (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86005598> . 
+<http://id.loc.gov/authorities/subjects/sh86005598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005598> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Little Smalltalk (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87006632> . 
+<http://id.loc.gov/authorities/subjects/sh87006632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006632> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embedded computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107166> . 
+<http://id.loc.gov/authorities/subjects/sh85107166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107166> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PROCSY (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85066163> . 
+<http://id.loc.gov/authorities/subjects/sh85066163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066163> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Information storage and retrieval systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4125229-9> . 
+<http://d-nb.info/gnd/4125229-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4125229-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Datenverarbeitungssystem"@de . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038024> . 
+<http://id.loc.gov/authorities/subjects/sh85038024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038024> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DILOS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039832> . 
+<http://id.loc.gov/authorities/subjects/sh85039832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039832> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DSS/F (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85037063> . 
+<http://id.loc.gov/authorities/subjects/sh85037063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037063> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DEPTH (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018535> . 
+<http://id.loc.gov/authorities/subjects/sh85018535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018535> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "C-BIMS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002012109> . 
+<http://id.loc.gov/authorities/subjects/sh2002012109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012109> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adaptive computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135434> . 
+<http://id.loc.gov/authorities/subjects/sh85135434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Time-sharing computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933349c> . 
+<http://data.bnf.fr/ark:/12148/cb11933349c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933349c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Systèmes informatiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081781> . 
+<http://id.loc.gov/authorities/subjects/sh85081781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081781> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035990> . 
+<http://id.loc.gov/authorities/subjects/sh85035990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DBS/R (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85065669> . 
+<http://id.loc.gov/authorities/subjects/sh85065669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065669> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "INDIOS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85058589> . 
+<http://id.loc.gov/authorities/subjects/sh85058589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058589> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "HAMPAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85056205> . 
+<http://id.loc.gov/authorities/subjects/sh85056205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85056205> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GRAIL (Electronic computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022884> . 
+<http://id.loc.gov/authorities/subjects/sh85022884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CHEMCAST (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018207> . 
+<http://id.loc.gov/authorities/subjects/sh85018207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018207> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "BURSAR (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87004173> . 
+<http://id.loc.gov/authorities/subjects/sh87004173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Turnkey computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006327> . 
+<http://id.loc.gov/authorities/subjects/sh86006327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006327> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ZCPR3 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003003366> . 
+<http://id.loc.gov/authorities/subjects/sh2003003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003003366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "WISPER (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139246> . 
+<http://id.loc.gov/authorities/subjects/sh85139246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139246> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "UCSD Pascal Software System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006002131> . 
+<http://id.loc.gov/authorities/subjects/sh2006002131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006002131> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mobile agent systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096542> . 
+<http://id.loc.gov/authorities/subjects/sh85096542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096542> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PAD (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082661> . 
+<http://id.loc.gov/authorities/subjects/sh85082661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MDS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098927> . 
+<http://id.loc.gov/authorities/subjects/sh85098927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098927> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PDS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85046450> . 
+<http://id.loc.gov/authorities/subjects/sh85046450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Expert systems (Computer science)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018658> . 
+<http://id.loc.gov/authorities/subjects/sh85018658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018658> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CADS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039276> . 
+<http://id.loc.gov/authorities/subjects/sh85039276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039276> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DRAGON (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh2008006979> . 
+<http://id.loc.gov/authorities/subjects/sh2008006979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2008006979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008006979> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cyberinfrastructure"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008006979> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode212authoritiessubjectssh98003200 . 
+_:bnode212authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode213authoritiessubjectssh98003200 . 
+_:bnode212authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode213authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode213authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cyberinfrastructure"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042373> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electronic systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode221authoritiessubjectssh98003200 . 
+_:bnode221authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode222authoritiessubjectssh98003200 . 
+_:bnode221authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode222authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode222authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electronic systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004531> . 
+<http://id.loc.gov/authorities/subjects/sh98004531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004531> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Computational grids (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064109> . 
+<http://id.loc.gov/authorities/subjects/sh85064109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064109> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "IDA (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004671> . 
+<http://id.loc.gov/authorities/subjects/sh90004671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004671> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Etap-2 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055097> . 
+<http://id.loc.gov/authorities/subjects/sh85055097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055097> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GLAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067204> . 
+<http://id.loc.gov/authorities/subjects/sh85067204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067204> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interactive computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85040968> . 
+<http://id.loc.gov/authorities/subjects/sh85040968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040968> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edinburgh LCF (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039831> . 
+<http://id.loc.gov/authorities/subjects/sh85039831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039831> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DSS/A (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048579> . 
+<http://id.loc.gov/authorities/subjects/sh85048579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048579> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "FIRS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103486> . 
+<http://id.loc.gov/authorities/subjects/sh85103486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103486> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "PLESSEY 250 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122708> . 
+<http://id.loc.gov/authorities/subjects/sh85122708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122708> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SIMATIC S5 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122707> . 
+<http://id.loc.gov/authorities/subjects/sh85122707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SIMATIC S3 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084990> . 
+<http://id.loc.gov/authorities/subjects/sh85084990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MIDAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021568> . 
+<http://id.loc.gov/authorities/subjects/sh85021568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021568> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CCRMMS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002007191> . 
+<http://id.loc.gov/authorities/subjects/sh2002007191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007191> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Violent Crime Linkage Analysis System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042615> . 
+<http://id.loc.gov/authorities/subjects/sh85042615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042615> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ELLPACK (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87007861> . 
+<http://id.loc.gov/authorities/subjects/sh87007861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87007861> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CIP-S (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029505> . 
+<http://id.loc.gov/authorities/subjects/sh85029505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029505> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Computer input-output equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104709> . 
+<http://id.loc.gov/authorities/subjects/sh85104709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104709> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "POLYP (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044245> . 
+<http://id.loc.gov/authorities/subjects/sh85044245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "EP-2 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130419> . 
+<http://id.loc.gov/authorities/subjects/sh85130419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130419> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SUMEX-AIM (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103518> . 
+<http://id.loc.gov/authorities/subjects/sh85103518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103518> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plexus II (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99010107> . 
+<http://id.loc.gov/authorities/subjects/sh99010107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99010107> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interdepartmental Meteorological Data Exchange System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87001035> . 
+<http://id.loc.gov/authorities/subjects/sh87001035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87001035> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "SUSY (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008569> . 
+<http://id.loc.gov/authorities/subjects/sh85008569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008569> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ASCS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005477> . 
+<http://id.loc.gov/authorities/subjects/sh85005477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005477> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "ANSYS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009002433> . 
+<http://id.loc.gov/authorities/subjects/sh2009002433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009002433> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Onnara BPS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005769> . 
+<http://id.loc.gov/authorities/subjects/sh91005769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "EPICURE (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89002252> . 
+<http://id.loc.gov/authorities/subjects/sh89002252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89002252> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transaction systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085036> . 
+<http://id.loc.gov/authorities/subjects/sh85085036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085036> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MIDIM (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95003216> . 
+<http://id.loc.gov/authorities/subjects/sh95003216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003216> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Integrated library systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98003200" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98003200> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98003200#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode353authoritiessubjectssh98003200 . 
+_:bnode353authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode353authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 98-8286: Warford, J. Stanley. Computer systems, 1998." . 
+_:bnode353authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode359authoritiessubjectssh98003200 . 
+_:bnode359authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode359authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "Encycl. Computer sci.:" . 
+_:bnode359authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 323."@en . 
+_:bnode359authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode367authoritiessubjectssh98003200 . 
+_:bnode367authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode367authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "IEEE stnd. glossary of software engineering term." . 
+_:bnode367authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Computer system: a system with one or more computers and associated software)"@en . 
+_:bnode367authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode375authoritiessubjectssh98003200 . 
+_:bnode375authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode375authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "McGraw-Hill dict. sci. tech" . 
+_:bnode375authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Computer system)"@en . 
+_:bnode375authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode383authoritiessubjectssh98003200 . 
+_:bnode383authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode383authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "PC Webopaedia, May 26, 1996" . 
+_:bnode383authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Computer system includes not only the computer, but also any software and peripheral devices)"@en . 
+_:bnode383authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode391authoritiessubjectssh98003200 . 
+_:bnode391authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode391authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "Stnd. glossary computer term." . 
+_:bnode391authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Computer system)"@en . 
+_:bnode391authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode399authoritiessubjectssh98003200 . 
+_:bnode399authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode399authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "IBM dict. computing, 1994" . 
+_:bnode399authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(computer system: a functional unit consisting of one or more computers and associated software that uses common storage for all or part of a program and also for all or part of the data ... may be a stand-alone unit or may consist of several interconnected units; synonymous with ADP system; computing system)"@en . 
+_:bnode399authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode407authoritiessubjectssh98003200 . 
+_:bnode407authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode407authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "Eng. Ind." . 
+_:bnode407authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(hdg: Computer systems)"@en . 
+_:bnode407authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode415authoritiessubjectssh98003200 . 
+_:bnode415authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode415authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-source> "Magazine Ind." . 
+_:bnode415authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-note> "(hdg.: Computer systems)"@en . 
+_:bnode415authoritiessubjectssh98003200 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode423authoritiessubjectssh98003200 . 
+_:bnode423authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode423authoritiessubjectssh98003200 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode423authoritiessubjectssh98003200 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode423authoritiessubjectssh98003200 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode430authoritiessubjectssh98003200 . 
+_:bnode430authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode430authoritiessubjectssh98003200 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-10-04T08:20:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode430authoritiessubjectssh98003200 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode430authoritiessubjectssh98003200 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode440authoritiessubjectssh98003200 . 
+_:bnode440authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode440authoritiessubjectssh98003200 <http://www.w3.org/2008/05/skos-xl#literalForm> "ADP systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#altLabel> "ADP systems (Computer systems)" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode447authoritiessubjectssh98003200 . 
+_:bnode447authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode447authoritiessubjectssh98003200 <http://www.w3.org/2008/05/skos-xl#literalForm> "Computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#altLabel> "Computing systems" . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042373> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronic systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029552> . 
+<http://id.loc.gov/authorities/subjects/sh85029552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computers"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016000350> . 
+<http://id.loc.gov/authorities/subjects/sh2016000350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016000350> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heterogeneous distributed computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044813> . 
+<http://id.loc.gov/authorities/subjects/sh85044813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044813> <http://www.w3.org/2004/02/skos/core#prefLabel> "ESER (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005992> . 
+<http://id.loc.gov/authorities/subjects/sh85005992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005992> <http://www.w3.org/2004/02/skos/core#prefLabel> "APL PLUS System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063284> . 
+<http://id.loc.gov/authorities/subjects/sh85063284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063284> <http://www.w3.org/2004/02/skos/core#prefLabel> "HYDRA/C.mmp (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083452> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.w3.org/2004/02/skos/core#prefLabel> "MELTS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85143804> . 
+<http://id.loc.gov/authorities/subjects/sh85143804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virtual computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004261> . 
+<http://id.loc.gov/authorities/subjects/sh98004261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004261> <http://www.w3.org/2004/02/skos/core#prefLabel> "SIMATIC S7 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85134986> . 
+<http://id.loc.gov/authorities/subjects/sh85134986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thoth (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080855> . 
+<http://id.loc.gov/authorities/subjects/sh85080855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080855> <http://www.w3.org/2004/02/skos/core#prefLabel> "MAPPER (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029534> . 
+<http://id.loc.gov/authorities/subjects/sh85029534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029534> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer software"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064037> . 
+<http://id.loc.gov/authorities/subjects/sh85064037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064037> <http://www.w3.org/2004/02/skos/core#prefLabel> "ICES (Electronic computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103325> . 
+<http://id.loc.gov/authorities/subjects/sh85103325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103325> <http://www.w3.org/2004/02/skos/core#prefLabel> "PLATOFORM (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053942> . 
+<http://id.loc.gov/authorities/subjects/sh85053942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053942> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genstat (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86005598> . 
+<http://id.loc.gov/authorities/subjects/sh86005598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005598> <http://www.w3.org/2004/02/skos/core#prefLabel> "Little Smalltalk (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87006632> . 
+<http://id.loc.gov/authorities/subjects/sh87006632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006632> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embedded computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107166> . 
+<http://id.loc.gov/authorities/subjects/sh85107166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107166> <http://www.w3.org/2004/02/skos/core#prefLabel> "PROCSY (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85066163> . 
+<http://id.loc.gov/authorities/subjects/sh85066163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Information storage and retrieval systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038024> . 
+<http://id.loc.gov/authorities/subjects/sh85038024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038024> <http://www.w3.org/2004/02/skos/core#prefLabel> "DILOS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039832> . 
+<http://id.loc.gov/authorities/subjects/sh85039832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039832> <http://www.w3.org/2004/02/skos/core#prefLabel> "DSS/F (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85037063> . 
+<http://id.loc.gov/authorities/subjects/sh85037063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037063> <http://www.w3.org/2004/02/skos/core#prefLabel> "DEPTH (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018535> . 
+<http://id.loc.gov/authorities/subjects/sh85018535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018535> <http://www.w3.org/2004/02/skos/core#prefLabel> "C-BIMS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002012109> . 
+<http://id.loc.gov/authorities/subjects/sh2002012109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012109> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adaptive computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135434> . 
+<http://id.loc.gov/authorities/subjects/sh85135434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Time-sharing computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081781> . 
+<http://id.loc.gov/authorities/subjects/sh85081781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081781> <http://www.w3.org/2004/02/skos/core#prefLabel> "MAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035990> . 
+<http://id.loc.gov/authorities/subjects/sh85035990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035990> <http://www.w3.org/2004/02/skos/core#prefLabel> "DBS/R (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85065669> . 
+<http://id.loc.gov/authorities/subjects/sh85065669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065669> <http://www.w3.org/2004/02/skos/core#prefLabel> "INDIOS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85058589> . 
+<http://id.loc.gov/authorities/subjects/sh85058589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058589> <http://www.w3.org/2004/02/skos/core#prefLabel> "HAMPAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85056205> . 
+<http://id.loc.gov/authorities/subjects/sh85056205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85056205> <http://www.w3.org/2004/02/skos/core#prefLabel> "GRAIL (Electronic computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022884> . 
+<http://id.loc.gov/authorities/subjects/sh85022884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022884> <http://www.w3.org/2004/02/skos/core#prefLabel> "CHEMCAST (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018207> . 
+<http://id.loc.gov/authorities/subjects/sh85018207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018207> <http://www.w3.org/2004/02/skos/core#prefLabel> "BURSAR (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87004173> . 
+<http://id.loc.gov/authorities/subjects/sh87004173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turnkey computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006327> . 
+<http://id.loc.gov/authorities/subjects/sh86006327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006327> <http://www.w3.org/2004/02/skos/core#prefLabel> "ZCPR3 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003003366> . 
+<http://id.loc.gov/authorities/subjects/sh2003003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003003366> <http://www.w3.org/2004/02/skos/core#prefLabel> "WISPER (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139246> . 
+<http://id.loc.gov/authorities/subjects/sh85139246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139246> <http://www.w3.org/2004/02/skos/core#prefLabel> "UCSD Pascal Software System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006002131> . 
+<http://id.loc.gov/authorities/subjects/sh2006002131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006002131> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mobile agent systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096542> . 
+<http://id.loc.gov/authorities/subjects/sh85096542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096542> <http://www.w3.org/2004/02/skos/core#prefLabel> "PAD (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082661> . 
+<http://id.loc.gov/authorities/subjects/sh85082661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082661> <http://www.w3.org/2004/02/skos/core#prefLabel> "MDS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098927> . 
+<http://id.loc.gov/authorities/subjects/sh85098927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098927> <http://www.w3.org/2004/02/skos/core#prefLabel> "PDS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85046450> . 
+<http://id.loc.gov/authorities/subjects/sh85046450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expert systems (Computer science)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018658> . 
+<http://id.loc.gov/authorities/subjects/sh85018658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018658> <http://www.w3.org/2004/02/skos/core#prefLabel> "CADS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039276> . 
+<http://id.loc.gov/authorities/subjects/sh85039276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039276> <http://www.w3.org/2004/02/skos/core#prefLabel> "DRAGON (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004531> . 
+<http://id.loc.gov/authorities/subjects/sh98004531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computational grids (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064109> . 
+<http://id.loc.gov/authorities/subjects/sh85064109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064109> <http://www.w3.org/2004/02/skos/core#prefLabel> "IDA (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004671> . 
+<http://id.loc.gov/authorities/subjects/sh90004671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004671> <http://www.w3.org/2004/02/skos/core#prefLabel> "Etap-2 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055097> . 
+<http://id.loc.gov/authorities/subjects/sh85055097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055097> <http://www.w3.org/2004/02/skos/core#prefLabel> "GLAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067204> . 
+<http://id.loc.gov/authorities/subjects/sh85067204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interactive computer systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85040968> . 
+<http://id.loc.gov/authorities/subjects/sh85040968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edinburgh LCF (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039831> . 
+<http://id.loc.gov/authorities/subjects/sh85039831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039831> <http://www.w3.org/2004/02/skos/core#prefLabel> "DSS/A (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048579> . 
+<http://id.loc.gov/authorities/subjects/sh85048579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048579> <http://www.w3.org/2004/02/skos/core#prefLabel> "FIRS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103486> . 
+<http://id.loc.gov/authorities/subjects/sh85103486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103486> <http://www.w3.org/2004/02/skos/core#prefLabel> "PLESSEY 250 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122708> . 
+<http://id.loc.gov/authorities/subjects/sh85122708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122708> <http://www.w3.org/2004/02/skos/core#prefLabel> "SIMATIC S5 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122707> . 
+<http://id.loc.gov/authorities/subjects/sh85122707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122707> <http://www.w3.org/2004/02/skos/core#prefLabel> "SIMATIC S3 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084990> . 
+<http://id.loc.gov/authorities/subjects/sh85084990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084990> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIDAS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021568> . 
+<http://id.loc.gov/authorities/subjects/sh85021568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021568> <http://www.w3.org/2004/02/skos/core#prefLabel> "CCRMMS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002007191> . 
+<http://id.loc.gov/authorities/subjects/sh2002007191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002007191> <http://www.w3.org/2004/02/skos/core#prefLabel> "Violent Crime Linkage Analysis System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042615> . 
+<http://id.loc.gov/authorities/subjects/sh85042615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042615> <http://www.w3.org/2004/02/skos/core#prefLabel> "ELLPACK (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87007861> . 
+<http://id.loc.gov/authorities/subjects/sh87007861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87007861> <http://www.w3.org/2004/02/skos/core#prefLabel> "CIP-S (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029505> . 
+<http://id.loc.gov/authorities/subjects/sh85029505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer input-output equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104709> . 
+<http://id.loc.gov/authorities/subjects/sh85104709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104709> <http://www.w3.org/2004/02/skos/core#prefLabel> "POLYP (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044245> . 
+<http://id.loc.gov/authorities/subjects/sh85044245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044245> <http://www.w3.org/2004/02/skos/core#prefLabel> "EP-2 (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130419> . 
+<http://id.loc.gov/authorities/subjects/sh85130419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130419> <http://www.w3.org/2004/02/skos/core#prefLabel> "SUMEX-AIM (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103518> . 
+<http://id.loc.gov/authorities/subjects/sh85103518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103518> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plexus II (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99010107> . 
+<http://id.loc.gov/authorities/subjects/sh99010107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99010107> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interdepartmental Meteorological Data Exchange System (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87001035> . 
+<http://id.loc.gov/authorities/subjects/sh87001035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87001035> <http://www.w3.org/2004/02/skos/core#prefLabel> "SUSY (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008569> . 
+<http://id.loc.gov/authorities/subjects/sh85008569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008569> <http://www.w3.org/2004/02/skos/core#prefLabel> "ASCS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005477> . 
+<http://id.loc.gov/authorities/subjects/sh85005477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005477> <http://www.w3.org/2004/02/skos/core#prefLabel> "ANSYS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009002433> . 
+<http://id.loc.gov/authorities/subjects/sh2009002433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009002433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onnara BPS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005769> . 
+<http://id.loc.gov/authorities/subjects/sh91005769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005769> <http://www.w3.org/2004/02/skos/core#prefLabel> "EPICURE (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89002252> . 
+<http://id.loc.gov/authorities/subjects/sh89002252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89002252> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transaction systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085036> . 
+<http://id.loc.gov/authorities/subjects/sh85085036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085036> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIDIM (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95003216> . 
+<http://id.loc.gov/authorities/subjects/sh95003216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Integrated library systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh2008006979> . 
+<http://id.loc.gov/authorities/subjects/sh2008006979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008006979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyberinfrastructure"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4125229-9> . 
+<http://d-nb.info/gnd/4125229-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4125229-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datenverarbeitungssystem"@de . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933349c> . 
+<http://data.bnf.fr/ark:/12148/cb11933349c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933349c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Systèmes informatiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2008/05/skos-xl#altLabel> "ADP systems (Computer systems)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2008/05/skos-xl#altLabel> "Computing systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode839authoritiessubjectssh98003200 . 
+_:bnode839authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode839authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003200> . 
+_:bnode839authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode839authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#createdDate> "1998-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode839authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98003200> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode847authoritiessubjectssh98003200 . 
+_:bnode847authoritiessubjectssh98003200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode847authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003200> . 
+_:bnode847authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode847authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#createdDate> "2008-10-04T08:20:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode847authoritiessubjectssh98003200 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

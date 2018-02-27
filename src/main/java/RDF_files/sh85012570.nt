@@ -1,0 +1,216 @@
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bays--Russia (Federation)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85012570 . 
+_:bnode7authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85012515> . 
+_:bnode7authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85012570 . 
+_:bnode12authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85012570 . 
+_:bnode12authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bays"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n92056007> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n92056007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n92056007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n92056007> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Russia (Federation)"@en . 
+<http://id.loc.gov/authorities/names/n92056007> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85012570 . 
+_:bnode20authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85012570 . 
+_:bnode20authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#elementValue> "Russia (Federation)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12112313g> . 
+<http://data.bnf.fr/ark:/12148/cb12112313g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12112313g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baies -- Russie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89007255> . 
+<http://id.loc.gov/authorities/subjects/sh89007255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89007255> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kondopoga Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87001701> . 
+<http://id.loc.gov/authorities/subjects/sh87001701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87001701> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gdańsk, Gulf of (Poland and Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00003675> . 
+<http://id.loc.gov/authorities/subjects/sh00003675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00003675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vostok Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95010900> . 
+<http://id.loc.gov/authorities/subjects/sh95010900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95010900> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Onega Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000070> . 
+<http://id.loc.gov/authorities/subjects/sh98000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000070> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medusa Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode48authoritiessubjectssh85012570 . 
+_:bnode48authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode48authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode48authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Bays--Russian S.F.S.R"@en . 
+_:bnode48authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode53authoritiessubjectssh85012570 . 
+_:bnode53authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85012570 . 
+_:bnode53authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode061 . 
+_:bnode54authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode54authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode54authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Bays"@en . 
+_:bnode54authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode58authoritiessubjectssh85012570 . 
+_:bnode58authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode59authoritiessubjectssh85012570 . 
+_:bnode58authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode59authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode59authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bays"@en . 
+_:bnode061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85012570 . 
+_:bnode061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+_:bnode62authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode62authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Russian S.F.S.R"@en . 
+_:bnode62authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode66authoritiessubjectssh85012570 . 
+_:bnode66authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode67authoritiessubjectssh85012570 . 
+_:bnode66authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode67authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode67authoritiessubjectssh85012570 <http://www.loc.gov/mads/rdf/v1#elementValue> "Russian S.F.S.R."@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96001556> . 
+<http://id.loc.gov/authorities/subjects/sh96001556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96001556> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shelikhov Gulf (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97005560> . 
+<http://id.loc.gov/authorities/subjects/sh97005560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97005560> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yenisey Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98001438> . 
+<http://id.loc.gov/authorities/subjects/sh98001438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98001438> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ob, Gulf of (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95010812> . 
+<http://id.loc.gov/authorities/subjects/sh95010812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95010812> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anadyr, Gulf of (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95010836> . 
+<http://id.loc.gov/authorities/subjects/sh95010836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95010836> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dvina Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003009805> . 
+<http://id.loc.gov/authorities/subjects/sh2003009805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003009805> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Preobrazhenie Bay (Primorskiĭ kraĭ, Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007000335> . 
+<http://id.loc.gov/authorities/subjects/sh2007000335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007000335> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tauysk Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048397> . 
+<http://id.loc.gov/authorities/subjects/sh85048397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048397> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Finland, Gulf of"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95010877> . 
+<http://id.loc.gov/authorities/subjects/sh95010877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95010877> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kandalaksha Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89003257> . 
+<http://id.loc.gov/authorities/subjects/sh89003257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89003257> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Khroma Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002228> . 
+<http://id.loc.gov/authorities/subjects/sh90002228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002228> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Avacha Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000837> . 
+<http://id.loc.gov/authorities/subjects/sh91000837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000837> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chupa Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95003063> . 
+<http://id.loc.gov/authorities/subjects/sh95003063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003063> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Peter the Great Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004450> . 
+<http://id.loc.gov/authorities/subjects/sh90004450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sakhalin, Gulf of (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005165> . 
+<http://id.loc.gov/authorities/subjects/sh87005165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005165> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bolʹshoe Onego (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091232> . 
+<http://id.loc.gov/authorities/subjects/sh85091232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091232> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neva Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85012570" . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85012570> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85012570#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode141authoritiessubjectssh85012570 . 
+_:bnode141authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode141authoritiessubjectssh85012570 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode141authoritiessubjectssh85012570 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode141authoritiessubjectssh85012570 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode148authoritiessubjectssh85012570 . 
+_:bnode148authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode148authoritiessubjectssh85012570 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-09-10T09:07:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode148authoritiessubjectssh85012570 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode148authoritiessubjectssh85012570 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bays--Russia (Federation)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89007255> . 
+<http://id.loc.gov/authorities/subjects/sh89007255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89007255> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kondopoga Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87001701> . 
+<http://id.loc.gov/authorities/subjects/sh87001701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87001701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gdańsk, Gulf of (Poland and Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00003675> . 
+<http://id.loc.gov/authorities/subjects/sh00003675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00003675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vostok Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95010900> . 
+<http://id.loc.gov/authorities/subjects/sh95010900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95010900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Onega Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000070> . 
+<http://id.loc.gov/authorities/subjects/sh98000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medusa Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96001556> . 
+<http://id.loc.gov/authorities/subjects/sh96001556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96001556> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shelikhov Gulf (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97005560> . 
+<http://id.loc.gov/authorities/subjects/sh97005560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97005560> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yenisey Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98001438> . 
+<http://id.loc.gov/authorities/subjects/sh98001438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98001438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ob, Gulf of (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95010812> . 
+<http://id.loc.gov/authorities/subjects/sh95010812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95010812> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anadyr, Gulf of (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95010836> . 
+<http://id.loc.gov/authorities/subjects/sh95010836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95010836> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dvina Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003009805> . 
+<http://id.loc.gov/authorities/subjects/sh2003009805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003009805> <http://www.w3.org/2004/02/skos/core#prefLabel> "Preobrazhenie Bay (Primorskiĭ kraĭ, Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007000335> . 
+<http://id.loc.gov/authorities/subjects/sh2007000335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007000335> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tauysk Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048397> . 
+<http://id.loc.gov/authorities/subjects/sh85048397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland, Gulf of"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95010877> . 
+<http://id.loc.gov/authorities/subjects/sh95010877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95010877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kandalaksha Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89003257> . 
+<http://id.loc.gov/authorities/subjects/sh89003257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89003257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Khroma Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002228> . 
+<http://id.loc.gov/authorities/subjects/sh90002228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002228> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avacha Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000837> . 
+<http://id.loc.gov/authorities/subjects/sh91000837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chupa Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95003063> . 
+<http://id.loc.gov/authorities/subjects/sh95003063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peter the Great Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004450> . 
+<http://id.loc.gov/authorities/subjects/sh90004450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sakhalin, Gulf of (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005165> . 
+<http://id.loc.gov/authorities/subjects/sh87005165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bolʹshoe Onego (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091232> . 
+<http://id.loc.gov/authorities/subjects/sh85091232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091232> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neva Bay (Russia)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode263authoritiessubjectssh85012570 . 
+_:bnode263authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode263authoritiessubjectssh85012570 <http://www.w3.org/2008/05/skos-xl#literalForm> "Bays--Russian S.F.S.R"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#altLabel> "Bays--Russian S.F.S.R" . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12112313g> . 
+<http://data.bnf.fr/ark:/12148/cb12112313g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12112313g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baies -- Russie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode276authoritiessubjectssh85012570 . 
+_:bnode276authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode276authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85012570> . 
+_:bnode276authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode276authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode276authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85012570> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode284authoritiessubjectssh85012570 . 
+_:bnode284authoritiessubjectssh85012570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode284authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85012570> . 
+_:bnode284authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode284authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#createdDate> "1992-09-10T09:07:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode284authoritiessubjectssh85012570 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

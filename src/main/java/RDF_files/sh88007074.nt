@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hazardous substances--Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh88007074 . 
+_:bnode7authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85059440> . 
+_:bnode7authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85059440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85059440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059440> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hazardous substances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059440> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh88007074 . 
+_:bnode12authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh88007074 . 
+_:bnode12authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hazardous substances"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006258> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh88007074 . 
+_:bnode20authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh88007074 . 
+_:bnode20authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#elementValue> "Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121361317> . 
+<http://data.bnf.fr/ark:/12148/cb121361317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121361317> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Substances dangereuses -- Évaluation du risque"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00006258> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh88007074 . 
+_:bnode33authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh88007074 . 
+_:bnode33authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#elementValue> "Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88007074" . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88007074> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88007074#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh88007074 . 
+_:bnode45authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Risk assessment of hazardous chemical systems in developing countries, 1988." . 
+_:bnode45authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh88007074 . 
+_:bnode51authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#citation-source> "ASTI;Engr. index" . 
+_:bnode51authoritiessubjectssh88007074 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh88007074 . 
+_:bnode57authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh88007074 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-11-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh88007074 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh88007074 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh88007074 . 
+_:bnode64authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh88007074 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-11-05T14:57:17"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh88007074 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh88007074 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hazardous substances--Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00006258> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Risk assessment"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121361317> . 
+<http://data.bnf.fr/ark:/12148/cb121361317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121361317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Substances dangereuses -- Évaluation du risque"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode85authoritiessubjectssh88007074 . 
+_:bnode85authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode85authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88007074> . 
+_:bnode85authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode85authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#createdDate> "1988-11-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88007074> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh88007074 . 
+_:bnode93authoritiessubjectssh88007074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88007074> . 
+_:bnode93authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode93authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#createdDate> "1992-11-05T14:57:17"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh88007074 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

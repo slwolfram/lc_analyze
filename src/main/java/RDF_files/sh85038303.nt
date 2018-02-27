@@ -1,0 +1,256 @@
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85038303 . 
+_:bnode7authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85038303 . 
+_:bnode7authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85038303 . 
+_:bnode11authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Calamities"@en . 
+_:bnode11authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85038303 . 
+_:bnode16authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85038303 . 
+_:bnode16authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Calamities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85038303 . 
+_:bnode20authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Catastrophes"@en . 
+_:bnode20authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85038303 . 
+_:bnode25authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85038303 . 
+_:bnode25authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Catastrophes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016831> . 
+<http://id.loc.gov/authorities/subjects/sh85016831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016831> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bridges--Accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017728> . 
+<http://id.loc.gov/authorities/subjects/sh85017728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017728> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Building failures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020956> . 
+<http://id.loc.gov/authorities/subjects/sh85020956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020956> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophical, The"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb14551712s> . 
+<http://data.bnf.fr/ark:/12148/cb14551712s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb14551712s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes -- Allemagne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028445> . 
+<http://id.loc.gov/authorities/subjects/sh85028445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028445> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Collisions at sea"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035546> . 
+<http://id.loc.gov/authorities/subjects/sh85035546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035546> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dam failures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/2151> . 
+<http://lod.nal.usda.gov/nalt/2151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/2151> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127727> . 
+<http://id.loc.gov/authorities/subjects/sh85127727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127727> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steamboat disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94002743> . 
+<http://id.loc.gov/authorities/subjects/sh94002743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94002743> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spoil bank failures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009009683> . 
+<http://id.loc.gov/authorities/subjects/sh2009009683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009009683> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biological disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85065821> . 
+<http://id.loc.gov/authorities/subjects/sh85065821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065821> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrial accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085495> . 
+<http://id.loc.gov/authorities/subjects/sh85085495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085495> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mine accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb123945485> . 
+<http://data.bnf.fr/ark:/12148/cb123945485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb123945485> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes -- Belgique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12202116x> . 
+<http://data.bnf.fr/ark:/12148/cb12202116x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12202116x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes -- France"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb14534885k> . 
+<http://data.bnf.fr/ark:/12148/cb14534885k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb14534885k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes -- Grande-Bretagne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006008090> . 
+<http://id.loc.gov/authorities/subjects/sh2006008090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006008090> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Environmental disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85034859> . 
+<http://id.loc.gov/authorities/subjects/sh85034859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85034859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034859> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Curiosities and wonders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85034859> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode98authoritiessubjectssh85038303 . 
+_:bnode98authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode99authoritiessubjectssh85038303 . 
+_:bnode98authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode99authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode99authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Curiosities and wonders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090214> . 
+<http://id.loc.gov/authorities/subjects/sh85090214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090214> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Natural disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb14551391t> . 
+<http://data.bnf.fr/ark:/12148/cb14551391t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb14551391t> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes -- Canada"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb125283145> . 
+<http://data.bnf.fr/ark:/12148/cb125283145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb125283145> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes -- Cameroun"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13318743f> . 
+<http://data.bnf.fr/ark:/12148/cb13318743f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13318743f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catastrophes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048572> . 
+<http://id.loc.gov/authorities/subjects/sh85048572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048572> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fires"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85059439> . 
+<http://id.loc.gov/authorities/subjects/sh85059439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85059439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059439> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hazardous geographic environments"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059439> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode127authoritiessubjectssh85038303 . 
+_:bnode127authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode128authoritiessubjectssh85038303 . 
+_:bnode127authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode128authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode128authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hazardous geographic environments"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/4273> . 
+<http://purl.org/bncf/tid/4273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/4273> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Disastri"@it . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96004687> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004687> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Accidents"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004687> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode140authoritiessubjectssh85038303 . 
+_:bnode140authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode141authoritiessubjectssh85038303 . 
+_:bnode140authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode141authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode141authoritiessubjectssh85038303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088641> . 
+<http://id.loc.gov/authorities/subjects/sh85088641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088641> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Murphy's law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85129492> . 
+<http://id.loc.gov/authorities/subjects/sh85129492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85129492> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Submarine disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89000018> . 
+<http://id.loc.gov/authorities/subjects/sh89000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89000018> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ferryboat disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/65> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85038303" . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85038303> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85038303#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode165authoritiessubjectssh85038303 . 
+_:bnode165authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode165authoritiessubjectssh85038303 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode165authoritiessubjectssh85038303 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode165authoritiessubjectssh85038303 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode172authoritiessubjectssh85038303 . 
+_:bnode172authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode172authoritiessubjectssh85038303 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-11-29T07:51:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode172authoritiessubjectssh85038303 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode172authoritiessubjectssh85038303 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode182authoritiessubjectssh85038303 . 
+_:bnode182authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode182authoritiessubjectssh85038303 <http://www.w3.org/2008/05/skos-xl#literalForm> "Calamities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#altLabel> "Calamities" . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode189authoritiessubjectssh85038303 . 
+_:bnode189authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode189authoritiessubjectssh85038303 <http://www.w3.org/2008/05/skos-xl#literalForm> "Catastrophes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#altLabel> "Catastrophes" . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85034859> . 
+<http://id.loc.gov/authorities/subjects/sh85034859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034859> <http://www.w3.org/2004/02/skos/core#prefLabel> "Curiosities and wonders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016831> . 
+<http://id.loc.gov/authorities/subjects/sh85016831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016831> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bridges--Accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017728> . 
+<http://id.loc.gov/authorities/subjects/sh85017728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017728> <http://www.w3.org/2004/02/skos/core#prefLabel> "Building failures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020956> . 
+<http://id.loc.gov/authorities/subjects/sh85020956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020956> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophical, The"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028445> . 
+<http://id.loc.gov/authorities/subjects/sh85028445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028445> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collisions at sea"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035546> . 
+<http://id.loc.gov/authorities/subjects/sh85035546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035546> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dam failures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127727> . 
+<http://id.loc.gov/authorities/subjects/sh85127727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127727> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steamboat disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94002743> . 
+<http://id.loc.gov/authorities/subjects/sh94002743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94002743> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spoil bank failures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009009683> . 
+<http://id.loc.gov/authorities/subjects/sh2009009683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009009683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85065821> . 
+<http://id.loc.gov/authorities/subjects/sh85065821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065821> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrial accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085495> . 
+<http://id.loc.gov/authorities/subjects/sh85085495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085495> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mine accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006008090> . 
+<http://id.loc.gov/authorities/subjects/sh2006008090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006008090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Environmental disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090214> . 
+<http://id.loc.gov/authorities/subjects/sh85090214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048572> . 
+<http://id.loc.gov/authorities/subjects/sh85048572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048572> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fires"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088641> . 
+<http://id.loc.gov/authorities/subjects/sh85088641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Murphy's law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85129492> . 
+<http://id.loc.gov/authorities/subjects/sh85129492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85129492> <http://www.w3.org/2004/02/skos/core#prefLabel> "Submarine disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89000018> . 
+<http://id.loc.gov/authorities/subjects/sh89000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89000018> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ferryboat disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85059439> . 
+<http://id.loc.gov/authorities/subjects/sh85059439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059439> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hazardous geographic environments"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/childrensSubjects/sj96004687> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Accidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/2151> . 
+<http://lod.nal.usda.gov/nalt/2151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/2151> <http://www.w3.org/2004/02/skos/core#prefLabel> "disasters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/65> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb14551712s> . 
+<http://data.bnf.fr/ark:/12148/cb14551712s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb14551712s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes -- Allemagne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb123945485> . 
+<http://data.bnf.fr/ark:/12148/cb123945485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb123945485> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes -- Belgique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12202116x> . 
+<http://data.bnf.fr/ark:/12148/cb12202116x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12202116x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes -- France"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb14534885k> . 
+<http://data.bnf.fr/ark:/12148/cb14534885k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb14534885k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes -- Grande-Bretagne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb14551391t> . 
+<http://data.bnf.fr/ark:/12148/cb14551391t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb14551391t> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes -- Canada"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb125283145> . 
+<http://data.bnf.fr/ark:/12148/cb125283145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb125283145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes -- Cameroun"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13318743f> . 
+<http://data.bnf.fr/ark:/12148/cb13318743f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13318743f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catastrophes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/4273> . 
+<http://purl.org/bncf/tid/4273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/4273> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disastri"@it . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2008/05/skos-xl#altLabel> "Calamities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2008/05/skos-xl#altLabel> "Catastrophes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode342authoritiessubjectssh85038303 . 
+_:bnode342authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode342authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85038303> . 
+_:bnode342authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode342authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode342authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85038303> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode350authoritiessubjectssh85038303 . 
+_:bnode350authoritiessubjectssh85038303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode350authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85038303> . 
+_:bnode350authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode350authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#createdDate> "2008-11-29T07:51:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode350authoritiessubjectssh85038303 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

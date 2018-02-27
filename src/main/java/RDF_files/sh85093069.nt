@@ -1,0 +1,460 @@
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85093069 . 
+_:bnode7authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85093069 . 
+_:bnode7authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85093069 . 
+_:bnode11authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Nuclear transformations"@en . 
+_:bnode11authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85093069 . 
+_:bnode16authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85093069 . 
+_:bnode16authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nuclear transformations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85093069 . 
+_:bnode20authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Nuclear transmutation"@en . 
+_:bnode20authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85093069 . 
+_:bnode25authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85093069 . 
+_:bnode25authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nuclear transmutation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039850> . 
+<http://id.loc.gov/authorities/subjects/sh85039850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Duality (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005650> . 
+<http://id.loc.gov/authorities/subjects/sh87005650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005650> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neutrino interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85092958> . 
+<http://id.loc.gov/authorities/subjects/sh85092958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85092958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092958> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear energy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85092958> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85093069 . 
+_:bnode42authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85093069 . 
+_:bnode42authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nuclear energy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038257> . 
+<http://id.loc.gov/authorities/subjects/sh85038257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038257> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Direct reactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85113158> . 
+<http://id.loc.gov/authorities/subjects/sh85113158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113158> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Resonance integral"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85058214> . 
+<http://id.loc.gov/authorities/subjects/sh85058214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058214> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hadrons--Multiplicity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036378> . 
+<http://id.loc.gov/authorities/subjects/sh85036378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036378> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deep inelastic collisions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005979> . 
+<http://id.loc.gov/authorities/subjects/sh98005979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005979> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Strong interactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85056400> . 
+<http://id.loc.gov/authorities/subjects/sh85056400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85056400> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Grand unified theories (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85065801> . 
+<http://id.loc.gov/authorities/subjects/sh85065801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065801> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Induced radioactivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88001013> . 
+<http://id.loc.gov/authorities/subjects/sh88001013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88001013> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hadron-nuclei interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093152> . 
+<http://id.loc.gov/authorities/subjects/sh85093152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093152> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleon-antinucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85145822> . 
+<http://id.loc.gov/authorities/subjects/sh85145822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145822> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Weak interactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092983> . 
+<http://id.loc.gov/authorities/subjects/sh85092983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092983> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear fission"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85029413> . 
+<http://id.loc.gov/authorities/subjects/sh85029413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85029413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029413> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Compound nucleus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85029413> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode95authoritiessubjectssh85093069 . 
+_:bnode95authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode96authoritiessubjectssh85093069 . 
+_:bnode95authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode96authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode96authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Compound nucleus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101401> . 
+<http://id.loc.gov/authorities/subjects/sh85101401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101401> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photonuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85093024> . 
+<http://id.loc.gov/authorities/subjects/sh85093024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85093024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093024> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear physics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093024> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode108authoritiessubjectssh85093069 . 
+_:bnode108authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode109authoritiessubjectssh85093069 . 
+_:bnode108authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode109authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode109authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nuclear physics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110365> . 
+<http://id.loc.gov/authorities/subjects/sh85110365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110365> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radiative capture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064755> . 
+<http://id.loc.gov/authorities/subjects/sh85064755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064755> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inclusive processes (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107786> . 
+<http://id.loc.gov/authorities/subjects/sh85107786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107786> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proton-antiproton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016730> . 
+<http://id.loc.gov/authorities/subjects/sh85016730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016730> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bremsstrahlung"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119786586> . 
+<http://data.bnf.fr/ark:/12148/cb119786586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119786586> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Réactions nucléaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005143> . 
+<http://id.loc.gov/authorities/subjects/sh85005143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005143> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Angular distribution (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85058210> . 
+<http://id.loc.gov/authorities/subjects/sh85058210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058210> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hadron interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098377> . 
+<http://id.loc.gov/authorities/subjects/sh85098377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098377> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Particles (Nuclear physics)--Multiplicity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092995> . 
+<http://id.loc.gov/authorities/subjects/sh85092995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092995> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear fusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110597> . 
+<http://id.loc.gov/authorities/subjects/sh85110597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110597> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radioactive decay"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128354> . 
+<http://id.loc.gov/authorities/subjects/sh85128354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128354> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stopping power (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042169> . 
+<http://id.loc.gov/authorities/subjects/sh85042169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042169> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electromagnetic interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006014> . 
+<http://id.loc.gov/authorities/subjects/sh88006014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neutrons--Multiplicity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85028443> . 
+<http://id.loc.gov/authorities/subjects/sh85028443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85028443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028443> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Collisions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028443> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode169authoritiessubjectssh85093069 . 
+_:bnode169authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode170authoritiessubjectssh85093069 . 
+_:bnode169authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode170authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode170authoritiessubjectssh85093069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Collisions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117920> . 
+<http://id.loc.gov/authorities/subjects/sh85117920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117920> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scaling laws (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093153> . 
+<http://id.loc.gov/authorities/subjects/sh85093153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093153> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleon-nucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005990> . 
+<http://id.loc.gov/authorities/subjects/sh88005990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pion-nucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110661> . 
+<http://id.loc.gov/authorities/subjects/sh85110661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radioactivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109477> . 
+<http://id.loc.gov/authorities/subjects/sh85109477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109477> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quark-gluon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006849> . 
+<http://id.loc.gov/authorities/subjects/sh88006849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006849> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proton-proton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/6911> . 
+<http://purl.org/bncf/tid/6911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/6911> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reazioni nucleari"@it . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088520> . 
+<http://id.loc.gov/authorities/subjects/sh85088520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088520> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muonium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000634> . 
+<http://id.loc.gov/authorities/subjects/sh95000634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000634> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exclusive reactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105391> . 
+<http://id.loc.gov/authorities/subjects/sh85105391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105391> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Positronium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091212> . 
+<http://id.loc.gov/authorities/subjects/sh85091212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091212> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neutron-proton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86000095> . 
+<http://id.loc.gov/authorities/subjects/sh86000095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86000095> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deuteron reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91002552> . 
+<http://id.loc.gov/authorities/subjects/sh91002552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91002552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Standard model (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85076120> . 
+<http://id.loc.gov/authorities/subjects/sh85076120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076120> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lepton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096857> . 
+<http://id.loc.gov/authorities/subjects/sh85096857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096857> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pair production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126206> . 
+<http://id.loc.gov/authorities/subjects/sh85126206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126206> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spallation (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070180> . 
+<http://id.loc.gov/authorities/subjects/sh85070180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070180> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jets (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015003070> . 
+<http://id.loc.gov/authorities/subjects/sh2015003070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015003070> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Low-energy nuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093110> . 
+<http://id.loc.gov/authorities/subjects/sh85093110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093110> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear spectroscopy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005354> . 
+<http://id.loc.gov/authorities/subjects/sh85005354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005354> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Annihilation reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86005313> . 
+<http://id.loc.gov/authorities/subjects/sh86005313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005313> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meson-nucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85129017> . 
+<http://id.loc.gov/authorities/subjects/sh85129017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85129017> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "String models"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064756> . 
+<http://id.loc.gov/authorities/subjects/sh85064756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064756> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inclusive reactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4030343-3> . 
+<http://d-nb.info/gnd/4030343-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4030343-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kernreaktion"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85129152> . 
+<http://id.loc.gov/authorities/subjects/sh85129152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85129152> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stripping reaction (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005142> . 
+<http://id.loc.gov/authorities/subjects/sh85005142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005142> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Angular correlations (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034280> . 
+<http://id.loc.gov/authorities/subjects/sh85034280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034280> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cross section fluctuations (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85041188> . 
+<http://id.loc.gov/authorities/subjects/sh85041188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041188> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Effective interactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91006193> . 
+<http://id.loc.gov/authorities/subjects/sh91006193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91006193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear fragmentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091211> . 
+<http://id.loc.gov/authorities/subjects/sh85091211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091211> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neutron irradiation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86001165> . 
+<http://id.loc.gov/authorities/subjects/sh86001165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86001165> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pion-pion interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098362> . 
+<http://id.loc.gov/authorities/subjects/sh85098362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098362> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Particle beams, Colliding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Capture] under names of particles, e.g. [Neutrons--Capture;] and subdivision [Decay] under radioactive substances, e.g. [Radium--Decay]" . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85093069" . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85093069> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85093069#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode310authoritiessubjectssh85093069 . 
+_:bnode310authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode310authoritiessubjectssh85093069 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode310authoritiessubjectssh85093069 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode310authoritiessubjectssh85093069 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode320authoritiessubjectssh85093069 . 
+_:bnode320authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode320authoritiessubjectssh85093069 <http://www.w3.org/2008/05/skos-xl#literalForm> "Nuclear transformations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#altLabel> "Nuclear transformations" . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode327authoritiessubjectssh85093069 . 
+_:bnode327authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode327authoritiessubjectssh85093069 <http://www.w3.org/2008/05/skos-xl#literalForm> "Nuclear transmutation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#altLabel> "Nuclear transmutation" . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85092958> . 
+<http://id.loc.gov/authorities/subjects/sh85092958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092958> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear energy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85093024> . 
+<http://id.loc.gov/authorities/subjects/sh85093024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093024> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear physics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85028443> . 
+<http://id.loc.gov/authorities/subjects/sh85028443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028443> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collisions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039850> . 
+<http://id.loc.gov/authorities/subjects/sh85039850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039850> <http://www.w3.org/2004/02/skos/core#prefLabel> "Duality (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005650> . 
+<http://id.loc.gov/authorities/subjects/sh87005650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neutrino interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038257> . 
+<http://id.loc.gov/authorities/subjects/sh85038257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direct reactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85113158> . 
+<http://id.loc.gov/authorities/subjects/sh85113158> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113158> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resonance integral"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85058214> . 
+<http://id.loc.gov/authorities/subjects/sh85058214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hadrons--Multiplicity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036378> . 
+<http://id.loc.gov/authorities/subjects/sh85036378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036378> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deep inelastic collisions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005979> . 
+<http://id.loc.gov/authorities/subjects/sh98005979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strong interactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85056400> . 
+<http://id.loc.gov/authorities/subjects/sh85056400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85056400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand unified theories (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85065801> . 
+<http://id.loc.gov/authorities/subjects/sh85065801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065801> <http://www.w3.org/2004/02/skos/core#prefLabel> "Induced radioactivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88001013> . 
+<http://id.loc.gov/authorities/subjects/sh88001013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001013> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hadron-nuclei interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093152> . 
+<http://id.loc.gov/authorities/subjects/sh85093152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093152> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleon-antinucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85145822> . 
+<http://id.loc.gov/authorities/subjects/sh85145822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145822> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weak interactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092983> . 
+<http://id.loc.gov/authorities/subjects/sh85092983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092983> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear fission"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101401> . 
+<http://id.loc.gov/authorities/subjects/sh85101401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101401> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photonuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110365> . 
+<http://id.loc.gov/authorities/subjects/sh85110365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110365> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radiative capture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064755> . 
+<http://id.loc.gov/authorities/subjects/sh85064755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064755> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inclusive processes (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107786> . 
+<http://id.loc.gov/authorities/subjects/sh85107786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proton-antiproton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016730> . 
+<http://id.loc.gov/authorities/subjects/sh85016730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016730> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bremsstrahlung"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005143> . 
+<http://id.loc.gov/authorities/subjects/sh85005143> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005143> <http://www.w3.org/2004/02/skos/core#prefLabel> "Angular distribution (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85058210> . 
+<http://id.loc.gov/authorities/subjects/sh85058210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hadron interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098377> . 
+<http://id.loc.gov/authorities/subjects/sh85098377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Particles (Nuclear physics)--Multiplicity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092995> . 
+<http://id.loc.gov/authorities/subjects/sh85092995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092995> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear fusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110597> . 
+<http://id.loc.gov/authorities/subjects/sh85110597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radioactive decay"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128354> . 
+<http://id.loc.gov/authorities/subjects/sh85128354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128354> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stopping power (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042169> . 
+<http://id.loc.gov/authorities/subjects/sh85042169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electromagnetic interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006014> . 
+<http://id.loc.gov/authorities/subjects/sh88006014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neutrons--Multiplicity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117920> . 
+<http://id.loc.gov/authorities/subjects/sh85117920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scaling laws (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093153> . 
+<http://id.loc.gov/authorities/subjects/sh85093153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093153> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleon-nucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005990> . 
+<http://id.loc.gov/authorities/subjects/sh88005990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pion-nucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110661> . 
+<http://id.loc.gov/authorities/subjects/sh85110661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radioactivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109477> . 
+<http://id.loc.gov/authorities/subjects/sh85109477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109477> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quark-gluon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006849> . 
+<http://id.loc.gov/authorities/subjects/sh88006849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proton-proton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088520> . 
+<http://id.loc.gov/authorities/subjects/sh85088520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muonium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000634> . 
+<http://id.loc.gov/authorities/subjects/sh95000634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exclusive reactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105391> . 
+<http://id.loc.gov/authorities/subjects/sh85105391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Positronium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091212> . 
+<http://id.loc.gov/authorities/subjects/sh85091212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neutron-proton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86000095> . 
+<http://id.loc.gov/authorities/subjects/sh86000095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86000095> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deuteron reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91002552> . 
+<http://id.loc.gov/authorities/subjects/sh91002552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91002552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standard model (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85076120> . 
+<http://id.loc.gov/authorities/subjects/sh85076120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lepton interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096857> . 
+<http://id.loc.gov/authorities/subjects/sh85096857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096857> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pair production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126206> . 
+<http://id.loc.gov/authorities/subjects/sh85126206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spallation (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070180> . 
+<http://id.loc.gov/authorities/subjects/sh85070180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070180> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jets (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015003070> . 
+<http://id.loc.gov/authorities/subjects/sh2015003070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015003070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Low-energy nuclear reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093110> . 
+<http://id.loc.gov/authorities/subjects/sh85093110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear spectroscopy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005354> . 
+<http://id.loc.gov/authorities/subjects/sh85005354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005354> <http://www.w3.org/2004/02/skos/core#prefLabel> "Annihilation reactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86005313> . 
+<http://id.loc.gov/authorities/subjects/sh86005313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meson-nucleon interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85129017> . 
+<http://id.loc.gov/authorities/subjects/sh85129017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85129017> <http://www.w3.org/2004/02/skos/core#prefLabel> "String models"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064756> . 
+<http://id.loc.gov/authorities/subjects/sh85064756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inclusive reactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85129152> . 
+<http://id.loc.gov/authorities/subjects/sh85129152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85129152> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stripping reaction (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005142> . 
+<http://id.loc.gov/authorities/subjects/sh85005142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005142> <http://www.w3.org/2004/02/skos/core#prefLabel> "Angular correlations (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034280> . 
+<http://id.loc.gov/authorities/subjects/sh85034280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034280> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cross section fluctuations (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85041188> . 
+<http://id.loc.gov/authorities/subjects/sh85041188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041188> <http://www.w3.org/2004/02/skos/core#prefLabel> "Effective interactions (Nuclear physics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91006193> . 
+<http://id.loc.gov/authorities/subjects/sh91006193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear fragmentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091211> . 
+<http://id.loc.gov/authorities/subjects/sh85091211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neutron irradiation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86001165> . 
+<http://id.loc.gov/authorities/subjects/sh86001165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86001165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pion-pion interactions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098362> . 
+<http://id.loc.gov/authorities/subjects/sh85098362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098362> <http://www.w3.org/2004/02/skos/core#prefLabel> "Particle beams, Colliding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85029413> . 
+<http://id.loc.gov/authorities/subjects/sh85029413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029413> <http://www.w3.org/2004/02/skos/core#prefLabel> "Compound nucleus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119786586> . 
+<http://data.bnf.fr/ark:/12148/cb119786586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119786586> <http://www.w3.org/2004/02/skos/core#prefLabel> "Réactions nucléaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/6911> . 
+<http://purl.org/bncf/tid/6911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/6911> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reazioni nucleari"@it . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4030343-3> . 
+<http://d-nb.info/gnd/4030343-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4030343-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kernreaktion"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Capture] under names of particles, e.g. [Neutrons--Capture;] and subdivision [Decay] under radioactive substances, e.g. [Radium--Decay]" . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2008/05/skos-xl#altLabel> "Nuclear transformations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2008/05/skos-xl#altLabel> "Nuclear transmutation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093069> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode656authoritiessubjectssh85093069 . 
+_:bnode656authoritiessubjectssh85093069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode656authoritiessubjectssh85093069 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093069> . 
+_:bnode656authoritiessubjectssh85093069 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode656authoritiessubjectssh85093069 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode656authoritiessubjectssh85093069 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

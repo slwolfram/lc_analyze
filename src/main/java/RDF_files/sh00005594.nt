@@ -1,0 +1,105 @@
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employees--Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh00005594 . 
+_:bnode7authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00002753> . 
+_:bnode7authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh00005594 . 
+_:bnode12authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh00005594 . 
+_:bnode12authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementValue> "Employees"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85038411> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh00005594 . 
+_:bnode20authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh00005594 . 
+_:bnode20authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementValue> "Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode24authoritiessubjectssh00005594 . 
+_:bnode24authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Employees--Diseases and hygiene"@en . 
+_:bnode24authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode29authoritiessubjectssh00005594 . 
+_:bnode29authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh00005594 . 
+_:bnode29authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode037 . 
+_:bnode30authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode30authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode30authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Employees"@en . 
+_:bnode30authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode34authoritiessubjectssh00005594 . 
+_:bnode34authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode35authoritiessubjectssh00005594 . 
+_:bnode34authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode35authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode35authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementValue> "Employees"@en . 
+_:bnode037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh00005594 . 
+_:bnode037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode38authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode38authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Diseases and hygiene"@en . 
+_:bnode38authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh00005594 . 
+_:bnode42authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh00005594 . 
+_:bnode42authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementValue> "Diseases and hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85038411> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh00005594 . 
+_:bnode51authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh00005594 . 
+_:bnode51authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh00005594 <http://www.loc.gov/mads/rdf/v1#elementValue> "Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1153> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under types of industries." . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Reference under the heading [Occupational diseases]" . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00005594" . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00005594> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00005594#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh00005594 . 
+_:bnode69authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-03-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode69authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh00005594 . 
+_:bnode77authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-02-17T10:12:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode77authoritiessubjectssh00005594 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employees--Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85038411> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038411> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode93authoritiessubjectssh00005594 . 
+_:bnode93authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode93authoritiessubjectssh00005594 <http://www.w3.org/2008/05/skos-xl#literalForm> "Employees--Diseases and hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#altLabel> "Employees--Diseases and hygiene" . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under types of industries." . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#example> "Reference under the heading [Occupational diseases]" . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh00005594 . 
+_:bnode105authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00005594> . 
+_:bnode105authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode105authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#createdDate> "2000-03-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00005594> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode113authoritiessubjectssh00005594 . 
+_:bnode113authoritiessubjectssh00005594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode113authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00005594> . 
+_:bnode113authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode113authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#createdDate> "2006-02-17T10:12:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode113authoritiessubjectssh00005594 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

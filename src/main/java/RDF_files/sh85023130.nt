@@ -1,0 +1,232 @@
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chess variations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85023130 . 
+_:bnode7authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85023130 . 
+_:bnode7authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chess variations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85023130 . 
+_:bnode11authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Variations, Chess"@en . 
+_:bnode11authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85023130 . 
+_:bnode16authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85023130 . 
+_:bnode16authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementValue> "Variations, Chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#classification> "GV1458" . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94006665> . 
+<http://id.loc.gov/authorities/subjects/sh94006665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94006665> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kriegspiel (Game)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085172> . 
+<http://id.loc.gov/authorities/subjects/sh85085172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085172> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Military chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97007567> . 
+<http://id.loc.gov/authorities/subjects/sh97007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97007567> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blindfold chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009005242> . 
+<http://id.loc.gov/authorities/subjects/sh2009005242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009005242> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Falconry chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004678> . 
+<http://id.loc.gov/authorities/subjects/sh98004678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Three-dimensional chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode42authoritiessubjectssh85023130 . 
+_:bnode42authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode42authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode42authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chess--Variants"@en . 
+_:bnode42authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode47authoritiessubjectssh85023130 . 
+_:bnode47authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85023130 . 
+_:bnode47authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode055 . 
+_:bnode48authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode48authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode48authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chess"@en . 
+_:bnode48authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85023130 . 
+_:bnode52authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85023130 . 
+_:bnode52authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chess"@en . 
+_:bnode055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85023130 . 
+_:bnode055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode56authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode56authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Variants"@en . 
+_:bnode56authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85023130 . 
+_:bnode60authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85023130 . 
+_:bnode60authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementValue> "Variants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007774> . 
+<http://id.loc.gov/authorities/subjects/sh88007774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007774> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Changgi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97007557> . 
+<http://id.loc.gov/authorities/subjects/sh97007557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97007557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rapid chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00000614> . 
+<http://id.loc.gov/authorities/subjects/sh00000614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00000614> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Archchess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121739> . 
+<http://id.loc.gov/authorities/subjects/sh85121739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121739> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shogi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000247> . 
+<http://id.loc.gov/authorities/subjects/sh87000247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000247> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quächess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93005565> . 
+<http://id.loc.gov/authorities/subjects/sh93005565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93005565> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hexagonal chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85023121> . 
+<http://id.loc.gov/authorities/subjects/sh85023121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023121> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023121> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode93authoritiessubjectssh85023130 . 
+_:bnode93authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode94authoritiessubjectssh85023130 . 
+_:bnode93authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode94authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode94authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023196> . 
+<http://id.loc.gov/authorities/subjects/sh85023196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chez game"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93005566> . 
+<http://id.loc.gov/authorities/subjects/sh93005566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93005566> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Speed chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95003707> . 
+<http://id.loc.gov/authorities/subjects/sh95003707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tri-chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96002141> . 
+<http://id.loc.gov/authorities/subjects/sh96002141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96002141> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Superchess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95003399> . 
+<http://id.loc.gov/authorities/subjects/sh95003399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003399> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Four-handed chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99014547> . 
+<http://id.loc.gov/authorities/subjects/sh99014547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99014547> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mongolian chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99002415> . 
+<http://id.loc.gov/authorities/subjects/sh99002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yamagochi (Game)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93005564> . 
+<http://id.loc.gov/authorities/subjects/sh93005564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93005564> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Budhibal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010014018> . 
+<http://id.loc.gov/authorities/subjects/sh2010014018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010014018> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arimaa (Game)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97007558> . 
+<http://id.loc.gov/authorities/subjects/sh97007558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97007558> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Short game (Chess)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024252> . 
+<http://id.loc.gov/authorities/subjects/sh85024252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024252> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chinese chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85023130" . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85023130> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85023130#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode149authoritiessubjectssh85023130 . 
+_:bnode149authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode149authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#citation-source> "Gollon, J. Chess variations, 1968." . 
+_:bnode149authoritiessubjectssh85023130 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode155authoritiessubjectssh85023130 . 
+_:bnode155authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode155authoritiessubjectssh85023130 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode155authoritiessubjectssh85023130 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode155authoritiessubjectssh85023130 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode162authoritiessubjectssh85023130 . 
+_:bnode162authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode162authoritiessubjectssh85023130 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-09-03T11:17:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode162authoritiessubjectssh85023130 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode162authoritiessubjectssh85023130 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess variations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode172authoritiessubjectssh85023130 . 
+_:bnode172authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode172authoritiessubjectssh85023130 <http://www.w3.org/2008/05/skos-xl#literalForm> "Variations, Chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#altLabel> "Variations, Chess" . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85023121> . 
+<http://id.loc.gov/authorities/subjects/sh85023121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94006665> . 
+<http://id.loc.gov/authorities/subjects/sh94006665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94006665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kriegspiel (Game)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085172> . 
+<http://id.loc.gov/authorities/subjects/sh85085172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Military chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97007567> . 
+<http://id.loc.gov/authorities/subjects/sh97007567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97007567> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blindfold chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009005242> . 
+<http://id.loc.gov/authorities/subjects/sh2009005242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009005242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Falconry chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004678> . 
+<http://id.loc.gov/authorities/subjects/sh98004678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Three-dimensional chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007774> . 
+<http://id.loc.gov/authorities/subjects/sh88007774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007774> <http://www.w3.org/2004/02/skos/core#prefLabel> "Changgi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97007557> . 
+<http://id.loc.gov/authorities/subjects/sh97007557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97007557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rapid chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00000614> . 
+<http://id.loc.gov/authorities/subjects/sh00000614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00000614> <http://www.w3.org/2004/02/skos/core#prefLabel> "Archchess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121739> . 
+<http://id.loc.gov/authorities/subjects/sh85121739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121739> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shogi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000247> . 
+<http://id.loc.gov/authorities/subjects/sh87000247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quächess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93005565> . 
+<http://id.loc.gov/authorities/subjects/sh93005565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93005565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hexagonal chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023196> . 
+<http://id.loc.gov/authorities/subjects/sh85023196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chez game"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93005566> . 
+<http://id.loc.gov/authorities/subjects/sh93005566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93005566> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speed chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95003707> . 
+<http://id.loc.gov/authorities/subjects/sh95003707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003707> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tri-chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96002141> . 
+<http://id.loc.gov/authorities/subjects/sh96002141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96002141> <http://www.w3.org/2004/02/skos/core#prefLabel> "Superchess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95003399> . 
+<http://id.loc.gov/authorities/subjects/sh95003399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Four-handed chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99014547> . 
+<http://id.loc.gov/authorities/subjects/sh99014547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99014547> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mongolian chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99002415> . 
+<http://id.loc.gov/authorities/subjects/sh99002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yamagochi (Game)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93005564> . 
+<http://id.loc.gov/authorities/subjects/sh93005564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93005564> <http://www.w3.org/2004/02/skos/core#prefLabel> "Budhibal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010014018> . 
+<http://id.loc.gov/authorities/subjects/sh2010014018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010014018> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arimaa (Game)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97007558> . 
+<http://id.loc.gov/authorities/subjects/sh97007558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97007558> <http://www.w3.org/2004/02/skos/core#prefLabel> "Short game (Chess)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024252> . 
+<http://id.loc.gov/authorities/subjects/sh85024252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024252> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinese chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode294authoritiessubjectssh85023130 . 
+_:bnode294authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode294authoritiessubjectssh85023130 <http://www.w3.org/2008/05/skos-xl#literalForm> "Chess--Variants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#altLabel> "Chess--Variants" . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2008/05/skos-xl#altLabel> "Variations, Chess"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode304authoritiessubjectssh85023130 . 
+_:bnode304authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode304authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85023130> . 
+_:bnode304authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode304authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode304authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85023130> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode312authoritiessubjectssh85023130 . 
+_:bnode312authoritiessubjectssh85023130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode312authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85023130> . 
+_:bnode312authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode312authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#createdDate> "1993-09-03T11:17:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode312authoritiessubjectssh85023130 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Straits--Greenland"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh89005704 . 
+_:bnode7authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85128458> . 
+_:bnode7authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85128458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85128458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128458> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Straits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85128458> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh89005704 . 
+_:bnode12authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh89005704 . 
+_:bnode12authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh89005704 <http://www.loc.gov/mads/rdf/v1#elementValue> "Straits"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79059221> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n79059221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79059221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79059221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Greenland"@en . 
+<http://id.loc.gov/authorities/names/n79059221> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh89005704 . 
+_:bnode20authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh89005704 . 
+_:bnode20authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh89005704 <http://www.loc.gov/mads/rdf/v1#elementValue> "Greenland"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005086> . 
+<http://id.loc.gov/authorities/subjects/sh98005086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005086> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kennedy Channel"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89005703> . 
+<http://id.loc.gov/authorities/subjects/sh89005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005703> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Skærgården Channel (Greenland)"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000823> . 
+<http://id.loc.gov/authorities/subjects/sh98000823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000823> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Robeson Channel"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005385> . 
+<http://id.loc.gov/authorities/subjects/sh98005385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005385> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nares Strait"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004928> . 
+<http://id.loc.gov/authorities/subjects/sh98004928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004928> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fram Strait"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 89005704" . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh89005704> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh89005704#concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh89005704 . 
+_:bnode51authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh89005704 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-10-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh89005704 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh89005704 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh89005704 . 
+_:bnode58authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh89005704 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-11-14T11:37:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh89005704 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh89005704 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Straits--Greenland"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005086> . 
+<http://id.loc.gov/authorities/subjects/sh98005086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kennedy Channel"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89005703> . 
+<http://id.loc.gov/authorities/subjects/sh89005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Skærgården Channel (Greenland)"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000823> . 
+<http://id.loc.gov/authorities/subjects/sh98000823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000823> <http://www.w3.org/2004/02/skos/core#prefLabel> "Robeson Channel"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005385> . 
+<http://id.loc.gov/authorities/subjects/sh98005385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005385> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nares Strait"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004928> . 
+<http://id.loc.gov/authorities/subjects/sh98004928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fram Strait"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh89005704 . 
+_:bnode94authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89005704> . 
+_:bnode94authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode94authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#createdDate> "1989-10-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh89005704> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh89005704 . 
+_:bnode102authoritiessubjectssh89005704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89005704> . 
+_:bnode102authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode102authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#createdDate> "1989-11-14T11:37:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh89005704 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

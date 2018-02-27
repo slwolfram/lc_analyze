@@ -1,0 +1,337 @@
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85048726 . 
+_:bnode7authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85048726 . 
+_:bnode7authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85048726 . 
+_:bnode11authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Fish"@en . 
+_:bnode11authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85048726 . 
+_:bnode16authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85048726 . 
+_:bnode16authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85048726 . 
+_:bnode20authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Pisces"@en . 
+_:bnode20authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85048726 . 
+_:bnode25authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85048726 . 
+_:bnode25authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pisces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#classification> "QL614-QL639" . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048822> . 
+<http://id.loc.gov/authorities/subjects/sh85048822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048822> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anadromous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933179r> . 
+<http://data.bnf.fr/ark:/12148/cb11933179r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933179r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poissons"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048826> . 
+<http://id.loc.gov/authorities/subjects/sh85048826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048826> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Freshwater fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/845> . 
+<http://lod.nal.usda.gov/nalt/845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/845> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93000050> . 
+<http://id.loc.gov/authorities/subjects/sh93000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93000050> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hatchery fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96006425> . 
+<http://id.loc.gov/authorities/subjects/sh96006425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96006425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Introduced fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85142902> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85048726 . 
+_:bnode60authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85048726 . 
+_:bnode60authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88002555> . 
+<http://id.loc.gov/authorities/subjects/sh88002555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88002555> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Diadromous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081173> . 
+<http://id.loc.gov/authorities/subjects/sh85081173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marine fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96004987> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004987> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartilaginous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004001319> . 
+<http://id.loc.gov/authorities/subjects/sh2004001319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004001319> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fish pests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002220> . 
+<http://id.loc.gov/authorities/subjects/sh85002220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002220> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agnatha"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96005480> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fishing"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode89authoritiessubjectssh85048726 . 
+_:bnode89authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode90authoritiessubjectssh85048726 . 
+_:bnode89authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode90authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode90authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85006221> . 
+<http://id.loc.gov/authorities/subjects/sh85006221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aquarium fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92000591> . 
+<http://id.loc.gov/authorities/subjects/sh92000591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transgenic fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103943> . 
+<http://id.loc.gov/authorities/subjects/sh85103943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103943> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poisonous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016001562> . 
+<http://id.loc.gov/authorities/subjects/sh2016001562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016001562> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cleaner fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095701> . 
+<http://id.loc.gov/authorities/subjects/sh85095701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095701> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ornamental fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001009600> . 
+<http://id.loc.gov/authorities/subjects/sh2001009600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001009600> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Warmwater fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95009146> . 
+<http://id.loc.gov/authorities/subjects/sh95009146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95009146> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035711> . 
+<http://id.loc.gov/authorities/subjects/sh85035711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035711> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dangerous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009008591> . 
+<http://id.loc.gov/authorities/subjects/sh2009008591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009008591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Migratory fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003011245> . 
+<http://id.loc.gov/authorities/subjects/sh2003011245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003011245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Groundfishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101345> . 
+<http://id.loc.gov/authorities/subjects/sh85101345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101345> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photography of fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91006307> . 
+<http://id.loc.gov/authorities/subjects/sh91006307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91006307> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exotic fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85064050> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ichthyology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode146authoritiessubjectssh85048726 . 
+_:bnode146authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode147authoritiessubjectssh85048726 . 
+_:bnode146authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode147authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode147authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ichthyology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016001564> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Native fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85006228> . 
+<http://id.loc.gov/authorities/subjects/sh85006228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85006228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006228> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aquatic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85006228> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode159authoritiessubjectssh85048726 . 
+_:bnode159authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode160authoritiessubjectssh85048726 . 
+_:bnode159authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode160authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode160authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aquatic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011047> . 
+<http://id.loc.gov/authorities/subjects/sh85011047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011047> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baitfish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/841> . 
+<http://lod.nal.usda.gov/nalt/841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/841> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pisces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024672> . 
+<http://id.loc.gov/authorities/subjects/sh85024672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024672> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chondrichthyes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85050433> . 
+<http://id.loc.gov/authorities/subjects/sh85050433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050433> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forage fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92006321> . 
+<http://id.loc.gov/authorities/subjects/sh92006321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92006321> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brackish water fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001709> . 
+<http://id.loc.gov/authorities/subjects/sh93001709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001709> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Extinct fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89003521> . 
+<http://id.loc.gov/authorities/subjects/sh89003521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89003521> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rare fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85048666> . 
+<http://id.loc.gov/authorities/subjects/sh85048666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85048666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048666> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fisheries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048666> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode196authoritiessubjectssh85048726 . 
+_:bnode196authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode197authoritiessubjectssh85048726 . 
+_:bnode196authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode197authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode197authoritiessubjectssh85048726 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fisheries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095954> . 
+<http://id.loc.gov/authorities/subjects/sh85095954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095954> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Osteichthyes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96010213> . 
+<http://id.loc.gov/authorities/subjects/sh96010213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96010213> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Air-breathing fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99000756> . 
+<http://id.loc.gov/authorities/subjects/sh99000756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99000756> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piscivorous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/593> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#editorialNote> "names of orders, families, etc. of fishes, e.g. [Perciformes; Salmonidae; Tarpon]" . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85048726" . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85048726> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85048726#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode223authoritiessubjectssh85048726 . 
+_:bnode223authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode223authoritiessubjectssh85048726 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode223authoritiessubjectssh85048726 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode223authoritiessubjectssh85048726 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode230authoritiessubjectssh85048726 . 
+_:bnode230authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode230authoritiessubjectssh85048726 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-01-26T15:05:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode230authoritiessubjectssh85048726 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode230authoritiessubjectssh85048726 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode240authoritiessubjectssh85048726 . 
+_:bnode240authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode240authoritiessubjectssh85048726 <http://www.w3.org/2008/05/skos-xl#literalForm> "Fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#altLabel> "Fish" . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode247authoritiessubjectssh85048726 . 
+_:bnode247authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode247authoritiessubjectssh85048726 <http://www.w3.org/2008/05/skos-xl#literalForm> "Pisces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#altLabel> "Pisces" . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85142902> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85006228> . 
+<http://id.loc.gov/authorities/subjects/sh85006228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006228> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquatic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048822> . 
+<http://id.loc.gov/authorities/subjects/sh85048822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048822> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anadromous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048826> . 
+<http://id.loc.gov/authorities/subjects/sh85048826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Freshwater fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93000050> . 
+<http://id.loc.gov/authorities/subjects/sh93000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93000050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hatchery fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96006425> . 
+<http://id.loc.gov/authorities/subjects/sh96006425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96006425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Introduced fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88002555> . 
+<http://id.loc.gov/authorities/subjects/sh88002555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88002555> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diadromous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081173> . 
+<http://id.loc.gov/authorities/subjects/sh85081173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marine fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/childrensSubjects/sj96004987> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartilaginous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004001319> . 
+<http://id.loc.gov/authorities/subjects/sh2004001319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004001319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fish pests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002220> . 
+<http://id.loc.gov/authorities/subjects/sh85002220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agnatha"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85006221> . 
+<http://id.loc.gov/authorities/subjects/sh85006221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquarium fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92000591> . 
+<http://id.loc.gov/authorities/subjects/sh92000591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transgenic fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103943> . 
+<http://id.loc.gov/authorities/subjects/sh85103943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103943> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poisonous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016001562> . 
+<http://id.loc.gov/authorities/subjects/sh2016001562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016001562> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleaner fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095701> . 
+<http://id.loc.gov/authorities/subjects/sh85095701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ornamental fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001009600> . 
+<http://id.loc.gov/authorities/subjects/sh2001009600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001009600> <http://www.w3.org/2004/02/skos/core#prefLabel> "Warmwater fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95009146> . 
+<http://id.loc.gov/authorities/subjects/sh95009146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95009146> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035711> . 
+<http://id.loc.gov/authorities/subjects/sh85035711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035711> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dangerous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009008591> . 
+<http://id.loc.gov/authorities/subjects/sh2009008591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009008591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Migratory fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003011245> . 
+<http://id.loc.gov/authorities/subjects/sh2003011245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003011245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groundfishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101345> . 
+<http://id.loc.gov/authorities/subjects/sh85101345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101345> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photography of fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91006307> . 
+<http://id.loc.gov/authorities/subjects/sh91006307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006307> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exotic fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016001564> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.w3.org/2004/02/skos/core#prefLabel> "Native fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011047> . 
+<http://id.loc.gov/authorities/subjects/sh85011047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baitfish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024672> . 
+<http://id.loc.gov/authorities/subjects/sh85024672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chondrichthyes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85050433> . 
+<http://id.loc.gov/authorities/subjects/sh85050433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forage fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92006321> . 
+<http://id.loc.gov/authorities/subjects/sh92006321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92006321> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brackish water fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001709> . 
+<http://id.loc.gov/authorities/subjects/sh93001709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001709> <http://www.w3.org/2004/02/skos/core#prefLabel> "Extinct fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89003521> . 
+<http://id.loc.gov/authorities/subjects/sh89003521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89003521> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rare fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095954> . 
+<http://id.loc.gov/authorities/subjects/sh85095954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osteichthyes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96010213> . 
+<http://id.loc.gov/authorities/subjects/sh96010213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96010213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Air-breathing fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99000756> . 
+<http://id.loc.gov/authorities/subjects/sh99000756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99000756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piscivorous fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/childrensSubjects/sj96005480> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85064050> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ichthyology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85048666> . 
+<http://id.loc.gov/authorities/subjects/sh85048666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048666> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fisheries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/593> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933179r> . 
+<http://data.bnf.fr/ark:/12148/cb11933179r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933179r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poissons"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/845> . 
+<http://lod.nal.usda.gov/nalt/845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/845> <http://www.w3.org/2004/02/skos/core#prefLabel> "fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/841> . 
+<http://lod.nal.usda.gov/nalt/841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/841> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pisces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#editorial> "names of orders, families, etc. of fishes, e.g. [Perciformes; Salmonidae; Tarpon]" . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2008/05/skos-xl#altLabel> "Fish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2008/05/skos-xl#altLabel> "Pisces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode457authoritiessubjectssh85048726 . 
+_:bnode457authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode457authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85048726> . 
+_:bnode457authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode457authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode457authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85048726> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode465authoritiessubjectssh85048726 . 
+_:bnode465authoritiessubjectssh85048726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode465authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85048726> . 
+_:bnode465authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode465authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#createdDate> "1989-01-26T15:05:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode465authoritiessubjectssh85048726 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,130 @@
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "France--Literatures"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh89004004 . 
+_:bnode7authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79006404> . 
+_:bnode7authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n79006404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79006404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79006404> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "France"@en . 
+<http://id.loc.gov/authorities/names/n79006404> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh89004004 . 
+_:bnode12authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh89004004 . 
+_:bnode12authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh89004004 <http://www.loc.gov/mads/rdf/v1#elementValue> "France"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2003003668> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2003003668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GenreForm> . 
+<http://id.loc.gov/authorities/subjects/sh2003003668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003003668> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literatures"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003003668> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh89004004 . 
+_:bnode20authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh89004004 . 
+_:bnode20authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GenreFormElement> . 
+_:bnode21authoritiessubjectssh89004004 <http://www.loc.gov/mads/rdf/v1#elementValue> "Literatures"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000262> . 
+<http://id.loc.gov/authorities/subjects/sh91000262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000262> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vaudois literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85074610> . 
+<http://id.loc.gov/authorities/subjects/sh85074610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074610> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Occitan literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053375> . 
+<http://id.loc.gov/authorities/subjects/sh85053375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053375> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gascon literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006004906> . 
+<http://id.loc.gov/authorities/subjects/sh2006004906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006004906> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "French literature (English)"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021723> . 
+<http://id.loc.gov/authorities/subjects/sh85021723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021723> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Celtic literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012140> . 
+<http://id.loc.gov/authorities/subjects/sh85012140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012140> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Basque literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012689> . 
+<http://id.loc.gov/authorities/subjects/sh85012689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012689> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Béarnais literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016754> . 
+<http://id.loc.gov/authorities/subjects/sh85016754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016754> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Breton literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85033082> . 
+<http://id.loc.gov/authorities/subjects/sh85033082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85033082> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Corsican literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020786> . 
+<http://id.loc.gov/authorities/subjects/sh85020786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020786> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catalan literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85051865> . 
+<http://id.loc.gov/authorities/subjects/sh85051865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051865> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "French literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107833> . 
+<http://id.loc.gov/authorities/subjects/sh85107833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107833> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Provençal literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh89004004> . 
+<http://id.loc.gov/rwo/agents/sh89004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh89004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 89004004" . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh89004004> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh89004004#concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode82authoritiessubjectssh89004004 . 
+_:bnode82authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode82authoritiessubjectssh89004004 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-07-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh89004004 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode82authoritiessubjectssh89004004 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode89authoritiessubjectssh89004004 . 
+_:bnode89authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode89authoritiessubjectssh89004004 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-08-23T11:39:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh89004004 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode89authoritiessubjectssh89004004 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#prefLabel> "France--Literatures"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000262> . 
+<http://id.loc.gov/authorities/subjects/sh91000262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000262> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaudois literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85074610> . 
+<http://id.loc.gov/authorities/subjects/sh85074610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Occitan literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053375> . 
+<http://id.loc.gov/authorities/subjects/sh85053375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gascon literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006004906> . 
+<http://id.loc.gov/authorities/subjects/sh2006004906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006004906> <http://www.w3.org/2004/02/skos/core#prefLabel> "French literature (English)"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021723> . 
+<http://id.loc.gov/authorities/subjects/sh85021723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Celtic literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012140> . 
+<http://id.loc.gov/authorities/subjects/sh85012140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Basque literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012689> . 
+<http://id.loc.gov/authorities/subjects/sh85012689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012689> <http://www.w3.org/2004/02/skos/core#prefLabel> "Béarnais literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016754> . 
+<http://id.loc.gov/authorities/subjects/sh85016754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016754> <http://www.w3.org/2004/02/skos/core#prefLabel> "Breton literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85033082> . 
+<http://id.loc.gov/authorities/subjects/sh85033082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corsican literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020786> . 
+<http://id.loc.gov/authorities/subjects/sh85020786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catalan literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85051865> . 
+<http://id.loc.gov/authorities/subjects/sh85051865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051865> <http://www.w3.org/2004/02/skos/core#prefLabel> "French literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107833> . 
+<http://id.loc.gov/authorities/subjects/sh85107833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107833> <http://www.w3.org/2004/02/skos/core#prefLabel> "Provençal literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode160authoritiessubjectssh89004004 . 
+_:bnode160authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode160authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89004004> . 
+_:bnode160authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode160authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#createdDate> "1989-07-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode160authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh89004004> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode168authoritiessubjectssh89004004 . 
+_:bnode168authoritiessubjectssh89004004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode168authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89004004> . 
+_:bnode168authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode168authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#createdDate> "2002-08-23T11:39:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode168authoritiessubjectssh89004004 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

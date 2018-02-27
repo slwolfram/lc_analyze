@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85105003 . 
+_:bnode7authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85105003 . 
+_:bnode7authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85105003 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#classification> "TX556.P8" . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131238> . 
+<http://id.loc.gov/authorities/subjects/sh85131238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131238> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Swine--Carcasses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99001106> . 
+<http://id.loc.gov/authorities/subjects/sh99001106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001106> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pork shoulder butts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117737> . 
+<http://id.loc.gov/authorities/subjects/sh85117737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117737> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sausages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/15069> . 
+<http://lod.nal.usda.gov/nalt/15069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/15069> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082715> . 
+<http://id.loc.gov/authorities/subjects/sh85082715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082715> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meat"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082715> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode34authoritiessubjectssh85105003 . 
+_:bnode34authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode35authoritiessubjectssh85105003 . 
+_:bnode34authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode35authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode35authoritiessubjectssh85105003 <http://www.loc.gov/mads/rdf/v1#elementValue> "Meat"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119654681> . 
+<http://data.bnf.fr/ark:/12148/cb119654681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119654681> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Porc (viande)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94007434> . 
+<http://id.loc.gov/authorities/subjects/sh94007434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94007434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Irradiated pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85058525> . 
+<http://id.loc.gov/authorities/subjects/sh85058525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058525> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ham"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010808> . 
+<http://id.loc.gov/authorities/subjects/sh85010808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010808> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bacon"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85105006> . 
+<http://id.loc.gov/authorities/subjects/sh85105006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85105006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105006> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pork-free diet"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105006> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode59authoritiessubjectssh85105003 . 
+_:bnode59authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode60authoritiessubjectssh85105003 . 
+_:bnode59authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode60authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode60authoritiessubjectssh85105003 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pork-free diet"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105005> . 
+<http://id.loc.gov/authorities/subjects/sh85105005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105005> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Canned pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Animal food]" . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85105003" . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85105003> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85105003#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh85105003 . 
+_:bnode77authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh85105003 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh85105003 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh85105003 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85105003 . 
+_:bnode84authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85105003 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-06-12T07:58:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85105003 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85105003 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082715> . 
+<http://id.loc.gov/authorities/subjects/sh85082715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082715> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meat"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131238> . 
+<http://id.loc.gov/authorities/subjects/sh85131238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131238> <http://www.w3.org/2004/02/skos/core#prefLabel> "Swine--Carcasses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99001106> . 
+<http://id.loc.gov/authorities/subjects/sh99001106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99001106> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pork shoulder butts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117737> . 
+<http://id.loc.gov/authorities/subjects/sh85117737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117737> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sausages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94007434> . 
+<http://id.loc.gov/authorities/subjects/sh94007434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94007434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Irradiated pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85058525> . 
+<http://id.loc.gov/authorities/subjects/sh85058525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058525> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ham"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010808> . 
+<http://id.loc.gov/authorities/subjects/sh85010808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacon"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105005> . 
+<http://id.loc.gov/authorities/subjects/sh85105005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105005> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canned pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85105006> . 
+<http://id.loc.gov/authorities/subjects/sh85105006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105006> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pork-free diet"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/15069> . 
+<http://lod.nal.usda.gov/nalt/15069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/15069> <http://www.w3.org/2004/02/skos/core#prefLabel> "pork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119654681> . 
+<http://data.bnf.fr/ark:/12148/cb119654681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119654681> <http://www.w3.org/2004/02/skos/core#prefLabel> "Porc (viande)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#example> "Example under [Animal food]" . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode152authoritiessubjectssh85105003 . 
+_:bnode152authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode152authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85105003> . 
+_:bnode152authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode152authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode152authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85105003> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode160authoritiessubjectssh85105003 . 
+_:bnode160authoritiessubjectssh85105003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode160authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85105003> . 
+_:bnode160authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode160authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#createdDate> "2010-06-12T07:58:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode160authoritiessubjectssh85105003 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

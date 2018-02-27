@@ -30,6 +30,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.http.HttpEntity;
@@ -41,6 +43,7 @@ import org.apache.http.impl.client.HttpClientBuilder;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
 import org.eclipse.rdf4j.model.Statement;
+import org.eclipse.rdf4j.model.Value;
 import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.impl.SimpleValueFactory;
 import org.eclipse.rdf4j.model.impl.TreeModel;
@@ -72,16 +75,15 @@ public class LCAnalyze {
 	 */
 	public static Model rdfModel = new TreeModel();
 	/**
-	 * subjectHeadingTrees - a list of all the LCHeading subject trees. Used to
-	 * model the structure and distribution of LC subject headings for a given
-	 * MARCXML dataset.
+	 * lcshList - a list of all the LCHeading objects. Used to look up individual
+	 * headings and traverse adjacent nodes. MARCXML dataset.
 	 */
-	public static ArrayList<LCHeading> subjectHeadingTrees = new ArrayList<LCHeading>();
+	public static ArrayList<LCSubjectHeading> lcshList = new ArrayList<LCSubjectHeading>();
 	/**
 	 * nameHeadingTrees - a list of all the LCHeading name trees. Used to model the
 	 * structure and distribution of LC name headings for a given MARCXML dataset.
 	 */
-	public static ArrayList<LCHeading> nameHeadingTrees = new ArrayList<LCHeading>();
+	public static ArrayList<LCSubjectHeading> nameHeadingTrees = new ArrayList<LCSubjectHeading>();
 
 	public static void main(String[] args) throws URISyntaxException, IOException {
 
@@ -94,9 +96,9 @@ public class LCAnalyze {
 		File[] filesList = f.listFiles();
 
 		switch (args[0]) {
-			// analyzes the distribution of subject headings by constructing LCHeading trees
-			// from RDF data
-			// MUST already have dl'ed the RDF files for this to work!
+		// analyzes the distribution of subject headings by constructing LCHeading trees
+		// from RDF data
+		// MUST already have dl'ed the RDF files for this to work!
 		case "a":
 			genRDFModel(new File("./src/main/java/RDF_files/"));
 			for (File file : filesList) {
@@ -104,12 +106,16 @@ public class LCAnalyze {
 					buildLCHeadings(file);
 				}
 			}
-			for (int i = 0; i < subjectHeadingTrees.size(); i++) {
-				subjectHeadingTrees.get(i).print();
+
+			for (int i = 0; i < lcshList.size(); i++) {
+				if (lcshList.get(i).getCount() > 0) {
+					lcshList.get(i).print();
+				}
 			}
-			for (int i = 0; i < nameHeadingTrees.size(); i++) {
-				nameHeadingTrees.get(i).print();
-			}
+			/*
+			 * for (int i = 0; i < nameHeadingTrees.size(); i++) {
+			 * nameHeadingTrees.get(i).print(); }
+			 */
 			System.exit(0);
 
 		case "h":
@@ -155,35 +161,139 @@ public class LCAnalyze {
 		while (marcReader.hasNext()) {
 			Record record = marcReader.next();
 			String oclc = MARCXMLHelper.extractOCLC(record);
+			if (oclc.isEmpty()) {
+				System.out.println("OCLC ERROR");
+				System.exit(0);
+			}
+
 			// extract URI & save to array
 			ArrayList<URI> uris = MARCXMLHelper.extractURIs(record);
 			// build subject heading string arrays from RDF, and add to headingTrees
 			for (int i = 0; i < uris.size(); i++) {
 				ArrayList<String> conceptString = buildConceptString(uris.get(i));
-				addConceptString(conceptString, uris.get(i), oclc);
+				addConceptString(conceptString, uris.get(i), oclc, 1);
 			}
 		}
 	}
 
-	private static void addConceptString(ArrayList<String> conceptString, URI uri, String oclc) {
+	/**
+	 * Method name: addConceptString
+	 * 
+	 * Description: This method adds a new LCSH heading or heading string to the
+	 * lcsh list. If the heading already exists, it can be incremented by passing
+	 * the value 1 in the count parameter. (Headings which are not counted are, e.g., those
+	 * that are added as broader/narrow terms for an existing heading)
+	 */
+	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, String oclc, int count)
+			throws FileNotFoundException {
+		
+
 		System.out.println("starting addConceptString...");
-		if (uri.toString().contains("subject")) {
-			for (int i = 0; i < subjectHeadingTrees.size(); i++) {
-				if (subjectHeadingTrees.get(i).getHeading().contentEquals(conceptString.get(0))) {
-					subjectHeadingTrees.get(i).addHeadingElements(conceptString, uri, oclc);
-					return;
-				}
-			}
-			subjectHeadingTrees.add(new LCHeading(conceptString, uri, oclc));
-		} else {
-			for (int i = 0; i < nameHeadingTrees.size(); i++) {
-				if (nameHeadingTrees.get(i).getHeading().contentEquals(conceptString.get(0))) {
-					nameHeadingTrees.get(i).addHeadingElements(conceptString, uri, oclc);
-					return;
-				}
-			}
-			nameHeadingTrees.add(new LCHeading(conceptString, uri, oclc));
+		System.out.println(conceptString.get(0) + " " + uri.toString() + " " + count);
+		LCSubjectHeading lcsh = null;
+		for (int i = 0; i < lcshList.size(); i++) {
+			System.out.println(lcshList.get(i).getHeading());
 		}
+		System.out.println("finished");
+
+		if (uri.toString().contains("subject")) {
+			for (int i = 0; i < lcshList.size(); i++) {
+				if (lcshList.get(i).getHeading().equals(conceptString.get(0))) {
+					lcshList.get(i).addSubdivisions(conceptString, uri, oclc, count);
+					return null;
+				}
+			}
+			// need to make sure new root concepts have an associated uri. This happens when
+			// a string has > 1 element, since the uri applies to the complex object.
+			if (conceptString.size() > 1) {
+				URI rootURI = getRootURI(conceptString.get(0));
+				lcsh = new LCSubjectHeading(conceptString, rootURI, uri, oclc, conceptString.size(), count);
+			} else {
+				lcsh = new LCSubjectHeading(conceptString, uri, oclc, count);
+			}
+			lcshList.add(lcsh);
+			lcsh.addBroaderHeadings(getBroaderHeadings(lcsh));
+			lcsh.addNarrowerHeadings(getNarrowerHeadings(lcsh));
+			
+		}
+		return lcsh;
+	}
+
+	private static ArrayList<LCSubjectHeading> getNarrowerHeadings(LCSubjectHeading heading) throws FileNotFoundException {
+		ArrayList<LCSubjectHeading> narrowerHeadings = new ArrayList<LCSubjectHeading>();
+		if (heading.getURI() != null) {
+			String b = null;
+			ValueFactory vf = SimpleValueFactory.getInstance();
+			IRI iri = vf.createIRI(heading.getURI().toString());
+			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority");
+			b = rdfModel.filter(iri, auth, null).toString();
+			if (!b.contentEquals("[]")) {
+				ArrayList<String> uriList = new ArrayList<String>();
+				System.out.println(b);
+				// extract all the heading uris from the string ..
+				Pattern p = Pattern.compile(Pattern.quote("hasNarrowerAuthority, ") + "(.*?)" + Pattern.quote(")"));
+				Matcher m = p.matcher(b);
+				while (m.find()) {
+					if (!m.group(1).equals("[]")) {
+						uriList.add(m.group(1));
+					}
+				}
+				System.out.println(uriList.toString());
+				for (int i = 0; i < uriList.size(); i++) {
+					String filepath = DlRDF.download(uriList.get(i));
+					InputStream input = new FileInputStream(filepath);
+					try {
+						rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+					} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+						e.printStackTrace();
+					}
+					// construct concepts from uri
+					ArrayList<String> narrowerHeadingString = new ArrayList<String>();
+					try {
+						narrowerHeadingString = buildConceptString(new URI(uriList.get(i)));
+						narrowerHeadings.add(addConceptString(narrowerHeadingString, new URI(uriList.get(i)), null, 0));
+
+					} catch (URISyntaxException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+
+				}
+			} else {
+				System.out.println("no broader uri");
+				return narrowerHeadings;
+			}
+		}
+
+		return narrowerHeadings;
+	}
+
+	/**
+	 * Method name: getRootURI
+	 * 
+	 * Description: This method takes a name of a concept that is the root of an
+	 * lcsh string (i.e. an RDF "complex topic") and returns the URI for the root
+	 * concept in the string. If the url provided is not for a complex topic, the
+	 * method returns null.
+	 */
+	private static URI getRootURI(String rootConcept) {
+		URI uri = null;
+		ValueFactory vf = SimpleValueFactory.getInstance();
+		IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
+		Value topic = vf.createLiteral(rootConcept, "en");
+		System.out.println("\"" + rootConcept + "\"@en");
+		System.out.println(rdfModel.filter(null, auth, topic).toString());
+		try {
+			// I am embarrassed by how messy this is, but it works ...
+			uri = new URI("http://id.loc.gov/authorities/subjects/" + StringUtils.substringBetween(
+					rdfModel.filter(null, auth, topic).toString(), "http://id.loc.gov/authorities/subjects/", ","));
+		} catch (URISyntaxException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println(uri.toString());
+		DlRDF.download(uri.toString());
+		return uri;
 	}
 
 	/**
@@ -201,6 +311,7 @@ public class LCAnalyze {
 		IRI iri = vf.createIRI(uri.toString());
 		IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
 		System.out.println(rdfModel.filter(iri, auth, null).toString());
+		// gets the subject heading part of the RDF statement
 		authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth, null).toString(), "Label, \"", "\"@");
 
 		if (uri.toString().contains("subjects")) {
@@ -218,6 +329,56 @@ public class LCAnalyze {
 		}
 
 		return conceptString;
+	}
+
+	private static ArrayList<LCSubjectHeading> getBroaderHeadings(LCSubjectHeading heading)
+			throws FileNotFoundException {
+		ArrayList<LCSubjectHeading> broaderHeadings = new ArrayList<LCSubjectHeading>();
+		if (heading.getURI() != null) {
+			String b = null;
+			ValueFactory vf = SimpleValueFactory.getInstance();
+			IRI iri = vf.createIRI(heading.getURI().toString());
+			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority");
+			b = rdfModel.filter(iri, auth, null).toString();
+			if (!b.contentEquals("[]")) {
+				ArrayList<String> uriList = new ArrayList<String>();
+				System.out.println(b);
+				// extract all the heading uris from the string ..
+				Pattern p = Pattern.compile(Pattern.quote("hasBroaderAuthority, ") + "(.*?)" + Pattern.quote(")"));
+				Matcher m = p.matcher(b);
+				while (m.find()) {
+					if (!m.group(1).equals("[]")) {
+						uriList.add(m.group(1));
+					}
+				}
+				System.out.println(uriList.toString());
+				for (int i = 0; i < uriList.size(); i++) {
+					String filepath = DlRDF.download(uriList.get(i));
+					InputStream input = new FileInputStream(filepath);
+					try {
+						rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+					} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+						e.printStackTrace();
+					}
+					// construct concepts from uri
+					ArrayList<String> broaderHeadingString = new ArrayList<String>();
+					try {
+						broaderHeadingString = buildConceptString(new URI(uriList.get(i)));
+						broaderHeadings.add(addConceptString(broaderHeadingString, new URI(uriList.get(i)), null, 0));
+
+					} catch (URISyntaxException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+
+				}
+			} else {
+				System.out.println("no broader uri");
+				return broaderHeadings;
+			}
+		}
+
+		return broaderHeadings;
 	}
 
 	/**
@@ -245,7 +406,7 @@ public class LCAnalyze {
 		}
 		return headingTriples;
 	}
-	
+
 	public static void verify(Model model) {
 		/*
 		 * String authorityLabel; for (int i = 0; i < subjectHeadings.size(); i++) {

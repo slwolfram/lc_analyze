@@ -1,0 +1,275 @@
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Retail trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85113295 . 
+_:bnode7authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85113295 . 
+_:bnode7authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Retail trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85113295 . 
+_:bnode11authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Retail industry"@en . 
+_:bnode11authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85113295 . 
+_:bnode16authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85113295 . 
+_:bnode16authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Retail industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85113295 . 
+_:bnode20authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Retailing"@en . 
+_:bnode20authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85113295 . 
+_:bnode25authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85113295 . 
+_:bnode25authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Retailing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#classification> "HF5428-HF5429.6" . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128377> . 
+<http://id.loc.gov/authorities/subjects/sh85128377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128377> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stores, Retail"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11938536s> . 
+<http://data.bnf.fr/ark:/12148/cb11938536s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11938536s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commerce de détail"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075552> . 
+<http://id.loc.gov/authorities/subjects/sh85075552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Leased departments, concessions, etc"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00005951> . 
+<http://id.loc.gov/authorities/subjects/sh00005951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005951> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airport retailing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85051526> . 
+<http://id.loc.gov/authorities/subjects/sh85051526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051526> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Franchises (Retail trade)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096514> . 
+<http://id.loc.gov/authorities/subjects/sh85096514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096514> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Packaging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85081333> . 
+<http://id.loc.gov/authorities/subjects/sh85081333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85081333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081333> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marketing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081333> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85113295 . 
+_:bnode60authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85113295 . 
+_:bnode60authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Marketing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081323> . 
+<http://id.loc.gov/authorities/subjects/sh85081323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081323> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Markdowns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85028901> . 
+<http://id.loc.gov/authorities/subjects/sh85028901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85028901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028901> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commerce"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028901> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode73authoritiessubjectssh85113295 . 
+_:bnode73authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode74authoritiessubjectssh85113295 . 
+_:bnode73authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode74authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode74authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Commerce"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85121779> . 
+<http://id.loc.gov/authorities/subjects/sh85121779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85121779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121779> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shopping centers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121779> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode82authoritiessubjectssh85113295 . 
+_:bnode82authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode83authoritiessubjectssh85113295 . 
+_:bnode82authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode83authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode83authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Shopping centers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106615> . 
+<http://id.loc.gov/authorities/subjects/sh85106615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106615> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Price marks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85146575> . 
+<http://id.loc.gov/authorities/subjects/sh85146575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85146575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146575> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wholesale trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146575> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode95authoritiessubjectssh85113295 . 
+_:bnode95authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode96authoritiessubjectssh85113295 . 
+_:bnode95authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode96authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode96authoritiessubjectssh85113295 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wholesale trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001086> . 
+<http://id.loc.gov/authorities/subjects/sh85001086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001086> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Advertising"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121784> . 
+<http://id.loc.gov/authorities/subjects/sh85121784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121784> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shopping malls"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/30587> . 
+<http://purl.org/bncf/tid/30587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/30587> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commercio al minuto"@it . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121778> . 
+<http://id.loc.gov/authorities/subjects/sh85121778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121778> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shopping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067680> . 
+<http://id.loc.gov/authorities/subjects/sh85067680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067680> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inventory shortages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021898> . 
+<http://id.loc.gov/authorities/subjects/sh85021898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Central business districts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85119819> . 
+<http://id.loc.gov/authorities/subjects/sh85119819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119819> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Selling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020594> . 
+<http://id.loc.gov/authorities/subjects/sh85020594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cashiers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126384> . 
+<http://id.loc.gov/authorities/subjects/sh85126384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Special sales"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128372> . 
+<http://id.loc.gov/authorities/subjects/sh85128372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128372> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Store hours"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036074> . 
+<http://id.loc.gov/authorities/subjects/sh85036074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dealer aids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142625> . 
+<http://id.loc.gov/authorities/subjects/sh85142625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142625> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vending stands"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067674> . 
+<http://id.loc.gov/authorities/subjects/sh85067674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067674> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inventories, Retail"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038550> . 
+<http://id.loc.gov/authorities/subjects/sh85038550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038550> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Distributive education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4127747-8> . 
+<http://d-nb.info/gnd/4127747-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4127747-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Einzelhandel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047384> . 
+<http://id.loc.gov/authorities/subjects/sh85047384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fashion merchandising"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038471> . 
+<http://id.loc.gov/authorities/subjects/sh85038471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038471> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Display of merchandise"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081373> . 
+<http://id.loc.gov/authorities/subjects/sh85081373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081373> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Markup"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11938536s> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85113295" . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85113295> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85113295#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode180authoritiessubjectssh85113295 . 
+_:bnode180authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode180authoritiessubjectssh85113295 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode180authoritiessubjectssh85113295 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode180authoritiessubjectssh85113295 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode187authoritiessubjectssh85113295 . 
+_:bnode187authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode187authoritiessubjectssh85113295 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-02-16T12:42:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode187authoritiessubjectssh85113295 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode187authoritiessubjectssh85113295 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Retail trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode197authoritiessubjectssh85113295 . 
+_:bnode197authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode197authoritiessubjectssh85113295 <http://www.w3.org/2008/05/skos-xl#literalForm> "Retail industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#altLabel> "Retail industry" . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode204authoritiessubjectssh85113295 . 
+_:bnode204authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode204authoritiessubjectssh85113295 <http://www.w3.org/2008/05/skos-xl#literalForm> "Retailing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#altLabel> "Retailing" . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85081333> . 
+<http://id.loc.gov/authorities/subjects/sh85081333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marketing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85028901> . 
+<http://id.loc.gov/authorities/subjects/sh85028901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commerce"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128377> . 
+<http://id.loc.gov/authorities/subjects/sh85128377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128377> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stores, Retail"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075552> . 
+<http://id.loc.gov/authorities/subjects/sh85075552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leased departments, concessions, etc"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00005951> . 
+<http://id.loc.gov/authorities/subjects/sh00005951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005951> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airport retailing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85051526> . 
+<http://id.loc.gov/authorities/subjects/sh85051526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051526> <http://www.w3.org/2004/02/skos/core#prefLabel> "Franchises (Retail trade)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096514> . 
+<http://id.loc.gov/authorities/subjects/sh85096514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Packaging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081323> . 
+<http://id.loc.gov/authorities/subjects/sh85081323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Markdowns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106615> . 
+<http://id.loc.gov/authorities/subjects/sh85106615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106615> <http://www.w3.org/2004/02/skos/core#prefLabel> "Price marks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001086> . 
+<http://id.loc.gov/authorities/subjects/sh85001086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Advertising"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121784> . 
+<http://id.loc.gov/authorities/subjects/sh85121784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shopping malls"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121778> . 
+<http://id.loc.gov/authorities/subjects/sh85121778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121778> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shopping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067680> . 
+<http://id.loc.gov/authorities/subjects/sh85067680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067680> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inventory shortages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021898> . 
+<http://id.loc.gov/authorities/subjects/sh85021898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central business districts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85119819> . 
+<http://id.loc.gov/authorities/subjects/sh85119819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119819> <http://www.w3.org/2004/02/skos/core#prefLabel> "Selling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020594> . 
+<http://id.loc.gov/authorities/subjects/sh85020594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cashiers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126384> . 
+<http://id.loc.gov/authorities/subjects/sh85126384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126384> <http://www.w3.org/2004/02/skos/core#prefLabel> "Special sales"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128372> . 
+<http://id.loc.gov/authorities/subjects/sh85128372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Store hours"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036074> . 
+<http://id.loc.gov/authorities/subjects/sh85036074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dealer aids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142625> . 
+<http://id.loc.gov/authorities/subjects/sh85142625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vending stands"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067674> . 
+<http://id.loc.gov/authorities/subjects/sh85067674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inventories, Retail"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038550> . 
+<http://id.loc.gov/authorities/subjects/sh85038550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038550> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distributive education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047384> . 
+<http://id.loc.gov/authorities/subjects/sh85047384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047384> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fashion merchandising"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038471> . 
+<http://id.loc.gov/authorities/subjects/sh85038471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Display of merchandise"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081373> . 
+<http://id.loc.gov/authorities/subjects/sh85081373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Markup"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85121779> . 
+<http://id.loc.gov/authorities/subjects/sh85121779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121779> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shopping centers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85146575> . 
+<http://id.loc.gov/authorities/subjects/sh85146575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146575> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wholesale trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11938536s> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11938536s> . 
+<http://data.bnf.fr/ark:/12148/cb11938536s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11938536s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commerce de détail"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/30587> . 
+<http://purl.org/bncf/tid/30587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/30587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commercio al minuto"@it . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4127747-8> . 
+<http://d-nb.info/gnd/4127747-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4127747-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einzelhandel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2008/05/skos-xl#altLabel> "Retail industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2008/05/skos-xl#altLabel> "Retailing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode367authoritiessubjectssh85113295 . 
+_:bnode367authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode367authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85113295> . 
+_:bnode367authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode367authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#createdDate> "2001-01-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode367authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85113295> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode375authoritiessubjectssh85113295 . 
+_:bnode375authoritiessubjectssh85113295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode375authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85113295> . 
+_:bnode375authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode375authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#createdDate> "2001-02-16T12:42:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode375authoritiessubjectssh85113295 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

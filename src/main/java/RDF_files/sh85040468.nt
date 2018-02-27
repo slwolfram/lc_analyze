@@ -1,0 +1,209 @@
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85040468 . 
+_:bnode7authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85040468 . 
+_:bnode7authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#elementValue> "Earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85040468 . 
+_:bnode11authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Geosciences"@en . 
+_:bnode11authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85040468 . 
+_:bnode16authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85040468 . 
+_:bnode16authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geosciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/11719> . 
+<http://purl.org/bncf/tid/11719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/11719> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scienze della terra"@it . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063458> . 
+<http://id.loc.gov/authorities/subjects/sh85063458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063458> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hydrology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110310> . 
+<http://id.loc.gov/authorities/subjects/sh85110310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110310> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85054037> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053986> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4020288-4> . 
+<http://d-nb.info/gnd/4020288-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4020288-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geowissenschaften"@de . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91004197> . 
+<http://id.loc.gov/authorities/subjects/sh91004197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91004197> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thermal analysis in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012001071> . 
+<http://id.loc.gov/authorities/subjects/sh2012001071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012001071> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "High pressure geosciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001389> . 
+<http://id.loc.gov/authorities/subjects/sh85001389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001389> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084334> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124376> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4131991-6> . 
+<http://d-nb.info/gnd/4131991-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4131991-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Angewandte Geowissenschaften"@de . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042401> . 
+<http://id.loc.gov/authorities/subjects/sh85042401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042401> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electronics in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053960> . 
+<http://id.loc.gov/authorities/subjects/sh85053960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053960> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008976> . 
+<http://id.loc.gov/authorities/subjects/sh85008976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008976> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Astronautics in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093937> . 
+<http://id.loc.gov/authorities/subjects/sh85093937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093937> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oceanography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99004272> . 
+<http://id.loc.gov/authorities/subjects/sh99004272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99004272> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geomatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85054185> . 
+<http://id.loc.gov/authorities/subjects/sh85054185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054185> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geophysics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11936451x> . 
+<http://data.bnf.fr/ark:/12148/cb11936451x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11936451x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sciences de la Terre"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90001574> . 
+<http://id.loc.gov/authorities/subjects/sh90001574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90001574> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geobiology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh92004048> . 
+<http://id.loc.gov/authorities/subjects/sh92004048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh92004048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92004048> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Environmental sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004048> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode105authoritiessubjectssh85040468 . 
+_:bnode105authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode106authoritiessubjectssh85040468 . 
+_:bnode105authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode106authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode106authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#elementValue> "Environmental sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh89005705> . 
+<http://id.loc.gov/authorities/subjects/sh89005705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89005705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005705> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physical sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005705> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode114authoritiessubjectssh85040468 . 
+_:bnode114authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode115authoritiessubjectssh85040468 . 
+_:bnode114authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode115authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode115authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physical sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008236> . 
+<http://id.loc.gov/authorities/subjects/sh85008236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008236> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Artificial satellites in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85040468" . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85040468> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85040468#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode130authoritiessubjectssh85040468 . 
+_:bnode130authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode130authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode130authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Earth science, also called geoscience)"@en . 
+_:bnode130authoritiessubjectssh85040468 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode138authoritiessubjectssh85040468 . 
+_:bnode138authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode138authoritiessubjectssh85040468 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode138authoritiessubjectssh85040468 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode138authoritiessubjectssh85040468 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode145authoritiessubjectssh85040468 . 
+_:bnode145authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode145authoritiessubjectssh85040468 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-09-16T10:18:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode145authoritiessubjectssh85040468 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode145authoritiessubjectssh85040468 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode155authoritiessubjectssh85040468 . 
+_:bnode155authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode155authoritiessubjectssh85040468 <http://www.w3.org/2008/05/skos-xl#literalForm> "Geosciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#altLabel> "Geosciences" . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh92004048> . 
+<http://id.loc.gov/authorities/subjects/sh92004048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004048> <http://www.w3.org/2004/02/skos/core#prefLabel> "Environmental sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh89005705> . 
+<http://id.loc.gov/authorities/subjects/sh89005705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005705> <http://www.w3.org/2004/02/skos/core#prefLabel> "Physical sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063458> . 
+<http://id.loc.gov/authorities/subjects/sh85063458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063458> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydrology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110310> . 
+<http://id.loc.gov/authorities/subjects/sh85110310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85054037> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053986> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91004197> . 
+<http://id.loc.gov/authorities/subjects/sh91004197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91004197> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thermal analysis in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012001071> . 
+<http://id.loc.gov/authorities/subjects/sh2012001071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012001071> <http://www.w3.org/2004/02/skos/core#prefLabel> "High pressure geosciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001389> . 
+<http://id.loc.gov/authorities/subjects/sh85001389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084334> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124376> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042401> . 
+<http://id.loc.gov/authorities/subjects/sh85042401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042401> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronics in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053960> . 
+<http://id.loc.gov/authorities/subjects/sh85053960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053960> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008976> . 
+<http://id.loc.gov/authorities/subjects/sh85008976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008976> <http://www.w3.org/2004/02/skos/core#prefLabel> "Astronautics in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093937> . 
+<http://id.loc.gov/authorities/subjects/sh85093937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oceanography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99004272> . 
+<http://id.loc.gov/authorities/subjects/sh99004272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99004272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geomatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85054185> . 
+<http://id.loc.gov/authorities/subjects/sh85054185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054185> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geophysics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90001574> . 
+<http://id.loc.gov/authorities/subjects/sh90001574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90001574> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geobiology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008236> . 
+<http://id.loc.gov/authorities/subjects/sh85008236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008236> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artificial satellites in earth sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/11719> . 
+<http://purl.org/bncf/tid/11719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/11719> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scienze della terra"@it . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4020288-4> . 
+<http://d-nb.info/gnd/4020288-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4020288-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geowissenschaften"@de . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4131991-6> . 
+<http://d-nb.info/gnd/4131991-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4131991-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Angewandte Geowissenschaften"@de . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11936451x> . 
+<http://data.bnf.fr/ark:/12148/cb11936451x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11936451x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sciences de la Terre"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2008/05/skos-xl#altLabel> "Geosciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode280authoritiessubjectssh85040468 . 
+_:bnode280authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode280authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85040468> . 
+_:bnode280authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode280authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode280authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85040468> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode288authoritiessubjectssh85040468 . 
+_:bnode288authoritiessubjectssh85040468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode288authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85040468> . 
+_:bnode288authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode288authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#createdDate> "1992-09-16T10:18:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode288authoritiessubjectssh85040468 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

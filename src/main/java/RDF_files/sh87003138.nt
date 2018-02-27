@@ -1,0 +1,125 @@
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh87003138 . 
+_:bnode7authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh87003138 . 
+_:bnode7authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#elementValue> "Soil invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh87003138 . 
+_:bnode11authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Mesofauna"@en . 
+_:bnode11authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh87003138 . 
+_:bnode16authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh87003138 . 
+_:bnode16authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mesofauna"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#classification> "QL365.34" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#classification> "QL365.4-QL365.6" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124363> . 
+<http://id.loc.gov/authorities/subjects/sh85124363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124363> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil nematodes"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006001591> . 
+<http://id.loc.gov/authorities/subjects/sh2006001591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006001591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil mites"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb136174327> . 
+<http://data.bnf.fr/ark:/12148/cb136174327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb136174327> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Invertébrés des sols"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4169470-3> . 
+<http://d-nb.info/gnd/4169470-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4169470-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mesofauna"@de . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85124343> . 
+<http://id.loc.gov/authorities/subjects/sh85124343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85124343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124343> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124343> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh87003138 . 
+_:bnode45authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh87003138 . 
+_:bnode45authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#elementValue> "Soil animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/35133> . 
+<http://lod.nal.usda.gov/nalt/35133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/35133> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "soil invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85067691> . 
+<http://id.loc.gov/authorities/subjects/sh85067691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85067691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067691> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85067691> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode58authoritiessubjectssh87003138 . 
+_:bnode58authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode59authoritiessubjectssh87003138 . 
+_:bnode58authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode59authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode59authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#elementValue> "Invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb136174327> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87003138" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87003138> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87003138#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode71authoritiessubjectssh87003138 . 
+_:bnode71authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode71authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Pochvennye bespozvonochnye belomorskikh ostrovov Kandalakshskogo zapovednika, 1986." . 
+_:bnode71authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode77authoritiessubjectssh87003138 . 
+_:bnode77authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode77authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-source> "Chamblin, Mike A. Design of an automated system for imaging and sorting soil mesofauna, 2008." . 
+_:bnode77authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode83authoritiessubjectssh87003138 . 
+_:bnode83authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode83authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, June 26, 2008" . 
+_:bnode83authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Mesofauna are macroscopic soil invertebrates such as arthropods, earthworms, and nematodes)"@en . 
+_:bnode83authoritiessubjectssh87003138 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode91authoritiessubjectssh87003138 . 
+_:bnode91authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode91authoritiessubjectssh87003138 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-05-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiessubjectssh87003138 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode91authoritiessubjectssh87003138 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode98authoritiessubjectssh87003138 . 
+_:bnode98authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode98authoritiessubjectssh87003138 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-08-08T08:04:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh87003138 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode98authoritiessubjectssh87003138 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode108authoritiessubjectssh87003138 . 
+_:bnode108authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode108authoritiessubjectssh87003138 <http://www.w3.org/2008/05/skos-xl#literalForm> "Mesofauna"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#altLabel> "Mesofauna" . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85124343> . 
+<http://id.loc.gov/authorities/subjects/sh85124343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85067691> . 
+<http://id.loc.gov/authorities/subjects/sh85067691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067691> <http://www.w3.org/2004/02/skos/core#prefLabel> "Invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124363> . 
+<http://id.loc.gov/authorities/subjects/sh85124363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil nematodes"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006001591> . 
+<http://id.loc.gov/authorities/subjects/sh2006001591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006001591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil mites"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/35133> . 
+<http://lod.nal.usda.gov/nalt/35133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/35133> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil invertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb136174327> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb136174327> . 
+<http://data.bnf.fr/ark:/12148/cb136174327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb136174327> <http://www.w3.org/2004/02/skos/core#prefLabel> "Invertébrés des sols"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4169470-3> . 
+<http://d-nb.info/gnd/4169470-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4169470-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mesofauna"@de . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2008/05/skos-xl#altLabel> "Mesofauna"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode154authoritiessubjectssh87003138 . 
+_:bnode154authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode154authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87003138> . 
+_:bnode154authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode154authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#createdDate> "1987-05-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode154authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87003138> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode162authoritiessubjectssh87003138 . 
+_:bnode162authoritiessubjectssh87003138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode162authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87003138> . 
+_:bnode162authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode162authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#createdDate> "2008-08-08T08:04:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode162authoritiessubjectssh87003138 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

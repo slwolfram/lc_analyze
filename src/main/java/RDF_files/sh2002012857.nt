@@ -1,0 +1,51 @@
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Self-defense--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh2002012857 . 
+_:bnode7authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85119726> . 
+_:bnode7authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Self-defense"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh2002012857 . 
+_:bnode12authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh2002012857 . 
+_:bnode12authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh2002012857 <http://www.loc.gov/mads/rdf/v1#elementValue> "Self-defense"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh2002012857 . 
+_:bnode20authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh2002012857 . 
+_:bnode20authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh2002012857 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002012126> . 
+<http://id.loc.gov/authorities/subjects/sh2002012126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pepper spray"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2002012857" . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2002012857> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2002012857#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode35authoritiessubjectssh2002012857 . 
+_:bnode35authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode35authoritiessubjectssh2002012857 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-01-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode35authoritiessubjectssh2002012857 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode35authoritiessubjectssh2002012857 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode35authoritiessubjectssh2002012857 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-defense--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002012126> . 
+<http://id.loc.gov/authorities/subjects/sh2002012126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pepper spray"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002012857> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode52authoritiessubjectssh2002012857 . 
+_:bnode52authoritiessubjectssh2002012857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode52authoritiessubjectssh2002012857 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002012857> . 
+_:bnode52authoritiessubjectssh2002012857 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode52authoritiessubjectssh2002012857 <http://purl.org/vocab/changeset/schema#createdDate> "2003-01-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh2002012857 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

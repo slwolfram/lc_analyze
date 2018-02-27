@@ -1,0 +1,49 @@
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging of society publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85020889 . 
+_:bnode7authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85020889 . 
+_:bnode7authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85020889 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cataloging of society publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85020889 . 
+_:bnode11authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85020889 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Society publications (Cataloging)"@en . 
+_:bnode11authoritiessubjectssh85020889 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85020889 . 
+_:bnode16authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85020889 . 
+_:bnode16authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85020889 <http://www.loc.gov/mads/rdf/v1#elementValue> "Society publications (Cataloging)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#classification> "Z695.8" . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85030901> . 
+<http://id.loc.gov/authorities/subjects/sh85030901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030901> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Conference headings (Cataloging)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85020889" . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85020889> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85020889#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode33authoritiessubjectssh85020889 . 
+_:bnode33authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode33authoritiessubjectssh85020889 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode33authoritiessubjectssh85020889 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode33authoritiessubjectssh85020889 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloging of society publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode43authoritiessubjectssh85020889 . 
+_:bnode43authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode43authoritiessubjectssh85020889 <http://www.w3.org/2008/05/skos-xl#literalForm> "Society publications (Cataloging)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2004/02/skos/core#altLabel> "Society publications (Cataloging)" . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85030901> . 
+<http://id.loc.gov/authorities/subjects/sh85030901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conference headings (Cataloging)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2008/05/skos-xl#altLabel> "Society publications (Cataloging)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020889> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode58authoritiessubjectssh85020889 . 
+_:bnode58authoritiessubjectssh85020889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode58authoritiessubjectssh85020889 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85020889> . 
+_:bnode58authoritiessubjectssh85020889 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode58authoritiessubjectssh85020889 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh85020889 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,74 @@
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnology--Israel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85045298 . 
+_:bnode7authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85045198> . 
+_:bnode7authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045198> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85045298 . 
+_:bnode12authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85045298 . 
+_:bnode12authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85045298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ethnology"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79003285> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n79003285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79003285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79003285> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Israel"@en . 
+<http://id.loc.gov/authorities/names/n79003285> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85045298 . 
+_:bnode20authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85045298 . 
+_:bnode20authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85045298 <http://www.loc.gov/mads/rdf/v1#elementValue> "Israel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010013600> . 
+<http://id.loc.gov/authorities/subjects/sh2010013600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013600> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ḥujayr\u0101t (Arab tribe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070361> . 
+<http://id.loc.gov/authorities/subjects/sh85070361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070361> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jews"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12380440z> . 
+<http://data.bnf.fr/ark:/12148/cb12380440z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12380440z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnologie -- Israël"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012001880> . 
+<http://id.loc.gov/authorities/subjects/sh2012001880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012001880> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zangharīyah (Arab tribe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068742> . 
+<http://id.loc.gov/authorities/subjects/sh85068742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068742> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Israelis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85045298" . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85045298> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85045298#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85045298 . 
+_:bnode51authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85045298 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85045298 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85045298 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethnology--Israel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010013600> . 
+<http://id.loc.gov/authorities/subjects/sh2010013600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010013600> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ḥujayr\u0101t (Arab tribe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070361> . 
+<http://id.loc.gov/authorities/subjects/sh85070361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jews"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012001880> . 
+<http://id.loc.gov/authorities/subjects/sh2012001880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012001880> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zangharīyah (Arab tribe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068742> . 
+<http://id.loc.gov/authorities/subjects/sh85068742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068742> <http://www.w3.org/2004/02/skos/core#prefLabel> "Israelis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12380440z> . 
+<http://data.bnf.fr/ark:/12148/cb12380440z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12380440z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethnologie -- Israël"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85045298> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh85045298 . 
+_:bnode87authoritiessubjectssh85045298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh85045298 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85045298> . 
+_:bnode87authoritiessubjectssh85045298 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh85045298 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85045298 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,157 @@
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85093144 . 
+_:bnode7authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85093144 . 
+_:bnode7authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85093144 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85093144 . 
+_:bnode11authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85093144 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Polynucleotides"@en . 
+_:bnode11authoritiessubjectssh85093144 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85093144 . 
+_:bnode16authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85093144 . 
+_:bnode16authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85093144 <http://www.loc.gov/mads/rdf/v1#elementValue> "Polynucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#classification> "QP620-QP625" . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/34165> . 
+<http://lod.nal.usda.gov/nalt/34165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/34165> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99000706> . 
+<http://id.loc.gov/authorities/subjects/sh99000706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99000706> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Immobilized nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093155> . 
+<http://id.loc.gov/authorities/subjects/sh85093155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093155> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleoproteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90005772> . 
+<http://id.loc.gov/authorities/subjects/sh90005772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90005772> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Antisense nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053873> . 
+<http://id.loc.gov/authorities/subjects/sh85053873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053873> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetic transformation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001644> . 
+<http://id.loc.gov/authorities/subjects/sh93001644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleopeptides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007001218> . 
+<http://id.loc.gov/authorities/subjects/sh2007001218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007001218> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quadruplex nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093160> . 
+<http://id.loc.gov/authorities/subjects/sh85093160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093160> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4172117-2> . 
+<http://d-nb.info/gnd/4172117-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4172117-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nucleinsäuren"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11980605w> . 
+<http://data.bnf.fr/ark:/12148/cb11980605w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11980605w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acides nucléiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4268231-9> . 
+<http://d-nb.info/gnd/4268231-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4268231-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Polynucleotide"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/196701> . 
+<http://lod.nal.usda.gov/nalt/196701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/196701> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "polynucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136898> . 
+<http://id.loc.gov/authorities/subjects/sh85136898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transfection"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85113850> . 
+<http://id.loc.gov/authorities/subjects/sh85113850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "RNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014249> . 
+<http://id.loc.gov/authorities/subjects/sh85014249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014249> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biomolecules"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014249> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode83authoritiessubjectssh85093144 . 
+_:bnode83authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode84authoritiessubjectssh85093144 . 
+_:bnode83authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode84authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode84authoritiessubjectssh85093144 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biomolecules"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85037008> . 
+<http://id.loc.gov/authorities/subjects/sh85037008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037008> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "DNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85093144" . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85093144> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85093144#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode99authoritiessubjectssh85093144 . 
+_:bnode99authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode99authoritiessubjectssh85093144 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh85093144 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode99authoritiessubjectssh85093144 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode106authoritiessubjectssh85093144 . 
+_:bnode106authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode106authoritiessubjectssh85093144 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-11-16T15:55:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh85093144 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode106authoritiessubjectssh85093144 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode116authoritiessubjectssh85093144 . 
+_:bnode116authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode116authoritiessubjectssh85093144 <http://www.w3.org/2008/05/skos-xl#literalForm> "Polynucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#altLabel> "Polynucleotides" . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014249> . 
+<http://id.loc.gov/authorities/subjects/sh85014249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014249> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biomolecules"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99000706> . 
+<http://id.loc.gov/authorities/subjects/sh99000706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99000706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Immobilized nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093155> . 
+<http://id.loc.gov/authorities/subjects/sh85093155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleoproteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90005772> . 
+<http://id.loc.gov/authorities/subjects/sh90005772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90005772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antisense nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053873> . 
+<http://id.loc.gov/authorities/subjects/sh85053873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetic transformation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001644> . 
+<http://id.loc.gov/authorities/subjects/sh93001644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleopeptides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007001218> . 
+<http://id.loc.gov/authorities/subjects/sh2007001218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007001218> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quadruplex nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093160> . 
+<http://id.loc.gov/authorities/subjects/sh85093160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136898> . 
+<http://id.loc.gov/authorities/subjects/sh85136898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transfection"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85113850> . 
+<http://id.loc.gov/authorities/subjects/sh85113850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113850> <http://www.w3.org/2004/02/skos/core#prefLabel> "RNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85037008> . 
+<http://id.loc.gov/authorities/subjects/sh85037008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037008> <http://www.w3.org/2004/02/skos/core#prefLabel> "DNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/34165> . 
+<http://lod.nal.usda.gov/nalt/34165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/34165> <http://www.w3.org/2004/02/skos/core#prefLabel> "nucleic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4172117-2> . 
+<http://d-nb.info/gnd/4172117-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4172117-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nucleinsäuren"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11980605w> . 
+<http://data.bnf.fr/ark:/12148/cb11980605w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11980605w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acides nucléiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4268231-9> . 
+<http://d-nb.info/gnd/4268231-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4268231-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polynucleotide"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/196701> . 
+<http://lod.nal.usda.gov/nalt/196701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/196701> <http://www.w3.org/2004/02/skos/core#prefLabel> "polynucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2008/05/skos-xl#altLabel> "Polynucleotides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode206authoritiessubjectssh85093144 . 
+_:bnode206authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode206authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093144> . 
+_:bnode206authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode206authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode206authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85093144> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode214authoritiessubjectssh85093144 . 
+_:bnode214authoritiessubjectssh85093144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode214authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093144> . 
+_:bnode214authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode214authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#createdDate> "1988-11-16T15:55:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode214authoritiessubjectssh85093144 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

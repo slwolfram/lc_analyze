@@ -1,0 +1,69 @@
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lavochkin aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00000361 . 
+_:bnode7authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00000361 . 
+_:bnode7authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00000361 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lavochkin aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011004842> . 
+<http://id.loc.gov/authorities/subjects/sh2011004842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011004842> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lavochkin La-7 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85002782> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh00000361 . 
+_:bnode20authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh00000361 . 
+_:bnode20authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh00000361 <http://www.loc.gov/mads/rdf/v1#elementValue> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011004832> . 
+<http://id.loc.gov/authorities/subjects/sh2011004832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011004832> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lavochkin La-5 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00000361" . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00000361> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00000361#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode35authoritiessubjectssh00000361 . 
+_:bnode35authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode35authoritiessubjectssh00000361 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 00418159: 60 let Nauchno-proizvodstvennomu obʺedinenii︠u︡ imeni S. A. Lavochkina, 1997." . 
+_:bnode35authoritiessubjectssh00000361 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh00000361 . 
+_:bnode41authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-11-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode41authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh00000361 . 
+_:bnode49authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-11-23T08:50:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode49authoritiessubjectssh00000361 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lavochkin aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85002782> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011004842> . 
+<http://id.loc.gov/authorities/subjects/sh2011004842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011004842> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lavochkin La-7 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011004832> . 
+<http://id.loc.gov/authorities/subjects/sh2011004832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011004832> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lavochkin La-5 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode76authoritiessubjectssh00000361 . 
+_:bnode76authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode76authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00000361> . 
+_:bnode76authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode76authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#createdDate> "2000-11-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode76authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00000361> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode84authoritiessubjectssh00000361 . 
+_:bnode84authoritiessubjectssh00000361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode84authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00000361> . 
+_:bnode84authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode84authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#createdDate> "2010-11-23T08:50:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh00000361 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,130 @@
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social sciences--Research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85124014 . 
+_:bnode7authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85124003> . 
+_:bnode7authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85124003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85124003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124003> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social sciences"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124003> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85124014 . 
+_:bnode12authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85124014 . 
+_:bnode12authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85124014 <http://www.loc.gov/mads/rdf/v1#elementValue> "Social sciences"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006576> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006576> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Research"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006576> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85124014 . 
+_:bnode20authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85124014 . 
+_:bnode20authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85124014 <http://www.loc.gov/mads/rdf/v1#elementValue> "Research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#classification> "H62-H62.5" . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85079887> . 
+<http://id.loc.gov/authorities/subjects/sh85079887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079887> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mail surveys"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080874> . 
+<http://id.loc.gov/authorities/subjects/sh85080874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080874> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MAPS design technology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122860> . 
+<http://id.loc.gov/authorities/subjects/sh85122860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122860> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Single subject research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124079> . 
+<http://id.loc.gov/authorities/subjects/sh85124079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124079> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social surveys"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000722> . 
+<http://id.loc.gov/authorities/subjects/sh85000722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000722> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Action research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode46authoritiessubjectssh85124014 . 
+_:bnode46authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode46authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode46authoritiessubjectssh85124014 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Social science research"@en . 
+_:bnode46authoritiessubjectssh85124014 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85124014 . 
+_:bnode51authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85124014 . 
+_:bnode51authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85124014 <http://www.loc.gov/mads/rdf/v1#elementValue> "Social science research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133433> . 
+<http://id.loc.gov/authorities/subjects/sh85133433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133433> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Telephone surveys"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4014606-6> . 
+<http://d-nb.info/gnd/4014606-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4014606-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Empirische Sozialforschung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85045927> . 
+<http://id.loc.gov/authorities/subjects/sh85045927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045927> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Evaluation research (Social action programs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85078296> . 
+<http://id.loc.gov/authorities/subjects/sh85078296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078296> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Longitudinal method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119674090> . 
+<http://data.bnf.fr/ark:/12148/cb119674090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119674090> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sciences sociales -- Recherche"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85124014" . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85124014> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85124014#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85124014 . 
+_:bnode83authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85124014 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85124014 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85124014 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode90authoritiessubjectssh85124014 . 
+_:bnode90authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode90authoritiessubjectssh85124014 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-12-13T14:33:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85124014 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode90authoritiessubjectssh85124014 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social sciences--Research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85079887> . 
+<http://id.loc.gov/authorities/subjects/sh85079887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079887> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mail surveys"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080874> . 
+<http://id.loc.gov/authorities/subjects/sh85080874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080874> <http://www.w3.org/2004/02/skos/core#prefLabel> "MAPS design technology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122860> . 
+<http://id.loc.gov/authorities/subjects/sh85122860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122860> <http://www.w3.org/2004/02/skos/core#prefLabel> "Single subject research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124079> . 
+<http://id.loc.gov/authorities/subjects/sh85124079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124079> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social surveys"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000722> . 
+<http://id.loc.gov/authorities/subjects/sh85000722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000722> <http://www.w3.org/2004/02/skos/core#prefLabel> "Action research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133433> . 
+<http://id.loc.gov/authorities/subjects/sh85133433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telephone surveys"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85045927> . 
+<http://id.loc.gov/authorities/subjects/sh85045927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045927> <http://www.w3.org/2004/02/skos/core#prefLabel> "Evaluation research (Social action programs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85078296> . 
+<http://id.loc.gov/authorities/subjects/sh85078296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078296> <http://www.w3.org/2004/02/skos/core#prefLabel> "Longitudinal method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode140authoritiessubjectssh85124014 . 
+_:bnode140authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode140authoritiessubjectssh85124014 <http://www.w3.org/2008/05/skos-xl#literalForm> "Social science research"@en . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#altLabel> "Social science research" . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4014606-6> . 
+<http://d-nb.info/gnd/4014606-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4014606-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Empirische Sozialforschung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119674090> . 
+<http://data.bnf.fr/ark:/12148/cb119674090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119674090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sciences sociales -- Recherche"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode158authoritiessubjectssh85124014 . 
+_:bnode158authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode158authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85124014> . 
+_:bnode158authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode158authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode158authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85124014> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode166authoritiessubjectssh85124014 . 
+_:bnode166authoritiessubjectssh85124014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode166authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85124014> . 
+_:bnode166authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode166authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#createdDate> "1988-12-13T14:33:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh85124014 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

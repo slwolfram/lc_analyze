@@ -1,0 +1,74 @@
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lakes--United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85074132 . 
+_:bnode7authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85074030> . 
+_:bnode7authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lakes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85074132 . 
+_:bnode12authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85074132 . 
+_:bnode12authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85074132 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lakes"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n78095330> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States"@en . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85074132 . 
+_:bnode20authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85074132 . 
+_:bnode20authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85074132 <http://www.loc.gov/mads/rdf/v1#elementValue> "United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85056988> . 
+<http://id.loc.gov/authorities/subjects/sh85056988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85056988> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Great Lakes (North America)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb120086319> . 
+<http://data.bnf.fr/ark:/12148/cb120086319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb120086319> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lacs -- États-Unis"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044620> . 
+<http://id.loc.gov/authorities/subjects/sh85044620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044620> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Erie, Lake"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084706> . 
+<http://id.loc.gov/authorities/subjects/sh85084706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084706> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Michigan, Lake"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130609> . 
+<http://id.loc.gov/authorities/subjects/sh85130609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130609> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Superior, Lake"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85074132" . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85074132> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85074132#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85074132 . 
+_:bnode51authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85074132 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85074132 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85074132 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakes--United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85056988> . 
+<http://id.loc.gov/authorities/subjects/sh85056988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85056988> <http://www.w3.org/2004/02/skos/core#prefLabel> "Great Lakes (North America)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044620> . 
+<http://id.loc.gov/authorities/subjects/sh85044620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erie, Lake"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084706> . 
+<http://id.loc.gov/authorities/subjects/sh85084706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Michigan, Lake"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130609> . 
+<http://id.loc.gov/authorities/subjects/sh85130609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130609> <http://www.w3.org/2004/02/skos/core#prefLabel> "Superior, Lake"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb120086319> . 
+<http://data.bnf.fr/ark:/12148/cb120086319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb120086319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lacs -- États-Unis"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074132> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh85074132 . 
+_:bnode87authoritiessubjectssh85074132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh85074132 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85074132> . 
+_:bnode87authoritiessubjectssh85074132 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh85074132 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85074132 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,131 @@
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Language disorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85074558 . 
+_:bnode7authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85074558 . 
+_:bnode7authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85074558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Language disorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85074558 . 
+_:bnode11authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85074558 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Dysphasia"@en . 
+_:bnode11authoritiessubjectssh85074558 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85074558 . 
+_:bnode16authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85074558 . 
+_:bnode16authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85074558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dysphasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#classification> "RC423-RC428.5" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85040336> . 
+<http://id.loc.gov/authorities/subjects/sh85040336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040336> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dyslexia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4056500-2> . 
+<http://d-nb.info/gnd/4056500-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4056500-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sprachstörung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933931z> . 
+<http://data.bnf.fr/ark:/12148/cb11933931z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933931z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Troubles du langage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4150949-3> . 
+<http://d-nb.info/gnd/4150949-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4150949-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dysphasie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96004235> . 
+<http://id.loc.gov/authorities/subjects/sh96004235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96004235> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Echolalia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4075929-5> . 
+<http://d-nb.info/gnd/4075929-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4075929-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Patholinguistik"@de . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002254> . 
+<http://id.loc.gov/authorities/subjects/sh85002254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002254> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agraphia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85029113> . 
+<http://id.loc.gov/authorities/subjects/sh85029113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85029113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029113> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Communicative disorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85029113> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85074558 . 
+_:bnode55authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85074558 . 
+_:bnode55authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85074558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Communicative disorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006020162> . 
+<http://id.loc.gov/authorities/subjects/sh2006020162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006020162> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hyperlexia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005950> . 
+<http://id.loc.gov/authorities/subjects/sh85005950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005950> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aphasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85118161> . 
+<http://id.loc.gov/authorities/subjects/sh85118161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118161> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schizophasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on disorders of the central neurological functions affecting the reception, processing, or expression of language. Works on disorders of the physiological mechanisms required for the articulation, patterning, or production of speech are entered under [Speech disorders.]" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Speech disorders]" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85074558" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85074558> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85074558#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85074558 . 
+_:bnode83authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85074558 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85074558 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85074558 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode90authoritiessubjectssh85074558 . 
+_:bnode90authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode90authoritiessubjectssh85074558 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-08-01T10:01:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85074558 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode90authoritiessubjectssh85074558 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#prefLabel> "Language disorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode100authoritiessubjectssh85074558 . 
+_:bnode100authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode100authoritiessubjectssh85074558 <http://www.w3.org/2008/05/skos-xl#literalForm> "Dysphasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#altLabel> "Dysphasia" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85029113> . 
+<http://id.loc.gov/authorities/subjects/sh85029113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029113> <http://www.w3.org/2004/02/skos/core#prefLabel> "Communicative disorders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85040336> . 
+<http://id.loc.gov/authorities/subjects/sh85040336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dyslexia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96004235> . 
+<http://id.loc.gov/authorities/subjects/sh96004235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96004235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Echolalia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002254> . 
+<http://id.loc.gov/authorities/subjects/sh85002254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002254> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agraphia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006020162> . 
+<http://id.loc.gov/authorities/subjects/sh2006020162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006020162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hyperlexia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005950> . 
+<http://id.loc.gov/authorities/subjects/sh85005950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005950> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aphasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85118161> . 
+<http://id.loc.gov/authorities/subjects/sh85118161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118161> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schizophasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4056500-2> . 
+<http://d-nb.info/gnd/4056500-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4056500-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprachstörung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933931z> . 
+<http://data.bnf.fr/ark:/12148/cb11933931z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933931z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Troubles du langage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4150949-3> . 
+<http://d-nb.info/gnd/4150949-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4150949-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dysphasie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4075929-5> . 
+<http://d-nb.info/gnd/4075929-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4075929-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patholinguistik"@de . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on disorders of the central neurological functions affecting the reception, processing, or expression of language. Works on disorders of the physiological mechanisms required for the articulation, patterning, or production of speech are entered under [Speech disorders.]" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#example> "Note under [Speech disorders]" . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2008/05/skos-xl#altLabel> "Dysphasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode169authoritiessubjectssh85074558 . 
+_:bnode169authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode169authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85074558> . 
+_:bnode169authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode169authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode169authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85074558> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode177authoritiessubjectssh85074558 . 
+_:bnode177authoritiessubjectssh85074558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode177authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85074558> . 
+_:bnode177authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode177authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#createdDate> "1988-08-01T10:01:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode177authoritiessubjectssh85074558 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,181 @@
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85062913 . 
+_:bnode7authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85062913 . 
+_:bnode7authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85062913 <http://www.loc.gov/mads/rdf/v1#elementValue> "Humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#classification> "AZ" . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029102> . 
+<http://id.loc.gov/authorities/subjects/sh85029102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029102> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Communication in the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112589> . 
+<http://id.loc.gov/authorities/subjects/sh85112589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112589> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Religion and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85026700> . 
+<http://id.loc.gov/authorities/subjects/sh85026700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85026700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85026700> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85026700> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode26authoritiessubjectssh85062913 . 
+_:bnode26authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode27authoritiessubjectssh85062913 . 
+_:bnode26authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode27authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode27authoritiessubjectssh85062913 <http://www.loc.gov/mads/rdf/v1#elementValue> "Classical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85108488> . 
+<http://id.loc.gov/authorities/subjects/sh85108488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108488> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychology and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119331908> . 
+<http://data.bnf.fr/ark:/12148/cb119331908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119331908> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sciences humaines"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13189833r> . 
+<http://data.bnf.fr/ark:/12148/cb13189833r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13189833r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lettres classiques (enseignement supérieur)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008122106> . 
+<http://id.loc.gov/authorities/subjects/sh2008122106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008122106> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Digital humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009006406> . 
+<http://id.loc.gov/authorities/subjects/sh2009006406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009006406> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Law and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91002683> . 
+<http://id.loc.gov/authorities/subjects/sh91002683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91002683> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gerontology and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100849> . 
+<http://id.loc.gov/authorities/subjects/sh85100849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100849> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010014750> . 
+<http://id.loc.gov/authorities/subjects/sh2010014750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010014750> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neurosciences and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85108398> . 
+<http://id.loc.gov/authorities/subjects/sh85108398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108398> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychiatry and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96000718> . 
+<http://id.loc.gov/authorities/subjects/sh96000718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96000718> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychoanalysis and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85075529> . 
+<http://id.loc.gov/authorities/subjects/sh85075529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85075529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075529> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Learning and scholarship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075529> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode75authoritiessubjectssh85062913 . 
+_:bnode75authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode76authoritiessubjectssh85062913 . 
+_:bnode75authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode76authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode76authoritiessubjectssh85062913 <http://www.loc.gov/mads/rdf/v1#elementValue> "Learning and scholarship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/3109> . 
+<http://purl.org/bncf/tid/3109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/3109> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cultura umanistica"@it . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/2172> . 
+<http://lod.nal.usda.gov/nalt/2172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/2172> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "culture and humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083186> . 
+<http://id.loc.gov/authorities/subjects/sh85083186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083186> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008324> . 
+<http://id.loc.gov/authorities/subjects/sh85008324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008324> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85118626> . 
+<http://id.loc.gov/authorities/subjects/sh85118626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118626> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Science and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91004532> . 
+<http://id.loc.gov/authorities/subjects/sh91004532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91004532> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women in the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85043208> . 
+<http://id.loc.gov/authorities/subjects/sh85043208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043208> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Engineering and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on the branches of learning regarded as having a cultural character, including literature, the arts, history, philosophy, religion, etc." . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85062913" . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85062913> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85062913#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode117authoritiessubjectssh85062913 . 
+_:bnode117authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode117authoritiessubjectssh85062913 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode117authoritiessubjectssh85062913 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode117authoritiessubjectssh85062913 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode124authoritiessubjectssh85062913 . 
+_:bnode124authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode124authoritiessubjectssh85062913 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-08-02T11:15:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode124authoritiessubjectssh85062913 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode124authoritiessubjectssh85062913 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85075529> . 
+<http://id.loc.gov/authorities/subjects/sh85075529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Learning and scholarship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029102> . 
+<http://id.loc.gov/authorities/subjects/sh85029102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029102> <http://www.w3.org/2004/02/skos/core#prefLabel> "Communication in the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112589> . 
+<http://id.loc.gov/authorities/subjects/sh85112589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112589> <http://www.w3.org/2004/02/skos/core#prefLabel> "Religion and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85108488> . 
+<http://id.loc.gov/authorities/subjects/sh85108488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychology and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008122106> . 
+<http://id.loc.gov/authorities/subjects/sh2008122106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008122106> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digital humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009006406> . 
+<http://id.loc.gov/authorities/subjects/sh2009006406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009006406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Law and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91002683> . 
+<http://id.loc.gov/authorities/subjects/sh91002683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91002683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerontology and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100849> . 
+<http://id.loc.gov/authorities/subjects/sh85100849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010014750> . 
+<http://id.loc.gov/authorities/subjects/sh2010014750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010014750> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neurosciences and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85108398> . 
+<http://id.loc.gov/authorities/subjects/sh85108398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108398> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychiatry and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96000718> . 
+<http://id.loc.gov/authorities/subjects/sh96000718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96000718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychoanalysis and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083186> . 
+<http://id.loc.gov/authorities/subjects/sh85083186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083186> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008324> . 
+<http://id.loc.gov/authorities/subjects/sh85008324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008324> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85118626> . 
+<http://id.loc.gov/authorities/subjects/sh85118626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Science and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91004532> . 
+<http://id.loc.gov/authorities/subjects/sh91004532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91004532> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women in the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85043208> . 
+<http://id.loc.gov/authorities/subjects/sh85043208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engineering and the humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85026700> . 
+<http://id.loc.gov/authorities/subjects/sh85026700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85026700> <http://www.w3.org/2004/02/skos/core#prefLabel> "Classical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119331908> . 
+<http://data.bnf.fr/ark:/12148/cb119331908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119331908> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sciences humaines"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13189833r> . 
+<http://data.bnf.fr/ark:/12148/cb13189833r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13189833r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lettres classiques (enseignement supérieur)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/3109> . 
+<http://purl.org/bncf/tid/3109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/3109> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cultura umanistica"@it . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/2172> . 
+<http://lod.nal.usda.gov/nalt/2172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/2172> <http://www.w3.org/2004/02/skos/core#prefLabel> "culture and humanities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on the branches of learning regarded as having a cultural character, including literature, the arts, history, philosophy, religion, etc." . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode242authoritiessubjectssh85062913 . 
+_:bnode242authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode242authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85062913> . 
+_:bnode242authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode242authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode242authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85062913> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode250authoritiessubjectssh85062913 . 
+_:bnode250authoritiessubjectssh85062913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode250authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85062913> . 
+_:bnode250authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode250authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#createdDate> "2006-08-02T11:15:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode250authoritiessubjectssh85062913 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

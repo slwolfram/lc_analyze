@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metal-poor stars"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00008701 . 
+_:bnode7authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00008701 . 
+_:bnode7authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#elementValue> "Metal-poor stars"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85127415> . 
+<http://id.loc.gov/authorities/subjects/sh85127415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85127415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127415> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh00008701 . 
+_:bnode16authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh00008701 . 
+_:bnode16authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#elementValue> "Stars"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh89004062> . 
+<http://id.loc.gov/authorities/subjects/sh89004062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89004062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004062> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cosmic abundances"@en . 
+<http://id.loc.gov/authorities/subjects/sh89004062> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh00008701 . 
+_:bnode25authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh00008701 . 
+_:bnode25authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cosmic abundances"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00008701" . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00008701> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00008701#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode36authoritiessubjectssh00008701 . 
+_:bnode36authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode36authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Sneden, C. Early galactic nucleosynthesis : clues from very metal-poor field stars, 2000." . 
+_:bnode36authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh00008701 . 
+_:bnode42authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-source> "Astronomy thesaurus WWW site, Nov. 20, 2000" . 
+_:bnode42authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Metal Poor Stars)"@en . 
+_:bnode42authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh00008701 . 
+_:bnode50authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-source> "Ox. dict. of ast." . 
+_:bnode50authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Metal-poor star)"@en . 
+_:bnode50authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh00008701 . 
+_:bnode58authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-source> "NASA;Glossary of astronomical terms;Acad. Press dict. of sci. and tech. (1992);McGraw-Hill dict. sci. tech.;Web. 3" . 
+_:bnode58authoritiessubjectssh00008701 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh00008701 . 
+_:bnode64authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-11-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mh> . 
+_:bnode64authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh00008701 . 
+_:bnode72authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-01-10T14:43:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mh> . 
+_:bnode72authoritiessubjectssh00008701 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metal-poor stars"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85127415> . 
+<http://id.loc.gov/authorities/subjects/sh85127415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stars"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh89004062> . 
+<http://id.loc.gov/authorities/subjects/sh89004062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004062> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cosmic abundances"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh00008701 . 
+_:bnode94authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00008701> . 
+_:bnode94authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mh> . 
+_:bnode94authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#createdDate> "2000-11-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00008701> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh00008701 . 
+_:bnode102authoritiessubjectssh00008701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00008701> . 
+_:bnode102authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mh> . 
+_:bnode102authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#createdDate> "2001-01-10T14:43:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh00008701 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

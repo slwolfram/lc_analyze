@@ -1,0 +1,254 @@
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bays--Australia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85012517 . 
+_:bnode7authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85012515> . 
+_:bnode7authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012515> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85012517 . 
+_:bnode12authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85012517 . 
+_:bnode12authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85012517 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bays"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79021326> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n79021326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79021326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79021326> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Australia"@en . 
+<http://id.loc.gov/authorities/names/n79021326> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85012517 . 
+_:bnode20authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85012517 . 
+_:bnode20authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85012517 <http://www.loc.gov/mads/rdf/v1#elementValue> "Australia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105048> . 
+<http://id.loc.gov/authorities/subjects/sh85105048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105048> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Port Phillip Bay (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016009> . 
+<http://id.loc.gov/authorities/subjects/sh85016009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016009> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Botany Bay (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96002807> . 
+<http://id.loc.gov/authorities/subjects/sh96002807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96002807> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geographe Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010014549> . 
+<http://id.loc.gov/authorities/subjects/sh2010014549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010014549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recherche Bay (Tas.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95007874> . 
+<http://id.loc.gov/authorities/subjects/sh95007874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95007874> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Storm Bay (Tas.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002010994> . 
+<http://id.loc.gov/authorities/subjects/sh2002010994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002010994> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Broken Bay (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007005672> . 
+<http://id.loc.gov/authorities/subjects/sh2007005672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007005672> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Keppel Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94002982> . 
+<http://id.loc.gov/authorities/subjects/sh94002982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94002982> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Norwegian Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000646> . 
+<http://id.loc.gov/authorities/subjects/sh87000646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000646> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wreck Bay (A.C.T.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96001346> . 
+<http://id.loc.gov/authorities/subjects/sh96001346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96001346> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Van Diemen Gulf (N.T.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005003317> . 
+<http://id.loc.gov/authorities/subjects/sh2005003317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005003317> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Roebuck Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86004465> . 
+<http://id.loc.gov/authorities/subjects/sh86004465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86004465> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spencer Gulf (S.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85032604> . 
+<http://id.loc.gov/authorities/subjects/sh85032604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032604> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Corio Bay (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027014> . 
+<http://id.loc.gov/authorities/subjects/sh85027014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cleveland Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92006777> . 
+<http://id.loc.gov/authorities/subjects/sh92006777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92006777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carpentaria, Gulf of (N.T. and Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007001779> . 
+<http://id.loc.gov/authorities/subjects/sh2007001779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007001779> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lagoon Bay (Tas. : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006000142> . 
+<http://id.loc.gov/authorities/subjects/sh2006000142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006000142> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sullivan Bay (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97001304> . 
+<http://id.loc.gov/authorities/subjects/sh97001304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97001304> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moreton Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004910> . 
+<http://id.loc.gov/authorities/subjects/sh98004910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004910> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Joseph Bonaparte Gulf (W.A. and N.T.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060486> . 
+<http://id.loc.gov/authorities/subjects/sh85060486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060486> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hervey Bay (Qld. : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139061> . 
+<http://id.loc.gov/authorities/subjects/sh85139061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139061> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Twofold Bay (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95001590> . 
+<http://id.loc.gov/authorities/subjects/sh95001590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95001590> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mangles Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000931> . 
+<http://id.loc.gov/authorities/subjects/sh85000931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000931> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Admiralty Gulf (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005005600> . 
+<http://id.loc.gov/authorities/subjects/sh2005005600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005005600> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Western Port (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86004099> . 
+<http://id.loc.gov/authorities/subjects/sh86004099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86004099> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jervis Bay (Australia : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121701> . 
+<http://id.loc.gov/authorities/subjects/sh85121701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121701> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shoalwater Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85116626> . 
+<http://id.loc.gov/authorities/subjects/sh85116626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116626> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saint Vincent, Gulf (S.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91004133> . 
+<http://id.loc.gov/authorities/subjects/sh91004133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91004133> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shark Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96010245> . 
+<http://id.loc.gov/authorities/subjects/sh96010245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96010245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pitt Water (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007001780> . 
+<http://id.loc.gov/authorities/subjects/sh2007001780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007001780> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adventure Bay (Tas. : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95002926> . 
+<http://id.loc.gov/authorities/subjects/sh95002926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95002926> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exmouth Gulf (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92006776> . 
+<http://id.loc.gov/authorities/subjects/sh92006776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92006776> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Albatross Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb16184570b> . 
+<http://data.bnf.fr/ark:/12148/cb16184570b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb16184570b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baies -- Australie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003612> . 
+<http://id.loc.gov/authorities/subjects/sh92003612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003612> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Great Australian Bight (W.A. and S.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005000748> . 
+<http://id.loc.gov/authorities/subjects/sh2005000748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005000748> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Risdon Cove (Tas.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85012517" . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85012517> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85012517#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode171authoritiessubjectssh85012517 . 
+_:bnode171authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode171authoritiessubjectssh85012517 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode171authoritiessubjectssh85012517 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode171authoritiessubjectssh85012517 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bays--Australia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105048> . 
+<http://id.loc.gov/authorities/subjects/sh85105048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105048> <http://www.w3.org/2004/02/skos/core#prefLabel> "Port Phillip Bay (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016009> . 
+<http://id.loc.gov/authorities/subjects/sh85016009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016009> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botany Bay (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96002807> . 
+<http://id.loc.gov/authorities/subjects/sh96002807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96002807> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geographe Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010014549> . 
+<http://id.loc.gov/authorities/subjects/sh2010014549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010014549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recherche Bay (Tas.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95007874> . 
+<http://id.loc.gov/authorities/subjects/sh95007874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95007874> <http://www.w3.org/2004/02/skos/core#prefLabel> "Storm Bay (Tas.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002010994> . 
+<http://id.loc.gov/authorities/subjects/sh2002010994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002010994> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broken Bay (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007005672> . 
+<http://id.loc.gov/authorities/subjects/sh2007005672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007005672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keppel Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94002982> . 
+<http://id.loc.gov/authorities/subjects/sh94002982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94002982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Norwegian Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000646> . 
+<http://id.loc.gov/authorities/subjects/sh87000646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000646> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wreck Bay (A.C.T.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96001346> . 
+<http://id.loc.gov/authorities/subjects/sh96001346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96001346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Van Diemen Gulf (N.T.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005003317> . 
+<http://id.loc.gov/authorities/subjects/sh2005003317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005003317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roebuck Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86004465> . 
+<http://id.loc.gov/authorities/subjects/sh86004465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86004465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spencer Gulf (S.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85032604> . 
+<http://id.loc.gov/authorities/subjects/sh85032604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032604> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corio Bay (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027014> . 
+<http://id.loc.gov/authorities/subjects/sh85027014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cleveland Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92006777> . 
+<http://id.loc.gov/authorities/subjects/sh92006777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92006777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carpentaria, Gulf of (N.T. and Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007001779> . 
+<http://id.loc.gov/authorities/subjects/sh2007001779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007001779> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagoon Bay (Tas. : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006000142> . 
+<http://id.loc.gov/authorities/subjects/sh2006000142> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006000142> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sullivan Bay (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97001304> . 
+<http://id.loc.gov/authorities/subjects/sh97001304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97001304> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moreton Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004910> . 
+<http://id.loc.gov/authorities/subjects/sh98004910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Joseph Bonaparte Gulf (W.A. and N.T.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060486> . 
+<http://id.loc.gov/authorities/subjects/sh85060486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060486> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hervey Bay (Qld. : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139061> . 
+<http://id.loc.gov/authorities/subjects/sh85139061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Twofold Bay (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95001590> . 
+<http://id.loc.gov/authorities/subjects/sh95001590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95001590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mangles Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000931> . 
+<http://id.loc.gov/authorities/subjects/sh85000931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000931> <http://www.w3.org/2004/02/skos/core#prefLabel> "Admiralty Gulf (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005005600> . 
+<http://id.loc.gov/authorities/subjects/sh2005005600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005005600> <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Port (Vic.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86004099> . 
+<http://id.loc.gov/authorities/subjects/sh86004099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86004099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jervis Bay (Australia : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121701> . 
+<http://id.loc.gov/authorities/subjects/sh85121701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shoalwater Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85116626> . 
+<http://id.loc.gov/authorities/subjects/sh85116626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Vincent, Gulf (S.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91004133> . 
+<http://id.loc.gov/authorities/subjects/sh91004133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91004133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shark Bay (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96010245> . 
+<http://id.loc.gov/authorities/subjects/sh96010245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96010245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pitt Water (N.S.W.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007001780> . 
+<http://id.loc.gov/authorities/subjects/sh2007001780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007001780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adventure Bay (Tas. : Bay)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95002926> . 
+<http://id.loc.gov/authorities/subjects/sh95002926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95002926> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exmouth Gulf (W.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92006776> . 
+<http://id.loc.gov/authorities/subjects/sh92006776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92006776> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albatross Bay (Qld.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003612> . 
+<http://id.loc.gov/authorities/subjects/sh92003612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003612> <http://www.w3.org/2004/02/skos/core#prefLabel> "Great Australian Bight (W.A. and S.A.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005000748> . 
+<http://id.loc.gov/authorities/subjects/sh2005000748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005000748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Risdon Cove (Tas.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb16184570b> . 
+<http://data.bnf.fr/ark:/12148/cb16184570b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb16184570b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baies -- Australie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85012517> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode357authoritiessubjectssh85012517 . 
+_:bnode357authoritiessubjectssh85012517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode357authoritiessubjectssh85012517 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85012517> . 
+_:bnode357authoritiessubjectssh85012517 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode357authoritiessubjectssh85012517 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode357authoritiessubjectssh85012517 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
