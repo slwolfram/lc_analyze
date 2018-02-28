@@ -53,6 +53,15 @@ public class DlRDF {
 		} catch (IOException | URISyntaxException e) {
 			e.printStackTrace();
 		}
+		/*for (int i = 80000000; i < 99999999; i++) {
+			String uriName = "http://id.loc.gov/authorities/subjects/sh";
+			for (int j = 0; j < (8 - Integer.toString(i).length()); j++) {
+				uriName += "0";
+			}
+			uriName += Integer.toString(i);
+			download(uriName);
+		}*/
+			
 		System.exit(0);
 	}
 
@@ -106,7 +115,12 @@ public class DlRDF {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			HttpEntity entity = response.getEntity();
+			HttpEntity entity = null;
+			try {
+			 entity = response.getEntity();
+			} catch (NullPointerException e) {
+				e.printStackTrace();
+			}
 			if (entity != null) {
 				try (FileOutputStream outstream = new FileOutputStream(rdfFile)) {
 					entity.writeTo(outstream);

@@ -80,6 +80,13 @@ public class LCAnalyze {
 	 */
 	public static ArrayList<LCSubjectHeading> lcshList = new ArrayList<LCSubjectHeading>();
 	/**
+	 * Assign value in buildLCHeadings method. This controls the depth of
+	 * broader/narrower headings generated for each LCSubjectHeading within the
+	 * record set.
+	 */
+	public static final int maxDepth = 5;
+
+	/**
 	 * nameHeadingTrees - a list of all the LCHeading name trees. Used to model the
 	 * structure and distribution of LC name headings for a given MARCXML dataset.
 	 */
@@ -171,7 +178,7 @@ public class LCAnalyze {
 			// build subject heading string arrays from RDF, and add to headingTrees
 			for (int i = 0; i < uris.size(); i++) {
 				ArrayList<String> conceptString = buildConceptString(uris.get(i));
-				addConceptString(conceptString, uris.get(i), oclc, 1);
+				addConceptString(conceptString, uris.get(i), oclc, 1, 0, 0);
 			}
 		}
 	}
@@ -181,12 +188,11 @@ public class LCAnalyze {
 	 * 
 	 * Description: This method adds a new LCSH heading or heading string to the
 	 * lcsh list. If the heading already exists, it can be incremented by passing
-	 * the value 1 in the count parameter. (Headings which are not counted are, e.g., those
-	 * that are added as broader/narrow terms for an existing heading)
+	 * the value 1 in the count parameter. (Headings which are not counted are,
+	 * e.g., those that are added as broader/narrow terms for an existing heading)
 	 */
-	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, String oclc, int count)
-			throws FileNotFoundException {
-		
+	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, String oclc, int count,
+			int narrowerDepth, int broaderDepth) throws FileNotFoundException {
 
 		System.out.println("starting addConceptString...");
 		System.out.println(conceptString.get(0) + " " + uri.toString() + " " + count);
@@ -212,14 +218,15 @@ public class LCAnalyze {
 				lcsh = new LCSubjectHeading(conceptString, uri, oclc, count);
 			}
 			lcshList.add(lcsh);
-			lcsh.addBroaderHeadings(getBroaderHeadings(lcsh));
-			lcsh.addNarrowerHeadings(getNarrowerHeadings(lcsh));
-			
+			lcsh.addNarrowerHeadings(getNarrowerHeadings(lcsh, narrowerDepth));
+			lcsh.addBroaderHeadings(getBroaderHeadings(lcsh, broaderDepth));
+
 		}
 		return lcsh;
 	}
 
-	private static ArrayList<LCSubjectHeading> getNarrowerHeadings(LCSubjectHeading heading) throws FileNotFoundException {
+	private static ArrayList<LCSubjectHeading> getNarrowerHeadings(LCSubjectHeading heading, int depth)
+			throws FileNotFoundException {
 		ArrayList<LCSubjectHeading> narrowerHeadings = new ArrayList<LCSubjectHeading>();
 		if (heading.getURI() != null) {
 			String b = null;
@@ -239,32 +246,42 @@ public class LCAnalyze {
 					}
 				}
 				System.out.println(uriList.toString());
-				for (int i = 0; i < uriList.size(); i++) {
-					String filepath = DlRDF.download(uriList.get(i));
-					InputStream input = new FileInputStream(filepath);
-					try {
-						rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
-					} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
-						e.printStackTrace();
+				// first see if the narrower headings already exist in lcshList!
+				for (int i = 0; i < lcshList.size(); i++) {
+					for (int j = 0; j < uriList.size(); j++) {
+						if (lcshList.get(i).getURI().toString().equals(uriList.get(j))) {
+							uriList.remove(j);
+							narrowerHeadings.add(lcshList.get(i));
+						}
 					}
-					// construct concepts from uri
-					ArrayList<String> narrowerHeadingString = new ArrayList<String>();
-					try {
-						narrowerHeadingString = buildConceptString(new URI(uriList.get(i)));
-						narrowerHeadings.add(addConceptString(narrowerHeadingString, new URI(uriList.get(i)), null, 0));
-
-					} catch (URISyntaxException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-
+					if (uriList.isEmpty())
+						return narrowerHeadings;
 				}
-			} else {
-				System.out.println("no broader uri");
-				return narrowerHeadings;
+				depth++;
+				if (depth != maxDepth) {
+					for (int i = 0; i < uriList.size(); i++) {
+						String filepath = DlRDF.download(uriList.get(i));
+						InputStream input = new FileInputStream(filepath);
+						try {
+							rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+						} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+							e.printStackTrace();
+						}
+						// construct concepts from uri
+						ArrayList<String> narrowerHeadingString = new ArrayList<String>();
+						try {
+							narrowerHeadingString = buildConceptString(new URI(uriList.get(i)));
+							narrowerHeadings.add(addConceptString(narrowerHeadingString, new URI(uriList.get(i)), null,
+									0, depth, depth));
+
+						} catch (URISyntaxException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+				}
 			}
 		}
-
 		return narrowerHeadings;
 	}
 
@@ -331,7 +348,7 @@ public class LCAnalyze {
 		return conceptString;
 	}
 
-	private static ArrayList<LCSubjectHeading> getBroaderHeadings(LCSubjectHeading heading)
+	private static ArrayList<LCSubjectHeading> getBroaderHeadings(LCSubjectHeading heading, int depth)
 			throws FileNotFoundException {
 		ArrayList<LCSubjectHeading> broaderHeadings = new ArrayList<LCSubjectHeading>();
 		if (heading.getURI() != null) {
@@ -352,29 +369,40 @@ public class LCAnalyze {
 					}
 				}
 				System.out.println(uriList.toString());
-				for (int i = 0; i < uriList.size(); i++) {
-					String filepath = DlRDF.download(uriList.get(i));
-					InputStream input = new FileInputStream(filepath);
-					try {
-						rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
-					} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
-						e.printStackTrace();
+				// first see if the narrower headings already exist in lcshList!
+				for (int i = 0; i < lcshList.size(); i++) {
+					for (int j = 0; j < uriList.size(); j++) {
+						if (lcshList.get(i).getURI().toString().equals(uriList.get(j))) {
+							uriList.remove(j);
+							broaderHeadings.add(lcshList.get(i));
+						}
 					}
-					// construct concepts from uri
-					ArrayList<String> broaderHeadingString = new ArrayList<String>();
-					try {
-						broaderHeadingString = buildConceptString(new URI(uriList.get(i)));
-						broaderHeadings.add(addConceptString(broaderHeadingString, new URI(uriList.get(i)), null, 0));
-
-					} catch (URISyntaxException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-
+					if (uriList.isEmpty())
+						return broaderHeadings;
 				}
-			} else {
-				System.out.println("no broader uri");
-				return broaderHeadings;
+				depth++;
+				if (depth != maxDepth) {
+					for (int i = 0; i < uriList.size(); i++) {
+						String filepath = DlRDF.download(uriList.get(i));
+						InputStream input = new FileInputStream(filepath);
+						try {
+							rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+						} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+							e.printStackTrace();
+						}
+						// construct concepts from uri
+						ArrayList<String> broaderHeadingString = new ArrayList<String>();
+						try {
+							broaderHeadingString = buildConceptString(new URI(uriList.get(i)));
+							broaderHeadings.add(addConceptString(broaderHeadingString, new URI(uriList.get(i)), null, 0,
+									depth, depth));
+
+						} catch (URISyntaxException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+				}
 			}
 		}
 
