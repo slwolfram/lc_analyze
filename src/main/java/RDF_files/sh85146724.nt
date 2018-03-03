@@ -1,0 +1,109 @@
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wildfires--Prevention and control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85146724 . 
+_:bnode7authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85146723> . 
+_:bnode7authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85146723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85146723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146723> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wildfires"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146723> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85146724 . 
+_:bnode12authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85146724 . 
+_:bnode12authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85146724 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wildfires"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85146724 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85146724 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prevention and control"@en . 
+_:bnode16authoritiessubjectssh85146724 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85146724 . 
+_:bnode20authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85146724 . 
+_:bnode20authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85146724 <http://www.loc.gov/mads/rdf/v1#elementValue> "Prevention and control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001409> . 
+<http://id.loc.gov/authorities/subjects/sh85001409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001409> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics in wildfire control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85048486> . 
+<http://id.loc.gov/authorities/subjects/sh85048486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85048486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048486> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fire extinction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048486> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85146724 . 
+_:bnode33authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85146724 . 
+_:bnode33authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85146724 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fire extinction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005007770> . 
+<http://id.loc.gov/authorities/subjects/sh2005007770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005007770> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuel reduction (Wildfire prevention)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85048509> . 
+<http://id.loc.gov/authorities/subjects/sh85048509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85048509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048509> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fire prevention"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048509> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode46authoritiessubjectssh85146724 . 
+_:bnode46authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh85146724 . 
+_:bnode46authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode47authoritiessubjectssh85146724 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fire prevention"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052227> . 
+<http://id.loc.gov/authorities/subjects/sh85052227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052227> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuelbreaks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001134> . 
+<http://id.loc.gov/authorities/subjects/sh93001134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001134> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wildfire forecasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94001628> . 
+<http://id.loc.gov/authorities/subjects/sh94001628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94001628> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Firescaping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85146724" . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85146724> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85146724#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh85146724 . 
+_:bnode69authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh85146724 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh85146724 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh85146724 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode76authoritiessubjectssh85146724 . 
+_:bnode76authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode76authoritiessubjectssh85146724 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-03-07T12:25:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode76authoritiessubjectssh85146724 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode76authoritiessubjectssh85146724 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wildfires--Prevention and control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85048486> . 
+<http://id.loc.gov/authorities/subjects/sh85048486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048486> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fire extinction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85048509> . 
+<http://id.loc.gov/authorities/subjects/sh85048509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048509> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fire prevention"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001409> . 
+<http://id.loc.gov/authorities/subjects/sh85001409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001409> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics in wildfire control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005007770> . 
+<http://id.loc.gov/authorities/subjects/sh2005007770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005007770> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fuel reduction (Wildfire prevention)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052227> . 
+<http://id.loc.gov/authorities/subjects/sh85052227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fuelbreaks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001134> . 
+<http://id.loc.gov/authorities/subjects/sh93001134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001134> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wildfire forecasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94001628> . 
+<http://id.loc.gov/authorities/subjects/sh94001628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94001628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Firescaping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode122authoritiessubjectssh85146724 . 
+_:bnode122authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode122authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85146724> . 
+_:bnode122authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode122authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode122authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85146724> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode130authoritiessubjectssh85146724 . 
+_:bnode130authoritiessubjectssh85146724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode130authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85146724> . 
+_:bnode130authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode130authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#createdDate> "2006-03-07T12:25:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode130authoritiessubjectssh85146724 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

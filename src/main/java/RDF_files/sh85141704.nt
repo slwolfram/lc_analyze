@@ -1,0 +1,148 @@
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85141704 . 
+_:bnode7authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85141704 . 
+_:bnode7authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85141704 . 
+_:bnode11authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Holidays (Vacations)"@en . 
+_:bnode11authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85141704 . 
+_:bnode16authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85141704 . 
+_:bnode16authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#elementValue> "Holidays (Vacations)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#classification> "LB3041" . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061866> . 
+<http://id.loc.gov/authorities/subjects/sh85061866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061866> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Honeymoons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00007531> . 
+<http://id.loc.gov/authorities/subjects/sh00007531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00007531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00007531> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recreation"@en . 
+<http://id.loc.gov/authorities/subjects/sh00007531> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85141704 . 
+_:bnode31authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85141704 . 
+_:bnode31authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#elementValue> "Recreation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95003002> . 
+<http://id.loc.gov/authorities/subjects/sh95003002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003002> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spring break"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13318549z> . 
+<http://data.bnf.fr/ark:/12148/cb13318549z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13318549z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vacances"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11969152s> . 
+<http://data.bnf.fr/ark:/12148/cb11969152s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11969152s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vacances scolaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/30699> . 
+<http://lod.nal.usda.gov/nalt/30699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/30699> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008004779> . 
+<http://id.loc.gov/authorities/subjects/sh2008004779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008004779> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Family vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4180141-6> . 
+<http://d-nb.info/gnd/4180141-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4180141-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schulferien"@de . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85061453> . 
+<http://id.loc.gov/authorities/subjects/sh85061453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061453> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Holidays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061453> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85141704 . 
+_:bnode64authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85141704 . 
+_:bnode64authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#elementValue> "Holidays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85118266> . 
+<http://id.loc.gov/authorities/subjects/sh85118266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85118266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118266> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "School attendance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85118266> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode73authoritiessubjectssh85141704 . 
+_:bnode73authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode74authoritiessubjectssh85141704 . 
+_:bnode73authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode74authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode74authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#elementValue> "School attendance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00004558> . 
+<http://id.loc.gov/authorities/subjects/sh00004558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00004558> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Short vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/1928> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Leaves and furloughs] under names of individual military services" . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85141704" . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85141704> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85141704#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode92authoritiessubjectssh85141704 . 
+_:bnode92authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode92authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#citation-source> "Encarta world Eng. dict." . 
+_:bnode92authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#citation-note> "(holiday: [UK, ANZ] = vacation)"@en . 
+_:bnode92authoritiessubjectssh85141704 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode100authoritiessubjectssh85141704 . 
+_:bnode100authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode100authoritiessubjectssh85141704 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-03-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh85141704 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode100authoritiessubjectssh85141704 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode107authoritiessubjectssh85141704 . 
+_:bnode107authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode107authoritiessubjectssh85141704 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-05-01T11:57:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85141704 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode107authoritiessubjectssh85141704 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode117authoritiessubjectssh85141704 . 
+_:bnode117authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode117authoritiessubjectssh85141704 <http://www.w3.org/2008/05/skos-xl#literalForm> "Holidays (Vacations)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#altLabel> "Holidays (Vacations)" . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00007531> . 
+<http://id.loc.gov/authorities/subjects/sh00007531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00007531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recreation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85118266> . 
+<http://id.loc.gov/authorities/subjects/sh85118266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118266> <http://www.w3.org/2004/02/skos/core#prefLabel> "School attendance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061866> . 
+<http://id.loc.gov/authorities/subjects/sh85061866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honeymoons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95003002> . 
+<http://id.loc.gov/authorities/subjects/sh95003002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003002> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spring break"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008004779> . 
+<http://id.loc.gov/authorities/subjects/sh2008004779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008004779> <http://www.w3.org/2004/02/skos/core#prefLabel> "Family vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00004558> . 
+<http://id.loc.gov/authorities/subjects/sh00004558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00004558> <http://www.w3.org/2004/02/skos/core#prefLabel> "Short vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85061453> . 
+<http://id.loc.gov/authorities/subjects/sh85061453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Holidays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/30699> . 
+<http://lod.nal.usda.gov/nalt/30699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/30699> <http://www.w3.org/2004/02/skos/core#prefLabel> "vacations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/1928> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13318549z> . 
+<http://data.bnf.fr/ark:/12148/cb13318549z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13318549z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vacances"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11969152s> . 
+<http://data.bnf.fr/ark:/12148/cb11969152s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11969152s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vacances scolaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4180141-6> . 
+<http://d-nb.info/gnd/4180141-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4180141-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schulferien"@de . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Leaves and furloughs] under names of individual military services" . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2008/05/skos-xl#altLabel> "Holidays (Vacations)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode185authoritiessubjectssh85141704 . 
+_:bnode185authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode185authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85141704> . 
+_:bnode185authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode185authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#createdDate> "2000-03-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode185authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85141704> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode193authoritiessubjectssh85141704 . 
+_:bnode193authoritiessubjectssh85141704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode193authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85141704> . 
+_:bnode193authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode193authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#createdDate> "2000-05-01T11:57:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode193authoritiessubjectssh85141704 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,59 @@
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Membrane industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85083470 . 
+_:bnode7authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85083470 . 
+_:bnode7authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85083470 <http://www.loc.gov/mads/rdf/v1#elementValue> "Membrane industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#classification> "HD9999.M42-HD9999.M424" . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87006940> . 
+<http://id.loc.gov/authorities/subjects/sh87006940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006940> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gas separation membrane industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh97001369> . 
+<http://id.loc.gov/authorities/subjects/sh97001369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh97001369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97001369> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manufacturing industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh97001369> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85083470 . 
+_:bnode22authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85083470 . 
+_:bnode22authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85083470 <http://www.loc.gov/mads/rdf/v1#elementValue> "Manufacturing industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85083470" . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85083470> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85083470#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode34authoritiessubjectssh85083470 . 
+_:bnode34authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode34authoritiessubjectssh85083470 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode34authoritiessubjectssh85083470 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode34authoritiessubjectssh85083470 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh85083470 . 
+_:bnode41authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh85083470 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-08-07T13:26:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh85083470 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh85083470 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Membrane industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh97001369> . 
+<http://id.loc.gov/authorities/subjects/sh97001369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97001369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufacturing industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87006940> . 
+<http://id.loc.gov/authorities/subjects/sh87006940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006940> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gas separation membrane industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode62authoritiessubjectssh85083470 . 
+_:bnode62authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode62authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083470> . 
+_:bnode62authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode62authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85083470> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode70authoritiessubjectssh85083470 . 
+_:bnode70authoritiessubjectssh85083470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode70authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083470> . 
+_:bnode70authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode70authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#createdDate> "1997-08-07T13:26:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh85083470 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,68 @@
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electron beams--Industrial applications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85042201 . 
+_:bnode7authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85042200> . 
+_:bnode7authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85042200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042200> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electron beams"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042200> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85042201 . 
+_:bnode12authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85042201 . 
+_:bnode12authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85042201 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electron beams"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006117> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00006117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006117> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrial applications"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006117> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85042201 . 
+_:bnode20authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85042201 . 
+_:bnode20authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85042201 <http://www.loc.gov/mads/rdf/v1#elementValue> "Industrial applications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042198> . 
+<http://id.loc.gov/authorities/subjects/sh85042198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042198> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electron beam furnaces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042212> . 
+<http://id.loc.gov/authorities/subjects/sh85042212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042212> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electron gun"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077608> . 
+<http://id.loc.gov/authorities/subjects/sh85077608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lithography, Electron beam"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042199> . 
+<http://id.loc.gov/authorities/subjects/sh85042199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042199> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electron beam welding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85042201" . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85042201> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85042201#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh85042201 . 
+_:bnode47authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh85042201 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh85042201 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh85042201 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electron beams--Industrial applications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042198> . 
+<http://id.loc.gov/authorities/subjects/sh85042198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electron beam furnaces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042212> . 
+<http://id.loc.gov/authorities/subjects/sh85042212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electron gun"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077608> . 
+<http://id.loc.gov/authorities/subjects/sh85077608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lithography, Electron beam"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042199> . 
+<http://id.loc.gov/authorities/subjects/sh85042199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electron beam welding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042201> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode78authoritiessubjectssh85042201 . 
+_:bnode78authoritiessubjectssh85042201 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode78authoritiessubjectssh85042201 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042201> . 
+_:bnode78authoritiessubjectssh85042201 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode78authoritiessubjectssh85042201 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85042201 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

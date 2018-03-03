@@ -1,0 +1,71 @@
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jeet Kune Do"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh89006657 . 
+_:bnode7authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh89006657 . 
+_:bnode7authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jeet Kune Do"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#classification> "GV1114.6" . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85081626> . 
+<http://id.loc.gov/authorities/subjects/sh85081626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85081626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081626> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Martial arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081626> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh89006657 . 
+_:bnode18authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh89006657 . 
+_:bnode18authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#elementValue> "Martial arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb158903467> . 
+<http://data.bnf.fr/ark:/12148/cb158903467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb158903467> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jeet kune do"@fr . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 89006657" . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh89006657> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh89006657#concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh89006657 . 
+_:bnode34authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Beasley, J. In search of ... the Jeet Kune Do experience." . 
+_:bnode34authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh89006657 . 
+_:bnode40authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#citation-source> "Corcoran, J. Martial arts." . 
+_:bnode40authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode46authoritiessubjectssh89006657 . 
+_:bnode46authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode46authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hennepin;Web. sports" . 
+_:bnode46authoritiessubjectssh89006657 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode52authoritiessubjectssh89006657 . 
+_:bnode52authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode52authoritiessubjectssh89006657 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-11-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh89006657 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode52authoritiessubjectssh89006657 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh89006657 . 
+_:bnode59authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh89006657 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-12-22T10:43:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh89006657 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh89006657 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jeet Kune Do"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85081626> . 
+<http://id.loc.gov/authorities/subjects/sh85081626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Martial arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb158903467> . 
+<http://data.bnf.fr/ark:/12148/cb158903467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb158903467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jeet kune do"@fr . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode80authoritiessubjectssh89006657 . 
+_:bnode80authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode80authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89006657> . 
+_:bnode80authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode80authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#createdDate> "1989-11-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh89006657> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode88authoritiessubjectssh89006657 . 
+_:bnode88authoritiessubjectssh89006657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode88authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89006657> . 
+_:bnode88authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode88authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#createdDate> "1989-12-22T10:43:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh89006657 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

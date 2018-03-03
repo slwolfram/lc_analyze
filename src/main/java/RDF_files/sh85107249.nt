@@ -1,0 +1,127 @@
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Professional corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85107249 . 
+_:bnode7authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85107249 . 
+_:bnode7authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementValue> "Professional corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85107249 . 
+_:bnode11authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Professional service firms"@en . 
+_:bnode11authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85107249 . 
+_:bnode16authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85107249 . 
+_:bnode16authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementValue> "Professional service firms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85107249 . 
+_:bnode20authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#variantLabel> "PSFs (Professional service firms)"@en . 
+_:bnode20authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85107249 . 
+_:bnode25authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85107249 . 
+_:bnode25authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementValue> "PSFs (Professional service firms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#classification> "HD62.65" . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12009937f> . 
+<http://data.bnf.fr/ark:/12148/cb12009937f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12009937f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sociétés civiles professionnelles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082913> . 
+<http://id.loc.gov/authorities/subjects/sh85082913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082913> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85120347> . 
+<http://id.loc.gov/authorities/subjects/sh85120347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85120347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120347> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Service industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120347> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85107249 . 
+_:bnode44authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85107249 . 
+_:bnode44authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementValue> "Service industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075769> . 
+<http://id.loc.gov/authorities/subjects/sh85075769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Legal service corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85032928> . 
+<http://id.loc.gov/authorities/subjects/sh85032928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85032928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032928> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85032928> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode57authoritiessubjectssh85107249 . 
+_:bnode57authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh85107249 . 
+_:bnode57authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode58authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#elementValue> "Corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12226716z> . 
+<http://data.bnf.fr/ark:/12148/cb12226716z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12226716z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sociétés d'exercice libéral"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85107249" . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85107249> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85107249#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode73authoritiessubjectssh85107249 . 
+_:bnode73authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode73authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat: 2007023057: Integrated leadership in professional service firms / Thomas DeLong. c2007:" . 
+_:bnode73authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p."@en . 
+_:bnode73authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode81authoritiessubjectssh85107249 . 
+_:bnode81authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode81authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#citation-source> "Google search, June 18, 2007" . 
+_:bnode81authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#citation-note> "(professional corporations; professional service firms; PSFs)"@en . 
+_:bnode81authoritiessubjectssh85107249 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode89authoritiessubjectssh85107249 . 
+_:bnode89authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode89authoritiessubjectssh85107249 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-05-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85107249 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode89authoritiessubjectssh85107249 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode96authoritiessubjectssh85107249 . 
+_:bnode96authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode96authoritiessubjectssh85107249 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-07-20T07:53:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh85107249 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode96authoritiessubjectssh85107249 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professional corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode106authoritiessubjectssh85107249 . 
+_:bnode106authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode106authoritiessubjectssh85107249 <http://www.w3.org/2008/05/skos-xl#literalForm> "Professional service firms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#altLabel> "Professional service firms" . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode113authoritiessubjectssh85107249 . 
+_:bnode113authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode113authoritiessubjectssh85107249 <http://www.w3.org/2008/05/skos-xl#literalForm> "PSFs (Professional service firms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#altLabel> "PSFs (Professional service firms)" . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85120347> . 
+<http://id.loc.gov/authorities/subjects/sh85120347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85032928> . 
+<http://id.loc.gov/authorities/subjects/sh85032928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082913> . 
+<http://id.loc.gov/authorities/subjects/sh85082913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082913> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075769> . 
+<http://id.loc.gov/authorities/subjects/sh85075769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075769> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legal service corporations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12009937f> . 
+<http://data.bnf.fr/ark:/12148/cb12009937f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12009937f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociétés civiles professionnelles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12226716z> . 
+<http://data.bnf.fr/ark:/12148/cb12226716z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12226716z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sociétés d'exercice libéral"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2008/05/skos-xl#altLabel> "Professional service firms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2008/05/skos-xl#altLabel> "PSFs (Professional service firms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode155authoritiessubjectssh85107249 . 
+_:bnode155authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode155authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107249> . 
+_:bnode155authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode155authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#createdDate> "2003-05-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode155authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85107249> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode163authoritiessubjectssh85107249 . 
+_:bnode163authoritiessubjectssh85107249 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode163authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107249> . 
+_:bnode163authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode163authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#createdDate> "2007-07-20T07:53:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode163authoritiessubjectssh85107249 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

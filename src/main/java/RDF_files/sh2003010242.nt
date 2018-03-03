@@ -1,0 +1,75 @@
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Suburban police"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2003010242 . 
+_:bnode7authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2003010242 . 
+_:bnode7authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#elementValue> "Suburban police"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85104183> . 
+<http://id.loc.gov/authorities/subjects/sh85104183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85104183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104183> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Police"@en . 
+<http://id.loc.gov/authorities/subjects/sh85104183> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2003010242 . 
+_:bnode16authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2003010242 . 
+_:bnode16authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#elementValue> "Police"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2003010242" . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2003010242> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2003010242#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh2003010242 . 
+_:bnode28authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Dowd, P.T. \"Suburban but not sub par\" : a historical analysis of the Braintree, Massachusetts Police Department, 2003." . 
+_:bnode28authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh2003010242 . 
+_:bnode34authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hill, H.J. Job motivation in a suburban police department, 1990." . 
+_:bnode34authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh2003010242 . 
+_:bnode40authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-source> "Kosman, F.J. Property and evidence management in suburban Chicago police departments, 1999." . 
+_:bnode40authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode46authoritiessubjectssh2003010242 . 
+_:bnode46authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode46authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-source> "Keith, J.B. Personality characteristics of suburban police recruits and their compatibility with traditional police management theory, 1993." . 
+_:bnode46authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode52authoritiessubjectssh2003010242 . 
+_:bnode52authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode52authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-source> "Trucchi, C.R. Rural/suburban tactical teams, 2001:" . 
+_:bnode52authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 33 (\"My graduate thesis looks at the current phenomenon of rural and suburban police tactical teams\")"@en . 
+_:bnode52authoritiessubjectssh2003010242 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode60authoritiessubjectssh2003010242 . 
+_:bnode60authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode60authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-09-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode60authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mmiltc> . 
+_:bnode60authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode68authoritiessubjectssh2003010242 . 
+_:bnode68authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode68authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-10-21T14:17:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode68authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode68authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mmiltc> . 
+_:bnode68authoritiessubjectssh2003010242 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suburban police"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85104183> . 
+<http://id.loc.gov/authorities/subjects/sh85104183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104183> <http://www.w3.org/2004/02/skos/core#prefLabel> "Police"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode85authoritiessubjectssh2003010242 . 
+_:bnode85authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode85authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2003010242> . 
+_:bnode85authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mmiltc> . 
+_:bnode85authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#createdDate> "2003-09-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2003010242> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh2003010242 . 
+_:bnode93authoritiessubjectssh2003010242 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2003010242> . 
+_:bnode93authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mmiltc> . 
+_:bnode93authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#createdDate> "2003-10-21T14:17:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh2003010242 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

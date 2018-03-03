@@ -1,0 +1,192 @@
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85041707 . 
+_:bnode7authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85041707 . 
+_:bnode7authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85041707 . 
+_:bnode11authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Generators, Electric"@en . 
+_:bnode11authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85041707 . 
+_:bnode16authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85041707 . 
+_:bnode16authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Generators, Electric"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#classification> "TK2411-TK2491" . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063396> . 
+<http://id.loc.gov/authorities/subjects/sh85063396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063396> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hydroelectric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041917> . 
+<http://id.loc.gov/authorities/subjects/sh85041917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041917> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric power supplies to apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041917> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85041707 . 
+_:bnode31authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85041707 . 
+_:bnode31authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric power supplies to apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4020119-3> . 
+<http://d-nb.info/gnd/4020119-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4020119-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Generator"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130581> . 
+<http://id.loc.gov/authorities/subjects/sh85130581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130581> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Superconducting generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85056353> . 
+<http://id.loc.gov/authorities/subjects/sh85056353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85056353> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gramme dynamos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11976916m> . 
+<http://data.bnf.fr/ark:/12148/cb11976916m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11976916m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Générateurs électriques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041808> . 
+<http://id.loc.gov/authorities/subjects/sh85041808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041808> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041808> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85041707 . 
+_:bnode56authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85041707 . 
+_:bnode56authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85079776> . 
+<http://id.loc.gov/authorities/subjects/sh85079776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079776> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Magneto-electric machines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85007239> . 
+<http://id.loc.gov/authorities/subjects/sh85007239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85007239> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Armatures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/36159> . 
+<http://lod.nal.usda.gov/nalt/36159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/36159> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "electric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb123986174> . 
+<http://data.bnf.fr/ark:/12148/cb123986174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb123986174> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alternateurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99003502> . 
+<http://id.loc.gov/authorities/subjects/sh99003502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99003502> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cogenerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138733> . 
+<http://id.loc.gov/authorities/subjects/sh85138733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138733> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Turbogenerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041575> . 
+<http://id.loc.gov/authorities/subjects/sh85041575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041575> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric apparatus and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041575> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode89authoritiessubjectssh85041707 . 
+_:bnode89authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode90authoritiessubjectssh85041707 . 
+_:bnode89authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode90authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode90authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric apparatus and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041913> . 
+<http://id.loc.gov/authorities/subjects/sh85041913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041913> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric power production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041913> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode98authoritiessubjectssh85041707 . 
+_:bnode98authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode99authoritiessubjectssh85041707 . 
+_:bnode98authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode99authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode99authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric power production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005003897> . 
+<http://id.loc.gov/authorities/subjects/sh2005003897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005003897> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Variable speed generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode106authoritiessubjectssh85041707 . 
+_:bnode106authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode106authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode106authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Dynamos"@en . 
+_:bnode106authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode111authoritiessubjectssh85041707 . 
+_:bnode111authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode112authoritiessubjectssh85041707 . 
+_:bnode111authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode112authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode112authoritiessubjectssh85041707 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dynamos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on rotating electrical machines that convert mechanical energy into electrical energy." . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Electric generators] under individual land vehicles and types of land vehicles, e.g. [Automobiles--Electric generators]" . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85041707" . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85041707> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85041707#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode127authoritiessubjectssh85041707 . 
+_:bnode127authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode127authoritiessubjectssh85041707 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85041707 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode127authoritiessubjectssh85041707 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode134authoritiessubjectssh85041707 . 
+_:bnode134authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode134authoritiessubjectssh85041707 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-11-16T07:53:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode134authoritiessubjectssh85041707 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode134authoritiessubjectssh85041707 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode144authoritiessubjectssh85041707 . 
+_:bnode144authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode144authoritiessubjectssh85041707 <http://www.w3.org/2008/05/skos-xl#literalForm> "Generators, Electric"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#altLabel> "Generators, Electric" . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041917> . 
+<http://id.loc.gov/authorities/subjects/sh85041917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041917> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric power supplies to apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041808> . 
+<http://id.loc.gov/authorities/subjects/sh85041808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041575> . 
+<http://id.loc.gov/authorities/subjects/sh85041575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041575> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric apparatus and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041913> . 
+<http://id.loc.gov/authorities/subjects/sh85041913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041913> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric power production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063396> . 
+<http://id.loc.gov/authorities/subjects/sh85063396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydroelectric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130581> . 
+<http://id.loc.gov/authorities/subjects/sh85130581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130581> <http://www.w3.org/2004/02/skos/core#prefLabel> "Superconducting generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85056353> . 
+<http://id.loc.gov/authorities/subjects/sh85056353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85056353> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gramme dynamos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85079776> . 
+<http://id.loc.gov/authorities/subjects/sh85079776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079776> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magneto-electric machines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85007239> . 
+<http://id.loc.gov/authorities/subjects/sh85007239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85007239> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armatures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99003502> . 
+<http://id.loc.gov/authorities/subjects/sh99003502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99003502> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cogenerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138733> . 
+<http://id.loc.gov/authorities/subjects/sh85138733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138733> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turbogenerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005003897> . 
+<http://id.loc.gov/authorities/subjects/sh2005003897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005003897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Variable speed generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode211authoritiessubjectssh85041707 . 
+_:bnode211authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode211authoritiessubjectssh85041707 <http://www.w3.org/2008/05/skos-xl#literalForm> "Dynamos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#altLabel> "Dynamos" . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/36159> . 
+<http://lod.nal.usda.gov/nalt/36159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/36159> <http://www.w3.org/2004/02/skos/core#prefLabel> "electric generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4020119-3> . 
+<http://d-nb.info/gnd/4020119-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4020119-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generator"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11976916m> . 
+<http://data.bnf.fr/ark:/12148/cb11976916m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11976916m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Générateurs électriques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb123986174> . 
+<http://data.bnf.fr/ark:/12148/cb123986174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb123986174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alternateurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on rotating electrical machines that convert mechanical energy into electrical energy." . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Electric generators] under individual land vehicles and types of land vehicles, e.g. [Automobiles--Electric generators]" . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2008/05/skos-xl#altLabel> "Generators, Electric"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode245authoritiessubjectssh85041707 . 
+_:bnode245authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode245authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85041707> . 
+_:bnode245authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode245authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode245authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85041707> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode253authoritiessubjectssh85041707 . 
+_:bnode253authoritiessubjectssh85041707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode253authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85041707> . 
+_:bnode253authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode253authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#createdDate> "2007-11-16T07:53:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode253authoritiessubjectssh85041707 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

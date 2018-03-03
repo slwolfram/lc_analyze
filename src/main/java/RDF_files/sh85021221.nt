@@ -1,0 +1,104 @@
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85021221 . 
+_:bnode7authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85021221 . 
+_:bnode7authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#elementValue> "Catholic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4130061-0> . 
+<http://d-nb.info/gnd/4130061-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4130061-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Katholische Schule"@de . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89006036> . 
+<http://id.loc.gov/authorities/subjects/sh89006036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006036> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Non-Catholics in Catholic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89005129> . 
+<http://id.loc.gov/authorities/subjects/sh89005129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005129> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic elementary schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85021106> . 
+<http://id.loc.gov/authorities/subjects/sh85021106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85021106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021106> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic Church--Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021106> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode28authoritiessubjectssh85021221 . 
+_:bnode28authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh85021221 . 
+_:bnode28authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode036 . 
+_:bnode29authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#CorporateName> . 
+_:bnode29authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode29authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic Church"@en . 
+_:bnode29authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85021221 . 
+_:bnode33authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85021221 . 
+_:bnode33authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#NameElement> . 
+_:bnode34authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#elementValue> "Catholic Church"@en . 
+_:bnode036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode37authoritiessubjectssh85021221 . 
+_:bnode036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode37authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode37authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode37authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Education"@en . 
+_:bnode37authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode41authoritiessubjectssh85021221 . 
+_:bnode41authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode42authoritiessubjectssh85021221 . 
+_:bnode41authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode42authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode42authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#elementValue> "Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85025747> . 
+<http://id.loc.gov/authorities/subjects/sh85025747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85025747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025747> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Church schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85025747> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode50authoritiessubjectssh85021221 . 
+_:bnode50authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode51authoritiessubjectssh85021221 . 
+_:bnode50authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode51authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode51authoritiessubjectssh85021221 <http://www.loc.gov/mads/rdf/v1#elementValue> "Church schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11959116q> . 
+<http://data.bnf.fr/ark:/12148/cb11959116q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11959116q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Écoles catholiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85021221" . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85021221> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85021221#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85021221 . 
+_:bnode66authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85021221 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-04-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85021221 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85021221 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85021221 . 
+_:bnode73authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85021221 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-05-24T13:19:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85021221 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85021221 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catholic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85025747> . 
+<http://id.loc.gov/authorities/subjects/sh85025747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025747> <http://www.w3.org/2004/02/skos/core#prefLabel> "Church schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89006036> . 
+<http://id.loc.gov/authorities/subjects/sh89006036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Non-Catholics in Catholic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89005129> . 
+<http://id.loc.gov/authorities/subjects/sh89005129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catholic elementary schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85021106> . 
+<http://id.loc.gov/authorities/subjects/sh85021106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021106> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catholic Church--Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4130061-0> . 
+<http://d-nb.info/gnd/4130061-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4130061-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katholische Schule"@de . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11959116q> . 
+<http://data.bnf.fr/ark:/12148/cb11959116q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11959116q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Écoles catholiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode114authoritiessubjectssh85021221 . 
+_:bnode114authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode114authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85021221> . 
+_:bnode114authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode114authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#createdDate> "2001-04-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode114authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85021221> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode122authoritiessubjectssh85021221 . 
+_:bnode122authoritiessubjectssh85021221 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode122authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85021221> . 
+_:bnode122authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode122authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#createdDate> "2001-05-24T13:19:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode122authoritiessubjectssh85021221 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

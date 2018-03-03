@@ -1,0 +1,107 @@
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85013849 . 
+_:bnode7authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85013849 . 
+_:bnode7authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#elementValue> "Early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020839> . 
+<http://id.loc.gov/authorities/subjects/sh85020839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020839> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging of early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064749> . 
+<http://id.loc.gov/authorities/subjects/sh85064749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064749> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Incipits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode19authoritiessubjectssh85013849 . 
+_:bnode19authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode19authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode19authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Bibliography--Early printed books"@en . 
+_:bnode19authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode24authoritiessubjectssh85013849 . 
+_:bnode24authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode25authoritiessubjectssh85013849 . 
+_:bnode24authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode032 . 
+_:bnode25authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode25authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode25authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Bibliography"@en . 
+_:bnode25authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85013849 . 
+_:bnode29authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85013849 . 
+_:bnode29authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bibliography"@en . 
+_:bnode032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode33authoritiessubjectssh85013849 . 
+_:bnode032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode33authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Early printed books"@en . 
+_:bnode33authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode37authoritiessubjectssh85013849 . 
+_:bnode37authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh85013849 . 
+_:bnode37authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode38authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#elementValue> "Early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/1229> . 
+<http://purl.org/bncf/tid/1229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/1229> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Libri antichi"@it . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode50authoritiessubjectssh85013849 . 
+_:bnode50authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode51authoritiessubjectssh85013849 . 
+_:bnode50authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode51authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode51authoritiessubjectssh85013849 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11932297q> . 
+<http://data.bnf.fr/ark:/12148/cb11932297q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11932297q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livres anciens"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Early works to 1800] and similar subdivisions under subjects, for individual works written or published on those subjects before the given date, e.g. [Cancer--Early works to 1800]" . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85013849" . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85013849> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85013849#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode68authoritiessubjectssh85013849 . 
+_:bnode68authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode68authoritiessubjectssh85013849 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode68authoritiessubjectssh85013849 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode68authoritiessubjectssh85013849 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85013849 . 
+_:bnode75authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85013849 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-04-23T14:24:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85013849 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85013849 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020839> . 
+<http://id.loc.gov/authorities/subjects/sh85020839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloging of early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064749> . 
+<http://id.loc.gov/authorities/subjects/sh85064749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064749> <http://www.w3.org/2004/02/skos/core#prefLabel> "Incipits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode100authoritiessubjectssh85013849 . 
+_:bnode100authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode100authoritiessubjectssh85013849 <http://www.w3.org/2008/05/skos-xl#literalForm> "Bibliography--Early printed books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#altLabel> "Bibliography--Early printed books" . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/1229> . 
+<http://purl.org/bncf/tid/1229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/1229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Libri antichi"@it . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11932297q> . 
+<http://data.bnf.fr/ark:/12148/cb11932297q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11932297q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livres anciens"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Early works to 1800] and similar subdivisions under subjects, for individual works written or published on those subjects before the given date, e.g. [Cancer--Early works to 1800]" . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode120authoritiessubjectssh85013849 . 
+_:bnode120authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode120authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85013849> . 
+_:bnode120authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode120authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85013849> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode128authoritiessubjectssh85013849 . 
+_:bnode128authoritiessubjectssh85013849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode128authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85013849> . 
+_:bnode128authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode128authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#createdDate> "1998-04-23T14:24:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh85013849 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

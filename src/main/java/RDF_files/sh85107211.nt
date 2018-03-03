@@ -1,0 +1,136 @@
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85107211 . 
+_:bnode7authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85107211 . 
+_:bnode7authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#elementValue> "Production control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85107211 . 
+_:bnode11authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Control, Production"@en . 
+_:bnode11authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85107211 . 
+_:bnode16authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85107211 . 
+_:bnode16authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#elementValue> "Control, Production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#classification> "TS157-TS158.6" . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4175800-6> . 
+<http://d-nb.info/gnd/4175800-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4175800-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Produktionskontrolle"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88003148> . 
+<http://id.loc.gov/authorities/subjects/sh88003148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88003148> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Just-in-time systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119709808> . 
+<http://data.bnf.fr/ark:/12148/cb119709808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119709808> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production -- Contrôle"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067678> . 
+<http://id.loc.gov/authorities/subjects/sh85067678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inventory control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85118098> . 
+<http://id.loc.gov/authorities/subjects/sh85118098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118098> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production scheduling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4113547-7> . 
+<http://d-nb.info/gnd/4113547-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4113547-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fertigungssteuerung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077163> . 
+<http://id.loc.gov/authorities/subjects/sh85077163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077163> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Line of balance (Management)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85065864> . 
+<http://id.loc.gov/authorities/subjects/sh85065864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85065864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065864> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrial engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065864> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85107211 . 
+_:bnode55authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85107211 . 
+_:bnode55authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#elementValue> "Industrial engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85046854> . 
+<http://id.loc.gov/authorities/subjects/sh85046854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046854> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Factory management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046854> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85107211 . 
+_:bnode64authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85107211 . 
+_:bnode64authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#elementValue> "Factory management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85065889> . 
+<http://id.loc.gov/authorities/subjects/sh85065889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85065889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065889> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrial management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065889> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode73authoritiessubjectssh85107211 . 
+_:bnode73authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode74authoritiessubjectssh85107211 . 
+_:bnode73authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode74authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode74authoritiessubjectssh85107211 <http://www.loc.gov/mads/rdf/v1#elementValue> "Industrial management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on procedures for planning, routing, scheduling, dispatching, and expediting the flow of materials, parts, and assemblies within a plant from the raw state to the finished product in an orderly and efficient manner." . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Production control] under types of industries, plants, and processes, e.g. [Construction industry--Production control]" . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85107211" . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85107211> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85107211#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85107211 . 
+_:bnode88authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85107211 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85107211 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85107211 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh85107211 . 
+_:bnode95authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh85107211 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-08-01T08:01:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85107211 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh85107211 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode105authoritiessubjectssh85107211 . 
+_:bnode105authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode105authoritiessubjectssh85107211 <http://www.w3.org/2008/05/skos-xl#literalForm> "Control, Production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#altLabel> "Control, Production" . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85065864> . 
+<http://id.loc.gov/authorities/subjects/sh85065864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrial engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85046854> . 
+<http://id.loc.gov/authorities/subjects/sh85046854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Factory management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85065889> . 
+<http://id.loc.gov/authorities/subjects/sh85065889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrial management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88003148> . 
+<http://id.loc.gov/authorities/subjects/sh88003148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88003148> <http://www.w3.org/2004/02/skos/core#prefLabel> "Just-in-time systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067678> . 
+<http://id.loc.gov/authorities/subjects/sh85067678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inventory control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85118098> . 
+<http://id.loc.gov/authorities/subjects/sh85118098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118098> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production scheduling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077163> . 
+<http://id.loc.gov/authorities/subjects/sh85077163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Line of balance (Management)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4175800-6> . 
+<http://d-nb.info/gnd/4175800-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4175800-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Produktionskontrolle"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119709808> . 
+<http://data.bnf.fr/ark:/12148/cb119709808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119709808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production -- Contrôle"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4113547-7> . 
+<http://d-nb.info/gnd/4113547-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4113547-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fertigungssteuerung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on procedures for planning, routing, scheduling, dispatching, and expediting the flow of materials, parts, and assemblies within a plant from the raw state to the finished product in an orderly and efficient manner." . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Production control] under types of industries, plants, and processes, e.g. [Construction industry--Production control]" . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2008/05/skos-xl#altLabel> "Control, Production"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode169authoritiessubjectssh85107211 . 
+_:bnode169authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode169authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107211> . 
+_:bnode169authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode169authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode169authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85107211> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode177authoritiessubjectssh85107211 . 
+_:bnode177authoritiessubjectssh85107211 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode177authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107211> . 
+_:bnode177authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode177authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#createdDate> "1997-08-01T08:01:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode177authoritiessubjectssh85107211 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

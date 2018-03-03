@@ -1,0 +1,134 @@
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85010263 . 
+_:bnode7authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+_:bnode7authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85010263 . 
+_:bnode12authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85010263 . 
+_:bnode12authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005724> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005724> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005724> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85010263 . 
+_:bnode20authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85010263 . 
+_:bnode20authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85010263 . 
+_:bnode24authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Automobile fuel systems"@en . 
+_:bnode24authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85010263 . 
+_:bnode29authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85010263 . 
+_:bnode29authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobile fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85010263 . 
+_:bnode33authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Automotive fuel systems"@en . 
+_:bnode33authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85010263 . 
+_:bnode38authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85010263 . 
+_:bnode38authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automotive fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#classification> "TL214.F8" . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010303> . 
+<http://id.loc.gov/authorities/subjects/sh85010303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010303> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Motors--Carburetors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85052224> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuel pumps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85010263 . 
+_:bnode53authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85010263 . 
+_:bnode53authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85010263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fuel pumps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010313> . 
+<http://id.loc.gov/authorities/subjects/sh85010313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010313> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Motors--Fuel injection systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4528685-1> . 
+<http://d-nb.info/gnd/4528685-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4528685-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kraftstoffanlage"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12486427c> . 
+<http://data.bnf.fr/ark:/12148/cb12486427c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12486427c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles -- Alimentation en carburant"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009007702> . 
+<http://id.loc.gov/authorities/subjects/sh2009007702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009007702> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Fuel tanks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020147> . 
+<http://id.loc.gov/authorities/subjects/sh85020147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020147> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carburetors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Fuel;] and under reference from [Fuel systems]" . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85010263" . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85010263> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85010263#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode86authoritiessubjectssh85010263 . 
+_:bnode86authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode86authoritiessubjectssh85010263 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh85010263 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode86authoritiessubjectssh85010263 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode93authoritiessubjectssh85010263 . 
+_:bnode93authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode93authoritiessubjectssh85010263 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-03-24T10:04:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh85010263 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode93authoritiessubjectssh85010263 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode103authoritiessubjectssh85010263 . 
+_:bnode103authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode103authoritiessubjectssh85010263 <http://www.w3.org/2008/05/skos-xl#literalForm> "Automobile fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#altLabel> "Automobile fuel systems" . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode110authoritiessubjectssh85010263 . 
+_:bnode110authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode110authoritiessubjectssh85010263 <http://www.w3.org/2008/05/skos-xl#literalForm> "Automotive fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#altLabel> "Automotive fuel systems" . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85052224> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fuel pumps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010303> . 
+<http://id.loc.gov/authorities/subjects/sh85010303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Motors--Carburetors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010313> . 
+<http://id.loc.gov/authorities/subjects/sh85010313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Motors--Fuel injection systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009007702> . 
+<http://id.loc.gov/authorities/subjects/sh2009007702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009007702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Fuel tanks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020147> . 
+<http://id.loc.gov/authorities/subjects/sh85020147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carburetors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4528685-1> . 
+<http://d-nb.info/gnd/4528685-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4528685-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kraftstoffanlage"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12486427c> . 
+<http://data.bnf.fr/ark:/12148/cb12486427c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12486427c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles -- Alimentation en carburant"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#example> "Example under [Fuel;] and under reference from [Fuel systems]" . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2008/05/skos-xl#altLabel> "Automobile fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2008/05/skos-xl#altLabel> "Automotive fuel systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode159authoritiessubjectssh85010263 . 
+_:bnode159authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode159authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010263> . 
+_:bnode159authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode159authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode159authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85010263> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode167authoritiessubjectssh85010263 . 
+_:bnode167authoritiessubjectssh85010263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode167authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010263> . 
+_:bnode167authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode167authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#createdDate> "1997-03-24T10:04:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode167authoritiessubjectssh85010263 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

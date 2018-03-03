@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biology teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh92001174 . 
+_:bnode7authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh92001174 . 
+_:bnode7authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh92001174 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biology teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92002590> . 
+<http://id.loc.gov/authorities/subjects/sh92002590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92002590> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Botany teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85118675> . 
+<http://id.loc.gov/authorities/subjects/sh85118675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85118675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Science teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85118675> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh92001174 . 
+_:bnode20authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh92001174 . 
+_:bnode20authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh92001174 <http://www.loc.gov/mads/rdf/v1#elementValue> "Science teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92000315> . 
+<http://id.loc.gov/authorities/subjects/sh92000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000315> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zoology teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4145612-9> . 
+<http://d-nb.info/gnd/4145612-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4145612-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biologielehrer"@de . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12116172d> . 
+<http://data.bnf.fr/ark:/12148/cb12116172d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12116172d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Professeurs de biologie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12116172d> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 92001174" . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh92001174> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh92001174#concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh92001174 . 
+_:bnode45authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh92001174 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: NUCMC data from Wake Forest Univ. Libr. for Olive, A.T. Papers, 1954-1968" . 
+_:bnode45authoritiessubjectssh92001174 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Biology teacher)"@en . 
+_:bnode45authoritiessubjectssh92001174 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode53authoritiessubjectssh92001174 . 
+_:bnode53authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode53authoritiessubjectssh92001174 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-03-06T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode53authoritiessubjectssh92001174 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode53authoritiessubjectssh92001174 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode60authoritiessubjectssh92001174 . 
+_:bnode60authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode60authoritiessubjectssh92001174 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-04-15T10:16:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh92001174 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode60authoritiessubjectssh92001174 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biology teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85118675> . 
+<http://id.loc.gov/authorities/subjects/sh85118675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Science teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92002590> . 
+<http://id.loc.gov/authorities/subjects/sh92002590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92002590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botany teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92000315> . 
+<http://id.loc.gov/authorities/subjects/sh92000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000315> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoology teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12116172d> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4145612-9> . 
+<http://d-nb.info/gnd/4145612-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4145612-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biologielehrer"@de . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12116172d> . 
+<http://data.bnf.fr/ark:/12148/cb12116172d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12116172d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professeurs de biologie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh92001174 . 
+_:bnode97authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh92001174> . 
+_:bnode97authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#createdDate> "1992-03-06T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh92001174> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh92001174 . 
+_:bnode105authoritiessubjectssh92001174 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh92001174> . 
+_:bnode105authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode105authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#createdDate> "1992-04-15T10:16:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh92001174 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

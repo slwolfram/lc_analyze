@@ -1,0 +1,79 @@
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tethered space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2004007603 . 
+_:bnode7authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2004007603 . 
+_:bnode7authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tethered space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86004283> . 
+<http://id.loc.gov/authorities/subjects/sh86004283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86004283> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tethered satellites"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85125971> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh2004007603 . 
+_:bnode20authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh2004007603 . 
+_:bnode20authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2004007603" . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2004007603> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2004007603#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode31authoritiessubjectssh2004007603 . 
+_:bnode31authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode31authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Adams, W.M. Dynamics of two slowly rotating point-mass vehicles connected by a massless tether and in a circular orbit, 1970:" . 
+_:bnode31authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 1 (Use has been made of a tether in Gemini flights for extravehicular maneuvers and as a means of providing artificial gravity. The tethered configuration has also been proposed as a means of station keeping)"@en . 
+_:bnode31authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode39authoritiessubjectssh2004007603 . 
+_:bnode39authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode39authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-source> "Gemini Summary Conference, 1967:" . 
+_:bnode39authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-note> "pp. 55-64 (Lang, D.D. Operations with tethered space vehicles: This exercise was to evaluate the basic feasibility of rotating tethered-vehicle operations as the operations might apply to generating artificial gravity or to station keeping. The exercise consisted of connecting the spacecraft and target vehicle with a 100-foot Dacron tether, and then using the translational thrusting capability of the spacecraft propulsion system to induce a mutual rotation)"@en . 
+_:bnode39authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh2004007603 . 
+_:bnode47authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-source> "Philosophical transactions. Mathematical, physical and engineering sciences, 2001:" . 
+_:bnode47authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-note> "pp. 2161-2190 (Tyc, G. On the dynamics of spinning tethered space vehicles)"@en . 
+_:bnode47authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh2004007603 . 
+_:bnode55authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-source> "Journal of spacecraft and rockets, 1997:" . 
+_:bnode55authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 662 (Vigneron, F.R. Damped gyroscopic modes of spinning tethered space vehicles with flexible booms)"@en . 
+_:bnode55authoritiessubjectssh2004007603 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh2004007603 . 
+_:bnode63authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode63authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh2004007603 . 
+_:bnode71authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-06-22T09:35:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode71authoritiessubjectssh2004007603 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tethered space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85125971> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125971> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86004283> . 
+<http://id.loc.gov/authorities/subjects/sh86004283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86004283> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tethered satellites"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh2004007603 . 
+_:bnode93authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2004007603> . 
+_:bnode93authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode93authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2004007603> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode101authoritiessubjectssh2004007603 . 
+_:bnode101authoritiessubjectssh2004007603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode101authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2004007603> . 
+_:bnode101authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode101authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#createdDate> "2006-06-22T09:35:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh2004007603 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

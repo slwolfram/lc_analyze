@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organic wastes--Recycling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85095512 . 
+_:bnode7authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85095511> . 
+_:bnode7authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85095511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85095511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095511> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organic wastes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095511> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85095512 . 
+_:bnode12authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85095512 . 
+_:bnode12authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85095512 <http://www.loc.gov/mads/rdf/v1#elementValue> "Organic wastes"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002007659> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002007659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002007659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007659> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recycling"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002007659> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85095512 . 
+_:bnode20authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85095512 . 
+_:bnode20authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85095512 <http://www.loc.gov/mads/rdf/v1#elementValue> "Recycling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb123264943> . 
+<http://data.bnf.fr/ark:/12148/cb123264943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb123264943> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Déchets organiques -- Recyclage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85112020> . 
+<http://id.loc.gov/authorities/subjects/sh85112020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85112020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112020> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recycling (Waste, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85112020> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85095512 . 
+_:bnode33authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85095512 . 
+_:bnode33authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85095512 <http://www.loc.gov/mads/rdf/v1#elementValue> "Recycling (Waste, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005986> . 
+<http://id.loc.gov/authorities/subjects/sh98005986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vermicomposting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85095512" . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85095512> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85095512#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh85095512 . 
+_:bnode49authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh85095512 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh85095512 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh85095512 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh85095512 . 
+_:bnode56authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh85095512 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-09-28T09:17:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85095512 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh85095512 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organic wastes--Recycling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85112020> . 
+<http://id.loc.gov/authorities/subjects/sh85112020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recycling (Waste, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005986> . 
+<http://id.loc.gov/authorities/subjects/sh98005986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vermicomposting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb123264943> . 
+<http://data.bnf.fr/ark:/12148/cb123264943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb123264943> <http://www.w3.org/2004/02/skos/core#prefLabel> "Déchets organiques -- Recyclage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh85095512 . 
+_:bnode82authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85095512> . 
+_:bnode82authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85095512> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh85095512 . 
+_:bnode90authoritiessubjectssh85095512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85095512> . 
+_:bnode90authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#createdDate> "1995-09-28T09:17:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85095512 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

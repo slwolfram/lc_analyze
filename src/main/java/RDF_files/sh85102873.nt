@@ -1,0 +1,135 @@
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants--Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85102873 . 
+_:bnode7authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85102839> . 
+_:bnode7authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85102873 . 
+_:bnode12authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85102873 . 
+_:bnode12authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plants"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006947> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00006947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006947> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006947> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85102873 . 
+_:bnode20authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85102873 . 
+_:bnode20authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85102873 . 
+_:bnode24authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Plant phylogeny"@en . 
+_:bnode24authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85102873 . 
+_:bnode29authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85102873 . 
+_:bnode29authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode33authoritiessubjectssh85102873 . 
+_:bnode33authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Phylogeny (Botany)"@en . 
+_:bnode33authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85102873 . 
+_:bnode38authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85102873 . 
+_:bnode38authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phylogeny (Botany)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85102855> . 
+<http://id.loc.gov/authorities/subjects/sh85102855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85102855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102855> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants--Evolution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102855> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode47authoritiessubjectssh85102873 . 
+_:bnode47authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85102873 . 
+_:bnode47authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode055 . 
+_:bnode48authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode48authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode48authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants"@en . 
+_:bnode48authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85102873 . 
+_:bnode52authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85102873 . 
+_:bnode52authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plants"@en . 
+_:bnode055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85102873 . 
+_:bnode055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode56authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode56authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Evolution"@en . 
+_:bnode56authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85102873 . 
+_:bnode60authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85102873 . 
+_:bnode60authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Evolution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85101498> . 
+<http://id.loc.gov/authorities/subjects/sh85101498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85101498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101498> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101498> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85102873 . 
+_:bnode69authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85102873 . 
+_:bnode69authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000729> . 
+<http://id.loc.gov/authorities/subjects/sh98000729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000729> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants--Cladistic analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Phylogeny] under individual plants and groups of plants, e.g. [Corn--Phylogeny]" . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85102873" . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85102873> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85102873#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode86authoritiessubjectssh85102873 . 
+_:bnode86authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode86authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#citation-source> "OCLC, Oct. 24, 2003" . 
+_:bnode86authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#citation-note> "(plant phylogeny)"@en . 
+_:bnode86authoritiessubjectssh85102873 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode94authoritiessubjectssh85102873 . 
+_:bnode94authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode94authoritiessubjectssh85102873 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-10-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh85102873 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode94authoritiessubjectssh85102873 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode101authoritiessubjectssh85102873 . 
+_:bnode101authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode101authoritiessubjectssh85102873 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-12-04T07:44:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh85102873 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode101authoritiessubjectssh85102873 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants--Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode111authoritiessubjectssh85102873 . 
+_:bnode111authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode111authoritiessubjectssh85102873 <http://www.w3.org/2008/05/skos-xl#literalForm> "Plant phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#altLabel> "Plant phylogeny" . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85101498> . 
+<http://id.loc.gov/authorities/subjects/sh85101498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000729> . 
+<http://id.loc.gov/authorities/subjects/sh98000729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants--Cladistic analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode128authoritiessubjectssh85102873 . 
+_:bnode128authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode128authoritiessubjectssh85102873 <http://www.w3.org/2008/05/skos-xl#literalForm> "Phylogeny (Botany)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#altLabel> "Phylogeny (Botany)" . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85102855> . 
+<http://id.loc.gov/authorities/subjects/sh85102855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102855> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants--Evolution"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Phylogeny] under individual plants and groups of plants, e.g. [Corn--Phylogeny]" . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2008/05/skos-xl#altLabel> "Plant phylogeny"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode145authoritiessubjectssh85102873 . 
+_:bnode145authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode145authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102873> . 
+_:bnode145authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode145authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#createdDate> "2003-10-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode145authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85102873> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode153authoritiessubjectssh85102873 . 
+_:bnode153authoritiessubjectssh85102873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode153authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102873> . 
+_:bnode153authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode153authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#createdDate> "2003-12-04T07:44:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode153authoritiessubjectssh85102873 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

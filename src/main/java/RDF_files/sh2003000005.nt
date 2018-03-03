@@ -1,0 +1,72 @@
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tetraoxygen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2003000005 . 
+_:bnode7authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2003000005 . 
+_:bnode7authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tetraoxygen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85096329> . 
+<http://id.loc.gov/authorities/subjects/sh85096329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85096329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096329> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oxygen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85096329> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2003000005 . 
+_:bnode16authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2003000005 . 
+_:bnode16authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#elementValue> "Oxygen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2003000005" . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2003000005> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2003000005#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode27authoritiessubjectssh2003000005 . 
+_:bnode27authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode27authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Shardanand. Absorption coefficients of O (subscript 4) at oxygen windows, 1967:" . 
+_:bnode27authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 1 (\"Solar radiation penetrates down to the D layer through seven oxygen windows and plays an important role in the formation of the ionosphere. Therefore, great emphasis has been given by several investigators to the absorption coefficient of O (subscript 2) at these windows ... In the present study, the absorption coefficients of O (subscript 2) have been reinvestigated at O (subscript 2) windows and an explanation of the pressure dependence is advanced in terms of absorption caused by O (subscript 4)\")"@en . 
+_:bnode27authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode35authoritiessubjectssh2003000005 . 
+_:bnode35authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode35authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-source> "Cacace, Fulvio. Experimental detection of tetraoxygen, in Angewandte Chemie international ed.:" . 
+_:bnode35authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-note> "v. 40, no. 21, 2001, p. 4062 (\"The search for tetraoxygen, which dates back to a study by Lewis in 1924, is being actively pursued ... Numerous calculations at different levels of theory predict the existence of metastable O(subscript 4) molecules ...\")"@en . 
+_:bnode35authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode43authoritiessubjectssh2003000005 . 
+_:bnode43authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode43authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-source> "Google search, Jan. 5, 2003" . 
+_:bnode43authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"tetraoxygen\" - 37 hits - [sample blurbs] - \"Dynamics of O + Osub3/sub reaction on a new potential energy surface for ground-triplett tetraoxygen ...\"; \"... Mass spectrometry evidence for tetraoxygen. Scientists in Italy have discovered a new form of oxygen ...\"; \"Observation of electronically excited states of tetraoxygen ...\"; \"Photoelectron spectra of metastable tetraoxygen by velocity map imaging ...\")"@en . 
+_:bnode43authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh2003000005 . 
+_:bnode51authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-source> "McGraw-Hill dictionary of scientific and technical terms, 2003;Chambers dictionary of science and technology, 1999;Academic Press dictionary of science and technology, 1992;OCLC WorldCat" . 
+_:bnode51authoritiessubjectssh2003000005 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh2003000005 . 
+_:bnode57authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-01-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode57authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh2003000005 . 
+_:bnode65authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-02-20T14:11:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode65authoritiessubjectssh2003000005 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tetraoxygen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85096329> . 
+<http://id.loc.gov/authorities/subjects/sh85096329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096329> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oxygen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh2003000005 . 
+_:bnode82authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2003000005> . 
+_:bnode82authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode82authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#createdDate> "2003-01-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2003000005> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh2003000005 . 
+_:bnode90authoritiessubjectssh2003000005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2003000005> . 
+_:bnode90authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode90authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#createdDate> "2003-02-20T14:11:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh2003000005 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

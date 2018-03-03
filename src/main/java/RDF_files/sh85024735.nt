@@ -1,0 +1,161 @@
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85024735 . 
+_:bnode7authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85024735 . 
+_:bnode7authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85024735 . 
+_:bnode11authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chordate animals"@en . 
+_:bnode11authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85024735 . 
+_:bnode16authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85024735 . 
+_:bnode16authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chordate animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85024735 . 
+_:bnode20authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chordates"@en . 
+_:bnode20authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85024735 . 
+_:bnode25authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85024735 . 
+_:bnode25authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chordates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#classification> "QL605-QL739.8" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/37> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107777> . 
+<http://id.loc.gov/authorities/subjects/sh85107777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Protochordates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2011005559> . 
+<http://id.loc.gov/authorities/subjects/sh2011005559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2011005559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011005559> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bilateria"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011005559> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85024735 . 
+_:bnode44authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85024735 . 
+_:bnode44authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bilateria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4147895-2> . 
+<http://d-nb.info/gnd/4147895-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4147895-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chordatiere"@de . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb120181434> . 
+<http://data.bnf.fr/ark:/12148/cb120181434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb120181434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cordés (animaux)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092813> . 
+<http://id.loc.gov/authorities/subjects/sh85092813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092813> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Notochord"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/1450> . 
+<http://purl.org/bncf/tid/1450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/1450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cordati"@it . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142902> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87020394> . 
+<http://id.loc.gov/authorities/subjects/sh87020394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87020394> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cephalochordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138640> . 
+<http://id.loc.gov/authorities/subjects/sh85138640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138640> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tunicata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/37> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85024735" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85024735> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85024735#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode88authoritiessubjectssh85024735 . 
+_:bnode88authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode88authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode88authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Chordata; chordate)"@en . 
+_:bnode88authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode96authoritiessubjectssh85024735 . 
+_:bnode96authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode96authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-source> "NCBI taxonomy browser, Jan. 6, 2017" . 
+_:bnode96authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Chordata (chordates). Rank: phylum. Genbank common name: chordates. Lineage: cellular organisms; superkingdom Eukaryota; [no rank] Opisthokonta; kingdom Metazoa; [no rank] Eumetazoa; [no rank] Bilateria; [no rank] Deuterostomia)"@en . 
+_:bnode96authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode104authoritiessubjectssh85024735 . 
+_:bnode104authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode104authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-source> "ITIS, Jan. 6, 2017" . 
+_:bnode104authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Chordata. Taxonomic rank: phylum. Common name: chordates. Infrakingdom Deuterostomia, Subkingdom Bilateria, Kingdom Animalia)"@en . 
+_:bnode104authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode112authoritiessubjectssh85024735 . 
+_:bnode112authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode112authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-source> "Jordan, E.L. Chordate zoology, 2013, viewed via Google books, Apr. 17, 2017:" . 
+_:bnode112authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 1 (Phylum Chordata) p. 2 (chordate animals; chordates; most of the living chordate animals are well-known familiar vertebrate animals such as the fishes, amphibians, reptiles, birds and mammals. The less well-known animals include a number of marine forms such as the tunicates and lencelets [sic, i.e. lancelets])"@en . 
+_:bnode112authoritiessubjectssh85024735 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode120authoritiessubjectssh85024735 . 
+_:bnode120authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode120authoritiessubjectssh85024735 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh85024735 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode120authoritiessubjectssh85024735 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode127authoritiessubjectssh85024735 . 
+_:bnode127authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode127authoritiessubjectssh85024735 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-07-13T14:04:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85024735 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode127authoritiessubjectssh85024735 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode137authoritiessubjectssh85024735 . 
+_:bnode137authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode137authoritiessubjectssh85024735 <http://www.w3.org/2008/05/skos-xl#literalForm> "Chordate animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#altLabel> "Chordate animals" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode144authoritiessubjectssh85024735 . 
+_:bnode144authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode144authoritiessubjectssh85024735 <http://www.w3.org/2008/05/skos-xl#literalForm> "Chordates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#altLabel> "Chordates" . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2011005559> . 
+<http://id.loc.gov/authorities/subjects/sh2011005559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011005559> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilateria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107777> . 
+<http://id.loc.gov/authorities/subjects/sh85107777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protochordates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092813> . 
+<http://id.loc.gov/authorities/subjects/sh85092813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092813> <http://www.w3.org/2004/02/skos/core#prefLabel> "Notochord"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142902> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142902> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vertebrates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87020394> . 
+<http://id.loc.gov/authorities/subjects/sh87020394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87020394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cephalochordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138640> . 
+<http://id.loc.gov/authorities/subjects/sh85138640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138640> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tunicata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/37> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/37> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/37> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chordata"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4147895-2> . 
+<http://d-nb.info/gnd/4147895-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4147895-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chordatiere"@de . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb120181434> . 
+<http://data.bnf.fr/ark:/12148/cb120181434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb120181434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cordés (animaux)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/1450> . 
+<http://purl.org/bncf/tid/1450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/1450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cordati"@it . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2008/05/skos-xl#altLabel> "Chordate animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2008/05/skos-xl#altLabel> "Chordates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode211authoritiessubjectssh85024735 . 
+_:bnode211authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode211authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85024735> . 
+_:bnode211authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode211authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode211authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85024735> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode219authoritiessubjectssh85024735 . 
+_:bnode219authoritiessubjectssh85024735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode219authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85024735> . 
+_:bnode219authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode219authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#createdDate> "2017-07-13T14:04:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode219authoritiessubjectssh85024735 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

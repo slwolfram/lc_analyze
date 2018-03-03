@@ -1,0 +1,139 @@
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Professional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85107250 . 
+_:bnode7authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85107250 . 
+_:bnode7authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Professional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85107250 . 
+_:bnode11authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Education, Professional"@en . 
+_:bnode11authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85107250 . 
+_:bnode16authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85107250 . 
+_:bnode16authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Education, Professional"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#classification> "LC1051-LC1071" . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082916> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067467> . 
+<http://id.loc.gov/authorities/subjects/sh85067467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067467> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11935294d> . 
+<http://data.bnf.fr/ark:/12148/cb11935294d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11935294d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enseignement professionnel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/35878> . 
+<http://lod.nal.usda.gov/nalt/35878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/35878> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "professional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107252> . 
+<http://id.loc.gov/authorities/subjects/sh85107252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107252> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Professional education of women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85133121> . 
+<http://id.loc.gov/authorities/subjects/sh85133121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85133121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133121> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Technical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133121> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85107250 . 
+_:bnode47authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85107250 . 
+_:bnode47authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Technical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041065> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Education, Higher"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85107250 . 
+_:bnode56authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85107250 . 
+_:bnode56authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Education, Higher"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4005937-6> . 
+<http://d-nb.info/gnd/4005937-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4005937-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Berufsschulunterricht"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010013958> . 
+<http://id.loc.gov/authorities/subjects/sh2010013958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013958> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interprofessional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85020255> . 
+<http://id.loc.gov/authorities/subjects/sh85020255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020255> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Career education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020255> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode73authoritiessubjectssh85107250 . 
+_:bnode73authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode74authoritiessubjectssh85107250 . 
+_:bnode73authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode74authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode74authoritiessubjectssh85107250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Career education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85076684> . 
+<http://id.loc.gov/authorities/subjects/sh85076684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076684> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85107250" . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85107250> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85107250#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode89authoritiessubjectssh85107250 . 
+_:bnode89authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode89authoritiessubjectssh85107250 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85107250 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode89authoritiessubjectssh85107250 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode96authoritiessubjectssh85107250 . 
+_:bnode96authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode96authoritiessubjectssh85107250 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-08-26T14:59:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh85107250 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode96authoritiessubjectssh85107250 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode106authoritiessubjectssh85107250 . 
+_:bnode106authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode106authoritiessubjectssh85107250 <http://www.w3.org/2008/05/skos-xl#literalForm> "Education, Professional"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#altLabel> "Education, Professional" . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041065> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/2004/02/skos/core#prefLabel> "Education, Higher"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85020255> . 
+<http://id.loc.gov/authorities/subjects/sh85020255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020255> <http://www.w3.org/2004/02/skos/core#prefLabel> "Career education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082916> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067467> . 
+<http://id.loc.gov/authorities/subjects/sh85067467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107252> . 
+<http://id.loc.gov/authorities/subjects/sh85107252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107252> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professional education of women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010013958> . 
+<http://id.loc.gov/authorities/subjects/sh2010013958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010013958> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interprofessional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85076684> . 
+<http://id.loc.gov/authorities/subjects/sh85076684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076684> <http://www.w3.org/2004/02/skos/core#prefLabel> "Library education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85133121> . 
+<http://id.loc.gov/authorities/subjects/sh85133121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133121> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/35878> . 
+<http://lod.nal.usda.gov/nalt/35878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/35878> <http://www.w3.org/2004/02/skos/core#prefLabel> "professional education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11935294d> . 
+<http://data.bnf.fr/ark:/12148/cb11935294d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11935294d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enseignement professionnel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4005937-6> . 
+<http://d-nb.info/gnd/4005937-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4005937-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Berufsschulunterricht"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2008/05/skos-xl#altLabel> "Education, Professional"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode171authoritiessubjectssh85107250 . 
+_:bnode171authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode171authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107250> . 
+_:bnode171authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode171authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode171authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85107250> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode179authoritiessubjectssh85107250 . 
+_:bnode179authoritiessubjectssh85107250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode179authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107250> . 
+_:bnode179authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode179authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#createdDate> "1989-08-26T14:59:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode179authoritiessubjectssh85107250 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

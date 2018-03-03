@@ -1,0 +1,187 @@
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85100603 . 
+_:bnode7authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85100603 . 
+_:bnode7authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85100603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#classification> "RS" . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100596> . 
+<http://id.loc.gov/authorities/subjects/sh85100596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100596> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacognosy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97007921> . 
+<http://id.loc.gov/authorities/subjects/sh97007921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97007921> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drug development"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85022986> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode26authoritiessubjectssh85100603 . 
+_:bnode26authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode27authoritiessubjectssh85100603 . 
+_:bnode26authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode27authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode27authoritiessubjectssh85100603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147596> . 
+<http://id.loc.gov/authorities/subjects/sh85147596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147596> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women in pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053700> . 
+<http://id.loc.gov/authorities/subjects/sh85053700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053700> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gels (Pharmacy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100589> . 
+<http://id.loc.gov/authorities/subjects/sh85100589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100589> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmaceutical services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933091b> . 
+<http://data.bnf.fr/ark:/12148/cb11933091b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933091b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014252> . 
+<http://id.loc.gov/authorities/subjects/sh85014252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014252> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biopharmaceutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96005306> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005306> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drugs"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005306> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85100603 . 
+_:bnode55authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85100603 . 
+_:bnode55authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85100603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Drugs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100615> . 
+<http://id.loc.gov/authorities/subjects/sh85100615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100615> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homeopathic pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85082055> . 
+<http://id.loc.gov/authorities/subjects/sh85082055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082055> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Materia medica"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082055> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode68authoritiessubjectssh85100603 . 
+_:bnode68authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode69authoritiessubjectssh85100603 . 
+_:bnode68authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode69authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode69authoritiessubjectssh85100603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Materia medica"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083061> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medication errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00006614> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode81authoritiessubjectssh85100603 . 
+_:bnode81authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode82authoritiessubjectssh85100603 . 
+_:bnode81authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode82authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode82authoritiessubjectssh85100603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11972150m> . 
+<http://data.bnf.fr/ark:/12148/cb11972150m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11972150m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacie galénique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100601> . 
+<http://id.loc.gov/authorities/subjects/sh85100601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100601> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacopoeias"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038455> . 
+<http://id.loc.gov/authorities/subjects/sh85038455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038455> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dispensatories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029085> . 
+<http://id.loc.gov/authorities/subjects/sh85029085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029085> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Communication in pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4045705-9> . 
+<http://d-nb.info/gnd/4045705-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4045705-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmazie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85100599> . 
+<http://id.loc.gov/authorities/subjects/sh85100599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100599> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100599> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode110authoritiessubjectssh85100603 . 
+_:bnode110authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode111authoritiessubjectssh85100603 . 
+_:bnode110authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode111authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode111authoritiessubjectssh85100603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pharmacology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings beginning with the word [Pharmaceutical]" . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85100603" . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85100603> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85100603#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode124authoritiessubjectssh85100603 . 
+_:bnode124authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode124authoritiessubjectssh85100603 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode124authoritiessubjectssh85100603 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode124authoritiessubjectssh85100603 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode131authoritiessubjectssh85100603 . 
+_:bnode131authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode131authoritiessubjectssh85100603 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-09-14T16:04:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode131authoritiessubjectssh85100603 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode131authoritiessubjectssh85100603 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85022986> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00006614> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100596> . 
+<http://id.loc.gov/authorities/subjects/sh85100596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100596> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacognosy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97007921> . 
+<http://id.loc.gov/authorities/subjects/sh97007921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97007921> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drug development"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147596> . 
+<http://id.loc.gov/authorities/subjects/sh85147596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147596> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women in pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053700> . 
+<http://id.loc.gov/authorities/subjects/sh85053700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053700> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gels (Pharmacy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100589> . 
+<http://id.loc.gov/authorities/subjects/sh85100589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100589> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmaceutical services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014252> . 
+<http://id.loc.gov/authorities/subjects/sh85014252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014252> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biopharmaceutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100615> . 
+<http://id.loc.gov/authorities/subjects/sh85100615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100615> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homeopathic pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083061> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medication errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100601> . 
+<http://id.loc.gov/authorities/subjects/sh85100601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100601> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacopoeias"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038455> . 
+<http://id.loc.gov/authorities/subjects/sh85038455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038455> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dispensatories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029085> . 
+<http://id.loc.gov/authorities/subjects/sh85029085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029085> <http://www.w3.org/2004/02/skos/core#prefLabel> "Communication in pharmacy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/childrensSubjects/sj96005306> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drugs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85082055> . 
+<http://id.loc.gov/authorities/subjects/sh85082055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082055> <http://www.w3.org/2004/02/skos/core#prefLabel> "Materia medica"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85100599> . 
+<http://id.loc.gov/authorities/subjects/sh85100599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933091b> . 
+<http://data.bnf.fr/ark:/12148/cb11933091b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933091b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11972150m> . 
+<http://data.bnf.fr/ark:/12148/cb11972150m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11972150m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacie galénique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4045705-9> . 
+<http://d-nb.info/gnd/4045705-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4045705-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmazie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#editorial> "headings beginning with the word [Pharmaceutical]" . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode239authoritiessubjectssh85100603 . 
+_:bnode239authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode239authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100603> . 
+_:bnode239authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode239authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode239authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85100603> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode247authoritiessubjectssh85100603 . 
+_:bnode247authoritiessubjectssh85100603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode247authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100603> . 
+_:bnode247authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode247authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#createdDate> "2005-09-14T16:04:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode247authoritiessubjectssh85100603 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

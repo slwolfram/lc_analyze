@@ -1,0 +1,55 @@
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thermophototropism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2004002171 . 
+_:bnode7authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2004002171 . 
+_:bnode7authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#elementValue> "Thermophototropism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85101420> . 
+<http://id.loc.gov/authorities/subjects/sh85101420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85101420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101420> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phototropism (Chemistry)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101420> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2004002171 . 
+_:bnode16authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2004002171 . 
+_:bnode16authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phototropism (Chemistry)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2004002171" . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2004002171> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2004002171#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode27authoritiessubjectssh2004002171 . 
+_:bnode27authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode27authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Neuder, S.M. Proposed mechanism for thermophototropic behavior in perovskite-structured titanates, 1964:" . 
+_:bnode27authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. i (\"Many compounds in the solid or liquid state have been known to change color when exposed to electromagnetic radiation. Thermophototropism is the term used to describe the phenomena of radiation-induced coloration and thermally stimulated reversion to the original state.\")"@en . 
+_:bnode27authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode35authoritiessubjectssh2004002171 . 
+_:bnode35authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode35authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-source> "Schutt, J.B. Thermophototropism in corticated alkaline earth titanates, 1964:" . 
+_:bnode35authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 1 (\" ... At room temperature [alkaline earth titanates] revert to their original color imperceptibly slowly. ... However, an exposed sample heated to 300 C returns to its original color in 30 min. ... Consequently, the alkaline earth titanates are not phototropic in the same sense as organics and metal organics (which bleach at room temperature). Materials such as the alkaline earth titanates ate called thermophototropes\")"@en . 
+_:bnode35authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode43authoritiessubjectssh2004002171 . 
+_:bnode43authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode43authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-source> "Grant & Hackh's chemical dictionary, 1987;McGraw-Hill dictionary of scientific and technical terms, 2003;Academic Press dictionary of science and technology, 1992;Chambers dictionary of science and technology, 1999;WWW search via Google, Jan. 16, 2004" . 
+_:bnode43authoritiessubjectssh2004002171 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh2004002171 . 
+_:bnode49authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh2004002171 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-02-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh2004002171 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh2004002171 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode49authoritiessubjectssh2004002171 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thermophototropism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85101420> . 
+<http://id.loc.gov/authorities/subjects/sh85101420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phototropism (Chemistry)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004002171> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode66authoritiessubjectssh2004002171 . 
+_:bnode66authoritiessubjectssh2004002171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode66authoritiessubjectssh2004002171 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2004002171> . 
+_:bnode66authoritiessubjectssh2004002171 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode66authoritiessubjectssh2004002171 <http://purl.org/vocab/changeset/schema#createdDate> "2004-02-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh2004002171 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,90 @@
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tables of contents"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2001000367 . 
+_:bnode7authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2001000367 . 
+_:bnode7authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tables of contents"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2001000367 . 
+_:bnode11authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Contents, Tables of"@en . 
+_:bnode11authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2001000367 . 
+_:bnode16authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2001000367 . 
+_:bnode16authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#elementValue> "Contents, Tables of"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2004003366> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2001000367 . 
+_:bnode25authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2001000367 . 
+_:bnode25authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#elementValue> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Tables of contents] under titles of individual works and under types of publications" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2001000367" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2001000367> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2001000367#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode39authoritiessubjectssh2001000367 . 
+_:bnode39authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode39authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Ukazatel' k Tul'skim eparkhial'nym vedomostiam (Tul'skiia eparkhialnyia vedomosti), 1862-1893, 1896-1900, 1902-1904, 1999" . 
+_:bnode39authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-note> "(consists of the table of contents to volumes of Tulʹskīi︠a︡ eparkhīalʹnyi︠a︡ vi︠e︡domosti)"@en . 
+_:bnode39authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh2001000367 . 
+_:bnode47authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-source> "The bookman's glossary, 1975" . 
+_:bnode47authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-note> "(table of contents: a list of the divisions of a book, usually chapter headings or main subjects, arranged in the sequence in which they appear and constituting part of the front matter (q.v.) of the volume)"@en . 
+_:bnode47authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh2001000367 . 
+_:bnode55authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-source> "The ALA glossary of library and info. sci., 1983" . 
+_:bnode55authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-note> "(contents, see table of contents; table of contents: in a book, a number of a periodical, etc., a list of its parts, such as chapter titles and periodical articles, with references by page number or other location symbol to the place they begin, and in the sequence in which they appear)"@en . 
+_:bnode55authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode63authoritiessubjectssh2001000367 . 
+_:bnode63authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode63authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-source> "The librarians' glossary of terms used in librarianship and the book crafts, and reference book, 1971" . 
+_:bnode63authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-note> "(table of contents, see contents; contents: strictly, a 'table of contents' but seldom used in this form. 1. A list of the 'preliminaries' and chapter headings of a book in their correct order, or of articles in a periodical, with the numbers of the pages on which they begin. 2. A list of the musical works contained in a printed collection of music or in an album of gramophone records, or of those recorded on a single record)"@en . 
+_:bnode63authoritiessubjectssh2001000367 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh2001000367 . 
+_:bnode71authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode71authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode79authoritiessubjectssh2001000367 . 
+_:bnode79authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode79authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-05-27T14:19:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode79authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode79authoritiessubjectssh2001000367 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tables of contents"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode90authoritiessubjectssh2001000367 . 
+_:bnode90authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode90authoritiessubjectssh2001000367 <http://www.w3.org/2008/05/skos-xl#literalForm> "Contents, Tables of"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#altLabel> "Contents, Tables of" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2004003366> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Tables of contents] under titles of individual works and under types of publications" . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2008/05/skos-xl#altLabel> "Contents, Tables of"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh2001000367 . 
+_:bnode107authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001000367> . 
+_:bnode107authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode107authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2001000367> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh2001000367 . 
+_:bnode115authoritiessubjectssh2001000367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001000367> . 
+_:bnode115authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode115authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#createdDate> "2004-05-27T14:19:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh2001000367 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,114 @@
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Operating rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85094979 . 
+_:bnode7authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85094979 . 
+_:bnode7authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#elementValue> "Operating rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85094979 . 
+_:bnode11authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#variantLabel> "ORs (Operating rooms)"@en . 
+_:bnode11authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85094979 . 
+_:bnode16authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85094979 . 
+_:bnode16authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#elementValue> "ORs (Operating rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#classification> "RD63" . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2006007120> . 
+<http://id.loc.gov/authorities/subjects/sh2006007120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2006007120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006007120> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hospital buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006007120> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85094979 . 
+_:bnode27authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85094979 . 
+_:bnode27authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hospital buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11964982q> . 
+<http://data.bnf.fr/ark:/12148/cb11964982q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11964982q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Salles d'opération"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/44475> . 
+<http://purl.org/bncf/tid/44475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/44475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sale operatorie"@it . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85130794> . 
+<http://id.loc.gov/authorities/subjects/sh85130794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85130794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130794> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Surgical clinics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85130794> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85094979 . 
+_:bnode44authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85094979 . 
+_:bnode44authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#elementValue> "Surgical clinics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh90000997> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85094979 . 
+_:bnode53authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85094979 . 
+_:bnode53authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4043589-1> . 
+<http://d-nb.info/gnd/4043589-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4043589-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Operationssaal"@de . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85094979" . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85094979> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85094979#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode69authoritiessubjectssh85094979 . 
+_:bnode69authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode69authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#citation-source> "The surgeons : life and death in a top heart center, c2007:" . 
+_:bnode69authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 1 (operating rooms, \"ORs\")"@en . 
+_:bnode69authoritiessubjectssh85094979 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh85094979 . 
+_:bnode77authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh85094979 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh85094979 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh85094979 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85094979 . 
+_:bnode84authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85094979 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-12-04T08:28:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85094979 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85094979 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Operating rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode94authoritiessubjectssh85094979 . 
+_:bnode94authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode94authoritiessubjectssh85094979 <http://www.w3.org/2008/05/skos-xl#literalForm> "ORs (Operating rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#altLabel> "ORs (Operating rooms)" . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2006007120> . 
+<http://id.loc.gov/authorities/subjects/sh2006007120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006007120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hospital buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85130794> . 
+<http://id.loc.gov/authorities/subjects/sh85130794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Surgical clinics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh90000997> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11964982q> . 
+<http://data.bnf.fr/ark:/12148/cb11964982q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11964982q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Salles d'opération"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/44475> . 
+<http://purl.org/bncf/tid/44475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/44475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sale operatorie"@it . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4043589-1> . 
+<http://d-nb.info/gnd/4043589-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4043589-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Operationssaal"@de . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2008/05/skos-xl#altLabel> "ORs (Operating rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode134authoritiessubjectssh85094979 . 
+_:bnode134authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode134authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85094979> . 
+_:bnode134authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode134authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode134authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode142authoritiessubjectssh85094979 . 
+_:bnode142authoritiessubjectssh85094979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode142authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85094979> . 
+_:bnode142authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode142authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#createdDate> "2008-12-04T08:28:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode142authoritiessubjectssh85094979 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

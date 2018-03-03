@@ -1,0 +1,57 @@
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sapropel as feed"@en . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh95003520 . 
+_:bnode7authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh95003520 . 
+_:bnode7authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh95003520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sapropel as feed"@en . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#classification> "S661.2.S28" . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85047658> . 
+<http://id.loc.gov/authorities/subjects/sh85047658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85047658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047658> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feeds"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047658> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh95003520 . 
+_:bnode18authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh95003520 . 
+_:bnode18authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh95003520 <http://www.loc.gov/mads/rdf/v1#elementValue> "Feeds"@en . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 95003520" . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh95003520> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh95003520#concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode30authoritiessubjectssh95003520 . 
+_:bnode30authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode30authoritiessubjectssh95003520 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 94-116560: Lopotko, M.Z. Sapropeli v selʹskom khozi︠a︡ĭstve, 1992." . 
+_:bnode30authoritiessubjectssh95003520 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode36authoritiessubjectssh95003520 . 
+_:bnode36authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode36authoritiessubjectssh95003520 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-05-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode36authoritiessubjectssh95003520 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode36authoritiessubjectssh95003520 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode43authoritiessubjectssh95003520 . 
+_:bnode43authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode43authoritiessubjectssh95003520 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-06-19T07:46:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode43authoritiessubjectssh95003520 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode43authoritiessubjectssh95003520 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sapropel as feed"@en . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85047658> . 
+<http://id.loc.gov/authorities/subjects/sh85047658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feeds"@en . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode59authoritiessubjectssh95003520 . 
+_:bnode59authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode59authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh95003520> . 
+_:bnode59authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode59authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#createdDate> "1995-05-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh95003520> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode67authoritiessubjectssh95003520 . 
+_:bnode67authoritiessubjectssh95003520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode67authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh95003520> . 
+_:bnode67authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode67authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#createdDate> "1995-06-19T07:46:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh95003520 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

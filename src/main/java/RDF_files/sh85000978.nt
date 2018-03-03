@@ -1,0 +1,167 @@
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85000978 . 
+_:bnode7authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85000978 . 
+_:bnode7authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85000978 <http://www.loc.gov/mads/rdf/v1#elementValue> "Adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85000978 . 
+_:bnode11authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85000978 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Child placing"@en . 
+_:bnode11authoritiessubjectssh85000978 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85000978 . 
+_:bnode16authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85000978 . 
+_:bnode16authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85000978 <http://www.loc.gov/mads/rdf/v1#elementValue> "Child placing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#classification> "HV874.8-HV875.7" . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85097980> . 
+<http://id.loc.gov/authorities/subjects/sh85097980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85097980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097980> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parent and child"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097980> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85000978 . 
+_:bnode27authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85000978 . 
+_:bnode27authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85000978 <http://www.loc.gov/mads/rdf/v1#elementValue> "Parent and child"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95004301> . 
+<http://id.loc.gov/authorities/subjects/sh95004301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95004301> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Special needs adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00007062> . 
+<http://id.loc.gov/authorities/subjects/sh00007062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00007062> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interethnic adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88003627> . 
+<http://id.loc.gov/authorities/subjects/sh88003627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88003627> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older child adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/1047> . 
+<http://purl.org/bncf/tid/1047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/1047> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adozione"@it . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119654937> . 
+<http://data.bnf.fr/ark:/12148/cb119654937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119654937> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adoption"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95007363> . 
+<http://id.loc.gov/authorities/subjects/sh95007363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95007363> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gay adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008009294> . 
+<http://id.loc.gov/authorities/subjects/sh2008009294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008009294> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wrongful adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb16661980g> . 
+<http://data.bnf.fr/ark:/12148/cb16661980g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb16661980g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Franc-maçonnerie -- Rite d'adoption"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000976> . 
+<http://id.loc.gov/authorities/subjects/sh85000976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000976> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adoptees"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067498> . 
+<http://id.loc.gov/authorities/subjects/sh85067498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067498> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interracial adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4138016-2> . 
+<http://d-nb.info/gnd/4138016-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4138016-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adoptionsfreigabe"@de . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89007147> . 
+<http://id.loc.gov/authorities/subjects/sh89007147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89007147> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Open adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85051033> . 
+<http://id.loc.gov/authorities/subjects/sh85051033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85051033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051033> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Foster home care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051033> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode84authoritiessubjectssh85000978 . 
+_:bnode84authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode85authoritiessubjectssh85000978 . 
+_:bnode84authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode85authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode85authoritiessubjectssh85000978 <http://www.loc.gov/mads/rdf/v1#elementValue> "Foster home care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4112457-1> . 
+<http://d-nb.info/gnd/4112457-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4112457-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adoptivfamilie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067220> . 
+<http://id.loc.gov/authorities/subjects/sh85067220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067220> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Intercountry adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/198> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119654937> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85000978" . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85000978> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85000978#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode106authoritiessubjectssh85000978 . 
+_:bnode106authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode106authoritiessubjectssh85000978 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh85000978 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode106authoritiessubjectssh85000978 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode113authoritiessubjectssh85000978 . 
+_:bnode113authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode113authoritiessubjectssh85000978 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-02-23T07:17:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode113authoritiessubjectssh85000978 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode113authoritiessubjectssh85000978 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode123authoritiessubjectssh85000978 . 
+_:bnode123authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode123authoritiessubjectssh85000978 <http://www.w3.org/2008/05/skos-xl#literalForm> "Child placing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#altLabel> "Child placing" . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85097980> . 
+<http://id.loc.gov/authorities/subjects/sh85097980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097980> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parent and child"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85051033> . 
+<http://id.loc.gov/authorities/subjects/sh85051033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foster home care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95004301> . 
+<http://id.loc.gov/authorities/subjects/sh95004301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95004301> <http://www.w3.org/2004/02/skos/core#prefLabel> "Special needs adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00007062> . 
+<http://id.loc.gov/authorities/subjects/sh00007062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00007062> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interethnic adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88003627> . 
+<http://id.loc.gov/authorities/subjects/sh88003627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88003627> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older child adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95007363> . 
+<http://id.loc.gov/authorities/subjects/sh95007363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95007363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gay adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008009294> . 
+<http://id.loc.gov/authorities/subjects/sh2008009294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008009294> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wrongful adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000976> . 
+<http://id.loc.gov/authorities/subjects/sh85000976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000976> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoptees"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067498> . 
+<http://id.loc.gov/authorities/subjects/sh85067498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interracial adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89007147> . 
+<http://id.loc.gov/authorities/subjects/sh89007147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89007147> <http://www.w3.org/2004/02/skos/core#prefLabel> "Open adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067220> . 
+<http://id.loc.gov/authorities/subjects/sh85067220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Intercountry adoption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/198> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119654937> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/1047> . 
+<http://purl.org/bncf/tid/1047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/1047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adozione"@it . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119654937> . 
+<http://data.bnf.fr/ark:/12148/cb119654937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119654937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoption"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb16661980g> . 
+<http://data.bnf.fr/ark:/12148/cb16661980g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb16661980g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Franc-maçonnerie -- Rite d'adoption"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4138016-2> . 
+<http://d-nb.info/gnd/4138016-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4138016-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoptionsfreigabe"@de . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4112457-1> . 
+<http://d-nb.info/gnd/4112457-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4112457-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adoptivfamilie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2008/05/skos-xl#altLabel> "Child placing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode215authoritiessubjectssh85000978 . 
+_:bnode215authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode215authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85000978> . 
+_:bnode215authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode215authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode215authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85000978> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode223authoritiessubjectssh85000978 . 
+_:bnode223authoritiessubjectssh85000978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode223authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85000978> . 
+_:bnode223authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode223authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#createdDate> "1996-02-23T07:17:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode223authoritiessubjectssh85000978 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

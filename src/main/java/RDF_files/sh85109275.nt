@@ -1,0 +1,142 @@
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pygmies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85109275 . 
+_:bnode7authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85109275 . 
+_:bnode7authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pygmies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85109275 . 
+_:bnode11authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Pigmies"@en . 
+_:bnode11authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85109275 . 
+_:bnode16authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85109275 . 
+_:bnode16authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pigmies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#classification> "DT530.5.P94" . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#classification> "DT650.P94" . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012440> . 
+<http://id.loc.gov/authorities/subjects/sh85012440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012440> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Batwa (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090654> . 
+<http://id.loc.gov/authorities/subjects/sh85090654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090654> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Negrillos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011423> . 
+<http://id.loc.gov/authorities/subjects/sh85011423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011423> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mbuti (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011062> . 
+<http://id.loc.gov/authorities/subjects/sh85011062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011062> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baka (West African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85045207> . 
+<http://id.loc.gov/authorities/subjects/sh85045207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85045207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045207> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnology--Africa, Central"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045207> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode45authoritiessubjectssh85109275 . 
+_:bnode45authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85109275 . 
+_:bnode45authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode053 . 
+_:bnode46authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode46authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode46authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnology"@en . 
+_:bnode46authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode50authoritiessubjectssh85109275 . 
+_:bnode50authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode51authoritiessubjectssh85109275 . 
+_:bnode50authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode51authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode51authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ethnology"@en . 
+_:bnode053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85109275 . 
+_:bnode053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+_:bnode54authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode54authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Africa, Central"@en . 
+_:bnode54authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode58authoritiessubjectssh85109275 . 
+_:bnode58authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode59authoritiessubjectssh85109275 . 
+_:bnode58authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode59authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode59authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#elementValue> "Africa, Central"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11979478h> . 
+<http://data.bnf.fr/ark:/12148/cb11979478h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11979478h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pygmées"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010737> . 
+<http://id.loc.gov/authorities/subjects/sh85010737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010737> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Babinga (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006003139> . 
+<http://id.loc.gov/authorities/subjects/sh2006003139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006003139> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bofi (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090657> . 
+<http://id.loc.gov/authorities/subjects/sh85090657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090657> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Negritos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010958> . 
+<http://id.loc.gov/authorities/subjects/sh85010958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010958> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bagyele (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85109275" . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85109275> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85109275#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode90authoritiessubjectssh85109275 . 
+_:bnode90authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode90authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#citation-source> "95980589: Ekundanayo, N. Analyse de la situation des femmes et entants pygmées du Zaïre, 1993." . 
+_:bnode90authoritiessubjectssh85109275 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode96authoritiessubjectssh85109275 . 
+_:bnode96authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode96authoritiessubjectssh85109275 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-04-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh85109275 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode96authoritiessubjectssh85109275 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode103authoritiessubjectssh85109275 . 
+_:bnode103authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode103authoritiessubjectssh85109275 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-05-29T13:28:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh85109275 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode103authoritiessubjectssh85109275 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pygmies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode113authoritiessubjectssh85109275 . 
+_:bnode113authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode113authoritiessubjectssh85109275 <http://www.w3.org/2008/05/skos-xl#literalForm> "Pigmies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#altLabel> "Pigmies" . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85045207> . 
+<http://id.loc.gov/authorities/subjects/sh85045207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethnology--Africa, Central"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012440> . 
+<http://id.loc.gov/authorities/subjects/sh85012440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Batwa (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090654> . 
+<http://id.loc.gov/authorities/subjects/sh85090654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090654> <http://www.w3.org/2004/02/skos/core#prefLabel> "Negrillos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011423> . 
+<http://id.loc.gov/authorities/subjects/sh85011423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mbuti (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011062> . 
+<http://id.loc.gov/authorities/subjects/sh85011062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011062> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baka (West African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010737> . 
+<http://id.loc.gov/authorities/subjects/sh85010737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010737> <http://www.w3.org/2004/02/skos/core#prefLabel> "Babinga (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006003139> . 
+<http://id.loc.gov/authorities/subjects/sh2006003139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006003139> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bofi (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090657> . 
+<http://id.loc.gov/authorities/subjects/sh85090657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090657> <http://www.w3.org/2004/02/skos/core#prefLabel> "Negritos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010958> . 
+<http://id.loc.gov/authorities/subjects/sh85010958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010958> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bagyele (African people)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11979478h> . 
+<http://data.bnf.fr/ark:/12148/cb11979478h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11979478h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pygmées"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2008/05/skos-xl#altLabel> "Pigmies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode173authoritiessubjectssh85109275 . 
+_:bnode173authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode173authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85109275> . 
+_:bnode173authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode173authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#createdDate> "2003-04-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode173authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85109275> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode181authoritiessubjectssh85109275 . 
+_:bnode181authoritiessubjectssh85109275 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode181authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85109275> . 
+_:bnode181authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode181authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#createdDate> "2003-05-29T13:28:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode181authoritiessubjectssh85109275 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

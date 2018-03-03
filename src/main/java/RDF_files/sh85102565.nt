@@ -1,0 +1,133 @@
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Placenta"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85102565 . 
+_:bnode7authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85102565 . 
+_:bnode7authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85102565 <http://www.loc.gov/mads/rdf/v1#elementValue> "Placenta"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85102565 . 
+_:bnode11authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85102565 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Cotyledon (Anatomy)"@en . 
+_:bnode11authoritiessubjectssh85102565 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85102565 . 
+_:bnode16authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85102565 . 
+_:bnode16authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85102565 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cotyledon (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#classification> "QL973" . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#classification> "RG591" . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014801> . 
+<http://id.loc.gov/authorities/subjects/sh85014801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014801> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blastocyst"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/36836> . 
+<http://lod.nal.usda.gov/nalt/36836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/36836> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "placenta"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12652150t> . 
+<http://data.bnf.fr/ark:/12148/cb12652150t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12652150t> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Placenta -- Vaisseaux sanguins"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042722> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode41authoritiessubjectssh85102565 . 
+_:bnode41authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode42authoritiessubjectssh85102565 . 
+_:bnode41authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode42authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode42authoritiessubjectssh85102565 <http://www.loc.gov/mads/rdf/v1#elementValue> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082101> . 
+<http://id.loc.gov/authorities/subjects/sh85082101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082101> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maternal-fetal exchange"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85149208> . 
+<http://id.loc.gov/authorities/subjects/sh85149208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85149208> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yolk sac"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11959347j> . 
+<http://data.bnf.fr/ark:/12148/cb11959347j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11959347j> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Placenta"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85141621> . 
+<http://id.loc.gov/authorities/subjects/sh85141621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85141621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141621> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Uterus, Pregnant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141621> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode62authoritiessubjectssh85102565 . 
+_:bnode62authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode63authoritiessubjectssh85102565 . 
+_:bnode62authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode63authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode63authoritiessubjectssh85102565 <http://www.loc.gov/mads/rdf/v1#elementValue> "Uterus, Pregnant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4174904-2> . 
+<http://d-nb.info/gnd/4174904-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4174904-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plazenta"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12653343b> . 
+<http://data.bnf.fr/ark:/12148/cb12653343b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12653343b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Placenta -- Maladies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024752> . 
+<http://id.loc.gov/authorities/subjects/sh85024752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024752> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chorionic villi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85102565" . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85102565> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85102565#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode85authoritiessubjectssh85102565 . 
+_:bnode85authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode85authoritiessubjectssh85102565 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh85102565 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode85authoritiessubjectssh85102565 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode92authoritiessubjectssh85102565 . 
+_:bnode92authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode92authoritiessubjectssh85102565 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-06-29T16:26:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh85102565 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode92authoritiessubjectssh85102565 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#prefLabel> "Placenta"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode102authoritiessubjectssh85102565 . 
+_:bnode102authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode102authoritiessubjectssh85102565 <http://www.w3.org/2008/05/skos-xl#literalForm> "Cotyledon (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#altLabel> "Cotyledon (Anatomy)" . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042722> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85141621> . 
+<http://id.loc.gov/authorities/subjects/sh85141621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141621> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uterus, Pregnant"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014801> . 
+<http://id.loc.gov/authorities/subjects/sh85014801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014801> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blastocyst"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082101> . 
+<http://id.loc.gov/authorities/subjects/sh85082101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082101> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maternal-fetal exchange"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85149208> . 
+<http://id.loc.gov/authorities/subjects/sh85149208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yolk sac"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024752> . 
+<http://id.loc.gov/authorities/subjects/sh85024752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chorionic villi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/36836> . 
+<http://lod.nal.usda.gov/nalt/36836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/36836> <http://www.w3.org/2004/02/skos/core#prefLabel> "placenta"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12652150t> . 
+<http://data.bnf.fr/ark:/12148/cb12652150t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12652150t> <http://www.w3.org/2004/02/skos/core#prefLabel> "Placenta -- Vaisseaux sanguins"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11959347j> . 
+<http://data.bnf.fr/ark:/12148/cb11959347j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11959347j> <http://www.w3.org/2004/02/skos/core#prefLabel> "Placenta"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4174904-2> . 
+<http://d-nb.info/gnd/4174904-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4174904-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plazenta"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12653343b> . 
+<http://data.bnf.fr/ark:/12148/cb12653343b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12653343b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Placenta -- Maladies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2008/05/skos-xl#altLabel> "Cotyledon (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode167authoritiessubjectssh85102565 . 
+_:bnode167authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode167authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102565> . 
+_:bnode167authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode167authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode167authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85102565> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode175authoritiessubjectssh85102565 . 
+_:bnode175authoritiessubjectssh85102565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode175authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102565> . 
+_:bnode175authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode175authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#createdDate> "1994-06-29T16:26:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode175authoritiessubjectssh85102565 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

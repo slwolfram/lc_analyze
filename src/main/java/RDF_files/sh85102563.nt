@@ -1,0 +1,75 @@
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Placebos (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85102563 . 
+_:bnode7authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85102563 . 
+_:bnode7authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85102563 <http://www.loc.gov/mads/rdf/v1#elementValue> "Placebos (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85134723> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85102563 . 
+_:bnode16authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85102563 . 
+_:bnode16authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85102563 <http://www.loc.gov/mads/rdf/v1#elementValue> "Therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85083185> . 
+<http://id.loc.gov/authorities/subjects/sh85083185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083185> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine and psychology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083185> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85102563 . 
+_:bnode25authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85102563 . 
+_:bnode25authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85102563 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine and psychology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008008734> . 
+<http://id.loc.gov/authorities/subjects/sh2008008734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008008734> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nocebos (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/24159> . 
+<http://purl.org/bncf/tid/24159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/24159> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Placebo"@it . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85102563" . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85102563> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85102563#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiessubjectssh85102563 . 
+_:bnode44authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiessubjectssh85102563 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiessubjectssh85102563 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiessubjectssh85102563 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85102563 . 
+_:bnode51authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85102563 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-12-24T08:20:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85102563 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85102563 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#prefLabel> "Placebos (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85134723> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008008734> . 
+<http://id.loc.gov/authorities/subjects/sh2008008734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008008734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nocebos (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85083185> . 
+<http://id.loc.gov/authorities/subjects/sh85083185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083185> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine and psychology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/24159> . 
+<http://purl.org/bncf/tid/24159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/24159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Placebo"@it . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh85102563 . 
+_:bnode82authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102563> . 
+_:bnode82authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85102563> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh85102563 . 
+_:bnode90authoritiessubjectssh85102563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102563> . 
+_:bnode90authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#createdDate> "2008-12-24T08:20:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85102563 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

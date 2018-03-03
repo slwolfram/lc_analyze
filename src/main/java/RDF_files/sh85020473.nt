@@ -1,0 +1,162 @@
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85020473 . 
+_:bnode7authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85020473 . 
+_:bnode7authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85020473 . 
+_:bnode11authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Common carriers"@en . 
+_:bnode11authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85020473 . 
+_:bnode16authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85020473 . 
+_:bnode16authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Common carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85020473 . 
+_:bnode20authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Contract carriers"@en . 
+_:bnode20authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85020473 . 
+_:bnode25authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85020473 . 
+_:bnode25authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Contract carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12483037v> . 
+<http://data.bnf.fr/ark:/12148/cb12483037v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12483037v> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carriers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132886> . 
+<http://id.loc.gov/authorities/subjects/sh85132886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132886> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Taxicabs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11977545b> . 
+<http://data.bnf.fr/ark:/12148/cb11977545b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11977545b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transporteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4805839-7> . 
+<http://d-nb.info/gnd/4805839-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4805839-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Güterkraftverkehrsunternehmer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4062911-9> . 
+<http://d-nb.info/gnd/4062911-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4062911-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verkehrsbetrieb"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018229> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105472> . 
+<http://id.loc.gov/authorities/subjects/sh85105472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105472> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Postal service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4127408-8> . 
+<http://d-nb.info/gnd/4127408-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4127408-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Speditionskaufmann"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2001008994> . 
+<http://id.loc.gov/authorities/subjects/sh2001008994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001008994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008994> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transportation"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001008994> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode66authoritiessubjectssh85020473 . 
+_:bnode66authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode67authoritiessubjectssh85020473 . 
+_:bnode66authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode67authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode67authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Transportation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4155120-5> . 
+<http://d-nb.info/gnd/4155120-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4155120-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Frachtführer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4158528-8> . 
+<http://d-nb.info/gnd/4158528-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4158528-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Güterverkehrsbetrieb"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018545> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cab and omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4056085-5> . 
+<http://d-nb.info/gnd/4056085-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4056085-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Speditionsbetrieb"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on individuals or companies engaged in the transportation of passengers or goods." . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85020473" . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85020473> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85020473#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode96authoritiessubjectssh85020473 . 
+_:bnode96authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode96authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#citation-source> "UMI business vocab." . 
+_:bnode96authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode102authoritiessubjectssh85020473 . 
+_:bnode102authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode102authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC database, 3/15/94." . 
+_:bnode102authoritiessubjectssh85020473 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode108authoritiessubjectssh85020473 . 
+_:bnode108authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode108authoritiessubjectssh85020473 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh85020473 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode108authoritiessubjectssh85020473 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode115authoritiessubjectssh85020473 . 
+_:bnode115authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode115authoritiessubjectssh85020473 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-05-09T11:17:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh85020473 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode115authoritiessubjectssh85020473 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode125authoritiessubjectssh85020473 . 
+_:bnode125authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode125authoritiessubjectssh85020473 <http://www.w3.org/2008/05/skos-xl#literalForm> "Common carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#altLabel> "Common carriers" . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode132authoritiessubjectssh85020473 . 
+_:bnode132authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode132authoritiessubjectssh85020473 <http://www.w3.org/2008/05/skos-xl#literalForm> "Contract carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#altLabel> "Contract carriers" . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2001008994> . 
+<http://id.loc.gov/authorities/subjects/sh2001008994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001008994> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transportation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132886> . 
+<http://id.loc.gov/authorities/subjects/sh85132886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132886> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxicabs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018229> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105472> . 
+<http://id.loc.gov/authorities/subjects/sh85105472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Postal service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018545> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cab and omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12483037v> . 
+<http://data.bnf.fr/ark:/12148/cb12483037v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12483037v> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carriers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11977545b> . 
+<http://data.bnf.fr/ark:/12148/cb11977545b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11977545b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transporteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4805839-7> . 
+<http://d-nb.info/gnd/4805839-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4805839-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Güterkraftverkehrsunternehmer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4062911-9> . 
+<http://d-nb.info/gnd/4062911-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4062911-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verkehrsbetrieb"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4127408-8> . 
+<http://d-nb.info/gnd/4127408-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4127408-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speditionskaufmann"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4155120-5> . 
+<http://d-nb.info/gnd/4155120-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4155120-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frachtführer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4158528-8> . 
+<http://d-nb.info/gnd/4158528-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4158528-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Güterverkehrsbetrieb"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4056085-5> . 
+<http://d-nb.info/gnd/4056085-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4056085-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speditionsbetrieb"@de . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on individuals or companies engaged in the transportation of passengers or goods." . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2008/05/skos-xl#altLabel> "Common carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2008/05/skos-xl#altLabel> "Contract carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode211authoritiessubjectssh85020473 . 
+_:bnode211authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode211authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85020473> . 
+_:bnode211authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode211authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode211authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode219authoritiessubjectssh85020473 . 
+_:bnode219authoritiessubjectssh85020473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode219authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85020473> . 
+_:bnode219authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode219authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#createdDate> "1994-05-09T11:17:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode219authoritiessubjectssh85020473 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

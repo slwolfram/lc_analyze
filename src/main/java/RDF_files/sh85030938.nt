@@ -1,0 +1,153 @@
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Confidential communications--Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85030938 . 
+_:bnode7authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85030929> . 
+_:bnode7authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85030929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85030929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030929> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Confidential communications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030929> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85030938 . 
+_:bnode12authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85030938 . 
+_:bnode12authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Confidential communications"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85101610> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85030938 . 
+_:bnode20authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85030938 . 
+_:bnode20authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85030938 . 
+_:bnode24authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Doctor-patient privilege"@en . 
+_:bnode24authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85030938 . 
+_:bnode29authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85030938 . 
+_:bnode29authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Doctor-patient privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85030938 . 
+_:bnode33authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Patient-physician privilege"@en . 
+_:bnode33authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85030938 . 
+_:bnode38authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85030938 . 
+_:bnode38authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Patient-physician privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode42authoritiessubjectssh85030938 . 
+_:bnode42authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode42authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode42authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Physician-patient privilege"@en . 
+_:bnode42authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85030938 . 
+_:bnode47authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85030938 . 
+_:bnode47authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physician-patient privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode51authoritiessubjectssh85030938 . 
+_:bnode51authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode51authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode51authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Physicians--Confidential communications"@en . 
+_:bnode51authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode56authoritiessubjectssh85030938 . 
+_:bnode56authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85030938 . 
+_:bnode56authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode064 . 
+_:bnode57authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode57authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode57authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Physicians"@en . 
+_:bnode57authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85030938 . 
+_:bnode61authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85030938 . 
+_:bnode61authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physicians"@en . 
+_:bnode064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85030938 . 
+_:bnode064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode65authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode65authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Confidential communications"@en . 
+_:bnode65authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85030938 . 
+_:bnode69authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85030938 . 
+_:bnode69authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Confidential communications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11940812w> . 
+<http://data.bnf.fr/ark:/12148/cb11940812w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11940812w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Secret médical"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082964> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical laws and legislation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode82authoritiessubjectssh85030938 . 
+_:bnode82authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode83authoritiessubjectssh85030938 . 
+_:bnode82authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode83authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode83authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical laws and legislation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083012> . 
+<http://id.loc.gov/authorities/subjects/sh85083012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083012> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical records--Access control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082929> . 
+<http://id.loc.gov/authorities/subjects/sh85082929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082929> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical ethics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082929> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode95authoritiessubjectssh85030938 . 
+_:bnode95authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode96authoritiessubjectssh85030938 . 
+_:bnode95authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode96authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode96authoritiessubjectssh85030938 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical ethics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85030938" . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85030938> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85030938#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode107authoritiessubjectssh85030938 . 
+_:bnode107authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode107authoritiessubjectssh85030938 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85030938 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode107authoritiessubjectssh85030938 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Confidential communications--Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode117authoritiessubjectssh85030938 . 
+_:bnode117authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode117authoritiessubjectssh85030938 <http://www.w3.org/2008/05/skos-xl#literalForm> "Doctor-patient privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#altLabel> "Doctor-patient privilege" . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode124authoritiessubjectssh85030938 . 
+_:bnode124authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode124authoritiessubjectssh85030938 <http://www.w3.org/2008/05/skos-xl#literalForm> "Patient-physician privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#altLabel> "Patient-physician privilege" . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode131authoritiessubjectssh85030938 . 
+_:bnode131authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode131authoritiessubjectssh85030938 <http://www.w3.org/2008/05/skos-xl#literalForm> "Physician-patient privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#altLabel> "Physician-patient privilege" . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode138authoritiessubjectssh85030938 . 
+_:bnode138authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode138authoritiessubjectssh85030938 <http://www.w3.org/2008/05/skos-xl#literalForm> "Physicians--Confidential communications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#altLabel> "Physicians--Confidential communications" . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082964> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical laws and legislation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082929> . 
+<http://id.loc.gov/authorities/subjects/sh85082929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical ethics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083012> . 
+<http://id.loc.gov/authorities/subjects/sh85083012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083012> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical records--Access control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11940812w> . 
+<http://data.bnf.fr/ark:/12148/cb11940812w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11940812w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secret médical"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> "Doctor-patient privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> "Patient-physician privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> "Physician-patient privilege"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2008/05/skos-xl#altLabel> "Physicians--Confidential communications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030938> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode174authoritiessubjectssh85030938 . 
+_:bnode174authoritiessubjectssh85030938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode174authoritiessubjectssh85030938 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85030938> . 
+_:bnode174authoritiessubjectssh85030938 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode174authoritiessubjectssh85030938 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode174authoritiessubjectssh85030938 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

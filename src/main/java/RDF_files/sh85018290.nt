@@ -1,0 +1,81 @@
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Business enterprises--Taxation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85018290 . 
+_:bnode7authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85018285> . 
+_:bnode7authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85018290 . 
+_:bnode12authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85018290 . 
+_:bnode12authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85018290 <http://www.loc.gov/mads/rdf/v1#elementValue> "Business enterprises"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85132846> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85132846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85132846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132846> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Taxation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85132846> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85018290 . 
+_:bnode20authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85018290 . 
+_:bnode20authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85018290 <http://www.loc.gov/mads/rdf/v1#elementValue> "Taxation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4133746-3> . 
+<http://d-nb.info/gnd/4133746-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4133746-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wertschöpfungsabgabe"@de . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044096> . 
+<http://id.loc.gov/authorities/subjects/sh85044096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044096> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enterprise zones, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11950176d> . 
+<http://data.bnf.fr/ark:/12148/cb11950176d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11950176d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Entreprises -- Impôts"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042928> . 
+<http://id.loc.gov/authorities/subjects/sh85042928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042928> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employment tax credit"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044094> . 
+<http://id.loc.gov/authorities/subjects/sh85044094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044094> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enterprise zones"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018323> . 
+<http://id.loc.gov/authorities/subjects/sh85018323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018323> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Business tax"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85018290" . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85018290> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85018290#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh85018290 . 
+_:bnode56authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh85018290 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85018290 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh85018290 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business enterprises--Taxation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044096> . 
+<http://id.loc.gov/authorities/subjects/sh85044096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044096> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enterprise zones, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042928> . 
+<http://id.loc.gov/authorities/subjects/sh85042928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employment tax credit"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044094> . 
+<http://id.loc.gov/authorities/subjects/sh85044094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044094> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enterprise zones"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018323> . 
+<http://id.loc.gov/authorities/subjects/sh85018323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business tax"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4133746-3> . 
+<http://d-nb.info/gnd/4133746-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4133746-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wertschöpfungsabgabe"@de . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11950176d> . 
+<http://data.bnf.fr/ark:/12148/cb11950176d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11950176d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entreprises -- Impôts"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85018290> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh85018290 . 
+_:bnode97authoritiessubjectssh85018290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh85018290 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85018290> . 
+_:bnode97authoritiessubjectssh85018290 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh85018290 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85018290 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

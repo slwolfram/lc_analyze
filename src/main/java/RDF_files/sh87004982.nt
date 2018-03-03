@@ -1,0 +1,100 @@
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deafblind children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh87004982 . 
+_:bnode7authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh87004982 . 
+_:bnode7authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#elementValue> "Deafblind children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011003267> . 
+<http://id.loc.gov/authorities/subjects/sh2011003267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011003267> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parents of deafblind children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85058689> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children with disabilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh87004982 . 
+_:bnode20authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh87004982 . 
+_:bnode20authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#elementValue> "Children with disabilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode24authoritiessubjectssh87004982 . 
+_:bnode24authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blind-deaf children"@en . 
+_:bnode24authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh87004982 . 
+_:bnode29authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh87004982 . 
+_:bnode29authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blind-deaf children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13170392h> . 
+<http://data.bnf.fr/ark:/12148/cb13170392h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13170392h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enfants sourds-aveugles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014878> . 
+<http://id.loc.gov/authorities/subjects/sh85014878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014878> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deafblind people"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014878> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh87004982 . 
+_:bnode42authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh87004982 . 
+_:bnode42authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#elementValue> "Deafblind people"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000200> . 
+<http://id.loc.gov/authorities/subjects/sh98000200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000200> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parents of deaf children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87004982" . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87004982> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87004982#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh87004982 . 
+_:bnode58authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#citation-source> "Google search, July 11, 2006" . 
+_:bnode58authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#citation-note> "(deafblind children)"@en . 
+_:bnode58authoritiessubjectssh87004982 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh87004982 . 
+_:bnode66authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh87004982 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-07-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh87004982 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh87004982 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh87004982 . 
+_:bnode73authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh87004982 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-08-17T13:23:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh87004982 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh87004982 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deafblind children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85058689> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children with disabilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014878> . 
+<http://id.loc.gov/authorities/subjects/sh85014878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014878> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deafblind people"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011003267> . 
+<http://id.loc.gov/authorities/subjects/sh2011003267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011003267> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parents of deafblind children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000200> . 
+<http://id.loc.gov/authorities/subjects/sh98000200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parents of deaf children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode103authoritiessubjectssh87004982 . 
+_:bnode103authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode103authoritiessubjectssh87004982 <http://www.w3.org/2008/05/skos-xl#literalForm> "Blind-deaf children"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#altLabel> "Blind-deaf children" . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13170392h> . 
+<http://data.bnf.fr/ark:/12148/cb13170392h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13170392h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enfants sourds-aveugles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode116authoritiessubjectssh87004982 . 
+_:bnode116authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode116authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87004982> . 
+_:bnode116authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode116authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#createdDate> "2006-07-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode116authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87004982> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode124authoritiessubjectssh87004982 . 
+_:bnode124authoritiessubjectssh87004982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode124authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87004982> . 
+_:bnode124authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode124authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#createdDate> "2006-08-17T13:23:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode124authoritiessubjectssh87004982 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

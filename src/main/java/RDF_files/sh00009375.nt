@@ -1,0 +1,89 @@
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geomatic files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00009375 . 
+_:bnode7authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00009375 . 
+_:bnode7authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geomatic files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh00009375 . 
+_:bnode11authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Geomatic data sets"@en . 
+_:bnode11authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh00009375 . 
+_:bnode16authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh00009375 . 
+_:bnode16authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geomatic data sets"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002006538> . 
+<http://id.loc.gov/authorities/subjects/sh2002006538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006538> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging of geomatic files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85079331> . 
+<http://id.loc.gov/authorities/subjects/sh85079331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85079331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Computer files"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079331> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh00009375 . 
+_:bnode29authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh00009375 . 
+_:bnode29authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#elementValue> "Computer files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00009375" . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00009375> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00009375#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh00009375 . 
+_:bnode41authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Canadian General Standards Board. Geomatic data sets cataloguing rules, 1994:" . 
+_:bnode41authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"The rules have been taken ... from AACR2R Chapters 1 (General), 9 (Computer files) and 3 (Cartographic Materials)\") p. 3 (\"These rules cover the description of geomatic files, representing the whole or part of the earth or any celestial body, that are encoded for manipulation by computer.\")"@en . 
+_:bnode41authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh00009375 . 
+_:bnode49authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-source> "Liber (Ligue des Bibliothèques Europèennes de Recherche, Groupe des Cartothécaires de LIBER) website" . 
+_:bnode49authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"Smits, J. Describing Geomatic Data Sets with ISBD and UNIMARC : Problems and possible solutions\")"@en . 
+_:bnode49authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh00009375 . 
+_:bnode57authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-source> "PCI Geomatics Website, Oct. 18, 2000" . 
+_:bnode57authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-note> "(... Geomatics technology that allows programs to uniformly access data in many geomatic file formats ...)"@en . 
+_:bnode57authoritiessubjectssh00009375 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh00009375 . 
+_:bnode65authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-10-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/caae> . 
+_:bnode65authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh00009375 . 
+_:bnode73authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-12-01T10:39:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/caae> . 
+_:bnode73authoritiessubjectssh00009375 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geomatic files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode84authoritiessubjectssh00009375 . 
+_:bnode84authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode84authoritiessubjectssh00009375 <http://www.w3.org/2008/05/skos-xl#literalForm> "Geomatic data sets"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#altLabel> "Geomatic data sets" . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85079331> . 
+<http://id.loc.gov/authorities/subjects/sh85079331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002006538> . 
+<http://id.loc.gov/authorities/subjects/sh2002006538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002006538> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloging of geomatic files"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2008/05/skos-xl#altLabel> "Geomatic data sets"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode104authoritiessubjectssh00009375 . 
+_:bnode104authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode104authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00009375> . 
+_:bnode104authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/caae> . 
+_:bnode104authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#createdDate> "2000-10-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode104authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00009375> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode112authoritiessubjectssh00009375 . 
+_:bnode112authoritiessubjectssh00009375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode112authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00009375> . 
+_:bnode112authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/caae> . 
+_:bnode112authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#createdDate> "2000-12-01T10:39:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode112authoritiessubjectssh00009375 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

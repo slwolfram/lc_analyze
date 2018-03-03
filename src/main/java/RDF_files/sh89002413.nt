@@ -1,0 +1,81 @@
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employees--Effect of technological innovations on"@en . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh89002413 . 
+_:bnode7authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00002753> . 
+_:bnode7authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh89002413 . 
+_:bnode12authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh89002413 . 
+_:bnode12authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh89002413 <http://www.loc.gov/mads/rdf/v1#elementValue> "Employees"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005586> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005586> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Effect of technological innovations on"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005586> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh89002413 . 
+_:bnode20authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh89002413 . 
+_:bnode20authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh89002413 <http://www.loc.gov/mads/rdf/v1#elementValue> "Effect of technological innovations on"@en . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#classification> "HD6331-HD6331.2" . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12272871f> . 
+<http://data.bnf.fr/ark:/12148/cb12272871f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12272871f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Personnel -- Effets des innovations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2001009095> . 
+<http://id.loc.gov/authorities/subjects/sh2001009095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001009095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001009095> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Technological innovations"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009095> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh89002413 . 
+_:bnode35authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh89002413 . 
+_:bnode35authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh89002413 <http://www.loc.gov/mads/rdf/v1#elementValue> "Technological innovations"@en . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Effect of technological innovations on] under occupational groups and types of employees" . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 89002413" . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh89002413> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh89002413#concept> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh89002413 . 
+_:bnode49authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh89002413 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Mikhaĭlov, S.V. Rabochiĭ klass SShA i Velikobritanii v 80-e gody : sot︠s︡ialʹnye posledstvii︠a︡ tekhnologicheskoĭ perestroĭki v uslovii︠a︡kh kapitalizma, 1988." . 
+_:bnode49authoritiessubjectssh89002413 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh89002413 . 
+_:bnode55authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh89002413 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-04-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh89002413 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh89002413 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh89002413 . 
+_:bnode62authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh89002413 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-10-29T13:51:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh89002413 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh89002413 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employees--Effect of technological innovations on"@en . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2001009095> . 
+<http://id.loc.gov/authorities/subjects/sh2001009095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001009095> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technological innovations"@en . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12272871f> . 
+<http://data.bnf.fr/ark:/12148/cb12272871f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12272871f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personnel -- Effets des innovations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Effect of technological innovations on] under occupational groups and types of employees" . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode85authoritiessubjectssh89002413 . 
+_:bnode85authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode85authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89002413> . 
+_:bnode85authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode85authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#createdDate> "1989-04-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh89002413> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh89002413 . 
+_:bnode93authoritiessubjectssh89002413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89002413> . 
+_:bnode93authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode93authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#createdDate> "1992-10-29T13:51:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh89002413 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

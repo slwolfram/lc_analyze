@@ -1,0 +1,585 @@
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85009793 . 
+_:bnode7authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85009793 . 
+_:bnode7authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#elementValue> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85009793 . 
+_:bnode11authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Writers"@en . 
+_:bnode11authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85009793 . 
+_:bnode16authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85009793 . 
+_:bnode16authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#elementValue> "Writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008300> . 
+<http://id.loc.gov/authorities/subjects/sh85008300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008300> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Artists as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002149> . 
+<http://id.loc.gov/authorities/subjects/sh85002149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133631> . 
+<http://id.loc.gov/authorities/subjects/sh85133631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133631> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85058174> . 
+<http://id.loc.gov/authorities/subjects/sh85058174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058174> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hack writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101639> . 
+<http://id.loc.gov/authorities/subjects/sh85101639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101639> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physicians as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005001033> . 
+<http://id.loc.gov/authorities/subjects/sh2005001033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005001033> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fathers of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2014000939> . 
+<http://id.loc.gov/authorities/subjects/sh2014000939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014000939> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indigenous authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017002938> . 
+<http://id.loc.gov/authorities/subjects/sh2017002938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017002938> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inuit authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89000815> . 
+<http://id.loc.gov/authorities/subjects/sh89000815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89000815> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Male authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89004758> . 
+<http://id.loc.gov/authorities/subjects/sh89004758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Speechwriters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009944> . 
+<http://id.loc.gov/authorities/subjects/sh85009944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009944> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Working class authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94007998> . 
+<http://id.loc.gov/authorities/subjects/sh94007998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94007998> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Erotic literature writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97004178> . 
+<http://id.loc.gov/authorities/subjects/sh97004178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97004178> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wine writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95004035> . 
+<http://id.loc.gov/authorities/subjects/sh95004035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95004035> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Athletes as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99000764> . 
+<http://id.loc.gov/authorities/subjects/sh99000764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99000764> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mothers of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021041> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085843> . 
+<http://id.loc.gov/authorities/subjects/sh85085843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085843> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Minority authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070257> . 
+<http://id.loc.gov/authorities/subjects/sh85070257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070257> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017004484> . 
+<http://id.loc.gov/authorities/subjects/sh2017004484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017004484> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Composers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005416> . 
+<http://id.loc.gov/authorities/subjects/sh85005416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005416> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anonyms and pseudonyms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147456> . 
+<http://id.loc.gov/authorities/subjects/sh85147456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147456> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008005218> . 
+<http://id.loc.gov/authorities/subjects/sh2008005218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008005218> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Technology writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4003982-1> . 
+<http://d-nb.info/gnd/4003982-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4003982-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Autor"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010013075> . 
+<http://id.loc.gov/authorities/subjects/sh2010013075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013075> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023524> . 
+<http://id.loc.gov/authorities/subjects/sh85023524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023524> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Child authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004000576> . 
+<http://id.loc.gov/authorities/subjects/sh2004000576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004000576> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Travel writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99014708> . 
+<http://id.loc.gov/authorities/subjects/sh99014708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99014708> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lesbian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092863> . 
+<http://id.loc.gov/authorities/subjects/sh85092863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092863> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Novelists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000613> . 
+<http://id.loc.gov/authorities/subjects/sh98000613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000613> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Academic librarians as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012000058> . 
+<http://id.loc.gov/authorities/subjects/sh2012000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012000058> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fable writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11936327s> . 
+<http://data.bnf.fr/ark:/12148/cb11936327s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11936327s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Écrivains"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012003353> . 
+<http://id.loc.gov/authorities/subjects/sh2012003353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012003353> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028392> . 
+<http://id.loc.gov/authorities/subjects/sh85028392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028392> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "College teachers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110591> . 
+<http://id.loc.gov/authorities/subjects/sh85110591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120105> . 
+<http://id.loc.gov/authorities/subjects/sh85120105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120105> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sephardic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007009375> . 
+<http://id.loc.gov/authorities/subjects/sh2007009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007009375> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "High school teachers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85014117> . 
+<http://id.loc.gov/authorities/subjects/sh85014117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014117> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bio-bibliography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014117> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode169authoritiessubjectssh85009793 . 
+_:bnode169authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode170authoritiessubjectssh85009793 . 
+_:bnode169authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode170authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode170authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bio-bibliography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93000599> . 
+<http://id.loc.gov/authorities/subjects/sh93000599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93000599> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070788> . 
+<http://id.loc.gov/authorities/subjects/sh85070788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070788> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Journalists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98006211> . 
+<http://id.loc.gov/authorities/subjects/sh98006211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98006211> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bilingual authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111838> . 
+<http://id.loc.gov/authorities/subjects/sh85111838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111838> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recluses as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008006944> . 
+<http://id.loc.gov/authorities/subjects/sh2008006944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008006944> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coptic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014666> . 
+<http://id.loc.gov/authorities/subjects/sh85014666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014666> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blacklisting of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062203> . 
+<http://id.loc.gov/authorities/subjects/sh85062203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062203> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Horticultural writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103733> . 
+<http://id.loc.gov/authorities/subjects/sh85103733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103733> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005131> . 
+<http://id.loc.gov/authorities/subjects/sh91005131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005131> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Science writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124582> . 
+<http://id.loc.gov/authorities/subjects/sh85124582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124582> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soldiers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127544> . 
+<http://id.loc.gov/authorities/subjects/sh85127544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127544> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Statesmen as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016000243> . 
+<http://id.loc.gov/authorities/subjects/sh2016000243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016000243> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bloggers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003000287> . 
+<http://id.loc.gov/authorities/subjects/sh2003000287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003000287> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish Christian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017004241> . 
+<http://id.loc.gov/authorities/subjects/sh2017004241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017004241> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dictators as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4053309-8> . 
+<http://d-nb.info/gnd/4053309-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4053309-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schriftsteller"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85026977> . 
+<http://id.loc.gov/authorities/subjects/sh85026977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85026977> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clergy as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003005955> . 
+<http://id.loc.gov/authorities/subjects/sh2003005955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003005955> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gay authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85118942> . 
+<http://id.loc.gov/authorities/subjects/sh85118942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118942> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Screenwriters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010012337> . 
+<http://id.loc.gov/authorities/subjects/sh2010012337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010012337> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Actresses as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012002003> . 
+<http://id.loc.gov/authorities/subjects/sh2012002003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012002003> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Caliphs as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85077672> . 
+<http://id.loc.gov/authorities/subjects/sh85077672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85077672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077672> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Litterateurs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077672> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode258authoritiessubjectssh85009793 . 
+_:bnode258authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode259authoritiessubjectssh85009793 . 
+_:bnode258authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode259authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode259authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#elementValue> "Litterateurs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014148> . 
+<http://id.loc.gov/authorities/subjects/sh85014148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014148> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biographers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85032434> . 
+<http://id.loc.gov/authorities/subjects/sh85032434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Copy writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097291> . 
+<http://id.loc.gov/authorities/subjects/sh85097291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097291> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pamphleteers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133003> . 
+<http://id.loc.gov/authorities/subjects/sh85133003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133003> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teachers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87002723> . 
+<http://id.loc.gov/authorities/subjects/sh87002723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87002723> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Food writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003009913> . 
+<http://id.loc.gov/authorities/subjects/sh2003009913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003009913> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Expatriate authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006760> . 
+<http://id.loc.gov/authorities/subjects/sh93006760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006760> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ghostwriters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99010412> . 
+<http://id.loc.gov/authorities/subjects/sh99010412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99010412> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Protestant authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85089043> . 
+<http://id.loc.gov/authorities/subjects/sh85089043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85089043> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musicians as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039342> . 
+<http://id.loc.gov/authorities/subjects/sh85039342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039342> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dramatists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075375> . 
+<http://id.loc.gov/authorities/subjects/sh85075375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075375> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lawyers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003009038> . 
+<http://id.loc.gov/authorities/subjects/sh2003009038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003009038> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Diarists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009826> . 
+<http://id.loc.gov/authorities/subjects/sh85009826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009826> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blind authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85108423> . 
+<http://id.loc.gov/authorities/subjects/sh85108423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108423> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychoanalysts as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009924> . 
+<http://id.loc.gov/authorities/subjects/sh85009924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009924> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099066> . 
+<http://id.loc.gov/authorities/subjects/sh85099066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099066> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Peasants as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94003169> . 
+<http://id.loc.gov/authorities/subjects/sh94003169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94003169> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Outdoor writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006208> . 
+<http://id.loc.gov/authorities/subjects/sh93006208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006208> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aerospace writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004005251> . 
+<http://id.loc.gov/authorities/subjects/sh2004005251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004005251> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychotherapists as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017003919> . 
+<http://id.loc.gov/authorities/subjects/sh2017003919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017003919> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Libraries and authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036067> . 
+<http://id.loc.gov/authorities/subjects/sh85036067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036067> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deaf authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070258> . 
+<http://id.loc.gov/authorities/subjects/sh85070258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mizrahi authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005342> . 
+<http://id.loc.gov/authorities/subjects/sh98005342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005342> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Financial writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106968> . 
+<http://id.loc.gov/authorities/subjects/sh85106968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106968> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prisoners as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015000490> . 
+<http://id.loc.gov/authorities/subjects/sh2015000490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015000490> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nature writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005508> . 
+<http://id.loc.gov/authorities/subjects/sh98005508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005508> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Essayists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85077507> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode371authoritiessubjectssh85009793 . 
+_:bnode371authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode372authoritiessubjectssh85009793 . 
+_:bnode371authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode372authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode372authoritiessubjectssh85009793 <http://www.loc.gov/mads/rdf/v1#elementValue> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/776> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Bio-bibliography] under special subjects, and under names of countries, cities, etc." . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85009793" . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85009793> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85009793#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode385authoritiessubjectssh85009793 . 
+_:bnode385authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode385authoritiessubjectssh85009793 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode385authoritiessubjectssh85009793 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode385authoritiessubjectssh85009793 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode392authoritiessubjectssh85009793 . 
+_:bnode392authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode392authoritiessubjectssh85009793 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-01-10T07:54:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode392authoritiessubjectssh85009793 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode392authoritiessubjectssh85009793 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode402authoritiessubjectssh85009793 . 
+_:bnode402authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode402authoritiessubjectssh85009793 <http://www.w3.org/2008/05/skos-xl#literalForm> "Writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#altLabel> "Writers" . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85077672> . 
+<http://id.loc.gov/authorities/subjects/sh85077672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Litterateurs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008300> . 
+<http://id.loc.gov/authorities/subjects/sh85008300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artists as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002149> . 
+<http://id.loc.gov/authorities/subjects/sh85002149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133631> . 
+<http://id.loc.gov/authorities/subjects/sh85133631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85058174> . 
+<http://id.loc.gov/authorities/subjects/sh85058174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hack writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101639> . 
+<http://id.loc.gov/authorities/subjects/sh85101639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Physicians as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005001033> . 
+<http://id.loc.gov/authorities/subjects/sh2005001033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005001033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fathers of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2014000939> . 
+<http://id.loc.gov/authorities/subjects/sh2014000939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014000939> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indigenous authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017002938> . 
+<http://id.loc.gov/authorities/subjects/sh2017002938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017002938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inuit authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89000815> . 
+<http://id.loc.gov/authorities/subjects/sh89000815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89000815> <http://www.w3.org/2004/02/skos/core#prefLabel> "Male authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89004758> . 
+<http://id.loc.gov/authorities/subjects/sh89004758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speechwriters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009944> . 
+<http://id.loc.gov/authorities/subjects/sh85009944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009944> <http://www.w3.org/2004/02/skos/core#prefLabel> "Working class authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94007998> . 
+<http://id.loc.gov/authorities/subjects/sh94007998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94007998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Erotic literature writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97004178> . 
+<http://id.loc.gov/authorities/subjects/sh97004178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97004178> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wine writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95004035> . 
+<http://id.loc.gov/authorities/subjects/sh95004035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95004035> <http://www.w3.org/2004/02/skos/core#prefLabel> "Athletes as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99000764> . 
+<http://id.loc.gov/authorities/subjects/sh99000764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99000764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mothers of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021041> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catholic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085843> . 
+<http://id.loc.gov/authorities/subjects/sh85085843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minority authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070257> . 
+<http://id.loc.gov/authorities/subjects/sh85070257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017004484> . 
+<http://id.loc.gov/authorities/subjects/sh2017004484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017004484> <http://www.w3.org/2004/02/skos/core#prefLabel> "Composers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005416> . 
+<http://id.loc.gov/authorities/subjects/sh85005416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005416> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anonyms and pseudonyms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147456> . 
+<http://id.loc.gov/authorities/subjects/sh85147456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147456> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008005218> . 
+<http://id.loc.gov/authorities/subjects/sh2008005218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008005218> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technology writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010013075> . 
+<http://id.loc.gov/authorities/subjects/sh2010013075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010013075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023524> . 
+<http://id.loc.gov/authorities/subjects/sh85023524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023524> <http://www.w3.org/2004/02/skos/core#prefLabel> "Child authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004000576> . 
+<http://id.loc.gov/authorities/subjects/sh2004000576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004000576> <http://www.w3.org/2004/02/skos/core#prefLabel> "Travel writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99014708> . 
+<http://id.loc.gov/authorities/subjects/sh99014708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99014708> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lesbian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092863> . 
+<http://id.loc.gov/authorities/subjects/sh85092863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092863> <http://www.w3.org/2004/02/skos/core#prefLabel> "Novelists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000613> . 
+<http://id.loc.gov/authorities/subjects/sh98000613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000613> <http://www.w3.org/2004/02/skos/core#prefLabel> "Academic librarians as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012000058> . 
+<http://id.loc.gov/authorities/subjects/sh2012000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012000058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fable writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012003353> . 
+<http://id.loc.gov/authorities/subjects/sh2012003353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012003353> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheran authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028392> . 
+<http://id.loc.gov/authorities/subjects/sh85028392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028392> <http://www.w3.org/2004/02/skos/core#prefLabel> "College teachers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110591> . 
+<http://id.loc.gov/authorities/subjects/sh85110591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120105> . 
+<http://id.loc.gov/authorities/subjects/sh85120105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sephardic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007009375> . 
+<http://id.loc.gov/authorities/subjects/sh2007009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007009375> <http://www.w3.org/2004/02/skos/core#prefLabel> "High school teachers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93000599> . 
+<http://id.loc.gov/authorities/subjects/sh93000599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93000599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070788> . 
+<http://id.loc.gov/authorities/subjects/sh85070788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070788> <http://www.w3.org/2004/02/skos/core#prefLabel> "Journalists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98006211> . 
+<http://id.loc.gov/authorities/subjects/sh98006211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98006211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilingual authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111838> . 
+<http://id.loc.gov/authorities/subjects/sh85111838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111838> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recluses as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008006944> . 
+<http://id.loc.gov/authorities/subjects/sh2008006944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008006944> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coptic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014666> . 
+<http://id.loc.gov/authorities/subjects/sh85014666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014666> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blacklisting of authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062203> . 
+<http://id.loc.gov/authorities/subjects/sh85062203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horticultural writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103733> . 
+<http://id.loc.gov/authorities/subjects/sh85103733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103733> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005131> . 
+<http://id.loc.gov/authorities/subjects/sh91005131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005131> <http://www.w3.org/2004/02/skos/core#prefLabel> "Science writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124582> . 
+<http://id.loc.gov/authorities/subjects/sh85124582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124582> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soldiers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127544> . 
+<http://id.loc.gov/authorities/subjects/sh85127544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127544> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statesmen as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016000243> . 
+<http://id.loc.gov/authorities/subjects/sh2016000243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016000243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bloggers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003000287> . 
+<http://id.loc.gov/authorities/subjects/sh2003000287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003000287> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish Christian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017004241> . 
+<http://id.loc.gov/authorities/subjects/sh2017004241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017004241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dictators as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85026977> . 
+<http://id.loc.gov/authorities/subjects/sh85026977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85026977> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clergy as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003005955> . 
+<http://id.loc.gov/authorities/subjects/sh2003005955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003005955> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gay authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85118942> . 
+<http://id.loc.gov/authorities/subjects/sh85118942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118942> <http://www.w3.org/2004/02/skos/core#prefLabel> "Screenwriters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010012337> . 
+<http://id.loc.gov/authorities/subjects/sh2010012337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010012337> <http://www.w3.org/2004/02/skos/core#prefLabel> "Actresses as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012002003> . 
+<http://id.loc.gov/authorities/subjects/sh2012002003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012002003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caliphs as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014148> . 
+<http://id.loc.gov/authorities/subjects/sh85014148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014148> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biographers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85032434> . 
+<http://id.loc.gov/authorities/subjects/sh85032434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Copy writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097291> . 
+<http://id.loc.gov/authorities/subjects/sh85097291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pamphleteers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133003> . 
+<http://id.loc.gov/authorities/subjects/sh85133003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133003> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teachers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87002723> . 
+<http://id.loc.gov/authorities/subjects/sh87002723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87002723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Food writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003009913> . 
+<http://id.loc.gov/authorities/subjects/sh2003009913> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003009913> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expatriate authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006760> . 
+<http://id.loc.gov/authorities/subjects/sh93006760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006760> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ghostwriters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99010412> . 
+<http://id.loc.gov/authorities/subjects/sh99010412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99010412> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protestant authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85089043> . 
+<http://id.loc.gov/authorities/subjects/sh85089043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85089043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musicians as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039342> . 
+<http://id.loc.gov/authorities/subjects/sh85039342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dramatists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075375> . 
+<http://id.loc.gov/authorities/subjects/sh85075375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lawyers as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003009038> . 
+<http://id.loc.gov/authorities/subjects/sh2003009038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003009038> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diarists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009826> . 
+<http://id.loc.gov/authorities/subjects/sh85009826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blind authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85108423> . 
+<http://id.loc.gov/authorities/subjects/sh85108423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychoanalysts as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009924> . 
+<http://id.loc.gov/authorities/subjects/sh85009924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indian authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099066> . 
+<http://id.loc.gov/authorities/subjects/sh85099066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099066> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peasants as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94003169> . 
+<http://id.loc.gov/authorities/subjects/sh94003169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94003169> <http://www.w3.org/2004/02/skos/core#prefLabel> "Outdoor writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006208> . 
+<http://id.loc.gov/authorities/subjects/sh93006208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006208> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aerospace writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004005251> . 
+<http://id.loc.gov/authorities/subjects/sh2004005251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004005251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychotherapists as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017003919> . 
+<http://id.loc.gov/authorities/subjects/sh2017003919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017003919> <http://www.w3.org/2004/02/skos/core#prefLabel> "Libraries and authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036067> . 
+<http://id.loc.gov/authorities/subjects/sh85036067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deaf authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070258> . 
+<http://id.loc.gov/authorities/subjects/sh85070258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mizrahi authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005342> . 
+<http://id.loc.gov/authorities/subjects/sh98005342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Financial writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106968> . 
+<http://id.loc.gov/authorities/subjects/sh85106968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106968> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prisoners as authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015000490> . 
+<http://id.loc.gov/authorities/subjects/sh2015000490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015000490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nature writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005508> . 
+<http://id.loc.gov/authorities/subjects/sh98005508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005508> <http://www.w3.org/2004/02/skos/core#prefLabel> "Essayists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85014117> . 
+<http://id.loc.gov/authorities/subjects/sh85014117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014117> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bio-bibliography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85077507> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/776> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4003982-1> . 
+<http://d-nb.info/gnd/4003982-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4003982-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autor"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11936327s> . 
+<http://data.bnf.fr/ark:/12148/cb11936327s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11936327s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Écrivains"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4053309-8> . 
+<http://d-nb.info/gnd/4053309-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4053309-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schriftsteller"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Bio-bibliography] under special subjects, and under names of countries, cities, etc." . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2008/05/skos-xl#altLabel> "Writers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode840authoritiessubjectssh85009793 . 
+_:bnode840authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode840authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85009793> . 
+_:bnode840authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode840authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode840authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode848authoritiessubjectssh85009793 . 
+_:bnode848authoritiessubjectssh85009793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode848authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85009793> . 
+_:bnode848authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode848authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#createdDate> "2007-01-10T07:54:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode848authoritiessubjectssh85009793 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

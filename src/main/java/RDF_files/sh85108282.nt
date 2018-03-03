@@ -1,0 +1,93 @@
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pseudomonas infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85108282 . 
+_:bnode7authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85108282 . 
+_:bnode7authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pseudomonas infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#classification> "RC116.P7" . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010843> . 
+<http://id.loc.gov/authorities/subjects/sh85010843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010843> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bacterial diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010843> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh85108282 . 
+_:bnode18authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh85108282 . 
+_:bnode18authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bacterial diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055089> . 
+<http://id.loc.gov/authorities/subjects/sh85055089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055089> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Glanders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode26authoritiessubjectssh85108282 . 
+_:bnode26authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode26authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode26authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Pseudomonas diseases"@en . 
+_:bnode26authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85108282 . 
+_:bnode31authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85108282 . 
+_:bnode31authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pseudomonas diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11946846n> . 
+<http://data.bnf.fr/ark:/12148/cb11946846n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11946846n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Infections à Pseudomonas"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89004343> . 
+<http://id.loc.gov/authorities/subjects/sh89004343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004343> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pseudomonas aeruginosa infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85108282" . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85108282> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85108282#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh85108282 . 
+_:bnode51authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Basic research and clinical aspects of Pseudomonas aeruginosa infection 1988, 1989." . 
+_:bnode51authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh85108282 . 
+_:bnode57authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH" . 
+_:bnode57authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Pseudomonas infections)"@en . 
+_:bnode57authoritiessubjectssh85108282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh85108282 . 
+_:bnode65authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh85108282 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh85108282 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh85108282 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85108282 . 
+_:bnode72authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85108282 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-08-29T12:26:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85108282 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85108282 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pseudomonas infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010843> . 
+<http://id.loc.gov/authorities/subjects/sh85010843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010843> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterial diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055089> . 
+<http://id.loc.gov/authorities/subjects/sh85055089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glanders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89004343> . 
+<http://id.loc.gov/authorities/subjects/sh89004343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pseudomonas aeruginosa infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode97authoritiessubjectssh85108282 . 
+_:bnode97authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode97authoritiessubjectssh85108282 <http://www.w3.org/2008/05/skos-xl#literalForm> "Pseudomonas diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#altLabel> "Pseudomonas diseases" . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11946846n> . 
+<http://data.bnf.fr/ark:/12148/cb11946846n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11946846n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infections à Pseudomonas"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode110authoritiessubjectssh85108282 . 
+_:bnode110authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode110authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85108282> . 
+_:bnode110authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode110authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode110authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85108282> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode118authoritiessubjectssh85108282 . 
+_:bnode118authoritiessubjectssh85108282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode118authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85108282> . 
+_:bnode118authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode118authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#createdDate> "1989-08-29T12:26:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode118authoritiessubjectssh85108282 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

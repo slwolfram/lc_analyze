@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Endemic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh92004399 . 
+_:bnode7authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh92004399 . 
+_:bnode7authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh92004399 <http://www.loc.gov/mads/rdf/v1#elementValue> "Endemic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016001564> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Native fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007010954> . 
+<http://id.loc.gov/authorities/subjects/sh2007010954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007010954> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Endemic birds"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4378840-3> . 
+<http://d-nb.info/gnd/4378840-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4378840-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Endemische Tiere"@de . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96004766> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animals"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh92004399 . 
+_:bnode28authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh92004399 . 
+_:bnode28authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh92004399 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12369709d> . 
+<http://data.bnf.fr/ark:/12148/cb12369709d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12369709d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animaux endémiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 92004399" . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh92004399> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh92004399#concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode44authoritiessubjectssh92004399 . 
+_:bnode44authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode44authoritiessubjectssh92004399 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 85-121658: Wetherbee, D.K. Zoological exploration of [name of country] for endemic species, c1985-c1986." . 
+_:bnode44authoritiessubjectssh92004399 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh92004399 . 
+_:bnode50authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh92004399 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-08-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh92004399 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh92004399 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh92004399 . 
+_:bnode57authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh92004399 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-09-24T16:55:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh92004399 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh92004399 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endemic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96004766> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016001564> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016001564> <http://www.w3.org/2004/02/skos/core#prefLabel> "Native fishes"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007010954> . 
+<http://id.loc.gov/authorities/subjects/sh2007010954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007010954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endemic birds"@en . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4378840-3> . 
+<http://d-nb.info/gnd/4378840-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4378840-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endemische Tiere"@de . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12369709d> . 
+<http://data.bnf.fr/ark:/12148/cb12369709d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12369709d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animaux endémiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh92004399 . 
+_:bnode93authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh92004399> . 
+_:bnode93authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode93authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#createdDate> "1992-08-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh92004399> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode101authoritiessubjectssh92004399 . 
+_:bnode101authoritiessubjectssh92004399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode101authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh92004399> . 
+_:bnode101authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode101authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#createdDate> "1992-09-24T16:55:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh92004399 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

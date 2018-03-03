@@ -1,0 +1,62 @@
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "East Asian business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00005096 . 
+_:bnode7authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00005096 . 
+_:bnode7authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00005096 <http://www.loc.gov/mads/rdf/v1#elementValue> "East Asian business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85018285> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh00005096 . 
+_:bnode16authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh00005096 . 
+_:bnode16authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh00005096 <http://www.loc.gov/mads/rdf/v1#elementValue> "Business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on business enterprises outside of East Asia owned by East Asians. Works on business enterprises in East Asia are entered under [Business enterprises--East Asia.]" . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Business enterprises--East Asia]" . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00005096" . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00005096> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00005096#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh00005096 . 
+_:bnode32authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh00005096 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: British Orientals 168 directory, 1999." . 
+_:bnode32authoritiessubjectssh00005096 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode38authoritiessubjectssh00005096 . 
+_:bnode38authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode38authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-04-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode38authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode38authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode38authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode46authoritiessubjectssh00005096 . 
+_:bnode46authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode46authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-05-26T10:08:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode46authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode46authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode46authoritiessubjectssh00005096 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#prefLabel> "East Asian business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85018285> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018285> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business enterprises"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on business enterprises outside of East Asia owned by East Asians. Works on business enterprises in East Asia are entered under [Business enterprises--East Asia.]" . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#example> "Note under [Business enterprises--East Asia]" . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode67authoritiessubjectssh00005096 . 
+_:bnode67authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode67authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00005096> . 
+_:bnode67authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode67authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#createdDate> "2000-04-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00005096> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode75authoritiessubjectssh00005096 . 
+_:bnode75authoritiessubjectssh00005096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode75authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00005096> . 
+_:bnode75authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode75authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#createdDate> "2000-05-26T10:08:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh00005096 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

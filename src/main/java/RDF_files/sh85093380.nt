@@ -1,0 +1,87 @@
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nursing--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85093380 . 
+_:bnode7authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85093362> . 
+_:bnode7authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85093362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85093362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093362> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nursing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093362> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85093380 . 
+_:bnode12authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85093380 . 
+_:bnode12authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85093380 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nursing"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2001008697> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85093380 . 
+_:bnode20authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85093380 . 
+_:bnode20authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85093380 <http://www.loc.gov/mads/rdf/v1#elementValue> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#classification> "RT71-RT81" . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933289b> . 
+<http://data.bnf.fr/ark:/12148/cb11933289b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933289b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soins infirmiers -- Étude et enseignement"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133563> . 
+<http://id.loc.gov/authorities/subjects/sh85133563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133563> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television in nursing education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093351> . 
+<http://id.loc.gov/authorities/subjects/sh85093351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093351> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nurses--In-service training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082916> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85093380 . 
+_:bnode43authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85093380 . 
+_:bnode43authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85093380 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85093380" . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85093380> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85093380#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh85093380 . 
+_:bnode55authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh85093380 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh85093380 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh85093380 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh85093380 . 
+_:bnode62authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh85093380 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-04-13T10:29:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85093380 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh85093380 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nursing--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082916> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133563> . 
+<http://id.loc.gov/authorities/subjects/sh85133563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133563> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television in nursing education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093351> . 
+<http://id.loc.gov/authorities/subjects/sh85093351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nurses--In-service training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933289b> . 
+<http://data.bnf.fr/ark:/12148/cb11933289b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933289b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soins infirmiers -- Étude et enseignement"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh85093380 . 
+_:bnode93authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093380> . 
+_:bnode93authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode93authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85093380> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode101authoritiessubjectssh85093380 . 
+_:bnode101authoritiessubjectssh85093380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode101authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093380> . 
+_:bnode101authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode101authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#createdDate> "1988-04-13T10:29:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh85093380 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,103 @@
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00002753 . 
+_:bnode7authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00002753 . 
+_:bnode7authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh00002753 . 
+_:bnode11authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Relations with employees"@en . 
+_:bnode11authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh00002753 . 
+_:bnode16authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh00002753 . 
+_:bnode16authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Relations with employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh00002753 . 
+_:bnode20authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Servants"@en . 
+_:bnode20authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh00002753 . 
+_:bnode25authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh00002753 . 
+_:bnode25authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh00002753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Servants"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006001286> . 
+<http://id.loc.gov/authorities/subjects/sh2006001286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006001286> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Professional staff"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/36911> . 
+<http://lod.nal.usda.gov/nalt/36911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/36911> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "human resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119757771> . 
+<http://data.bnf.fr/ark:/12148/cb119757771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119757771> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Personnel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1095> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1105> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1110> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1151> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1151.5> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1153> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1187> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#editorialNote> "[Further subdivide by subdivisions used under classes of persons.]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under types of industries, services, establishments, etc.  Also use under names of individual persons for works on persons employed by the individual, including household servants, etc.  Also use under names of individual educational institutions and non governmental corporate bodies.  Under names of individual international, government, and quasi-governmental agencies, use [Officials and employees.]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under the subdivision [--Officials and employees]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Reference under the heading [Employees]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00002753" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00002753> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00002753#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh00002753 . 
+_:bnode64authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-03-08T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode64authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh00002753 . 
+_:bnode72authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-02-16T14:33:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode72authoritiessubjectssh00002753 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode83authoritiessubjectssh00002753 . 
+_:bnode83authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode83authoritiessubjectssh00002753 <http://www.w3.org/2008/05/skos-xl#literalForm> "Relations with employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#altLabel> "Relations with employees" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode90authoritiessubjectssh00002753 . 
+_:bnode90authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode90authoritiessubjectssh00002753 <http://www.w3.org/2008/05/skos-xl#literalForm> "Servants"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#altLabel> "Servants" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006001286> . 
+<http://id.loc.gov/authorities/subjects/sh2006001286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006001286> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professional staff"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/36911> . 
+<http://lod.nal.usda.gov/nalt/36911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/36911> <http://www.w3.org/2004/02/skos/core#prefLabel> "human resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119757771> . 
+<http://data.bnf.fr/ark:/12148/cb119757771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119757771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personnel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under types of industries, services, establishments, etc. Also use under names of individual persons for works on persons employed by the individual, including household servants, etc. Also use under names of individual educational institutions and non governmental corporate bodies. Under names of individual international, government, and quasi-governmental agencies, use [Officials and employees.]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#editorial> "[Further subdivide by subdivisions used under classes of persons.]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#example> "Note under the subdivision [--Officials and employees]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#example> "Reference under the heading [Employees]" . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2008/05/skos-xl#altLabel> "Relations with employees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2008/05/skos-xl#altLabel> "Servants"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode125authoritiessubjectssh00002753 . 
+_:bnode125authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode125authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00002753> . 
+_:bnode125authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode125authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#createdDate> "2000-03-08T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode125authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00002753> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode133authoritiessubjectssh00002753 . 
+_:bnode133authoritiessubjectssh00002753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode133authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00002753> . 
+_:bnode133authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode133authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#createdDate> "2006-02-16T14:33:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode133authoritiessubjectssh00002753 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

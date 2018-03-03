@@ -1,0 +1,73 @@
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "On-demand publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh94007924 . 
+_:bnode7authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh94007924 . 
+_:bnode7authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#elementValue> "On-demand publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94007925> . 
+<http://id.loc.gov/authorities/subjects/sh94007925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94007925> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "On-demand reprints (Publications)"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2004003366> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh94007924 . 
+_:bnode20authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh94007924 . 
+_:bnode20authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#elementValue> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 94007924" . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh94007924> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh94007924#concept> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh94007924 . 
+_:bnode32authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-source> "MAG2 Oct. 17, 1994" . 
+_:bnode32authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-note> "(on-demand printing)"@en . 
+_:bnode32authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh94007924 . 
+_:bnode40authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-source> "ALA glossary, 1983" . 
+_:bnode40authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-note> "(on-demand publishing, manufacture of single copies of printed publications in response to specific orders)"@en . 
+_:bnode40authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh94007924 . 
+_:bnode48authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-source> "Bookman's glossary, 1983" . 
+_:bnode48authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-note> "(on-demand book, on-demand printing single copy when the customer wants to buy; new technology developing rapidly, would eliminate major inventory problems)"@en . 
+_:bnode48authoritiessubjectssh94007924 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh94007924 . 
+_:bnode56authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh94007924 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh94007924 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh94007924 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh94007924 . 
+_:bnode63authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh94007924 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-05-27T14:16:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh94007924 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh94007924 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2004/02/skos/core#prefLabel> "On-demand publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2004003366> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94007925> . 
+<http://id.loc.gov/authorities/subjects/sh94007925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94007925> <http://www.w3.org/2004/02/skos/core#prefLabel> "On-demand reprints (Publications)"@en . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode84authoritiessubjectssh94007924 . 
+_:bnode84authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode84authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94007924> . 
+_:bnode84authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode84authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh94007924> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode92authoritiessubjectssh94007924 . 
+_:bnode92authoritiessubjectssh94007924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode92authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94007924> . 
+_:bnode92authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode92authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#createdDate> "2004-05-27T14:16:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh94007924 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

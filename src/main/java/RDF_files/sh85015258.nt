@@ -1,0 +1,122 @@
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Body temperature--Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85015258 . 
+_:bnode7authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85015255> . 
+_:bnode7authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85015255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015255> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Body temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015255> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85015258 . 
+_:bnode12authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85015258 . 
+_:bnode12authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementValue> "Body temperature"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002007662> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85015258 . 
+_:bnode20authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85015258 . 
+_:bnode20authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85015258 . 
+_:bnode24authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Regulation of body temperature"@en . 
+_:bnode24authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85015258 . 
+_:bnode29authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85015258 . 
+_:bnode29authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regulation of body temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85015258 . 
+_:bnode33authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Temperature adaptation"@en . 
+_:bnode33authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85015258 . 
+_:bnode38authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85015258 . 
+_:bnode38authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementValue> "Temperature adaptation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode42authoritiessubjectssh85015258 . 
+_:bnode42authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode42authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode42authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Thermoregulation"@en . 
+_:bnode42authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85015258 . 
+_:bnode47authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85015258 . 
+_:bnode47authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementValue> "Thermoregulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119374159> . 
+<http://data.bnf.fr/ark:/12148/cb119374159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119374159> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thermorégulation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014173> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85015258 . 
+_:bnode60authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85015258 . 
+_:bnode60authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85015258 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4117204-8> . 
+<http://d-nb.info/gnd/4117204-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4117204-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thermoregulation"@de . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4203247-7> . 
+<http://d-nb.info/gnd/4203247-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4203247-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Temperaturanpassung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/18368> . 
+<http://lod.nal.usda.gov/nalt/18368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18368> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "thermoregulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85015258" . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85015258> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85015258#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85015258 . 
+_:bnode83authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85015258 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85015258 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85015258 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Body temperature--Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode93authoritiessubjectssh85015258 . 
+_:bnode93authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode93authoritiessubjectssh85015258 <http://www.w3.org/2008/05/skos-xl#literalForm> "Regulation of body temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#altLabel> "Regulation of body temperature" . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode100authoritiessubjectssh85015258 . 
+_:bnode100authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode100authoritiessubjectssh85015258 <http://www.w3.org/2008/05/skos-xl#literalForm> "Temperature adaptation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#altLabel> "Temperature adaptation" . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode107authoritiessubjectssh85015258 . 
+_:bnode107authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode107authoritiessubjectssh85015258 <http://www.w3.org/2008/05/skos-xl#literalForm> "Thermoregulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#altLabel> "Thermoregulation" . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014173> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119374159> . 
+<http://data.bnf.fr/ark:/12148/cb119374159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119374159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thermorégulation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4117204-8> . 
+<http://d-nb.info/gnd/4117204-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4117204-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thermoregulation"@de . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4203247-7> . 
+<http://d-nb.info/gnd/4203247-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4203247-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Temperaturanpassung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/18368> . 
+<http://lod.nal.usda.gov/nalt/18368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18368> <http://www.w3.org/2004/02/skos/core#prefLabel> "thermoregulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2008/05/skos-xl#altLabel> "Regulation of body temperature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2008/05/skos-xl#altLabel> "Temperature adaptation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2008/05/skos-xl#altLabel> "Thermoregulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015258> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode146authoritiessubjectssh85015258 . 
+_:bnode146authoritiessubjectssh85015258 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode146authoritiessubjectssh85015258 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85015258> . 
+_:bnode146authoritiessubjectssh85015258 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode146authoritiessubjectssh85015258 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode146authoritiessubjectssh85015258 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

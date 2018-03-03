@@ -1,0 +1,136 @@
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85061084 . 
+_:bnode7authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85061084 . 
+_:bnode7authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85061084 <http://www.loc.gov/mads/rdf/v1#elementValue> "Histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85061084 . 
+_:bnode11authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85061084 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Microscopic anatomy"@en . 
+_:bnode11authoritiessubjectssh85061084 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85061084 . 
+_:bnode16authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85061084 . 
+_:bnode16authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85061084 <http://www.loc.gov/mads/rdf/v1#elementValue> "Microscopic anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#classification> "QL807" . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#classification> "QM550-QM577.8" . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061077> . 
+<http://id.loc.gov/authorities/subjects/sh85061077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061077> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Histochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035225> . 
+<http://id.loc.gov/authorities/subjects/sh85035225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035225> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cytoarchitectonics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110635> . 
+<http://id.loc.gov/authorities/subjects/sh85110635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110635> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radioactive tracers in histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4025092-1> . 
+<http://d-nb.info/gnd/4025092-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4025092-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Histologie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061086> . 
+<http://id.loc.gov/authorities/subjects/sh85061086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061086> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Histology, Pathological"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85135594> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode49authoritiessubjectssh85061084 . 
+_:bnode49authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode50authoritiessubjectssh85061084 . 
+_:bnode49authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode50authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode50authoritiessubjectssh85061084 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/8594> . 
+<http://lod.nal.usda.gov/nalt/8594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/8594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/3276> . 
+<http://purl.org/bncf/tid/3276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/3276> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Istologia"@it . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061090> . 
+<http://id.loc.gov/authorities/subjects/sh85061090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061090> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historadiography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85143036> . 
+<http://id.loc.gov/authorities/subjects/sh85143036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143036> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Veterinary histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85004835> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode74authoritiessubjectssh85061084 . 
+_:bnode74authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode75authoritiessubjectssh85061084 . 
+_:bnode74authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode75authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode75authoritiessubjectssh85061084 <http://www.loc.gov/mads/rdf/v1#elementValue> "Anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Histology] under individual animals and groups of animals, and under individual organs and regions of the body, e.g. [Fishes--Histology; Heart--Histology]" . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85061084" . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85061084> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85061084#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85061084 . 
+_:bnode88authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85061084 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85061084 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85061084 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh85061084 . 
+_:bnode95authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh85061084 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-07-24T10:30:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85061084 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh85061084 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#prefLabel> "Histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode105authoritiessubjectssh85061084 . 
+_:bnode105authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode105authoritiessubjectssh85061084 <http://www.w3.org/2008/05/skos-xl#literalForm> "Microscopic anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#altLabel> "Microscopic anatomy" . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85004835> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061077> . 
+<http://id.loc.gov/authorities/subjects/sh85061077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061077> <http://www.w3.org/2004/02/skos/core#prefLabel> "Histochemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035225> . 
+<http://id.loc.gov/authorities/subjects/sh85035225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cytoarchitectonics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110635> . 
+<http://id.loc.gov/authorities/subjects/sh85110635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110635> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radioactive tracers in histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061086> . 
+<http://id.loc.gov/authorities/subjects/sh85061086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Histology, Pathological"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061090> . 
+<http://id.loc.gov/authorities/subjects/sh85061090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historadiography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85143036> . 
+<http://id.loc.gov/authorities/subjects/sh85143036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veterinary histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85135594> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tissues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/8594> . 
+<http://lod.nal.usda.gov/nalt/8594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/8594> <http://www.w3.org/2004/02/skos/core#prefLabel> "histology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4025092-1> . 
+<http://d-nb.info/gnd/4025092-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4025092-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Histologie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/3276> . 
+<http://purl.org/bncf/tid/3276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/3276> <http://www.w3.org/2004/02/skos/core#prefLabel> "Istologia"@it . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Histology] under individual animals and groups of animals, and under individual organs and regions of the body, e.g. [Fishes--Histology; Heart--Histology]" . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2008/05/skos-xl#altLabel> "Microscopic anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode172authoritiessubjectssh85061084 . 
+_:bnode172authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode172authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061084> . 
+_:bnode172authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode172authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode172authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85061084> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode180authoritiessubjectssh85061084 . 
+_:bnode180authoritiessubjectssh85061084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode180authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061084> . 
+_:bnode180authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode180authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#createdDate> "1992-07-24T10:30:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode180authoritiessubjectssh85061084 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

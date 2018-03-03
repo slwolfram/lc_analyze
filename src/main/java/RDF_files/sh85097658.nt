@@ -1,0 +1,63 @@
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Papermaking--Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85097658 . 
+_:bnode7authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85097657> . 
+_:bnode7authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85097657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85097657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097657> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Papermaking"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097657> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85097658 . 
+_:bnode12authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85097658 . 
+_:bnode12authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85097658 <http://www.loc.gov/mads/rdf/v1#elementValue> "Papermaking"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85022986> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022986> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85097658 . 
+_:bnode20authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85097658 . 
+_:bnode20authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85097658 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#classification> "TS1120" . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85023029> . 
+<http://id.loc.gov/authorities/subjects/sh85023029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023029> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chemistry, Technical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023029> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85097658 . 
+_:bnode31authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85097658 . 
+_:bnode31authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85097658 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chemistry, Technical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb123437322> . 
+<http://data.bnf.fr/ark:/12148/cb123437322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb123437322> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Papeterie -- Chimie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85097658" . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85097658> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85097658#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode46authoritiessubjectssh85097658 . 
+_:bnode46authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode46authoritiessubjectssh85097658 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode46authoritiessubjectssh85097658 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode46authoritiessubjectssh85097658 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papermaking--Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85023029> . 
+<http://id.loc.gov/authorities/subjects/sh85023029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023029> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chemistry, Technical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb123437322> . 
+<http://data.bnf.fr/ark:/12148/cb123437322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb123437322> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papeterie -- Chimie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85097658> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode67authoritiessubjectssh85097658 . 
+_:bnode67authoritiessubjectssh85097658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode67authoritiessubjectssh85097658 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85097658> . 
+_:bnode67authoritiessubjectssh85097658 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode67authoritiessubjectssh85097658 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85097658 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

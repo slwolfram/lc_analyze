@@ -1,0 +1,91 @@
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dwellings--Social aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85040215 . 
+_:bnode7authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85040193> . 
+_:bnode7authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85040193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85040193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dwellings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040193> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85040215 . 
+_:bnode12authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85040215 . 
+_:bnode12authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dwellings"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00002758> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00002758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00002758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00002758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh00002758> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85040215 . 
+_:bnode20authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85040215 . 
+_:bnode20authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#elementValue> "Social aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85040215 . 
+_:bnode24authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Dwellings and society"@en . 
+_:bnode24authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85040215 . 
+_:bnode29authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85040215 . 
+_:bnode29authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dwellings and society"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85040215 . 
+_:bnode33authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Society and dwellings"@en . 
+_:bnode33authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85040215 . 
+_:bnode38authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85040215 . 
+_:bnode38authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85040215 <http://www.loc.gov/mads/rdf/v1#elementValue> "Society and dwellings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#classification> "GT170" . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062603> . 
+<http://id.loc.gov/authorities/subjects/sh85062603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062603> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Housing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85040215" . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85040215> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85040215#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh85040215 . 
+_:bnode56authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh85040215 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85040215 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh85040215 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh85040215 . 
+_:bnode63authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh85040215 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-10-27T07:55:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh85040215 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh85040215 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dwellings--Social aspects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode73authoritiessubjectssh85040215 . 
+_:bnode73authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode73authoritiessubjectssh85040215 <http://www.w3.org/2008/05/skos-xl#literalForm> "Dwellings and society"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#altLabel> "Dwellings and society" . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh85040215 . 
+_:bnode80authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh85040215 <http://www.w3.org/2008/05/skos-xl#literalForm> "Society and dwellings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#altLabel> "Society and dwellings" . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062603> . 
+<http://id.loc.gov/authorities/subjects/sh85062603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Housing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2008/05/skos-xl#altLabel> "Dwellings and society"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2008/05/skos-xl#altLabel> "Society and dwellings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh85040215 . 
+_:bnode97authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85040215> . 
+_:bnode97authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85040215> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh85040215 . 
+_:bnode105authoritiessubjectssh85040215 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85040215> . 
+_:bnode105authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode105authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#createdDate> "2010-10-27T07:55:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85040215 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

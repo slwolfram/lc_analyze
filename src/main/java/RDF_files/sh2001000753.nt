@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rapid tooling"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2001000753 . 
+_:bnode7authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2001000753 . 
+_:bnode7authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rapid tooling"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2001000753 . 
+_:bnode11authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Tooling, Rapid"@en . 
+_:bnode11authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2001000753 . 
+_:bnode16authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2001000753 . 
+_:bnode16authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tooling, Rapid"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85080664> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manufacturing processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2001000753 . 
+_:bnode25authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2001000753 . 
+_:bnode25authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Manufacturing processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2001000753" . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2001000753> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2001000753#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh2001000753 . 
+_:bnode37authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Rapid prototyping casebook, 2001:" . 
+_:bnode37authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 123 (\"The majority of rapid tooling methods are by no means new, indeed they have coexisted with conventional machined tooling for many years. The re-emergence of these methods in the 1990s was a logic[al] progression from rapid prototyping ... Rapid tooling methods can be divided into two basic methods: indirect tooling--tooling generated using a master pattern (often a rapid prototype model but also hand made or machined pattern). Methods include: cast resin, cast metal, metal spray, sintered metal tooling; direct tooling--tooling manufactured directly on the rapid prototyping machine. Methods include: direct AIM stereolithography tooling, laser sintered metal, laminated tooling.\") p. 125 (\"rapid ... method of manufacturing ... tools\"; \"techniques which allow tools to be constructed\")"@en . 
+_:bnode37authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh2001000753 . 
+_:bnode45authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-source> "Rapid Solutions Inc. WWW home page, Sept. 24, 2001:" . 
+_:bnode45authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-note> "rapid tooling (Rapid tooling is using a rapid prototype, either indirectly or directly, as a tooling pattern for creating a mold. Rapid tooling techniques enables you to have molds that supply prototype parts with the correct material at a substantially reduced cost in a fraction of the time it takes to produce parts from production tooling processes. The greater the complexity of the part, the greater the benefits of cost and time.)"@en . 
+_:bnode45authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode53authoritiessubjectssh2001000753 . 
+_:bnode53authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode53authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC database, Sept. 24, 2001" . 
+_:bnode53authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-note> "(rapid tooling)"@en . 
+_:bnode53authoritiessubjectssh2001000753 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh2001000753 . 
+_:bnode61authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-09-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode61authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh2001000753 . 
+_:bnode69authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-11-10T10:30:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode69authoritiessubjectssh2001000753 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rapid tooling"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh2001000753 . 
+_:bnode80authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh2001000753 <http://www.w3.org/2008/05/skos-xl#literalForm> "Tooling, Rapid"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2004/02/skos/core#altLabel> "Tooling, Rapid" . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85080664> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufacturing processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2008/05/skos-xl#altLabel> "Tooling, Rapid"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh2001000753 . 
+_:bnode95authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001000753> . 
+_:bnode95authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode95authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#createdDate> "2001-09-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2001000753> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh2001000753 . 
+_:bnode103authoritiessubjectssh2001000753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001000753> . 
+_:bnode103authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode103authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#createdDate> "2001-11-10T10:30:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh2001000753 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

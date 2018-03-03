@@ -1,0 +1,97 @@
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Latin jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh95002804 . 
+_:bnode7authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh95002804 . 
+_:bnode7authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#elementValue> "Latin jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh95002804 . 
+_:bnode11authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Afro-Cuban jazz"@en . 
+_:bnode11authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh95002804 . 
+_:bnode16authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh95002804 . 
+_:bnode16authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#elementValue> "Afro-Cuban jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85069833> . 
+<http://id.loc.gov/authorities/subjects/sh85069833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85069833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069833> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069833> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh95002804 . 
+_:bnode25authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh95002804 . 
+_:bnode25authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4363903-3> . 
+<http://d-nb.info/gnd/4363903-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4363903-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Latin jazz"@de . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007009388> . 
+<http://id.loc.gov/authorities/subjects/sh2007009388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007009388> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guitar music (Latin jazz)"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#note> "This heading is assigned to Latin jazz for two or more performers." . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings for music of individual instruments followed by the qualifier \"(Latin jazz)\" and the subdivisions [Methods (Latin jazz)] and [Studies and exercises (Latin jazz)] under individual musical instruments and families of instruments" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 95002804" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh95002804> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh95002804#concept> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh95002804 . 
+_:bnode49authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hennepin" . 
+_:bnode49authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Latin jazz)"@en . 
+_:bnode49authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh95002804 . 
+_:bnode57authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-source> "New Grove dict. of jazz" . 
+_:bnode57authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Latin jazz)"@en . 
+_:bnode57authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode65authoritiessubjectssh95002804 . 
+_:bnode65authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode65authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-source> "All-music guide WWW site, Feb. 3, 1999" . 
+_:bnode65authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Latin jazz; sometimes called Afro-Cuban jazz)"@en . 
+_:bnode65authoritiessubjectssh95002804 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh95002804 . 
+_:bnode73authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh95002804 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-06-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh95002804 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh95002804 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh95002804 . 
+_:bnode80authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh95002804 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-09-02T13:09:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh95002804 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh95002804 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latin jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode90authoritiessubjectssh95002804 . 
+_:bnode90authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode90authoritiessubjectssh95002804 <http://www.w3.org/2008/05/skos-xl#literalForm> "Afro-Cuban jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#altLabel> "Afro-Cuban jazz" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85069833> . 
+<http://id.loc.gov/authorities/subjects/sh85069833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069833> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007009388> . 
+<http://id.loc.gov/authorities/subjects/sh2007009388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007009388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guitar music (Latin jazz)"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4363903-3> . 
+<http://d-nb.info/gnd/4363903-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4363903-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latin jazz"@de . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#note> "This heading is assigned to Latin jazz for two or more performers." . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#editorial> "headings for music of individual instruments followed by the qualifier \"(Latin jazz)\" and the subdivisions [Methods (Latin jazz)] and [Studies and exercises (Latin jazz)] under individual musical instruments and families of instruments" . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2008/05/skos-xl#altLabel> "Afro-Cuban jazz"@en . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode119authoritiessubjectssh95002804 . 
+_:bnode119authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode119authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh95002804> . 
+_:bnode119authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+_:bnode119authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#createdDate> "2005-06-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode119authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh95002804> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh95002804 . 
+_:bnode127authoritiessubjectssh95002804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh95002804> . 
+_:bnode127authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+_:bnode127authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#createdDate> "2005-09-02T13:09:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh95002804 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

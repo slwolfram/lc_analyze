@@ -1,0 +1,134 @@
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tolerance (Engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85135880 . 
+_:bnode7authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85135880 . 
+_:bnode7authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tolerance (Engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85135880 . 
+_:bnode11authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Engineering tolerances"@en . 
+_:bnode11authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85135880 . 
+_:bnode16authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85135880 . 
+_:bnode16authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementValue> "Engineering tolerances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85135880 . 
+_:bnode20authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Fits (Engineering)"@en . 
+_:bnode20authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85135880 . 
+_:bnode25authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85135880 . 
+_:bnode25authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fits (Engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#classification> "TS172" . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106519> . 
+<http://id.loc.gov/authorities/subjects/sh85106519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106519> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Press fits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11952990n> . 
+<http://data.bnf.fr/ark:/12148/cb11952990n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11952990n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tolérance (technologie)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85043176> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85135880 . 
+_:bnode44authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85135880 . 
+_:bnode44authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementValue> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4060356-8> . 
+<http://d-nb.info/gnd/4060356-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4060356-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Toleranz <Technik>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4206330-9> . 
+<http://d-nb.info/gnd/4206330-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4206330-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maßtoleranz"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4139855-5> . 
+<http://d-nb.info/gnd/4139855-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4139855-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lagetoleranz"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4489301-2> . 
+<http://d-nb.info/gnd/4489301-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4489301-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maßabweichung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85127309> . 
+<http://id.loc.gov/authorities/subjects/sh85127309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85127309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127309> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Standardization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127309> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85135880 . 
+_:bnode69authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85135880 . 
+_:bnode69authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85135880 <http://www.loc.gov/mads/rdf/v1#elementValue> "Standardization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122141> . 
+<http://id.loc.gov/authorities/subjects/sh85122141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122141> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shrink fitting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85135880" . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85135880> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85135880#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85135880 . 
+_:bnode84authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85135880 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85135880 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85135880 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode91authoritiessubjectssh85135880 . 
+_:bnode91authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode91authoritiessubjectssh85135880 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-05-25T07:53:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiessubjectssh85135880 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode91authoritiessubjectssh85135880 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tolerance (Engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode101authoritiessubjectssh85135880 . 
+_:bnode101authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode101authoritiessubjectssh85135880 <http://www.w3.org/2008/05/skos-xl#literalForm> "Engineering tolerances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#altLabel> "Engineering tolerances" . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode108authoritiessubjectssh85135880 . 
+_:bnode108authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode108authoritiessubjectssh85135880 <http://www.w3.org/2008/05/skos-xl#literalForm> "Fits (Engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#altLabel> "Fits (Engineering)" . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85043176> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85127309> . 
+<http://id.loc.gov/authorities/subjects/sh85127309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standardization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106519> . 
+<http://id.loc.gov/authorities/subjects/sh85106519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106519> <http://www.w3.org/2004/02/skos/core#prefLabel> "Press fits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122141> . 
+<http://id.loc.gov/authorities/subjects/sh85122141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122141> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shrink fitting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11952990n> . 
+<http://data.bnf.fr/ark:/12148/cb11952990n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11952990n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tolérance (technologie)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4060356-8> . 
+<http://d-nb.info/gnd/4060356-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4060356-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toleranz <Technik>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4206330-9> . 
+<http://d-nb.info/gnd/4206330-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4206330-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maßtoleranz"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4139855-5> . 
+<http://d-nb.info/gnd/4139855-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4139855-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagetoleranz"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4489301-2> . 
+<http://d-nb.info/gnd/4489301-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4489301-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maßabweichung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2008/05/skos-xl#altLabel> "Engineering tolerances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2008/05/skos-xl#altLabel> "Fits (Engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode165authoritiessubjectssh85135880 . 
+_:bnode165authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode165authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85135880> . 
+_:bnode165authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode165authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode165authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85135880> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode173authoritiessubjectssh85135880 . 
+_:bnode173authoritiessubjectssh85135880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode173authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85135880> . 
+_:bnode173authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode173authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#createdDate> "2007-05-25T07:53:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode173authoritiessubjectssh85135880 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,86 @@
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Challenged books"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96003227 . 
+_:bnode7authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96003227 . 
+_:bnode7authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#elementValue> "Challenged books"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#classification> "Z1019" . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015758> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh96003227 . 
+_:bnode18authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh96003227 . 
+_:bnode18authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85021828> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh96003227 . 
+_:bnode27authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh96003227 . 
+_:bnode27authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#elementValue> "Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4187563-1> . 
+<http://d-nb.info/gnd/4187563-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4187563-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verbotenes Buch"@de . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on books whose acquisition by an institution has been questioned on moral, religious, or political grounds." . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96003227" . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96003227> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96003227#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh96003227 . 
+_:bnode45authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.:  96-5759: Hit list -- frequently challenged books for children, 1996." . 
+_:bnode45authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh96003227 . 
+_:bnode51authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-source> "Library literature through FirstSearch 03/20/96:" . 
+_:bnode51authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-note> "su: challenged book+ (18 hits, 12 on challenged books in the above sense)"@en . 
+_:bnode51authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode59authoritiessubjectssh96003227 . 
+_:bnode59authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode59authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC database, 03/21/96; ALA glossary, 1983; Bookman's glossary, 1983; Encyclopedia of censorship, 1990; A glossary of book trade terminology, 1983; Glaister's glossary of the book, 1983" . 
+_:bnode59authoritiessubjectssh96003227 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh96003227 . 
+_:bnode65authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh96003227 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-03-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh96003227 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh96003227 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh96003227 . 
+_:bnode72authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh96003227 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-10-23T08:00:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh96003227 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh96003227 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Challenged books"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015758> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85021828> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4187563-1> . 
+<http://d-nb.info/gnd/4187563-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4187563-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbotenes Buch"@de . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on books whose acquisition by an institution has been questioned on moral, religious, or political grounds." . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode100authoritiessubjectssh96003227 . 
+_:bnode100authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode100authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96003227> . 
+_:bnode100authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode100authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#createdDate> "1996-03-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96003227> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode108authoritiessubjectssh96003227 . 
+_:bnode108authoritiessubjectssh96003227 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode108authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96003227> . 
+_:bnode108authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode108authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#createdDate> "1996-10-23T08:00:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh96003227 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

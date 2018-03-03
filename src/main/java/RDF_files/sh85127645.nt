@@ -1,0 +1,163 @@
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steam-boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85127645 . 
+_:bnode7authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85127645 . 
+_:bnode7authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#elementValue> "Steam-boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85127645 . 
+_:bnode11authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Steam generators"@en . 
+_:bnode11authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85127645 . 
+_:bnode16authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85127645 . 
+_:bnode16authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#elementValue> "Steam generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#classification> "TJ281-TJ393" . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000808> . 
+<http://id.loc.gov/authorities/subjects/sh91000808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000808> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Waste heat boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85043258> . 
+<http://id.loc.gov/authorities/subjects/sh85043258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85043258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85043258> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85127645 . 
+_:bnode31authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85127645 . 
+_:bnode31authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#elementValue> "Engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130603> . 
+<http://id.loc.gov/authorities/subjects/sh85130603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130603> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Superheaters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85015342> . 
+<http://id.loc.gov/authorities/subjects/sh85015342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015342> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Boiler-plates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11939580h> . 
+<http://data.bnf.fr/ark:/12148/cb11939580h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11939580h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chaudières à vapeur"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4010983-5> . 
+<http://d-nb.info/gnd/4010983-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4010983-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dampferzeuger"@de . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015343> . 
+<http://id.loc.gov/authorities/subjects/sh85015343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015343> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015343> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85127645 . 
+_:bnode56authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85127645 . 
+_:bnode56authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#elementValue> "Boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010057> . 
+<http://id.loc.gov/authorities/subjects/sh85010057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010057> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Autoclaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128246> . 
+<http://id.loc.gov/authorities/subjects/sh85128246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128246> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stokers, Mechanical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052511> . 
+<http://id.loc.gov/authorities/subjects/sh85052511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052511> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Furnaces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85106548> . 
+<http://id.loc.gov/authorities/subjects/sh85106548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85106548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106548> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pressure vessels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106548> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode77authoritiessubjectssh85127645 . 
+_:bnode77authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode78authoritiessubjectssh85127645 . 
+_:bnode77authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode78authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode78authoritiessubjectssh85127645 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pressure vessels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85066450> . 
+<http://id.loc.gov/authorities/subjects/sh85066450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Injectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052592> . 
+<http://id.loc.gov/authorities/subjects/sh85052592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052592> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fusible plugs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127643> . 
+<http://id.loc.gov/authorities/subjects/sh85127643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127643> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steam-boiler explosions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047641> . 
+<http://id.loc.gov/authorities/subjects/sh85047641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047641> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feed-water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85127645" . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85127645> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85127645#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh85127645 . 
+_:bnode105authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh85127645 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85127645 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh85127645 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode112authoritiessubjectssh85127645 . 
+_:bnode112authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode112authoritiessubjectssh85127645 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-06-24T15:12:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode112authoritiessubjectssh85127645 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode112authoritiessubjectssh85127645 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steam-boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode122authoritiessubjectssh85127645 . 
+_:bnode122authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode122authoritiessubjectssh85127645 <http://www.w3.org/2008/05/skos-xl#literalForm> "Steam generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#altLabel> "Steam generators" . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85043258> . 
+<http://id.loc.gov/authorities/subjects/sh85043258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015343> . 
+<http://id.loc.gov/authorities/subjects/sh85015343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000808> . 
+<http://id.loc.gov/authorities/subjects/sh91000808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waste heat boilers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130603> . 
+<http://id.loc.gov/authorities/subjects/sh85130603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Superheaters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85015342> . 
+<http://id.loc.gov/authorities/subjects/sh85015342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boiler-plates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010057> . 
+<http://id.loc.gov/authorities/subjects/sh85010057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010057> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autoclaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128246> . 
+<http://id.loc.gov/authorities/subjects/sh85128246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stokers, Mechanical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052511> . 
+<http://id.loc.gov/authorities/subjects/sh85052511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052511> <http://www.w3.org/2004/02/skos/core#prefLabel> "Furnaces"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85066450> . 
+<http://id.loc.gov/authorities/subjects/sh85066450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Injectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052592> . 
+<http://id.loc.gov/authorities/subjects/sh85052592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052592> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fusible plugs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127643> . 
+<http://id.loc.gov/authorities/subjects/sh85127643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steam-boiler explosions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047641> . 
+<http://id.loc.gov/authorities/subjects/sh85047641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feed-water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85106548> . 
+<http://id.loc.gov/authorities/subjects/sh85106548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106548> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pressure vessels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11939580h> . 
+<http://data.bnf.fr/ark:/12148/cb11939580h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11939580h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chaudières à vapeur"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4010983-5> . 
+<http://d-nb.info/gnd/4010983-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4010983-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dampferzeuger"@de . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2008/05/skos-xl#altLabel> "Steam generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode207authoritiessubjectssh85127645 . 
+_:bnode207authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode207authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85127645> . 
+_:bnode207authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode207authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode207authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85127645> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode215authoritiessubjectssh85127645 . 
+_:bnode215authoritiessubjectssh85127645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode215authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85127645> . 
+_:bnode215authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode215authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#createdDate> "1988-06-24T15:12:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode215authoritiessubjectssh85127645 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

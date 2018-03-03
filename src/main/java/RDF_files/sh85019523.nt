@@ -1,0 +1,67 @@
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cancer--Patients--Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85019523 . 
+_:bnode7authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85019492> . 
+_:bnode7authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85019492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85019492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019492> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cancer"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019492> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85019523 . 
+_:bnode12authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85019523 . 
+_:bnode12authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85019523 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cancer"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006930> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode023 . 
+<http://id.loc.gov/authorities/subjects/sh00006930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006930> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Patients"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006930> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85019523 . 
+_:bnode20authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85019523 . 
+_:bnode20authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85019523 <http://www.loc.gov/mads/rdf/v1#elementValue> "Patients"@en . 
+_:bnode023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006196> . 
+_:bnode023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh85019523 . 
+_:bnode28authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh85019523 . 
+_:bnode28authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh85019523 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00006196> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode37authoritiessubjectssh85019523 . 
+_:bnode37authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh85019523 . 
+_:bnode37authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode38authoritiessubjectssh85019523 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85019523" . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85019523> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85019523#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh85019523 . 
+_:bnode49authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh85019523 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh85019523 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh85019523 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer--Patients--Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00006196> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85019523> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode65authoritiessubjectssh85019523 . 
+_:bnode65authoritiessubjectssh85019523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode65authoritiessubjectssh85019523 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85019523> . 
+_:bnode65authoritiessubjectssh85019523 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode65authoritiessubjectssh85019523 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh85019523 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

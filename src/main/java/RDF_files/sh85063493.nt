@@ -1,0 +1,122 @@
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hydrostatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85063493 . 
+_:bnode7authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85063493 . 
+_:bnode7authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85063493 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hydrostatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#classification> "QA905-QA907" . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#classification> "QC145.5-QC148.4" . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#classification> "TC165-TC169" . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85049396> . 
+<http://id.loc.gov/authorities/subjects/sh85049396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85049396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049396> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fluids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049396> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85063493 . 
+_:bnode22authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85063493 . 
+_:bnode22authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85063493 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fluids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85127551> . 
+<http://id.loc.gov/authorities/subjects/sh85127551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85127551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127551> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Statics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127551> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85063493 . 
+_:bnode31authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85063493 . 
+_:bnode31authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85063493 <http://www.loc.gov/mads/rdf/v1#elementValue> "Statics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124366> . 
+<http://id.loc.gov/authorities/subjects/sh85124366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil percolation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85116779> . 
+<http://id.loc.gov/authorities/subjects/sh85116779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116779> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saline water conversion--Piezodialysis process"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85049383> . 
+<http://id.loc.gov/authorities/subjects/sh85049383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85049383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049383> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fluid mechanics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049383> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85063493 . 
+_:bnode48authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85063493 . 
+_:bnode48authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85063493 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fluid mechanics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098426> . 
+<http://id.loc.gov/authorities/subjects/sh85098426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098426> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pascal's law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111596> . 
+<http://id.loc.gov/authorities/subjects/sh85111596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111596> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rayleigh number"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126388> . 
+<http://id.loc.gov/authorities/subjects/sh85126388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126388> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Specific gravity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85115489> . 
+<http://id.loc.gov/authorities/subjects/sh85115489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85115489> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rotating masses of fluid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85049139> . 
+<http://id.loc.gov/authorities/subjects/sh85049139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049139> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Floating bodies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings beginning with the word [Hydrostatic]" . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85063493" . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85063493> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85063493#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode81authoritiessubjectssh85063493 . 
+_:bnode81authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode81authoritiessubjectssh85063493 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh85063493 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode81authoritiessubjectssh85063493 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85063493 . 
+_:bnode88authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85063493 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2014-03-06T07:12:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85063493 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85063493 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydrostatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85127551> . 
+<http://id.loc.gov/authorities/subjects/sh85127551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85049383> . 
+<http://id.loc.gov/authorities/subjects/sh85049383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049383> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluid mechanics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124366> . 
+<http://id.loc.gov/authorities/subjects/sh85124366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil percolation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85116779> . 
+<http://id.loc.gov/authorities/subjects/sh85116779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116779> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saline water conversion--Piezodialysis process"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098426> . 
+<http://id.loc.gov/authorities/subjects/sh85098426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098426> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pascal's law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111596> . 
+<http://id.loc.gov/authorities/subjects/sh85111596> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111596> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rayleigh number"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126388> . 
+<http://id.loc.gov/authorities/subjects/sh85126388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specific gravity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85115489> . 
+<http://id.loc.gov/authorities/subjects/sh85115489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85115489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rotating masses of fluid"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85049139> . 
+<http://id.loc.gov/authorities/subjects/sh85049139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049139> <http://www.w3.org/2004/02/skos/core#prefLabel> "Floating bodies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85049396> . 
+<http://id.loc.gov/authorities/subjects/sh85049396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#editorial> "headings beginning with the word [Hydrostatic]" . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode151authoritiessubjectssh85063493 . 
+_:bnode151authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode151authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85063493> . 
+_:bnode151authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode151authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode151authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85063493> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode159authoritiessubjectssh85063493 . 
+_:bnode159authoritiessubjectssh85063493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode159authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85063493> . 
+_:bnode159authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode159authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#createdDate> "2014-03-06T07:12:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode159authoritiessubjectssh85063493 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

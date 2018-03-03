@@ -1,0 +1,97 @@
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85016162 . 
+_:bnode7authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85016162 . 
+_:bnode7authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85016162 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85016162 . 
+_:bnode11authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85016162 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Tenpins"@en . 
+_:bnode11authoritiessubjectssh85016162 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85016162 . 
+_:bnode16authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85016162 . 
+_:bnode16authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85016162 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tenpins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#classification> "GV901-GV909" . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11996151b> . 
+<http://data.bnf.fr/ark:/12148/cb11996151b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11996151b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quilles (jeu)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146403> . 
+<http://id.loc.gov/authorities/subjects/sh85146403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146403> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wheelchair bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87006324> . 
+<http://id.loc.gov/authorities/subjects/sh87006324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006324> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Road bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4121042-6> . 
+<http://d-nb.info/gnd/4121042-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4121042-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bowling"@de . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85016166> . 
+<http://id.loc.gov/authorities/subjects/sh85016166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85016166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016166> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bowling games"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016166> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85016162 . 
+_:bnode43authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85016162 . 
+_:bnode43authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85016162 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bowling games"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4030130-8> . 
+<http://d-nb.info/gnd/4030130-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4030130-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kegeln"@de . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85016162" . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85016162> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85016162#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85016162 . 
+_:bnode59authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85016162 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85016162 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85016162 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85016162 . 
+_:bnode66authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85016162 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-10-08T07:59:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85016162 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85016162 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode76authoritiessubjectssh85016162 . 
+_:bnode76authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode76authoritiessubjectssh85016162 <http://www.w3.org/2008/05/skos-xl#literalForm> "Tenpins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#altLabel> "Tenpins" . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85016166> . 
+<http://id.loc.gov/authorities/subjects/sh85016166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016166> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bowling games"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146403> . 
+<http://id.loc.gov/authorities/subjects/sh85146403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146403> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wheelchair bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87006324> . 
+<http://id.loc.gov/authorities/subjects/sh87006324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006324> <http://www.w3.org/2004/02/skos/core#prefLabel> "Road bowling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11996151b> . 
+<http://data.bnf.fr/ark:/12148/cb11996151b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11996151b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quilles (jeu)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4121042-6> . 
+<http://d-nb.info/gnd/4121042-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4121042-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bowling"@de . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4030130-8> . 
+<http://d-nb.info/gnd/4030130-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4030130-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kegeln"@de . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2008/05/skos-xl#altLabel> "Tenpins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode116authoritiessubjectssh85016162 . 
+_:bnode116authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode116authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85016162> . 
+_:bnode116authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode116authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode116authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85016162> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode124authoritiessubjectssh85016162 . 
+_:bnode124authoritiessubjectssh85016162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode124authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85016162> . 
+_:bnode124authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode124authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#createdDate> "2010-10-08T07:59:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode124authoritiessubjectssh85016162 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

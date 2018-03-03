@@ -1,0 +1,68 @@
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rosengart automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00000225 . 
+_:bnode7authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00000225 . 
+_:bnode7authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rosengart automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh00000225 . 
+_:bnode16authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh00000225 . 
+_:bnode16authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12547366k> . 
+<http://data.bnf.fr/ark:/12148/cb12547366k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12547366k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rosengart (automobiles)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00000225" . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00000225> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00000225#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode31authoritiessubjectssh00000225 . 
+_:bnode31authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode31authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 99510980: Jeanson, F.-P. L. Rosengart, 1881-1976, 1995." . 
+_:bnode31authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh00000225 . 
+_:bnode37authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#citation-source> "Complete encyc. of motorcars, 1973:" . 
+_:bnode37authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 596 (Rosengart, 1928-1955; Neuilly-sur-Seine and Paris; various models)"@en . 
+_:bnode37authoritiessubjectssh00000225 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode45authoritiessubjectssh00000225 . 
+_:bnode45authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode45authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-03-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode45authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode45authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode45authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode53authoritiessubjectssh00000225 . 
+_:bnode53authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode53authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-03-26T10:46:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode53authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode53authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode53authoritiessubjectssh00000225 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rosengart automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12547366k> . 
+<http://data.bnf.fr/ark:/12148/cb12547366k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12547366k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rosengart (automobiles)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode75authoritiessubjectssh00000225 . 
+_:bnode75authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode75authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00000225> . 
+_:bnode75authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode75authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#createdDate> "2000-03-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00000225> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode83authoritiessubjectssh00000225 . 
+_:bnode83authoritiessubjectssh00000225 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode83authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00000225> . 
+_:bnode83authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode83authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#createdDate> "2004-03-26T10:46:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh00000225 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

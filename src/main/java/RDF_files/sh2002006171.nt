@@ -1,0 +1,110 @@
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2002006171 . 
+_:bnode7authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2002006171 . 
+_:bnode7authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2002006171 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/40253> . 
+<http://lod.nal.usda.gov/nalt/40253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/40253> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933220c> . 
+<http://data.bnf.fr/ark:/12148/cb11933220c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933220c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sapeurs-pompiers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146721> . 
+<http://id.loc.gov/authorities/subjects/sh85146721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146721> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wildfire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94000204> . 
+<http://id.loc.gov/authorities/subjects/sh94000204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94000204> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fire wardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010001351> . 
+<http://id.loc.gov/authorities/subjects/sh2010001351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010001351> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children of fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003454> . 
+<http://id.loc.gov/authorities/subjects/sh92003454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003454> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008006336> . 
+<http://id.loc.gov/authorities/subjects/sh2008006336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008006336> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fire dispatchers"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85123687> . 
+<http://id.loc.gov/authorities/subjects/sh85123687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85123687> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Smokejumpers"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85050578> . 
+<http://id.loc.gov/authorities/subjects/sh85050578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050578> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forest fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002002811> . 
+<http://id.loc.gov/authorities/subjects/sh2002002811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002002811> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Volunteer fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1200> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#editorialNote> "[Further subdivide by subdivisions used under classes of persons.]" . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under individual wars." . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Reference under the heading [Fire fighters]" . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2002006171" . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2002006171> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2002006171#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh2002006171 . 
+_:bnode67authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-03-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode67authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh2002006171 . 
+_:bnode75authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-05-15T10:10:17"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode75authoritiessubjectssh2002006171 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146721> . 
+<http://id.loc.gov/authorities/subjects/sh85146721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146721> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wildfire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94000204> . 
+<http://id.loc.gov/authorities/subjects/sh94000204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94000204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fire wardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010001351> . 
+<http://id.loc.gov/authorities/subjects/sh2010001351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010001351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children of fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003454> . 
+<http://id.loc.gov/authorities/subjects/sh92003454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003454> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008006336> . 
+<http://id.loc.gov/authorities/subjects/sh2008006336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008006336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fire dispatchers"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85123687> . 
+<http://id.loc.gov/authorities/subjects/sh85123687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85123687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smokejumpers"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85050578> . 
+<http://id.loc.gov/authorities/subjects/sh85050578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forest fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002002811> . 
+<http://id.loc.gov/authorities/subjects/sh2002002811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002002811> <http://www.w3.org/2004/02/skos/core#prefLabel> "Volunteer fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/40253> . 
+<http://lod.nal.usda.gov/nalt/40253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/40253> <http://www.w3.org/2004/02/skos/core#prefLabel> "fire fighters"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933220c> . 
+<http://data.bnf.fr/ark:/12148/cb11933220c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933220c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sapeurs-pompiers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under individual wars." . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#editorial> "[Further subdivide by subdivisions used under classes of persons.]" . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#example> "Reference under the heading [Fire fighters]" . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode143authoritiessubjectssh2002006171 . 
+_:bnode143authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode143authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002006171> . 
+_:bnode143authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode143authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#createdDate> "2002-03-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode143authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2002006171> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode151authoritiessubjectssh2002006171 . 
+_:bnode151authoritiessubjectssh2002006171 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode151authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002006171> . 
+_:bnode151authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode151authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#createdDate> "2006-05-15T10:10:17"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode151authoritiessubjectssh2002006171 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

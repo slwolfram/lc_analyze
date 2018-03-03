@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Robes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2010004032 . 
+_:bnode7authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2010004032 . 
+_:bnode7authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#elementValue> "Robes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85027160> . 
+<http://id.loc.gov/authorities/subjects/sh85027160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85027160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027160> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clothing and dress"@en . 
+<http://id.loc.gov/authorities/subjects/sh85027160> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2010004032 . 
+_:bnode16authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2010004032 . 
+_:bnode16authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#elementValue> "Clothing and dress"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010007221> . 
+<http://id.loc.gov/authorities/subjects/sh2010007221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010007221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's robes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2010004032" . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2010004032> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2010004032#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh2010004032 . 
+_:bnode32authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Instruction manual and dictionary for ravenstail weaving techniques, 2008:" . 
+_:bnode32authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-note> "introd. p. (history of and instructions on making native Northwest Coast style robes)"@en . 
+_:bnode32authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh2010004032 . 
+_:bnode40authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-source> "AAT, Mar. 13, 2010" . 
+_:bnode40authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-note> "(preferred term: robes (main garments); note: Long, loose garments, which tend to be of one piece and to open down the front, cut with flowing lines; worn for ordinary wear by men and women during the Middle Ages and until the modern period, especially in Asian and African countries. Also, similar garments often of elegant style worn for ceremonial or official occasions or as a symbol of office or profession. Also, term used generally from the 18th century through the early 20th century for fashionable women's dress of varying form. Prefer \"gowns\" for women's dresses of varying form, originally closed with a semi-fitted bodice, and which usually have a long, flowing skirt. For loose-fitting garments of varying length, often wraparound and tied with a belt, worn before or after bathing or informally around the house use \"bathrobes\")"@en . 
+_:bnode40authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh2010004032 . 
+_:bnode48authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-source> "OCLC database, Mar. 13, 2010" . 
+_:bnode48authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-note> "(subject search under \"robes\" yielded 162 hits)"@en . 
+_:bnode48authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh2010004032 . 
+_:bnode56authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, Mar. 13, 2010" . 
+_:bnode56authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Robe [article/main entry]; \"A robe is a loose-fitting outer garment. A robe is distinguished from a cape or cloak by the fact that it usually has sleeves. The English word robe is borrowed from French. There are various types of robes\"; Robe (disambiguation)includes geographic areas and a personal name only)"@en . 
+_:bnode56authoritiessubjectssh2010004032 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh2010004032 . 
+_:bnode64authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-04-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode64authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh2010004032 . 
+_:bnode72authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-04-02T06:53:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode72authoritiessubjectssh2010004032 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Robes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85027160> . 
+<http://id.loc.gov/authorities/subjects/sh85027160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clothing and dress"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010007221> . 
+<http://id.loc.gov/authorities/subjects/sh2010007221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010007221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's robes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh2010004032 . 
+_:bnode94authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2010004032> . 
+_:bnode94authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode94authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#createdDate> "2010-04-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2010004032> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh2010004032 . 
+_:bnode102authoritiessubjectssh2010004032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2010004032> . 
+_:bnode102authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode102authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#createdDate> "2010-04-02T06:53:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh2010004032 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

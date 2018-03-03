@@ -1,0 +1,203 @@
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music--Performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85088806 . 
+_:bnode7authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85088762> . 
+_:bnode7authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85088806 . 
+_:bnode12authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85088806 . 
+_:bnode12authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005754> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005754> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005754> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005754> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85088806 . 
+_:bnode20authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85088806 . 
+_:bnode20authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#elementValue> "Performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85088806 . 
+_:bnode24authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Musical performance"@en . 
+_:bnode24authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85088806 . 
+_:bnode29authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85088806 . 
+_:bnode29authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#elementValue> "Musical performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85088806 . 
+_:bnode33authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Performance of music"@en . 
+_:bnode33authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85088806 . 
+_:bnode38authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85088806 . 
+_:bnode38authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#elementValue> "Performance of music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#classification> "ML457" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122827> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006425> . 
+<http://id.loc.gov/authorities/subjects/sh88006425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Multiphonics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000593> . 
+<http://id.loc.gov/authorities/subjects/sh98000593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000593> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Playing by ear"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122381> . 
+<http://id.loc.gov/authorities/subjects/sh85122381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122381> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sight-reading (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89003980> . 
+<http://id.loc.gov/authorities/subjects/sh89003980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89003980> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Performance practice (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088799> . 
+<http://id.loc.gov/authorities/subjects/sh85088799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088799> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music--Interpretation (Phrasing, dynamics, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85143132> . 
+<http://id.loc.gov/authorities/subjects/sh85143132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143132> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vibrato"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85030804> . 
+<http://id.loc.gov/authorities/subjects/sh85030804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030804> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Conducting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042675> . 
+<http://id.loc.gov/authorities/subjects/sh85042675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embellishment (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85030620> . 
+<http://id.loc.gov/authorities/subjects/sh85030620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030620> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Concerts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064678> . 
+<http://id.loc.gov/authorities/subjects/sh85064678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Improvisation (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088951> . 
+<http://id.loc.gov/authorities/subjects/sh85088951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088951> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musical accompaniment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003002051> . 
+<http://id.loc.gov/authorities/subjects/sh2003002051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003002051> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Glissando"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85143814> . 
+<http://id.loc.gov/authorities/subjects/sh85143814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143814> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Virtuosity in musical performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11979470r> . 
+<http://data.bnf.fr/ark:/12148/cb11979470r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11979470r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musique -- Exécution"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4212081-0> . 
+<http://d-nb.info/gnd/4212081-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4212081-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musikveranstaltung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000278> . 
+<http://id.loc.gov/authorities/subjects/sh95000278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000278> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tremolo"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112414> . 
+<http://id.loc.gov/authorities/subjects/sh85112414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112414> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music rehearsals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered general works on musical performance. Works on the conventions or styles of performance characteristic of particular periods, places, or groups are entered under [Performance practice (Music)]" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Performance practice (Music)]" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Performance] under individual musical instruments and families of instruments, e.g. [Piano--Performance]" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85088806" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85088806> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85088806#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode130authoritiessubjectssh85088806 . 
+_:bnode130authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode130authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#citation-source> "Massin. De la variation, c2000." . 
+_:bnode130authoritiessubjectssh85088806 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode136authoritiessubjectssh85088806 . 
+_:bnode136authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode136authoritiessubjectssh85088806 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-12-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode136authoritiessubjectssh85088806 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode136authoritiessubjectssh85088806 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode143authoritiessubjectssh85088806 . 
+_:bnode143authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode143authoritiessubjectssh85088806 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-02-02T11:42:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode143authoritiessubjectssh85088806 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode143authoritiessubjectssh85088806 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music--Performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode153authoritiessubjectssh85088806 . 
+_:bnode153authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode153authoritiessubjectssh85088806 <http://www.w3.org/2008/05/skos-xl#literalForm> "Musical performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#altLabel> "Musical performance" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode160authoritiessubjectssh85088806 . 
+_:bnode160authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode160authoritiessubjectssh85088806 <http://www.w3.org/2008/05/skos-xl#literalForm> "Performance of music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#altLabel> "Performance of music" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122827> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006425> . 
+<http://id.loc.gov/authorities/subjects/sh88006425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Multiphonics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000593> . 
+<http://id.loc.gov/authorities/subjects/sh98000593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000593> <http://www.w3.org/2004/02/skos/core#prefLabel> "Playing by ear"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122381> . 
+<http://id.loc.gov/authorities/subjects/sh85122381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122381> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sight-reading (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89003980> . 
+<http://id.loc.gov/authorities/subjects/sh89003980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89003980> <http://www.w3.org/2004/02/skos/core#prefLabel> "Performance practice (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088799> . 
+<http://id.loc.gov/authorities/subjects/sh85088799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music--Interpretation (Phrasing, dynamics, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85143132> . 
+<http://id.loc.gov/authorities/subjects/sh85143132> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143132> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vibrato"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85030804> . 
+<http://id.loc.gov/authorities/subjects/sh85030804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030804> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conducting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042675> . 
+<http://id.loc.gov/authorities/subjects/sh85042675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embellishment (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85030620> . 
+<http://id.loc.gov/authorities/subjects/sh85030620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concerts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064678> . 
+<http://id.loc.gov/authorities/subjects/sh85064678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Improvisation (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088951> . 
+<http://id.loc.gov/authorities/subjects/sh85088951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088951> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musical accompaniment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003002051> . 
+<http://id.loc.gov/authorities/subjects/sh2003002051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003002051> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glissando"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85143814> . 
+<http://id.loc.gov/authorities/subjects/sh85143814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143814> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virtuosity in musical performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000278> . 
+<http://id.loc.gov/authorities/subjects/sh95000278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tremolo"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112414> . 
+<http://id.loc.gov/authorities/subjects/sh85112414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112414> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music rehearsals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11979470r> . 
+<http://data.bnf.fr/ark:/12148/cb11979470r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11979470r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musique -- Exécution"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4212081-0> . 
+<http://d-nb.info/gnd/4212081-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4212081-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musikveranstaltung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#note> "Here are entered general works on musical performance. Works on the conventions or styles of performance characteristic of particular periods, places, or groups are entered under [Performance practice (Music)]" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Performance] under individual musical instruments and families of instruments, e.g. [Piano--Performance]" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#example> "Note under [Performance practice (Music)]" . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2008/05/skos-xl#altLabel> "Musical performance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2008/05/skos-xl#altLabel> "Performance of music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode268authoritiessubjectssh85088806 . 
+_:bnode268authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode268authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088806> . 
+_:bnode268authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode268authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#createdDate> "2001-12-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode268authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85088806> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode276authoritiessubjectssh85088806 . 
+_:bnode276authoritiessubjectssh85088806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode276authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088806> . 
+_:bnode276authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode276authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#createdDate> "2002-02-02T11:42:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode276authoritiessubjectssh85088806 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,132 @@
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Underground press publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85139595 . 
+_:bnode7authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85139595 . 
+_:bnode7authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#elementValue> "Underground press publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85139595 . 
+_:bnode11authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Alternative press publications"@en . 
+_:bnode11authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85139595 . 
+_:bnode16authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85139595 . 
+_:bnode16authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#elementValue> "Alternative press publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#classification> "Z1033.U58" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89006218> . 
+<http://id.loc.gov/authorities/subjects/sh89006218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006218> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Underground comic books, strips, etc"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119571376> . 
+<http://data.bnf.fr/ark:/12148/cb119571376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119571376> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presse underground"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003009755> . 
+<http://id.loc.gov/authorities/subjects/sh2003009755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003009755> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Underground periodicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/authorities/subjects/sh85139594> . 
+<http://id.loc.gov/authorities/subjects/sh85139594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority> . 
+<http://id.loc.gov/authorities/subjects/sh85139594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139594> <http://www.w3.org/2000/01/rdf-schema#label> "sh85139594" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4186985-0> . 
+<http://d-nb.info/gnd/4186985-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4186985-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Untergrundpresse"@de . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode43authoritiessubjectssh85139595 . 
+_:bnode43authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode43authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode43authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Underground press"@en . 
+_:bnode43authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85139595 . 
+_:bnode48authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85139595 . 
+_:bnode48authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#elementValue> "Underground press"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2004003366> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode57authoritiessubjectssh85139595 . 
+_:bnode57authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh85139595 . 
+_:bnode57authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode58authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#elementValue> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb122177625> . 
+<http://data.bnf.fr/ark:/12148/cb122177625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb122177625> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presse alternative"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96010278> . 
+<http://id.loc.gov/authorities/subjects/sh96010278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96010278> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Underground newspapers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works about publications issued legally (and usually serially) and produced by radical, anti-establishment, counter-culture groups. Works about publications issued clandestinely and contrary to government regulation are entered under [Underground literature.]" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Underground literature]" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85139595" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85139595> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85139595#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode81authoritiessubjectssh85139595 . 
+_:bnode81authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode81authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#citation-source> "NYT index." . 
+_:bnode81authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode87authoritiessubjectssh85139595 . 
+_:bnode87authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode87authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hennepin." . 
+_:bnode87authoritiessubjectssh85139595 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode93authoritiessubjectssh85139595 . 
+_:bnode93authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode93authoritiessubjectssh85139595 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh85139595 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode93authoritiessubjectssh85139595 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode100authoritiessubjectssh85139595 . 
+_:bnode100authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode100authoritiessubjectssh85139595 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-01-11T07:53:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh85139595 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode100authoritiessubjectssh85139595 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underground press publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode110authoritiessubjectssh85139595 . 
+_:bnode110authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode110authoritiessubjectssh85139595 <http://www.w3.org/2008/05/skos-xl#literalForm> "Alternative press publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#altLabel> "Alternative press publications" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2004003366> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004003366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89006218> . 
+<http://id.loc.gov/authorities/subjects/sh89006218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006218> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underground comic books, strips, etc"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003009755> . 
+<http://id.loc.gov/authorities/subjects/sh2003009755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003009755> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underground periodicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96010278> . 
+<http://id.loc.gov/authorities/subjects/sh96010278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96010278> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underground newspapers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode137authoritiessubjectssh85139595 . 
+_:bnode137authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode137authoritiessubjectssh85139595 <http://www.w3.org/2008/05/skos-xl#literalForm> "Underground press"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#altLabel> "Underground press" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119571376> . 
+<http://data.bnf.fr/ark:/12148/cb119571376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119571376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presse underground"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4186985-0> . 
+<http://d-nb.info/gnd/4186985-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4186985-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Untergrundpresse"@de . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb122177625> . 
+<http://data.bnf.fr/ark:/12148/cb122177625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb122177625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presse alternative"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works about publications issued legally (and usually serially) and produced by radical, anti-establishment, counter-culture groups. Works about publications issued clandestinely and contrary to government regulation are entered under [Underground literature.]" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#example> "Note under [Underground literature]" . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2008/05/skos-xl#altLabel> "Alternative press publications"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode166authoritiessubjectssh85139595 . 
+_:bnode166authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode166authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85139595> . 
+_:bnode166authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode166authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85139595> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode174authoritiessubjectssh85139595 . 
+_:bnode174authoritiessubjectssh85139595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode174authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85139595> . 
+_:bnode174authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode174authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#createdDate> "2007-01-11T07:53:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode174authoritiessubjectssh85139595 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

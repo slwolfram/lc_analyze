@@ -1,0 +1,92 @@
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biodegradable products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2004007270 . 
+_:bnode7authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2004007270 . 
+_:bnode7authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biodegradable products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh88006884> . 
+<http://id.loc.gov/authorities/subjects/sh88006884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88006884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Consumer goods"@en . 
+<http://id.loc.gov/authorities/subjects/sh88006884> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2004007270 . 
+_:bnode16authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2004007270 . 
+_:bnode16authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#elementValue> "Consumer goods"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/17309> . 
+<http://lod.nal.usda.gov/nalt/17309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/17309> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "biodegradable products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh93006705> . 
+<http://id.loc.gov/authorities/subjects/sh93006705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93006705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006705> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Green products"@en . 
+<http://id.loc.gov/authorities/subjects/sh93006705> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh2004007270 . 
+_:bnode29authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh2004007270 . 
+_:bnode29authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#elementValue> "Green products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001002928> . 
+<http://id.loc.gov/authorities/subjects/sh2001002928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001002928> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biodegradable plastics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2004007270" . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2004007270> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2004007270#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh2004007270 . 
+_:bnode45authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 2004438851: Biodegradable household items and their labeling in select countries, 1994:" . 
+_:bnode45authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-note> "summary (biodegradable products)"@en . 
+_:bnode45authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode53authoritiessubjectssh2004007270 . 
+_:bnode53authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode53authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-source> "EI compendex, viewed Oct. 20, 2004" . 
+_:bnode53authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-note> "(identifier: Biodegradable products)"@en . 
+_:bnode53authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode61authoritiessubjectssh2004007270 . 
+_:bnode61authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode61authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-source> "INSPEC on ISI Web of Knowledge, Oct. 20, 2004" . 
+_:bnode61authoritiessubjectssh2004007270 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh2004007270 . 
+_:bnode67authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-10-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode67authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh2004007270 . 
+_:bnode75authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-11-19T10:43:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode75authoritiessubjectssh2004007270 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biodegradable products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh88006884> . 
+<http://id.loc.gov/authorities/subjects/sh88006884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumer goods"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh93006705> . 
+<http://id.loc.gov/authorities/subjects/sh93006705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006705> <http://www.w3.org/2004/02/skos/core#prefLabel> "Green products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001002928> . 
+<http://id.loc.gov/authorities/subjects/sh2001002928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001002928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biodegradable plastics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/17309> . 
+<http://lod.nal.usda.gov/nalt/17309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/17309> <http://www.w3.org/2004/02/skos/core#prefLabel> "biodegradable products"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh2004007270 . 
+_:bnode107authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2004007270> . 
+_:bnode107authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode107authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#createdDate> "2004-10-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2004007270> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh2004007270 . 
+_:bnode115authoritiessubjectssh2004007270 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2004007270> . 
+_:bnode115authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode115authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#createdDate> "2004-11-19T10:43:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh2004007270 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

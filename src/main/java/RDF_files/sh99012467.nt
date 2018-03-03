@@ -1,0 +1,70 @@
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heptathlon"@en . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh99012467 . 
+_:bnode7authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh99012467 . 
+_:bnode7authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#elementValue> "Heptathlon"@en . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#classification> "GV1060.77" . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb15126231q> . 
+<http://data.bnf.fr/ark:/12148/cb15126231q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb15126231q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heptathlon"@fr . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85136443> . 
+<http://id.loc.gov/authorities/subjects/sh85136443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85136443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136443> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Track and field"@en . 
+<http://id.loc.gov/authorities/subjects/sh85136443> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh99012467 . 
+_:bnode22authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh99012467 . 
+_:bnode22authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#elementValue> "Track and field"@en . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 99012467" . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh99012467> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh99012467#concept> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh99012467 . 
+_:bnode34authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#citation-source> "Lease, D. Combined events, 1999:" . 
+_:bnode34authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 2 (Heptathlon) p. 11 (the Heptathlon is different from the Decathlon because of the omission of 3 events and the events requiring 'endurance' are shorter - 200 metres and 800 metres, as opposed to 400 and 1500 metres in the Decathlon)"@en . 
+_:bnode34authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh99012467 . 
+_:bnode42authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#citation-source> "Arlott, J. The Ox. comp. to sports and games, 1975" . 
+_:bnode42authoritiessubjectssh99012467 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode48authoritiessubjectssh99012467 . 
+_:bnode48authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode48authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-04-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode48authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode48authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode48authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh99012467 . 
+_:bnode56authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-06-08T13:44:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode56authoritiessubjectssh99012467 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heptathlon"@en . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85136443> . 
+<http://id.loc.gov/authorities/subjects/sh85136443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136443> <http://www.w3.org/2004/02/skos/core#prefLabel> "Track and field"@en . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb15126231q> . 
+<http://data.bnf.fr/ark:/12148/cb15126231q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb15126231q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heptathlon"@fr . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode78authoritiessubjectssh99012467 . 
+_:bnode78authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode78authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh99012467> . 
+_:bnode78authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode78authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#createdDate> "2001-04-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh99012467> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh99012467 . 
+_:bnode86authoritiessubjectssh99012467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh99012467> . 
+_:bnode86authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode86authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#createdDate> "2001-06-08T13:44:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh99012467 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

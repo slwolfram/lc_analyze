@@ -1,0 +1,102 @@
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85083104 . 
+_:bnode7authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006614> . 
+_:bnode7authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85083104 . 
+_:bnode12authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85083104 . 
+_:bnode12authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85083104 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2001008697> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001008697> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85083104 . 
+_:bnode20authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85083104 . 
+_:bnode20authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85083104 <http://www.loc.gov/mads/rdf/v1#elementValue> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#classification> "R834-R837" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4038291-6> . 
+<http://d-nb.info/gnd/4038291-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4038291-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medizinstudium"@de . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11946088c> . 
+<http://data.bnf.fr/ark:/12148/cb11946088c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11946088c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Médecine -- Étude et enseignement"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133559> . 
+<http://id.loc.gov/authorities/subjects/sh85133559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133559> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television in medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082916> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85083104 . 
+_:bnode43authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85083104 . 
+_:bnode43authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85083104 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00000057> . 
+<http://id.loc.gov/authorities/subjects/sh00000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00000057> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clinical clerkship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on methods of instruction and curricula in the teaching of medicine. General works on education in the field of medicine are entered under [Medical education.]" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Medical education]" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85083104" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85083104> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85083104#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode63authoritiessubjectssh85083104 . 
+_:bnode63authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode63authoritiessubjectssh85083104 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 2017386352: Ventura Castro, S. Historia de la educación médica dominicana, 2015:" . 
+_:bnode63authoritiessubjectssh85083104 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. ([cataloger's translation] History of Dominican medical education)"@en . 
+_:bnode63authoritiessubjectssh85083104 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85083104 . 
+_:bnode71authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85083104 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85083104 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85083104 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode78authoritiessubjectssh85083104 . 
+_:bnode78authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode78authoritiessubjectssh85083104 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2017-11-03T13:41:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85083104 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode78authoritiessubjectssh85083104 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082916> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133559> . 
+<http://id.loc.gov/authorities/subjects/sh85133559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133559> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television in medical education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00000057> . 
+<http://id.loc.gov/authorities/subjects/sh00000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00000057> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clinical clerkship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4038291-6> . 
+<http://d-nb.info/gnd/4038291-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4038291-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medizinstudium"@de . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11946088c> . 
+<http://data.bnf.fr/ark:/12148/cb11946088c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11946088c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Médecine -- Étude et enseignement"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on methods of instruction and curricula in the teaching of medicine. General works on education in the field of medicine are entered under [Medical education.]" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#example> "Note under [Medical education]" . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode118authoritiessubjectssh85083104 . 
+_:bnode118authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode118authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083104> . 
+_:bnode118authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode118authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode118authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85083104> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode126authoritiessubjectssh85083104 . 
+_:bnode126authoritiessubjectssh85083104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode126authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083104> . 
+_:bnode126authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode126authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#createdDate> "2017-11-03T13:41:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode126authoritiessubjectssh85083104 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

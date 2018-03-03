@@ -1,0 +1,109 @@
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Death (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85036102 . 
+_:bnode7authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85036102 . 
+_:bnode7authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85036102 <http://www.loc.gov/mads/rdf/v1#elementValue> "Death (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#classification> "QH530" . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#classification> "QH671" . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#classification> "QP87" . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105418> . 
+<http://id.loc.gov/authorities/subjects/sh85105418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105418> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Postmortem changes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012003775> . 
+<http://id.loc.gov/authorities/subjects/sh2012003775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012003775> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Microbial inactivation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85087372> . 
+<http://id.loc.gov/authorities/subjects/sh85087372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85087372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087372> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mortality"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087372> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode30authoritiessubjectssh85036102 . 
+_:bnode30authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode31authoritiessubjectssh85036102 . 
+_:bnode30authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode31authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode31authoritiessubjectssh85036102 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mortality"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11965100k> . 
+<http://data.bnf.fr/ark:/12148/cb11965100k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11965100k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mort (biologie)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021644> . 
+<http://id.loc.gov/authorities/subjects/sh85021644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cell death"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85076810> . 
+<http://id.loc.gov/authorities/subjects/sh85076810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85076810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076810> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Life (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85076810> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85036102 . 
+_:bnode47authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85036102 . 
+_:bnode47authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85036102 <http://www.loc.gov/mads/rdf/v1#elementValue> "Life (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036086> . 
+<http://id.loc.gov/authorities/subjects/sh85036086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036086> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Death--Causes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016363> . 
+<http://id.loc.gov/authorities/subjects/sh85016363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016363> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brain death"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014203> . 
+<http://id.loc.gov/authorities/subjects/sh85014203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014203> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014203> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85036102 . 
+_:bnode64authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85036102 . 
+_:bnode64authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85036102 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036092> . 
+<http://id.loc.gov/authorities/subjects/sh85036092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036092> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Death--Proof and certification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85036102" . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85036102> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85036102#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode79authoritiessubjectssh85036102 . 
+_:bnode79authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode79authoritiessubjectssh85036102 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh85036102 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode79authoritiessubjectssh85036102 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#prefLabel> "Death (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85076810> . 
+<http://id.loc.gov/authorities/subjects/sh85076810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Life (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014203> . 
+<http://id.loc.gov/authorities/subjects/sh85014203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105418> . 
+<http://id.loc.gov/authorities/subjects/sh85105418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Postmortem changes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012003775> . 
+<http://id.loc.gov/authorities/subjects/sh2012003775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012003775> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microbial inactivation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021644> . 
+<http://id.loc.gov/authorities/subjects/sh85021644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cell death"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036086> . 
+<http://id.loc.gov/authorities/subjects/sh85036086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Death--Causes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016363> . 
+<http://id.loc.gov/authorities/subjects/sh85016363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brain death"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036092> . 
+<http://id.loc.gov/authorities/subjects/sh85036092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036092> <http://www.w3.org/2004/02/skos/core#prefLabel> "Death--Proof and certification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85087372> . 
+<http://id.loc.gov/authorities/subjects/sh85087372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087372> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mortality"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11965100k> . 
+<http://data.bnf.fr/ark:/12148/cb11965100k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11965100k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mort (biologie)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85036102> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode140authoritiessubjectssh85036102 . 
+_:bnode140authoritiessubjectssh85036102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode140authoritiessubjectssh85036102 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85036102> . 
+_:bnode140authoritiessubjectssh85036102 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode140authoritiessubjectssh85036102 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode140authoritiessubjectssh85036102 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,111 @@
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85000535 . 
+_:bnode7authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85000535 . 
+_:bnode7authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#classification> "QP752.F35" . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode13authoritiessubjectssh85000535 . 
+_:bnode13authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode13authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode13authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Acids, Fatty"@en . 
+_:bnode13authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh85000535 . 
+_:bnode18authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh85000535 . 
+_:bnode18authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#elementValue> "Acids, Fatty"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/19252> . 
+<http://lod.nal.usda.gov/nalt/19252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/19252> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121215777> . 
+<http://data.bnf.fr/ark:/12148/cb121215777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121215777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acides gras"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99004872> . 
+<http://id.loc.gov/authorities/subjects/sh99004872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99004872> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saturated fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141196> . 
+<http://id.loc.gov/authorities/subjects/sh85141196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Unsaturated fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109812> . 
+<http://id.loc.gov/authorities/subjects/sh85109812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109812> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quercetin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85020144> . 
+<http://id.loc.gov/authorities/subjects/sh85020144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020144> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carboxylic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020144> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85000535 . 
+_:bnode47authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85000535 . 
+_:bnode47authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#elementValue> "Carboxylic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4154233-2> . 
+<http://d-nb.info/gnd/4154233-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4154233-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fettsäuren"@de . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85000535" . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85000535> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85000535#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode62authoritiessubjectssh85000535 . 
+_:bnode62authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode62authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH" . 
+_:bnode62authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Fatty acids)"@en . 
+_:bnode62authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode70authoritiessubjectssh85000535 . 
+_:bnode70authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode70authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#citation-source> "NIH" . 
+_:bnode70authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Fatty acids)"@en . 
+_:bnode70authoritiessubjectssh85000535 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode78authoritiessubjectssh85000535 . 
+_:bnode78authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode78authoritiessubjectssh85000535 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85000535 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode78authoritiessubjectssh85000535 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode85authoritiessubjectssh85000535 . 
+_:bnode85authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode85authoritiessubjectssh85000535 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-11-14T11:43:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh85000535 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode85authoritiessubjectssh85000535 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85020144> . 
+<http://id.loc.gov/authorities/subjects/sh85020144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020144> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carboxylic acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99004872> . 
+<http://id.loc.gov/authorities/subjects/sh99004872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99004872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saturated fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141196> . 
+<http://id.loc.gov/authorities/subjects/sh85141196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unsaturated fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109812> . 
+<http://id.loc.gov/authorities/subjects/sh85109812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109812> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quercetin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode115authoritiessubjectssh85000535 . 
+_:bnode115authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode115authoritiessubjectssh85000535 <http://www.w3.org/2008/05/skos-xl#literalForm> "Acids, Fatty"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#altLabel> "Acids, Fatty" . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/19252> . 
+<http://lod.nal.usda.gov/nalt/19252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/19252> <http://www.w3.org/2004/02/skos/core#prefLabel> "fatty acids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121215777> . 
+<http://data.bnf.fr/ark:/12148/cb121215777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121215777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acides gras"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4154233-2> . 
+<http://d-nb.info/gnd/4154233-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4154233-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fettsäuren"@de . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode138authoritiessubjectssh85000535 . 
+_:bnode138authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode138authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85000535> . 
+_:bnode138authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode138authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode138authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85000535> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode146authoritiessubjectssh85000535 . 
+_:bnode146authoritiessubjectssh85000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode146authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85000535> . 
+_:bnode146authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode146authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#createdDate> "1989-11-14T11:43:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode146authoritiessubjectssh85000535 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

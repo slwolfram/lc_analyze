@@ -1,0 +1,81 @@
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pressure--Measurement"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85106532 . 
+_:bnode7authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85106531> . 
+_:bnode7authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85106531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85106531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106531> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pressure"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106531> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85106532 . 
+_:bnode12authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85106532 . 
+_:bnode12authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85106532 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pressure"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96005945> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005945> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Measurement"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005945> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85106532 . 
+_:bnode20authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85106532 . 
+_:bnode20authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85106532 <http://www.loc.gov/mads/rdf/v1#elementValue> "Measurement"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#classification> "QC165" . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119667056> . 
+<http://data.bnf.fr/ark:/12148/cb119667056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119667056> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pression -- Mesure"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102506> . 
+<http://id.loc.gov/authorities/subjects/sh85102506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102506> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pitot tubes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4013113-0> . 
+<http://d-nb.info/gnd/4013113-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4013113-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Druckmessung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106546> . 
+<http://id.loc.gov/authorities/subjects/sh85106546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106546> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pressure transducers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85037591> . 
+<http://id.loc.gov/authorities/subjects/sh85037591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85037591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Diaphragms (Mechanical devices)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85037591> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85106532 . 
+_:bnode47authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85106532 . 
+_:bnode47authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85106532 <http://www.loc.gov/mads/rdf/v1#elementValue> "Diaphragms (Mechanical devices)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85106532" . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85106532> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85106532#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh85106532 . 
+_:bnode58authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh85106532 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh85106532 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh85106532 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pressure--Measurement"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85037591> . 
+<http://id.loc.gov/authorities/subjects/sh85037591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diaphragms (Mechanical devices)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102506> . 
+<http://id.loc.gov/authorities/subjects/sh85102506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102506> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pitot tubes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106546> . 
+<http://id.loc.gov/authorities/subjects/sh85106546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106546> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pressure transducers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119667056> . 
+<http://data.bnf.fr/ark:/12148/cb119667056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119667056> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pression -- Mesure"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4013113-0> . 
+<http://d-nb.info/gnd/4013113-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4013113-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Druckmessung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85106532> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh85106532 . 
+_:bnode94authoritiessubjectssh85106532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh85106532 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85106532> . 
+_:bnode94authoritiessubjectssh85106532 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode94authoritiessubjectssh85106532 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh85106532 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

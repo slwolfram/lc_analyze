@@ -1,0 +1,69 @@
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hanover (Name)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh87001792 . 
+_:bnode7authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh87001792 . 
+_:bnode7authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hanover (Name)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh87001792 . 
+_:bnode11authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Hannover (Name)"@en . 
+_:bnode11authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh87001792 . 
+_:bnode16authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh87001792 . 
+_:bnode16authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hannover (Name)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85089606> . 
+<http://id.loc.gov/authorities/subjects/sh85089606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85089606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85089606> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Names, Geographical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85089606> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh87001792 . 
+_:bnode25authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh87001792 . 
+_:bnode25authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#elementValue> "Names, Geographical"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87001792" . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87001792> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87001792#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode36authoritiessubjectssh87001792 . 
+_:bnode36authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode36authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Stockmann, H. Hanover, 65 Hanovers in North America, 1 Hanover in Germany, 1983." . 
+_:bnode36authoritiessubjectssh87001792 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode42authoritiessubjectssh87001792 . 
+_:bnode42authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode42authoritiessubjectssh87001792 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-03-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode42authoritiessubjectssh87001792 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode42authoritiessubjectssh87001792 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh87001792 . 
+_:bnode49authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh87001792 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-05-05T09:32:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh87001792 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh87001792 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hanover (Name)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode59authoritiessubjectssh87001792 . 
+_:bnode59authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode59authoritiessubjectssh87001792 <http://www.w3.org/2008/05/skos-xl#literalForm> "Hannover (Name)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2004/02/skos/core#altLabel> "Hannover (Name)" . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85089606> . 
+<http://id.loc.gov/authorities/subjects/sh85089606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85089606> <http://www.w3.org/2004/02/skos/core#prefLabel> "Names, Geographical"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2008/05/skos-xl#altLabel> "Hannover (Name)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode74authoritiessubjectssh87001792 . 
+_:bnode74authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode74authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87001792> . 
+_:bnode74authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode74authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#createdDate> "1987-03-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87001792> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh87001792 . 
+_:bnode82authoritiessubjectssh87001792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87001792> . 
+_:bnode82authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#createdDate> "1987-05-05T09:32:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh87001792 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

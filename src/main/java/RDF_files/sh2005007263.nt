@@ -1,0 +1,51 @@
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proton automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2005007263 . 
+_:bnode7authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2005007263 . 
+_:bnode7authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Proton automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2005007263 . 
+_:bnode16authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2005007263 . 
+_:bnode16authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2005007263" . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2005007263> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2005007263#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode27authoritiessubjectssh2005007263 . 
+_:bnode27authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode27authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Used Car Expert (Firm) Used Proton Compact (1994-2001) buyer's guide, c2004:" . 
+_:bnode27authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (Proton)"@en . 
+_:bnode27authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode35authoritiessubjectssh2005007263 . 
+_:bnode35authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode35authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#citation-source> "Proton web site, 14 Nov. 2005" . 
+_:bnode35authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Proton was incorporated on 7 May, 1983 to manufacture, assemble and sell motor vehicles and related products... the Malaysian Prime Minister had originally conceived the idea of a Malaysian car)"@en . 
+_:bnode35authoritiessubjectssh2005007263 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode43authoritiessubjectssh2005007263 . 
+_:bnode43authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode43authoritiessubjectssh2005007263 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-12-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode43authoritiessubjectssh2005007263 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode43authoritiessubjectssh2005007263 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode43authoritiessubjectssh2005007263 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proton automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2005007263> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode60authoritiessubjectssh2005007263 . 
+_:bnode60authoritiessubjectssh2005007263 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode60authoritiessubjectssh2005007263 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2005007263> . 
+_:bnode60authoritiessubjectssh2005007263 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode60authoritiessubjectssh2005007263 <http://purl.org/vocab/changeset/schema#createdDate> "2005-12-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh2005007263 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

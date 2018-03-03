@@ -1,0 +1,102 @@
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Titles of books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85135656 . 
+_:bnode7authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85135656 . 
+_:bnode7authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85135656 <http://www.loc.gov/mads/rdf/v1#elementValue> "Titles of books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85135656 . 
+_:bnode11authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85135656 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Book titles"@en . 
+_:bnode11authoritiessubjectssh85135656 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85135656 . 
+_:bnode16authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85135656 . 
+_:bnode16authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85135656 <http://www.loc.gov/mads/rdf/v1#elementValue> "Book titles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13318975m> . 
+<http://data.bnf.fr/ark:/12148/cb13318975m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13318975m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Titres de livres"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099994> . 
+<http://id.loc.gov/authorities/subjects/sh85099994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099994> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Permutation indexes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85135656 . 
+_:bnode33authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85135656 . 
+_:bnode33authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85135656 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4146839-9> . 
+<http://d-nb.info/gnd/4146839-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4146839-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Buchtitel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85032484> . 
+<http://id.loc.gov/authorities/subjects/sh85032484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032484> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Copyright--Titles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85135655> . 
+<http://id.loc.gov/authorities/subjects/sh85135655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85135655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135655> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Title pages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135655> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode50authoritiessubjectssh85135656 . 
+_:bnode50authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode51authoritiessubjectssh85135656 . 
+_:bnode50authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode51authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode51authoritiessubjectssh85135656 <http://www.loc.gov/mads/rdf/v1#elementValue> "Title pages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85135656" . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85135656> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85135656#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh85135656 . 
+_:bnode62authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh85135656 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85135656 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh85135656 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh85135656 . 
+_:bnode69authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh85135656 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-05-27T14:19:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh85135656 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh85135656 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titles of books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode79authoritiessubjectssh85135656 . 
+_:bnode79authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode79authoritiessubjectssh85135656 <http://www.w3.org/2008/05/skos-xl#literalForm> "Book titles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#altLabel> "Book titles" . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099994> . 
+<http://id.loc.gov/authorities/subjects/sh85099994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099994> <http://www.w3.org/2004/02/skos/core#prefLabel> "Permutation indexes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85032484> . 
+<http://id.loc.gov/authorities/subjects/sh85032484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032484> <http://www.w3.org/2004/02/skos/core#prefLabel> "Copyright--Titles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85135655> . 
+<http://id.loc.gov/authorities/subjects/sh85135655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135655> <http://www.w3.org/2004/02/skos/core#prefLabel> "Title pages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13318975m> . 
+<http://data.bnf.fr/ark:/12148/cb13318975m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13318975m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titres de livres"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4146839-9> . 
+<http://d-nb.info/gnd/4146839-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4146839-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buchtitel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2008/05/skos-xl#altLabel> "Book titles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode119authoritiessubjectssh85135656 . 
+_:bnode119authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode119authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85135656> . 
+_:bnode119authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode119authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode119authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85135656> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh85135656 . 
+_:bnode127authoritiessubjectssh85135656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85135656> . 
+_:bnode127authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode127authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#createdDate> "2004-05-27T14:19:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85135656 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

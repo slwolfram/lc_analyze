@@ -1,0 +1,104 @@
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feral animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85047811 . 
+_:bnode7authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85047811 . 
+_:bnode7authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85047811 <http://www.loc.gov/mads/rdf/v1#elementValue> "Feral animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85047811 . 
+_:bnode11authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85047811 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Animals, Feral"@en . 
+_:bnode11authoritiessubjectssh85047811 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85047811 . 
+_:bnode16authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85047811 . 
+_:bnode16authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85047811 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animals, Feral"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#classification> "SF140.F47" . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86002174> . 
+<http://id.loc.gov/authorities/subjects/sh86002174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86002174> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feral mammals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/39848> . 
+<http://lod.nal.usda.gov/nalt/39848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/39848> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "feral animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047815> . 
+<http://id.loc.gov/authorities/subjects/sh85047815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047815> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feral livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4135893-4> . 
+<http://d-nb.info/gnd/4135893-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4135893-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wildtiere"@de . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85038908> . 
+<http://id.loc.gov/authorities/subjects/sh85038908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85038908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038908> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Domestic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038908> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85047811 . 
+_:bnode43authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85047811 . 
+_:bnode43authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85047811 <http://www.loc.gov/mads/rdf/v1#elementValue> "Domestic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11930908q> . 
+<http://data.bnf.fr/ark:/12148/cb11930908q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11930908q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animaux sauvages"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96004766> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animals"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85047811 . 
+_:bnode56authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85047811 . 
+_:bnode56authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85047811 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004001402> . 
+<http://id.loc.gov/authorities/subjects/sh2004001402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004001402> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feral pigeons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85047811" . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85047811> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85047811#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85047811 . 
+_:bnode72authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85047811 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85047811 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85047811 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feral animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode82authoritiessubjectssh85047811 . 
+_:bnode82authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode82authoritiessubjectssh85047811 <http://www.w3.org/2008/05/skos-xl#literalForm> "Animals, Feral"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#altLabel> "Animals, Feral" . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96004766> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86002174> . 
+<http://id.loc.gov/authorities/subjects/sh86002174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86002174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feral mammals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047815> . 
+<http://id.loc.gov/authorities/subjects/sh85047815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047815> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feral livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004001402> . 
+<http://id.loc.gov/authorities/subjects/sh2004001402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004001402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feral pigeons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85038908> . 
+<http://id.loc.gov/authorities/subjects/sh85038908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038908> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domestic animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/39848> . 
+<http://lod.nal.usda.gov/nalt/39848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/39848> <http://www.w3.org/2004/02/skos/core#prefLabel> "feral animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4135893-4> . 
+<http://d-nb.info/gnd/4135893-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4135893-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wildtiere"@de . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11930908q> . 
+<http://data.bnf.fr/ark:/12148/cb11930908q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11930908q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animaux sauvages"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2008/05/skos-xl#altLabel> "Animals, Feral"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047811> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode132authoritiessubjectssh85047811 . 
+_:bnode132authoritiessubjectssh85047811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode132authoritiessubjectssh85047811 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85047811> . 
+_:bnode132authoritiessubjectssh85047811 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode132authoritiessubjectssh85047811 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode132authoritiessubjectssh85047811 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

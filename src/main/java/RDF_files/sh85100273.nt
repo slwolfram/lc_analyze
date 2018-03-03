@@ -1,0 +1,372 @@
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85100273 . 
+_:bnode7authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85100273 . 
+_:bnode7authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85100273 . 
+_:bnode11authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Economic poisons"@en . 
+_:bnode11authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85100273 . 
+_:bnode16authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85100273 . 
+_:bnode16authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Economic poisons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#classification> "SB950.2-SB950.3" . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#classification> "SB950.9-SB970.4" . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4045587-7> . 
+<http://d-nb.info/gnd/4045587-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4045587-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pflanzenschutzmittel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119721451> . 
+<http://data.bnf.fr/ark:/12148/cb119721451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119721451> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eaux continentales -- Pollution par les pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87008029> . 
+<http://id.loc.gov/authorities/subjects/sh87008029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87008029> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Generic pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119781413> . 
+<http://data.bnf.fr/ark:/12148/cb119781413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119781413> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticides -- Résidus"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85103951> . 
+<http://id.loc.gov/authorities/subjects/sh85103951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103951> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poisons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103951> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85100273 . 
+_:bnode45authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85100273 . 
+_:bnode45authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Poisons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85002279> . 
+<http://id.loc.gov/authorities/subjects/sh85002279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002279> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural chemicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002279> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode54authoritiessubjectssh85100273 . 
+_:bnode54authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode55authoritiessubjectssh85100273 . 
+_:bnode54authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode55authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode55authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agricultural chemicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090251> . 
+<http://id.loc.gov/authorities/subjects/sh85090251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090251> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Natural pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86000762> . 
+<http://id.loc.gov/authorities/subjects/sh86000762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86000762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11974596h> . 
+<http://data.bnf.fr/ark:/12148/cb11974596h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11974596h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plantes -- Effets des pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011000498> . 
+<http://id.loc.gov/authorities/subjects/sh2011000498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011000498> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Methyl iodide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85066663> . 
+<http://id.loc.gov/authorities/subjects/sh85066663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066663> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Insecticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb135562265> . 
+<http://data.bnf.fr/ark:/12148/cb135562265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb135562265> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Atmosphère -- Pollution par les pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85003473> . 
+<http://id.loc.gov/authorities/subjects/sh85003473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85003473> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Algicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85114802> . 
+<http://id.loc.gov/authorities/subjects/sh85114802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85114802> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rodenticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086610> . 
+<http://id.loc.gov/authorities/subjects/sh85086610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086610> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Molluscicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124439> . 
+<http://id.loc.gov/authorities/subjects/sh85124439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124439> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soils--Pesticide content"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100272> . 
+<http://id.loc.gov/authorities/subjects/sh85100272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100272> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticide resistance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052304> . 
+<http://id.loc.gov/authorities/subjects/sh85052304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052304> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fumigants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047916> . 
+<http://id.loc.gov/authorities/subjects/sh85047916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047916> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fertilizer-pesticide mixtures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb124602060> . 
+<http://data.bnf.fr/ark:/12148/cb124602060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb124602060> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teneur en pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075444> . 
+<http://id.loc.gov/authorities/subjects/sh85075444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075444> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lead arsenate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87001717> . 
+<http://id.loc.gov/authorities/subjects/sh87001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87001717> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Light-activated pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb135439819> . 
+<http://data.bnf.fr/ark:/12148/cb135439819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb135439819> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eau -- Pollution par les pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010860> . 
+<http://id.loc.gov/authorities/subjects/sh85010860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010860> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bactericides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006001697> . 
+<http://id.loc.gov/authorities/subjects/sh2006001697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006001697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rabbit baits and repellents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100269> . 
+<http://id.loc.gov/authorities/subjects/sh85100269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100269> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticide applicators (Persons)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099614> . 
+<http://id.loc.gov/authorities/subjects/sh85099614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099614> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pentachlorophenol"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094308> . 
+<http://id.loc.gov/authorities/subjects/sh85094308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094308> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oil as pesticide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000332> . 
+<http://id.loc.gov/authorities/subjects/sh85000332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000332> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acaricides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12073671s> . 
+<http://data.bnf.fr/ark:/12148/cb12073671s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12073671s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticides -- Droit -- Législation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88004962> . 
+<http://id.loc.gov/authorities/subjects/sh88004962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88004962> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sodium fluoroacetate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126992> . 
+<http://id.loc.gov/authorities/subjects/sh85126992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126992> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spraying and dusting residues in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/287> . 
+<http://lod.nal.usda.gov/nalt/287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/287> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052473> . 
+<http://id.loc.gov/authorities/subjects/sh85052473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052473> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fungicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090700> . 
+<http://id.loc.gov/authorities/subjects/sh85090700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090700> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nematocides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4137948-2> . 
+<http://d-nb.info/gnd/4137948-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4137948-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pestizid"@de . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060342> . 
+<http://id.loc.gov/authorities/subjects/sh85060342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060342> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Herbicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2003009982> . 
+<http://id.loc.gov/authorities/subjects/sh2003009982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh2003009982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003009982> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pests--Control--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2003009982> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode187authoritiessubjectssh85100273 . 
+_:bnode187authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode188authoritiessubjectssh85100273 . 
+_:bnode187authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode0195 . 
+_:bnode188authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode188authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode188authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pests"@en . 
+_:bnode188authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode192authoritiessubjectssh85100273 . 
+_:bnode192authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode193authoritiessubjectssh85100273 . 
+_:bnode192authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode193authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode193authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pests"@en . 
+_:bnode0195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode196authoritiessubjectssh85100273 . 
+_:bnode0195 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode0203 . 
+_:bnode196authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode196authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode196authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Control"@en . 
+_:bnode196authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode200authoritiessubjectssh85100273 . 
+_:bnode200authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode201authoritiessubjectssh85100273 . 
+_:bnode200authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode201authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode201authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Control"@en . 
+_:bnode0203 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode204authoritiessubjectssh85100273 . 
+_:bnode0203 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode204authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode204authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode204authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+_:bnode204authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode208authoritiessubjectssh85100273 . 
+_:bnode208authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode209authoritiessubjectssh85100273 . 
+_:bnode208authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode209authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode209authoritiessubjectssh85100273 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87007625> . 
+<http://id.loc.gov/authorities/subjects/sh87007625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87007625> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water--Pesticide content"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009009285> . 
+<http://id.loc.gov/authorities/subjects/sh2009009285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009009285> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bird baits and repellents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000321> . 
+<http://id.loc.gov/authorities/subjects/sh98000321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000321> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticide waste"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119442544> . 
+<http://data.bnf.fr/ark:/12148/cb119442544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119442544> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85124347> . 
+<http://id.loc.gov/authorities/subjects/sh85124347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85124347> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soil fumigation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004030> . 
+<http://id.loc.gov/authorities/subjects/sh85004030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004030> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aluminum phosphide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102453> . 
+<http://id.loc.gov/authorities/subjects/sh85102453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102453> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piscicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/319> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85100273" . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85100273> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85100273#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode249authoritiessubjectssh85100273 . 
+_:bnode249authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode249authoritiessubjectssh85100273 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-02-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode249authoritiessubjectssh85100273 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode249authoritiessubjectssh85100273 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode256authoritiessubjectssh85100273 . 
+_:bnode256authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode256authoritiessubjectssh85100273 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-06T08:57:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode256authoritiessubjectssh85100273 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode256authoritiessubjectssh85100273 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode266authoritiessubjectssh85100273 . 
+_:bnode266authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode266authoritiessubjectssh85100273 <http://www.w3.org/2008/05/skos-xl#literalForm> "Economic poisons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#altLabel> "Economic poisons" . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85103951> . 
+<http://id.loc.gov/authorities/subjects/sh85103951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103951> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poisons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85002279> . 
+<http://id.loc.gov/authorities/subjects/sh85002279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002279> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural chemicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2003009982> . 
+<http://id.loc.gov/authorities/subjects/sh2003009982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003009982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pests--Control--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87008029> . 
+<http://id.loc.gov/authorities/subjects/sh87008029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87008029> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generic pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090251> . 
+<http://id.loc.gov/authorities/subjects/sh85090251> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090251> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86000762> . 
+<http://id.loc.gov/authorities/subjects/sh86000762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86000762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011000498> . 
+<http://id.loc.gov/authorities/subjects/sh2011000498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011000498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Methyl iodide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85066663> . 
+<http://id.loc.gov/authorities/subjects/sh85066663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066663> <http://www.w3.org/2004/02/skos/core#prefLabel> "Insecticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85003473> . 
+<http://id.loc.gov/authorities/subjects/sh85003473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85003473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85114802> . 
+<http://id.loc.gov/authorities/subjects/sh85114802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85114802> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rodenticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086610> . 
+<http://id.loc.gov/authorities/subjects/sh85086610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molluscicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124439> . 
+<http://id.loc.gov/authorities/subjects/sh85124439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124439> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soils--Pesticide content"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100272> . 
+<http://id.loc.gov/authorities/subjects/sh85100272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100272> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticide resistance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052304> . 
+<http://id.loc.gov/authorities/subjects/sh85052304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052304> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fumigants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047916> . 
+<http://id.loc.gov/authorities/subjects/sh85047916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fertilizer-pesticide mixtures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075444> . 
+<http://id.loc.gov/authorities/subjects/sh85075444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lead arsenate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87001717> . 
+<http://id.loc.gov/authorities/subjects/sh87001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87001717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Light-activated pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010860> . 
+<http://id.loc.gov/authorities/subjects/sh85010860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010860> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bactericides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006001697> . 
+<http://id.loc.gov/authorities/subjects/sh2006001697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006001697> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rabbit baits and repellents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100269> . 
+<http://id.loc.gov/authorities/subjects/sh85100269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100269> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticide applicators (Persons)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099614> . 
+<http://id.loc.gov/authorities/subjects/sh85099614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099614> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pentachlorophenol"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094308> . 
+<http://id.loc.gov/authorities/subjects/sh85094308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094308> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oil as pesticide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000332> . 
+<http://id.loc.gov/authorities/subjects/sh85000332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acaricides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88004962> . 
+<http://id.loc.gov/authorities/subjects/sh88004962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88004962> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sodium fluoroacetate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126992> . 
+<http://id.loc.gov/authorities/subjects/sh85126992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126992> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spraying and dusting residues in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052473> . 
+<http://id.loc.gov/authorities/subjects/sh85052473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fungicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090700> . 
+<http://id.loc.gov/authorities/subjects/sh85090700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090700> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nematocides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060342> . 
+<http://id.loc.gov/authorities/subjects/sh85060342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060342> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herbicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87007625> . 
+<http://id.loc.gov/authorities/subjects/sh87007625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87007625> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water--Pesticide content"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009009285> . 
+<http://id.loc.gov/authorities/subjects/sh2009009285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009009285> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bird baits and repellents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000321> . 
+<http://id.loc.gov/authorities/subjects/sh98000321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000321> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticide waste"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85124347> . 
+<http://id.loc.gov/authorities/subjects/sh85124347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85124347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil fumigation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004030> . 
+<http://id.loc.gov/authorities/subjects/sh85004030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004030> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aluminum phosphide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102453> . 
+<http://id.loc.gov/authorities/subjects/sh85102453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piscicides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/287> . 
+<http://lod.nal.usda.gov/nalt/287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/287> <http://www.w3.org/2004/02/skos/core#prefLabel> "pesticides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/319> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4045587-7> . 
+<http://d-nb.info/gnd/4045587-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4045587-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzenschutzmittel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119721451> . 
+<http://data.bnf.fr/ark:/12148/cb119721451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119721451> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eaux continentales -- Pollution par les pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119781413> . 
+<http://data.bnf.fr/ark:/12148/cb119781413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119781413> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticides -- Résidus"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11974596h> . 
+<http://data.bnf.fr/ark:/12148/cb11974596h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11974596h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantes -- Effets des pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb135562265> . 
+<http://data.bnf.fr/ark:/12148/cb135562265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb135562265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atmosphère -- Pollution par les pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb124602060> . 
+<http://data.bnf.fr/ark:/12148/cb124602060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb124602060> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teneur en pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb135439819> . 
+<http://data.bnf.fr/ark:/12148/cb135439819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb135439819> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eau -- Pollution par les pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12073671s> . 
+<http://data.bnf.fr/ark:/12148/cb12073671s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12073671s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticides -- Droit -- Législation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4137948-2> . 
+<http://d-nb.info/gnd/4137948-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4137948-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pestizid"@de . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119442544> . 
+<http://data.bnf.fr/ark:/12148/cb119442544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119442544> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pesticides"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2008/05/skos-xl#altLabel> "Economic poisons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode502authoritiessubjectssh85100273 . 
+_:bnode502authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode502authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100273> . 
+_:bnode502authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode502authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#createdDate> "2004-02-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode502authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85100273> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode510authoritiessubjectssh85100273 . 
+_:bnode510authoritiessubjectssh85100273 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode510authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100273> . 
+_:bnode510authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode510authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-06T08:57:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode510authoritiessubjectssh85100273 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

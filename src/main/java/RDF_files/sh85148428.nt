@@ -1,0 +1,78 @@
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "World War, 1939-1945--Jews"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85148428 . 
+_:bnode7authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96006393> . 
+_:bnode7authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006393> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "World War, 1939-1945"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006393> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85148428 . 
+_:bnode12authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85148428 . 
+_:bnode12authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85148428 <http://www.loc.gov/mads/rdf/v1#elementValue> "World War, 1939-1945"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96005791> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005791> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jews"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005791> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85148428 . 
+_:bnode20authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85148428 . 
+_:bnode20authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85148428 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jews"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#classification> "D810.J4" . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85148460> . 
+<http://id.loc.gov/authorities/subjects/sh85148460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85148460> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "World War, 1939-1945--Participation, Jewish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002010036> . 
+<http://id.loc.gov/authorities/subjects/sh2002010036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002010036> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Operation Reinhard, Poland, 1942-1943"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85061515> . 
+<http://id.loc.gov/authorities/subjects/sh85061515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061515> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Holocaust, Jewish (1939-1945)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061515> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode39authoritiessubjectssh85148428 . 
+_:bnode39authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85148428 . 
+_:bnode39authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode40authoritiessubjectssh85148428 <http://www.loc.gov/mads/rdf/v1#elementValue> "Holocaust, Jewish (1939-1945)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119541302> . 
+<http://data.bnf.fr/ark:/12148/cb119541302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119541302> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guerre mondiale (1939-1945) -- Juifs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Jews]" . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85148428" . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85148428> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85148428#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh85148428 . 
+_:bnode57authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh85148428 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh85148428 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh85148428 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#prefLabel> "World War, 1939-1945--Jews"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85148460> . 
+<http://id.loc.gov/authorities/subjects/sh85148460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148460> <http://www.w3.org/2004/02/skos/core#prefLabel> "World War, 1939-1945--Participation, Jewish"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002010036> . 
+<http://id.loc.gov/authorities/subjects/sh2002010036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002010036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Operation Reinhard, Poland, 1942-1943"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85061515> . 
+<http://id.loc.gov/authorities/subjects/sh85061515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061515> <http://www.w3.org/2004/02/skos/core#prefLabel> "Holocaust, Jewish (1939-1945)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119541302> . 
+<http://data.bnf.fr/ark:/12148/cb119541302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119541302> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guerre mondiale (1939-1945) -- Juifs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#example> "Example under [Jews]" . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85148428> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh85148428 . 
+_:bnode90authoritiessubjectssh85148428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh85148428 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85148428> . 
+_:bnode90authoritiessubjectssh85148428 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh85148428 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85148428 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,136 @@
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85039599 . 
+_:bnode7authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85039599 . 
+_:bnode7authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementValue> "Drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85039599 . 
+_:bnode11authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Potable water"@en . 
+_:bnode11authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85039599 . 
+_:bnode16authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85039599 . 
+_:bnode16authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementValue> "Potable water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85039599 . 
+_:bnode20authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Tap water"@en . 
+_:bnode20authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85039599 . 
+_:bnode25authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85039599 . 
+_:bnode25authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tap water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/18867> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4060916-9> . 
+<http://d-nb.info/gnd/4060916-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4060916-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Trinkwasser"@de . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11934160k> . 
+<http://data.bnf.fr/ark:/12148/cb11934160k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11934160k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eau potable"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/18867> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039606> . 
+<http://id.loc.gov/authorities/subjects/sh85039606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039606> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bottled water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85013504> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode54authoritiessubjectssh85039599 . 
+_:bnode54authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode55authoritiessubjectssh85039599 . 
+_:bnode54authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode55authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode55authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementValue> "Beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/34569> . 
+<http://lod.nal.usda.gov/nalt/34569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/34569> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "tap water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/29181> . 
+<http://purl.org/bncf/tid/29181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/29181> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acque potabili"@it . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85051939> . 
+<http://id.loc.gov/authorities/subjects/sh85051939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85051939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051939> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fresh water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051939> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode71authoritiessubjectssh85039599 . 
+_:bnode71authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode72authoritiessubjectssh85039599 . 
+_:bnode71authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode72authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode72authoritiessubjectssh85039599 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fresh water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://content.glin.gov/subjectTerm/1815> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85039599" . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85039599> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85039599#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85039599 . 
+_:bnode84authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85039599 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-12-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85039599 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85039599 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode91authoritiessubjectssh85039599 . 
+_:bnode91authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode91authoritiessubjectssh85039599 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-02-01T13:23:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiessubjectssh85039599 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode91authoritiessubjectssh85039599 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode101authoritiessubjectssh85039599 . 
+_:bnode101authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode101authoritiessubjectssh85039599 <http://www.w3.org/2008/05/skos-xl#literalForm> "Potable water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#altLabel> "Potable water" . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode108authoritiessubjectssh85039599 . 
+_:bnode108authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode108authoritiessubjectssh85039599 <http://www.w3.org/2008/05/skos-xl#literalForm> "Tap water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#altLabel> "Tap water" . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85013504> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85051939> . 
+<http://id.loc.gov/authorities/subjects/sh85051939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051939> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fresh water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039606> . 
+<http://id.loc.gov/authorities/subjects/sh85039606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039606> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bottled water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/18867> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4060916-9> . 
+<http://d-nb.info/gnd/4060916-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4060916-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trinkwasser"@de . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11934160k> . 
+<http://data.bnf.fr/ark:/12148/cb11934160k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11934160k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eau potable"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/18867> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18867> <http://www.w3.org/2004/02/skos/core#prefLabel> "drinking water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/34569> . 
+<http://lod.nal.usda.gov/nalt/34569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/34569> <http://www.w3.org/2004/02/skos/core#prefLabel> "tap water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/29181> . 
+<http://purl.org/bncf/tid/29181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/29181> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acque potabili"@it . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://content.glin.gov/subjectTerm/1815> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2008/05/skos-xl#altLabel> "Potable water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2008/05/skos-xl#altLabel> "Tap water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode166authoritiessubjectssh85039599 . 
+_:bnode166authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode166authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85039599> . 
+_:bnode166authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode166authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#createdDate> "2005-12-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85039599> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode174authoritiessubjectssh85039599 . 
+_:bnode174authoritiessubjectssh85039599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode174authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85039599> . 
+_:bnode174authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode174authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#createdDate> "2006-02-01T13:23:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode174authoritiessubjectssh85039599 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

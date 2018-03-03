@@ -1,0 +1,118 @@
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Canada--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85019332 . 
+_:bnode7authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79007233> . 
+_:bnode7authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n79007233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79007233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79007233> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Canada"@en . 
+<http://id.loc.gov/authorities/names/n79007233> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85019332 . 
+_:bnode12authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85019332 . 
+_:bnode12authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85019332 <http://www.loc.gov/mads/rdf/v1#elementValue> "Canada"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85019332 . 
+_:bnode20authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85019332 . 
+_:bnode20authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85019332 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99002788> . 
+<http://id.loc.gov/authorities/subjects/sh99002788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002788> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Signed English"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099551> . 
+<http://id.loc.gov/authorities/subjects/sh85099551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099551> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pennsylvania German dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002797> . 
+<http://id.loc.gov/authorities/subjects/sh90002797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002797> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inuit language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002009969> . 
+<http://id.loc.gov/authorities/subjects/sh2002009969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002009969> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quebec Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135529> . 
+<http://id.loc.gov/authorities/subjects/sh85135529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135529> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tinne languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85033883> . 
+<http://id.loc.gov/authorities/subjects/sh85033883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85033883> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cree language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084691> . 
+<http://id.loc.gov/authorities/subjects/sh85084691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084691> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Michif language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024429> . 
+<http://id.loc.gov/authorities/subjects/sh85024429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024429> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ojibwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002806> . 
+<http://id.loc.gov/authorities/subjects/sh90002806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002806> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inuktitut dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91002945> . 
+<http://id.loc.gov/authorities/subjects/sh91002945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91002945> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "American Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85019332> . 
+<http://id.loc.gov/rwo/agents/sh85019332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85019332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85019332" . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85019332> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85019332#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode74authoritiessubjectssh85019332 . 
+_:bnode74authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode74authoritiessubjectssh85019332 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh85019332 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode74authoritiessubjectssh85019332 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode81authoritiessubjectssh85019332 . 
+_:bnode81authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode81authoritiessubjectssh85019332 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-01-10T10:30:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh85019332 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode81authoritiessubjectssh85019332 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99002788> . 
+<http://id.loc.gov/authorities/subjects/sh99002788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002788> <http://www.w3.org/2004/02/skos/core#prefLabel> "Signed English"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099551> . 
+<http://id.loc.gov/authorities/subjects/sh85099551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pennsylvania German dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002797> . 
+<http://id.loc.gov/authorities/subjects/sh90002797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inuit language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002009969> . 
+<http://id.loc.gov/authorities/subjects/sh2002009969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002009969> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quebec Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135529> . 
+<http://id.loc.gov/authorities/subjects/sh85135529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tinne languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85033883> . 
+<http://id.loc.gov/authorities/subjects/sh85033883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033883> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cree language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084691> . 
+<http://id.loc.gov/authorities/subjects/sh85084691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084691> <http://www.w3.org/2004/02/skos/core#prefLabel> "Michif language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024429> . 
+<http://id.loc.gov/authorities/subjects/sh85024429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ojibwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002806> . 
+<http://id.loc.gov/authorities/subjects/sh90002806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002806> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inuktitut dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91002945> . 
+<http://id.loc.gov/authorities/subjects/sh91002945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91002945> <http://www.w3.org/2004/02/skos/core#prefLabel> "American Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode142authoritiessubjectssh85019332 . 
+_:bnode142authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode142authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85019332> . 
+_:bnode142authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode142authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode142authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85019332> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode150authoritiessubjectssh85019332 . 
+_:bnode150authoritiessubjectssh85019332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode150authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85019332> . 
+_:bnode150authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode150authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#createdDate> "1995-01-10T10:30:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode150authoritiessubjectssh85019332 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

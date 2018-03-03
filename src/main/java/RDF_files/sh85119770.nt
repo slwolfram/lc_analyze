@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Self medication"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85119770 . 
+_:bnode7authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85119770 . 
+_:bnode7authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85119770 <http://www.loc.gov/mads/rdf/v1#elementValue> "Self medication"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85119770 . 
+_:bnode11authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85119770 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Medication, Self"@en . 
+_:bnode11authoritiessubjectssh85119770 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85119770 . 
+_:bnode16authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85119770 . 
+_:bnode16authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85119770 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medication, Self"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083061> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medication errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85119714> . 
+<http://id.loc.gov/authorities/subjects/sh85119714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119714> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Self-care, Health"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119714> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85119770 . 
+_:bnode29authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85119770 . 
+_:bnode29authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85119770 <http://www.loc.gov/mads/rdf/v1#elementValue> "Self-care, Health"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12104115w> . 
+<http://data.bnf.fr/ark:/12148/cb12104115w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12104115w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automédication"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85134723> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85119770 . 
+_:bnode42authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85119770 . 
+_:bnode42authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh85119770 <http://www.loc.gov/mads/rdf/v1#elementValue> "Therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93002701> . 
+<http://id.loc.gov/authorities/subjects/sh93002701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93002701> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Patient-controlled analgesia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85119770" . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85119770> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85119770#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh85119770 . 
+_:bnode58authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh85119770 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh85119770 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh85119770 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self medication"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode68authoritiessubjectssh85119770 . 
+_:bnode68authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode68authoritiessubjectssh85119770 <http://www.w3.org/2008/05/skos-xl#literalForm> "Medication, Self"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#altLabel> "Medication, Self" . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85119714> . 
+<http://id.loc.gov/authorities/subjects/sh85119714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119714> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-care, Health"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85134723> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083061> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medication errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93002701> . 
+<http://id.loc.gov/authorities/subjects/sh93002701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93002701> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patient-controlled analgesia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12104115w> . 
+<http://data.bnf.fr/ark:/12148/cb12104115w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12104115w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automédication"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2008/05/skos-xl#altLabel> "Medication, Self"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119770> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh85119770 . 
+_:bnode103authoritiessubjectssh85119770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh85119770 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85119770> . 
+_:bnode103authoritiessubjectssh85119770 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode103authoritiessubjectssh85119770 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh85119770 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

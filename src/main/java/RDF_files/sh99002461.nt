@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cooking--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh99002461 . 
+_:bnode7authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2010008400> . 
+_:bnode7authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh2010008400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2010008400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010008400> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cooking"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010008400> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh99002461 . 
+_:bnode12authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh99002461 . 
+_:bnode12authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh99002461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cooking"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh99002461 . 
+_:bnode20authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh99002461 . 
+_:bnode20authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh99002461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#classification> "TX656-TX658" . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128425> . 
+<http://id.loc.gov/authorities/subjects/sh85128425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stoves"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99005844> . 
+<http://id.loc.gov/authorities/subjects/sh99005844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99005844> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tilting frypans"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072573> . 
+<http://id.loc.gov/authorities/subjects/sh85072573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072573> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kitchen utensils"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99002432> . 
+<http://id.loc.gov/authorities/subjects/sh99002432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002432> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kitchen appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 99002461" . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh99002461> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh99002461#concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh99002461 . 
+_:bnode49authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-03-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode49authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh99002461 . 
+_:bnode57authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-06-17T07:57:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode57authoritiessubjectssh99002461 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cooking--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128425> . 
+<http://id.loc.gov/authorities/subjects/sh85128425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stoves"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99005844> . 
+<http://id.loc.gov/authorities/subjects/sh99005844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99005844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tilting frypans"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072573> . 
+<http://id.loc.gov/authorities/subjects/sh85072573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kitchen utensils"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99002432> . 
+<http://id.loc.gov/authorities/subjects/sh99002432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kitchen appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh99002461 . 
+_:bnode89authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh99002461> . 
+_:bnode89authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode89authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#createdDate> "1999-03-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh99002461> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh99002461 . 
+_:bnode97authoritiessubjectssh99002461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh99002461> . 
+_:bnode97authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#createdDate> "2010-06-17T07:57:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh99002461 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

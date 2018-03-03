@@ -1,0 +1,398 @@
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85052213 . 
+_:bnode7authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85052213 . 
+_:bnode7authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85052213 . 
+_:bnode11authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Fuels"@en . 
+_:bnode11authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85052213 . 
+_:bnode16authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85052213 . 
+_:bnode16authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#classification> "TP315-TP360" . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013001628> . 
+<http://id.loc.gov/authorities/subjects/sh2013001628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013001628> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coconut oil as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85013232> . 
+<http://id.loc.gov/authorities/subjects/sh85013232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85013232> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Benzene as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85113898> . 
+<http://id.loc.gov/authorities/subjects/sh85113898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rice hulls as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85003274> . 
+<http://id.loc.gov/authorities/subjects/sh85003274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85003274> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alcohol as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85076947> . 
+<http://id.loc.gov/authorities/subjects/sh85076947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076947> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lignite"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94003323> . 
+<http://id.loc.gov/authorities/subjects/sh94003323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94003323> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Waste tires as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028838> . 
+<http://id.loc.gov/authorities/subjects/sh85028838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028838> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Combustion deposits in engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4008186-2> . 
+<http://d-nb.info/gnd/4008186-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4008186-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brennstoff"@de . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131653> . 
+<http://id.loc.gov/authorities/subjects/sh85131653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131653> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Synthesis gas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005549> . 
+<http://id.loc.gov/authorities/subjects/sh85005549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anthracite coal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85043133> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Energy crops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11966520j> . 
+<http://data.bnf.fr/ark:/12148/cb11966520j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11966520j> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carburants"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009008128> . 
+<http://id.loc.gov/authorities/subjects/sh2009008128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009008128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethanol as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131661> . 
+<http://id.loc.gov/authorities/subjects/sh85131661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Synthetic fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85041890> . 
+<http://id.loc.gov/authorities/subjects/sh85041890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041890> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric power-plants--Conversion to coal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099078> . 
+<http://id.loc.gov/authorities/subjects/sh85099078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099078> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Peat"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86001369> . 
+<http://id.loc.gov/authorities/subjects/sh86001369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86001369> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coal-water fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4132517-5> . 
+<http://d-nb.info/gnd/4132517-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4132517-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Betriebsstoff"@de . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85032789> . 
+<http://id.loc.gov/authorities/subjects/sh85032789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032789> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Corn stover as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088244> . 
+<http://id.loc.gov/authorities/subjects/sh85088244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088244> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mud fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112324> . 
+<http://id.loc.gov/authorities/subjects/sh85112324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112324> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Refuse as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002414> . 
+<http://id.loc.gov/authorities/subjects/sh85002414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002414> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural wastes as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006641> . 
+<http://id.loc.gov/authorities/subjects/sh88006641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006641> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wood waste as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077366> . 
+<http://id.loc.gov/authorities/subjects/sh85077366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Liquid fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85015876> . 
+<http://id.loc.gov/authorities/subjects/sh85015876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015876> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Boron as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85105992> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Power resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode127authoritiessubjectssh85052213 . 
+_:bnode127authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode128authoritiessubjectssh85052213 . 
+_:bnode127authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode128authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode128authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#elementValue> "Power resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003463> . 
+<http://id.loc.gov/authorities/subjects/sh92003463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003463> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric power-plants--Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022633> . 
+<http://id.loc.gov/authorities/subjects/sh85022633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022633> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Charcoal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142485> . 
+<http://id.loc.gov/authorities/subjects/sh85142485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142485> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vegetable oils as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083581> . 
+<http://id.loc.gov/authorities/subjects/sh85083581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083581> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mennonite grass-burner"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119763148> . 
+<http://data.bnf.fr/ark:/12148/cb119763148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119763148> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Combustibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96007210> . 
+<http://id.loc.gov/authorities/subjects/sh96007210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96007210> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Smokeless fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016937> . 
+<http://id.loc.gov/authorities/subjects/sh85016937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016937> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Briquets (Fuel)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85051023> . 
+<http://id.loc.gov/authorities/subjects/sh85051023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051023> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fossil fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011864> . 
+<http://id.loc.gov/authorities/subjects/sh85011864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011864> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bark as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88001772> . 
+<http://id.loc.gov/authorities/subjects/sh88001772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88001772> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stumpwood as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85145427> . 
+<http://id.loc.gov/authorities/subjects/sh85145427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145427> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Waste products as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027346> . 
+<http://id.loc.gov/authorities/subjects/sh85027346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027346> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coal-fired power plants--Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084031> . 
+<http://id.loc.gov/authorities/subjects/sh85084031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084031> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metal-base fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008704> . 
+<http://id.loc.gov/authorities/subjects/sh85008704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008704> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Asphalt as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084384> . 
+<http://id.loc.gov/authorities/subjects/sh85084384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Methanol as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063422> . 
+<http://id.loc.gov/authorities/subjects/sh85063422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063422> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hydrogen as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004014933> . 
+<http://id.loc.gov/authorities/subjects/sh2004014933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004014933> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Propane as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059901> . 
+<http://id.loc.gov/authorities/subjects/sh85059901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059901> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hecter fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052228> . 
+<http://id.loc.gov/authorities/subjects/sh85052228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052228> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuelwood"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85087580> . 
+<http://id.loc.gov/authorities/subjects/sh85087580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087580> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120526> . 
+<http://id.loc.gov/authorities/subjects/sh85120526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120526> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sewage sludge fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128542> . 
+<http://id.loc.gov/authorities/subjects/sh85128542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128542> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Straw as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/17362> . 
+<http://lod.nal.usda.gov/nalt/17362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/17362> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092992> . 
+<http://id.loc.gov/authorities/subjects/sh85092992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092992> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006642> . 
+<http://id.loc.gov/authorities/subjects/sh88006642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006642> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crop residues as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014231> . 
+<http://id.loc.gov/authorities/subjects/sh85014231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014231> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biomass energy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052513> . 
+<http://id.loc.gov/authorities/subjects/sh85052513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052513> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Furnaces--Conversion to coal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004000368> . 
+<http://id.loc.gov/authorities/subjects/sh2004000368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004000368> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kerosene as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000471> . 
+<http://id.loc.gov/authorities/subjects/sh85000471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000471> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acetylene as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Fuel] under military services, e.g. [United States.  Navy--Fuel;] subdivision [Fuel supplies] under wars, e.g. [World War, 1939-1945--Fuel supplies;] and subdivisions [Fuel, Fuel consumption] and [Fuel systems] under equipment, e.g. [Jet planes--Fuel; Steam-boilers--Fuel consumption; Automobiles--Fuel systems]" . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85052213" . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85052213> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85052213#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode257authoritiessubjectssh85052213 . 
+_:bnode257authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode257authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#citation-source> "UMI business vocab." . 
+_:bnode257authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Fuels)"@en . 
+_:bnode257authoritiessubjectssh85052213 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode265authoritiessubjectssh85052213 . 
+_:bnode265authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode265authoritiessubjectssh85052213 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode265authoritiessubjectssh85052213 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode265authoritiessubjectssh85052213 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode272authoritiessubjectssh85052213 . 
+_:bnode272authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode272authoritiessubjectssh85052213 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-11-07T07:53:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode272authoritiessubjectssh85052213 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode272authoritiessubjectssh85052213 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode282authoritiessubjectssh85052213 . 
+_:bnode282authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode282authoritiessubjectssh85052213 <http://www.w3.org/2008/05/skos-xl#literalForm> "Fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#altLabel> "Fuels" . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85105992> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/2004/02/skos/core#prefLabel> "Power resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013001628> . 
+<http://id.loc.gov/authorities/subjects/sh2013001628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013001628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coconut oil as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85013232> . 
+<http://id.loc.gov/authorities/subjects/sh85013232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85013232> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benzene as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85113898> . 
+<http://id.loc.gov/authorities/subjects/sh85113898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rice hulls as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85003274> . 
+<http://id.loc.gov/authorities/subjects/sh85003274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85003274> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alcohol as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85076947> . 
+<http://id.loc.gov/authorities/subjects/sh85076947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076947> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lignite"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94003323> . 
+<http://id.loc.gov/authorities/subjects/sh94003323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94003323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waste tires as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028838> . 
+<http://id.loc.gov/authorities/subjects/sh85028838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028838> <http://www.w3.org/2004/02/skos/core#prefLabel> "Combustion deposits in engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131653> . 
+<http://id.loc.gov/authorities/subjects/sh85131653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synthesis gas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005549> . 
+<http://id.loc.gov/authorities/subjects/sh85005549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anthracite coal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85043133> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Energy crops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009008128> . 
+<http://id.loc.gov/authorities/subjects/sh2009008128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009008128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethanol as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131661> . 
+<http://id.loc.gov/authorities/subjects/sh85131661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Synthetic fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85041890> . 
+<http://id.loc.gov/authorities/subjects/sh85041890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric power-plants--Conversion to coal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099078> . 
+<http://id.loc.gov/authorities/subjects/sh85099078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099078> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peat"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86001369> . 
+<http://id.loc.gov/authorities/subjects/sh86001369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86001369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coal-water fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85032789> . 
+<http://id.loc.gov/authorities/subjects/sh85032789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032789> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corn stover as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088244> . 
+<http://id.loc.gov/authorities/subjects/sh85088244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mud fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112324> . 
+<http://id.loc.gov/authorities/subjects/sh85112324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112324> <http://www.w3.org/2004/02/skos/core#prefLabel> "Refuse as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002414> . 
+<http://id.loc.gov/authorities/subjects/sh85002414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002414> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural wastes as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006641> . 
+<http://id.loc.gov/authorities/subjects/sh88006641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wood waste as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077366> . 
+<http://id.loc.gov/authorities/subjects/sh85077366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liquid fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85015876> . 
+<http://id.loc.gov/authorities/subjects/sh85015876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boron as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003463> . 
+<http://id.loc.gov/authorities/subjects/sh92003463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003463> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric power-plants--Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022633> . 
+<http://id.loc.gov/authorities/subjects/sh85022633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022633> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charcoal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142485> . 
+<http://id.loc.gov/authorities/subjects/sh85142485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142485> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vegetable oils as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083581> . 
+<http://id.loc.gov/authorities/subjects/sh85083581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083581> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mennonite grass-burner"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96007210> . 
+<http://id.loc.gov/authorities/subjects/sh96007210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96007210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Smokeless fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016937> . 
+<http://id.loc.gov/authorities/subjects/sh85016937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Briquets (Fuel)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85051023> . 
+<http://id.loc.gov/authorities/subjects/sh85051023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051023> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fossil fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011864> . 
+<http://id.loc.gov/authorities/subjects/sh85011864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bark as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88001772> . 
+<http://id.loc.gov/authorities/subjects/sh88001772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stumpwood as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85145427> . 
+<http://id.loc.gov/authorities/subjects/sh85145427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145427> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waste products as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027346> . 
+<http://id.loc.gov/authorities/subjects/sh85027346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coal-fired power plants--Fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084031> . 
+<http://id.loc.gov/authorities/subjects/sh85084031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084031> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metal-base fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008704> . 
+<http://id.loc.gov/authorities/subjects/sh85008704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asphalt as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084384> . 
+<http://id.loc.gov/authorities/subjects/sh85084384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084384> <http://www.w3.org/2004/02/skos/core#prefLabel> "Methanol as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063422> . 
+<http://id.loc.gov/authorities/subjects/sh85063422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063422> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydrogen as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004014933> . 
+<http://id.loc.gov/authorities/subjects/sh2004014933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004014933> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propane as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059901> . 
+<http://id.loc.gov/authorities/subjects/sh85059901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hecter fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052228> . 
+<http://id.loc.gov/authorities/subjects/sh85052228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052228> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fuelwood"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85087580> . 
+<http://id.loc.gov/authorities/subjects/sh85087580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087580> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120526> . 
+<http://id.loc.gov/authorities/subjects/sh85120526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120526> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sewage sludge fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128542> . 
+<http://id.loc.gov/authorities/subjects/sh85128542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128542> <http://www.w3.org/2004/02/skos/core#prefLabel> "Straw as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092992> . 
+<http://id.loc.gov/authorities/subjects/sh85092992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092992> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006642> . 
+<http://id.loc.gov/authorities/subjects/sh88006642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006642> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crop residues as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014231> . 
+<http://id.loc.gov/authorities/subjects/sh85014231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014231> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biomass energy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052513> . 
+<http://id.loc.gov/authorities/subjects/sh85052513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052513> <http://www.w3.org/2004/02/skos/core#prefLabel> "Furnaces--Conversion to coal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004000368> . 
+<http://id.loc.gov/authorities/subjects/sh2004000368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004000368> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerosene as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000471> . 
+<http://id.loc.gov/authorities/subjects/sh85000471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acetylene as fuel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4008186-2> . 
+<http://d-nb.info/gnd/4008186-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4008186-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brennstoff"@de . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11966520j> . 
+<http://data.bnf.fr/ark:/12148/cb11966520j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11966520j> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carburants"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4132517-5> . 
+<http://d-nb.info/gnd/4132517-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4132517-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Betriebsstoff"@de . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119763148> . 
+<http://data.bnf.fr/ark:/12148/cb119763148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119763148> <http://www.w3.org/2004/02/skos/core#prefLabel> "Combustibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/17362> . 
+<http://lod.nal.usda.gov/nalt/17362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/17362> <http://www.w3.org/2004/02/skos/core#prefLabel> "fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Fuel] under military services, e.g. [United States. Navy--Fuel;] subdivision [Fuel supplies] under wars, e.g. [World War, 1939-1945--Fuel supplies;] and subdivisions [Fuel, Fuel consumption] and [Fuel systems] under equipment, e.g. [Jet planes--Fuel; Steam-boilers--Fuel consumption; Automobiles--Fuel systems]" . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2008/05/skos-xl#altLabel> "Fuels"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode569authoritiessubjectssh85052213 . 
+_:bnode569authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode569authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85052213> . 
+_:bnode569authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode569authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode569authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85052213> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode577authoritiessubjectssh85052213 . 
+_:bnode577authoritiessubjectssh85052213 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode577authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85052213> . 
+_:bnode577authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode577authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#createdDate> "2007-11-07T07:53:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode577authoritiessubjectssh85052213 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,87 @@
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chocolate drinks"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96008465 . 
+_:bnode7authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96008465 . 
+_:bnode7authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chocolate drinks"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh96008465 . 
+_:bnode11authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chocolate beverages"@en . 
+_:bnode11authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh96008465 . 
+_:bnode16authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh96008465 . 
+_:bnode16authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chocolate beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb166016912> . 
+<http://data.bnf.fr/ark:/12148/cb166016912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb166016912> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Boissons chocolatées"@fr . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85013504> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh96008465 . 
+_:bnode29authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh96008465 . 
+_:bnode29authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#elementValue> "Beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009004868> . 
+<http://id.loc.gov/authorities/subjects/sh2009004868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009004868> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chocolate milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96008465" . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96008465> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96008465#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh96008465 . 
+_:bnode45authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 95-30346: Tekulsky, M. Making your own gourmet chocolate drinks, c1996." . 
+_:bnode45authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh96008465 . 
+_:bnode51authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hennepin" . 
+_:bnode51authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Chocolate drinks)"@en . 
+_:bnode51authoritiessubjectssh96008465 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh96008465 . 
+_:bnode59authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh96008465 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-08-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh96008465 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh96008465 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh96008465 . 
+_:bnode66authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh96008465 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-09-18T11:20:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh96008465 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh96008465 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chocolate drinks"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode76authoritiessubjectssh96008465 . 
+_:bnode76authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode76authoritiessubjectssh96008465 <http://www.w3.org/2008/05/skos-xl#literalForm> "Chocolate beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#altLabel> "Chocolate beverages" . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85013504> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85013504> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009004868> . 
+<http://id.loc.gov/authorities/subjects/sh2009004868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009004868> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chocolate milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb166016912> . 
+<http://data.bnf.fr/ark:/12148/cb166016912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb166016912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boissons chocolatées"@fr . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2008/05/skos-xl#altLabel> "Chocolate beverages"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode101authoritiessubjectssh96008465 . 
+_:bnode101authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode101authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96008465> . 
+_:bnode101authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+_:bnode101authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#createdDate> "1996-08-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96008465> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode109authoritiessubjectssh96008465 . 
+_:bnode109authoritiessubjectssh96008465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode109authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96008465> . 
+_:bnode109authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mnmhcl> . 
+_:bnode109authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#createdDate> "1996-09-18T11:20:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode109authoritiessubjectssh96008465 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

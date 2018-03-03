@@ -1,0 +1,102 @@
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85053732 . 
+_:bnode7authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85053732 . 
+_:bnode7authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85053732 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85053732 . 
+_:bnode11authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85053732 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Amplification, Gene"@en . 
+_:bnode11authoritiessubjectssh85053732 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85053732 . 
+_:bnode16authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85053732 . 
+_:bnode16authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85053732 <http://www.loc.gov/mads/rdf/v1#elementValue> "Amplification, Gene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#classification> "QH450.3" . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/8126> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121493609> . 
+<http://data.bnf.fr/ark:/12148/cb121493609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121493609> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amplification génique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4333686-3> . 
+<http://d-nb.info/gnd/4333686-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4333686-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genamplifikation"@de . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh89002539> . 
+<http://id.loc.gov/authorities/subjects/sh89002539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89002539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89002539> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Polymerase chain reaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh89002539> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode39authoritiessubjectssh85053732 . 
+_:bnode39authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85053732 . 
+_:bnode39authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode40authoritiessubjectssh85053732 <http://www.loc.gov/mads/rdf/v1#elementValue> "Polymerase chain reaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/8126> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053734> . 
+<http://id.loc.gov/authorities/subjects/sh85053734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053734> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gene expression"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053734> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85053732 . 
+_:bnode52authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85053732 . 
+_:bnode52authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85053732 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gene expression"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85053732" . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85053732> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85053732#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh85053732 . 
+_:bnode63authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh85053732 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh85053732 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh85053732 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh85053732 . 
+_:bnode70authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh85053732 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-07-28T17:57:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh85053732 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh85053732 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh85053732 . 
+_:bnode80authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh85053732 <http://www.w3.org/2008/05/skos-xl#literalForm> "Amplification, Gene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#altLabel> "Amplification, Gene" . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh89002539> . 
+<http://id.loc.gov/authorities/subjects/sh89002539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89002539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polymerase chain reaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053734> . 
+<http://id.loc.gov/authorities/subjects/sh85053734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gene expression"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/8126> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.w3.org/2004/02/skos/core#prefLabel> "gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/8126> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/8126> <http://www.w3.org/2004/02/skos/core#prefLabel> "gene amplification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121493609> . 
+<http://data.bnf.fr/ark:/12148/cb121493609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121493609> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amplification génique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4333686-3> . 
+<http://d-nb.info/gnd/4333686-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4333686-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genamplifikation"@de . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2008/05/skos-xl#altLabel> "Amplification, Gene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode120authoritiessubjectssh85053732 . 
+_:bnode120authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode120authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053732> . 
+_:bnode120authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode120authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85053732> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode128authoritiessubjectssh85053732 . 
+_:bnode128authoritiessubjectssh85053732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode128authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053732> . 
+_:bnode128authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode128authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#createdDate> "1992-07-28T17:57:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh85053732 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

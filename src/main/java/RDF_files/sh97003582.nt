@@ -1,0 +1,57 @@
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motion pictures for men"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh97003582 . 
+_:bnode7authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh97003582 . 
+_:bnode7authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh97003582 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motion pictures for men"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#classification> "PN1995.9.M46" . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85083510> . 
+<http://id.loc.gov/authorities/subjects/sh85083510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083510> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Men"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083510> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh97003582 . 
+_:bnode18authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh97003582 . 
+_:bnode18authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh97003582 <http://www.loc.gov/mads/rdf/v1#elementValue> "Men"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 97003582" . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh97003582> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh97003582#concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode30authoritiessubjectssh97003582 . 
+_:bnode30authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode30authoritiessubjectssh97003582 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 97-16675: The guys' guide to guys' videos, 1997." . 
+_:bnode30authoritiessubjectssh97003582 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode36authoritiessubjectssh97003582 . 
+_:bnode36authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode36authoritiessubjectssh97003582 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-04-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode36authoritiessubjectssh97003582 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode36authoritiessubjectssh97003582 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode43authoritiessubjectssh97003582 . 
+_:bnode43authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode43authoritiessubjectssh97003582 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-05-30T11:39:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode43authoritiessubjectssh97003582 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode43authoritiessubjectssh97003582 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motion pictures for men"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85083510> . 
+<http://id.loc.gov/authorities/subjects/sh85083510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Men"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode59authoritiessubjectssh97003582 . 
+_:bnode59authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode59authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97003582> . 
+_:bnode59authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode59authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#createdDate> "1997-04-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh97003582> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode67authoritiessubjectssh97003582 . 
+_:bnode67authoritiessubjectssh97003582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode67authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97003582> . 
+_:bnode67authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode67authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#createdDate> "1997-05-30T11:39:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh97003582 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

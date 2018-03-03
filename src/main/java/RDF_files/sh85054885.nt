@@ -1,0 +1,73 @@
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gift shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85054885 . 
+_:bnode7authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85054885 . 
+_:bnode7authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85054885 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gift shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#classification> "HF5469.6" . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12011002k> . 
+<http://data.bnf.fr/ark:/12148/cb12011002k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12011002k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Magasins de cadeaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062243> . 
+<http://id.loc.gov/authorities/subjects/sh85062243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062243> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hospital gift shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4020512-5> . 
+<http://d-nb.info/gnd/4020512-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4020512-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geschenkartikelhandel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85126386> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Specialty stores"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode30authoritiessubjectssh85054885 . 
+_:bnode30authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode31authoritiessubjectssh85054885 . 
+_:bnode30authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode31authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode31authoritiessubjectssh85054885 <http://www.loc.gov/mads/rdf/v1#elementValue> "Specialty stores"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12011002k> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85054885" . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85054885> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85054885#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode43authoritiessubjectssh85054885 . 
+_:bnode43authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode43authoritiessubjectssh85054885 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode43authoritiessubjectssh85054885 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode43authoritiessubjectssh85054885 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh85054885 . 
+_:bnode50authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh85054885 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2011-04-26T10:26:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh85054885 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh85054885 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gift shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85126386> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specialty stores"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062243> . 
+<http://id.loc.gov/authorities/subjects/sh85062243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hospital gift shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12011002k> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12011002k> . 
+<http://data.bnf.fr/ark:/12148/cb12011002k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12011002k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magasins de cadeaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4020512-5> . 
+<http://d-nb.info/gnd/4020512-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4020512-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geschenkartikelhandel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh85054885 . 
+_:bnode82authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85054885> . 
+_:bnode82authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85054885> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh85054885 . 
+_:bnode90authoritiessubjectssh85054885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85054885> . 
+_:bnode90authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#createdDate> "2011-04-26T10:26:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85054885 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

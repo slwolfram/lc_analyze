@@ -1,0 +1,79 @@
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Knife fighting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85072685 . 
+_:bnode7authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85072685 . 
+_:bnode7authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85072685 <http://www.loc.gov/mads/rdf/v1#elementValue> "Knife fighting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85072685 . 
+_:bnode11authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85072685 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Fighting, Knife"@en . 
+_:bnode11authoritiessubjectssh85072685 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85072685 . 
+_:bnode16authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85072685 . 
+_:bnode16authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85072685 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fighting, Knife"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#classification> "GV1150.7" . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85119726> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Self-defense"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85072685 . 
+_:bnode27authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85072685 . 
+_:bnode27authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85072685 <http://www.loc.gov/mads/rdf/v1#elementValue> "Self-defense"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4686440-4> . 
+<http://d-nb.info/gnd/4686440-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4686440-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kampfmesser"@de . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11958093n> . 
+<http://data.bnf.fr/ark:/12148/cb11958093n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11958093n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Combat au couteau"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85072685" . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85072685> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85072685#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh85072685 . 
+_:bnode47authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh85072685 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh85072685 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh85072685 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85072685 . 
+_:bnode54authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85072685 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-06-30T15:19:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85072685 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85072685 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#prefLabel> "Knife fighting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode64authoritiessubjectssh85072685 . 
+_:bnode64authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode64authoritiessubjectssh85072685 <http://www.w3.org/2008/05/skos-xl#literalForm> "Fighting, Knife"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#altLabel> "Fighting, Knife" . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85119726> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119726> <http://www.w3.org/2004/02/skos/core#prefLabel> "Self-defense"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4686440-4> . 
+<http://d-nb.info/gnd/4686440-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4686440-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kampfmesser"@de . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11958093n> . 
+<http://data.bnf.fr/ark:/12148/cb11958093n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11958093n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Combat au couteau"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2008/05/skos-xl#altLabel> "Fighting, Knife"@en . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh85072685 . 
+_:bnode89authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85072685> . 
+_:bnode89authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode89authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85072685> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh85072685 . 
+_:bnode97authoritiessubjectssh85072685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85072685> . 
+_:bnode97authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#createdDate> "1992-06-30T15:19:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85072685 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

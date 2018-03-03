@@ -1,0 +1,72 @@
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biosphere reserves"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh91003000 . 
+_:bnode7authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh91003000 . 
+_:bnode7authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biosphere reserves"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#classification> "QH75-QH77" . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb16175529x> . 
+<http://data.bnf.fr/ark:/12148/cb16175529x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb16175529x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Réserves de biosphère"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85090196> . 
+<http://id.loc.gov/authorities/subjects/sh85090196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85090196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Natural areas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85090196> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh91003000 . 
+_:bnode22authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh91003000 . 
+_:bnode22authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#elementValue> "Natural areas"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91003000" . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91003000> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91003000#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh91003000 . 
+_:bnode34authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Bibliography on the international network of biosphere reserves, 1990." . 
+_:bnode34authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh91003000 . 
+_:bnode40authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 6/13/91" . 
+_:bnode40authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-note> "(biosphere reserves, Reserva de la Biosfera de Mapimí (Mexico), Prioksko-Terrasnyĭ biosfernyĭ zapovednik (R.S.F.S.R.))"@en . 
+_:bnode40authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh91003000 . 
+_:bnode48authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3;Random House;Biol. & agr. index" . 
+_:bnode48authoritiessubjectssh91003000 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh91003000 . 
+_:bnode54authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh91003000 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh91003000 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh91003000 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh91003000 . 
+_:bnode61authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh91003000 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-07-25T16:34:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh91003000 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh91003000 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biosphere reserves"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85090196> . 
+<http://id.loc.gov/authorities/subjects/sh85090196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural areas"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb16175529x> . 
+<http://data.bnf.fr/ark:/12148/cb16175529x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb16175529x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Réserves de biosphère"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh91003000 . 
+_:bnode82authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003000> . 
+_:bnode82authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#createdDate> "1991-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91003000> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh91003000 . 
+_:bnode90authoritiessubjectssh91003000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003000> . 
+_:bnode90authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#createdDate> "1991-07-25T16:34:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh91003000 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

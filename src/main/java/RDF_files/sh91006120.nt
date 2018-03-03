@@ -1,0 +1,143 @@
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Street children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh91006120 . 
+_:bnode7authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh91006120 . 
+_:bnode7authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Street children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh91006120 . 
+_:bnode11authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Children of the streets"@en . 
+_:bnode11authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh91006120 . 
+_:bnode16authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh91006120 . 
+_:bnode16authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Children of the streets"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh91006120 . 
+_:bnode20authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Street kids"@en . 
+_:bnode20authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh91006120 . 
+_:bnode25authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh91006120 . 
+_:bnode25authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Street kids"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#classification> "HV873-HV887" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98004004> . 
+<http://id.loc.gov/authorities/subjects/sh98004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004004> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mothers of street children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12464471z> . 
+<http://data.bnf.fr/ark:/12148/cb12464471z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12464471z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enfants de la rue"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85023418> . 
+<http://id.loc.gov/authorities/subjects/sh85023418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023418> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023418> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh91006120 . 
+_:bnode44authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh91006120 . 
+_:bnode44authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on children who, because of poverty, neglect, or abandonment, work and spend most of their time on city streets." . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91006120" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91006120> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91006120#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh91006120 . 
+_:bnode58authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Zucchetti Canevaro, S. Los niños en la calle, 1990:" . 
+_:bnode58authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 21 (Niños y niñas \"en\" y \"de\" la calle)"@en . 
+_:bnode58authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode66authoritiessubjectssh91006120 . 
+_:bnode66authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode66authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 10/16/91" . 
+_:bnode66authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Street children; children of the streets; enfants de la rue;  gamines; gamín; meninos de rua; menor de rua; menores de rua; garotos de rua; nens de carrer)"@en . 
+_:bnode66authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode74authoritiessubjectssh91006120 . 
+_:bnode74authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode74authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "NYT, 10/27/90" . 
+_:bnode74authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"... not even the children\" (Street children in Guatemala city) 1-1-91, \"Nairobi street children\" (Street children) 10-21-91, \"Protect children Pope tells Brazil\" (Street children))"@en . 
+_:bnode74authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode82authoritiessubjectssh91006120 . 
+_:bnode82authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode82authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "Washington Post, 10/10/90" . 
+_:bnode82authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"Living in Brazil's streets\"; Street children)"@en . 
+_:bnode82authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode90authoritiessubjectssh91006120 . 
+_:bnode90authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode90authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "Amnesty action, Sept./Oct. 1990" . 
+_:bnode90authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Children of the streets)"@en . 
+_:bnode90authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode98authoritiessubjectssh91006120 . 
+_:bnode98authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode98authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "HLAS:" . 
+_:bnode98authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "v. 45, p. 8384 (Street children)"@en . 
+_:bnode98authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode106authoritiessubjectssh91006120 . 
+_:bnode106authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode106authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "Magazine index, 10/15/91" . 
+_:bnode106authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Street children)"@en . 
+_:bnode106authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode114authoritiessubjectssh91006120 . 
+_:bnode114authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode114authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "UNBIS, 11/16/89" . 
+_:bnode114authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Street children)"@en . 
+_:bnode114authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode122authoritiessubjectssh91006120 . 
+_:bnode122authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode122authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "Bond, L.S. Aids education and prevention, 1992." . 
+_:bnode122authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode128authoritiessubjectssh91006120 . 
+_:bnode128authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode128authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House;Web. 3" . 
+_:bnode128authoritiessubjectssh91006120 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode134authoritiessubjectssh91006120 . 
+_:bnode134authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode134authoritiessubjectssh91006120 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-12-06T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode134authoritiessubjectssh91006120 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode134authoritiessubjectssh91006120 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode141authoritiessubjectssh91006120 . 
+_:bnode141authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode141authoritiessubjectssh91006120 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-04-25T12:39:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode141authoritiessubjectssh91006120 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode141authoritiessubjectssh91006120 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Street children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode151authoritiessubjectssh91006120 . 
+_:bnode151authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode151authoritiessubjectssh91006120 <http://www.w3.org/2008/05/skos-xl#literalForm> "Children of the streets"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#altLabel> "Children of the streets" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode158authoritiessubjectssh91006120 . 
+_:bnode158authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode158authoritiessubjectssh91006120 <http://www.w3.org/2008/05/skos-xl#literalForm> "Street kids"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#altLabel> "Street kids" . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85023418> . 
+<http://id.loc.gov/authorities/subjects/sh85023418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98004004> . 
+<http://id.loc.gov/authorities/subjects/sh98004004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004004> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mothers of street children"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12464471z> . 
+<http://data.bnf.fr/ark:/12148/cb12464471z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12464471z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enfants de la rue"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on children who, because of poverty, neglect, or abandonment, work and spend most of their time on city streets." . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2008/05/skos-xl#altLabel> "Children of the streets"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2008/05/skos-xl#altLabel> "Street kids"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode187authoritiessubjectssh91006120 . 
+_:bnode187authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode187authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91006120> . 
+_:bnode187authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode187authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#createdDate> "1991-12-06T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode187authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91006120> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode195authoritiessubjectssh91006120 . 
+_:bnode195authoritiessubjectssh91006120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode195authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91006120> . 
+_:bnode195authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode195authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#createdDate> "1994-04-25T12:39:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode195authoritiessubjectssh91006120 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

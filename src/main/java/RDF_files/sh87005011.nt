@@ -1,0 +1,76 @@
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blastogenesis (Embryology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh87005011 . 
+_:bnode7authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh87005011 . 
+_:bnode7authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blastogenesis (Embryology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb120698420> . 
+<http://data.bnf.fr/ark:/12148/cb120698420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb120698420> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blastogenèse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042722> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh87005011 . 
+_:bnode20authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh87005011 . 
+_:bnode20authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#elementValue> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87005010> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Human blastogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87005011" . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87005011> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87005011#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode35authoritiessubjectssh87005011 . 
+_:bnode35authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode35authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Vogler, H. Human blastogenesis, 1987." . 
+_:bnode35authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh87005011 . 
+_:bnode41authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-source> "Gould's med. dict." . 
+_:bnode41authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-note> "(1. The early development of the embryo during cleavage and the formation of the germ layers.)"@en . 
+_:bnode41authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh87005011 . 
+_:bnode49authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH;NIH" . 
+_:bnode49authoritiessubjectssh87005011 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh87005011 . 
+_:bnode55authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh87005011 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-08-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh87005011 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh87005011 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh87005011 . 
+_:bnode62authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh87005011 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-09-21T13:32:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh87005011 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh87005011 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blastogenesis (Embryology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042722> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042722> <http://www.w3.org/2004/02/skos/core#prefLabel> "Embryology"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87005010> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87005010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Human blastogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb120698420> . 
+<http://data.bnf.fr/ark:/12148/cb120698420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb120698420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blastogenèse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode88authoritiessubjectssh87005011 . 
+_:bnode88authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode88authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87005011> . 
+_:bnode88authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode88authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#createdDate> "1987-08-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87005011> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode96authoritiessubjectssh87005011 . 
+_:bnode96authoritiessubjectssh87005011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode96authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87005011> . 
+_:bnode96authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode96authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#createdDate> "1987-09-21T13:32:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh87005011 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

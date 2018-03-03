@@ -1,0 +1,71 @@
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mary, Blessed Virgin, Saint--Symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85081731 . 
+_:bnode7authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n81018544> . 
+_:bnode7authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode018 . 
+<http://id.loc.gov/authorities/names/n81018544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#PersonalName> . 
+<http://id.loc.gov/authorities/names/n81018544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n81018544> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mary, Blessed Virgin, Saint"@en . 
+<http://id.loc.gov/authorities/names/n81018544> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85081731 . 
+_:bnode12authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85081731 . 
+_:bnode12authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+_:bnode13authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#FullNameElement> . 
+_:bnode13authoritiessubjectssh85081731 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mary,"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85081731 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TermsOfAddressNameElement> . 
+_:bnode16authoritiessubjectssh85081731 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blessed Virgin, Saint"@en . 
+_:bnode018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85131408> . 
+_:bnode018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85131408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85131408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131408> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85131408> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode23authoritiessubjectssh85081731 . 
+_:bnode23authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode24authoritiessubjectssh85081731 . 
+_:bnode23authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode24authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode24authoritiessubjectssh85081731 <http://www.loc.gov/mads/rdf/v1#elementValue> "Symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85025011> . 
+<http://id.loc.gov/authorities/subjects/sh85025011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85025011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025011> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christian art and symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85025011> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode32authoritiessubjectssh85081731 . 
+_:bnode32authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode33authoritiessubjectssh85081731 . 
+_:bnode32authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode33authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode33authoritiessubjectssh85081731 <http://www.loc.gov/mads/rdf/v1#elementValue> "Christian art and symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85081731" . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85081731> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85081731#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode43authoritiessubjectssh85081731 . 
+_:bnode43authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode43authoritiessubjectssh85081731 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode43authoritiessubjectssh85081731 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode43authoritiessubjectssh85081731 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh85081731 . 
+_:bnode50authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh85081731 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2005-12-20T14:30:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh85081731 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh85081731 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mary, Blessed Virgin, Saint--Symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85025011> . 
+<http://id.loc.gov/authorities/subjects/sh85025011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025011> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christian art and symbolism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode66authoritiessubjectssh85081731 . 
+_:bnode66authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode66authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85081731> . 
+_:bnode66authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode66authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85081731> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode74authoritiessubjectssh85081731 . 
+_:bnode74authoritiessubjectssh85081731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode74authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85081731> . 
+_:bnode74authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode74authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#createdDate> "2005-12-20T14:30:42"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh85081731 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

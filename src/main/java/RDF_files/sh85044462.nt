@@ -1,0 +1,113 @@
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85044462 . 
+_:bnode7authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85044462 . 
+_:bnode7authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85044462 . 
+_:bnode11authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Epitaxial growth"@en . 
+_:bnode11authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85044462 . 
+_:bnode16authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85044462 . 
+_:bnode16authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epitaxial growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4457865-9> . 
+<http://d-nb.info/gnd/4457865-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4457865-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homoepitaxie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010008200> . 
+<http://id.loc.gov/authorities/subjects/sh2010008200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010008200> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homoepitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4152545-0> . 
+<http://d-nb.info/gnd/4152545-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4152545-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epitaxie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002306> . 
+<http://id.loc.gov/authorities/subjects/sh2007002306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002306> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Liquid phase epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086573> . 
+<http://id.loc.gov/authorities/subjects/sh85086573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086573> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Molecular beam epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4260178-2> . 
+<http://d-nb.info/gnd/4260178-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4260178-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heteroepitaxie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85034507> . 
+<http://id.loc.gov/authorities/subjects/sh85034507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85034507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crystal growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85034507> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode49authoritiessubjectssh85044462 . 
+_:bnode49authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode50authoritiessubjectssh85044462 . 
+_:bnode49authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode50authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode50authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#elementValue> "Crystal growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119711673> . 
+<http://data.bnf.fr/ark:/12148/cb119711673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119711673> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Épitaxie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85044462" . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85044462> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85044462#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode65authoritiessubjectssh85044462 . 
+_:bnode65authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode65authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hawley chem. dict." . 
+_:bnode65authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#citation-note> "(epitaxial growth)"@en . 
+_:bnode65authoritiessubjectssh85044462 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85044462 . 
+_:bnode73authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85044462 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85044462 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85044462 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh85044462 . 
+_:bnode80authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh85044462 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-04-30T09:42:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85044462 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh85044462 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode90authoritiessubjectssh85044462 . 
+_:bnode90authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode90authoritiessubjectssh85044462 <http://www.w3.org/2008/05/skos-xl#literalForm> "Epitaxial growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#altLabel> "Epitaxial growth" . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85034507> . 
+<http://id.loc.gov/authorities/subjects/sh85034507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crystal growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010008200> . 
+<http://id.loc.gov/authorities/subjects/sh2010008200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010008200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homoepitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002306> . 
+<http://id.loc.gov/authorities/subjects/sh2007002306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liquid phase epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086573> . 
+<http://id.loc.gov/authorities/subjects/sh85086573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086573> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molecular beam epitaxy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4457865-9> . 
+<http://d-nb.info/gnd/4457865-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4457865-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homoepitaxie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4152545-0> . 
+<http://d-nb.info/gnd/4152545-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4152545-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epitaxie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4260178-2> . 
+<http://d-nb.info/gnd/4260178-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4260178-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heteroepitaxie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119711673> . 
+<http://data.bnf.fr/ark:/12148/cb119711673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119711673> <http://www.w3.org/2004/02/skos/core#prefLabel> "Épitaxie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2008/05/skos-xl#altLabel> "Epitaxial growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode140authoritiessubjectssh85044462 . 
+_:bnode140authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode140authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85044462> . 
+_:bnode140authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode140authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode140authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85044462> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode148authoritiessubjectssh85044462 . 
+_:bnode148authoritiessubjectssh85044462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode148authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85044462> . 
+_:bnode148authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode148authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#createdDate> "1992-04-30T09:42:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode148authoritiessubjectssh85044462 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Language and sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96011149 . 
+_:bnode7authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96011149 . 
+_:bnode7authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#elementValue> "Language and sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh96011149 . 
+_:bnode11authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Sex and language"@en . 
+_:bnode11authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh96011149 . 
+_:bnode16authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh96011149 . 
+_:bnode16authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sex and language"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#classification> "P120.S48" . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85120549> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh96011149 . 
+_:bnode27authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh96011149 . 
+_:bnode27authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85074535> . 
+<http://id.loc.gov/authorities/subjects/sh85074535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074535> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Language and languages--Sex differences"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120683> . 
+<http://id.loc.gov/authorities/subjects/sh85120683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120683> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sexism in language"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96011149" . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96011149> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96011149#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh96011149 . 
+_:bnode47authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 96-37726: Language and desire : encoding sex, romance, and intimacy, 1997." . 
+_:bnode47authoritiessubjectssh96011149 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode53authoritiessubjectssh96011149 . 
+_:bnode53authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode53authoritiessubjectssh96011149 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-11-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode53authoritiessubjectssh96011149 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode53authoritiessubjectssh96011149 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode60authoritiessubjectssh96011149 . 
+_:bnode60authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode60authoritiessubjectssh96011149 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-01-16T07:15:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh96011149 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode60authoritiessubjectssh96011149 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Language and sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode70authoritiessubjectssh96011149 . 
+_:bnode70authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode70authoritiessubjectssh96011149 <http://www.w3.org/2008/05/skos-xl#literalForm> "Sex and language"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#altLabel> "Sex and language" . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85120549> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85074535> . 
+<http://id.loc.gov/authorities/subjects/sh85074535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Language and languages--Sex differences"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120683> . 
+<http://id.loc.gov/authorities/subjects/sh85120683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sexism in language"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2008/05/skos-xl#altLabel> "Sex and language"@en . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh96011149 . 
+_:bnode95authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96011149> . 
+_:bnode95authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode95authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#createdDate> "1996-11-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96011149> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh96011149 . 
+_:bnode103authoritiessubjectssh96011149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96011149> . 
+_:bnode103authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode103authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#createdDate> "1997-01-16T07:15:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh96011149 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

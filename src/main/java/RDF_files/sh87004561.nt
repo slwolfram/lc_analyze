@@ -1,0 +1,66 @@
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gas extraction"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh87004561 . 
+_:bnode7authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh87004561 . 
+_:bnode7authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gas extraction"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85046579> . 
+<http://id.loc.gov/authorities/subjects/sh85046579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046579> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Extraction (Chemistry)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046579> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh87004561 . 
+_:bnode16authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh87004561 . 
+_:bnode16authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#elementValue> "Extraction (Chemistry)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87004561" . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87004561> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87004561#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh87004561 . 
+_:bnode28authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Stahl, E. Dense gases for extraction and refining, c1987:" . 
+_:bnode28authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP galley (dense gas extraction)"@en . 
+_:bnode28authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode36authoritiessubjectssh87004561 . 
+_:bnode36authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode36authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-source> "ASTI:" . 
+_:bnode36authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-note> "under Extraction processes (gas extraction)"@en . 
+_:bnode36authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode44authoritiessubjectssh87004561 . 
+_:bnode44authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode44authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-source> "Chem. abst.;McGraw-Hill dict. sci. tech.;Hackh chem. dict.;Hawley chem. dict.;TEST;Web. 3;Kirk-Othmer encyc. chem." . 
+_:bnode44authoritiessubjectssh87004561 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh87004561 . 
+_:bnode50authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh87004561 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-07-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh87004561 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh87004561 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh87004561 . 
+_:bnode57authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh87004561 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-09-21T11:26:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh87004561 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh87004561 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gas extraction"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85046579> . 
+<http://id.loc.gov/authorities/subjects/sh85046579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046579> <http://www.w3.org/2004/02/skos/core#prefLabel> "Extraction (Chemistry)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode73authoritiessubjectssh87004561 . 
+_:bnode73authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode73authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87004561> . 
+_:bnode73authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode73authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#createdDate> "1987-07-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87004561> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode81authoritiessubjectssh87004561 . 
+_:bnode81authoritiessubjectssh87004561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode81authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87004561> . 
+_:bnode81authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode81authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#createdDate> "1987-09-21T11:26:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh87004561 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

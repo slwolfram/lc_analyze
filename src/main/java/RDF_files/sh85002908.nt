@@ -1,0 +1,124 @@
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes--Turbojet engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85002908 . 
+_:bnode7authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85002782> . 
+_:bnode7authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85002908 . 
+_:bnode12authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85002908 . 
+_:bnode12authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementValue> "Airplanes"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85002908 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Turbojet engines"@en . 
+_:bnode16authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85002908 . 
+_:bnode20authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85002908 . 
+_:bnode20authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementValue> "Turbojet engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85002908 . 
+_:bnode24authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Turbojet plane engines"@en . 
+_:bnode24authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85002908 . 
+_:bnode29authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85002908 . 
+_:bnode29authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementValue> "Turbojet plane engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#classification> "TL709.3.T83" . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4128278-4> . 
+<http://d-nb.info/gnd/4128278-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4128278-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Luftstrahltriebwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119443563> . 
+<http://data.bnf.fr/ark:/12148/cb119443563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119443563> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Avions -- Turboréacteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4278933-3> . 
+<http://d-nb.info/gnd/4278933-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4278933-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fluggasturbine"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85002744> . 
+<http://id.loc.gov/authorities/subjects/sh85002744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002744> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aircraft gas-turbines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002744> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85002908 . 
+_:bnode52authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85002908 . 
+_:bnode52authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aircraft gas-turbines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4154773-1> . 
+<http://d-nb.info/gnd/4154773-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4154773-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flugtriebwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86003262> . 
+<http://id.loc.gov/authorities/subjects/sh86003262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86003262> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes--Turbofan engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh98000239> . 
+<http://id.loc.gov/authorities/subjects/sh98000239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98000239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000239> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jet engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh98000239> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85002908 . 
+_:bnode69authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85002908 . 
+_:bnode69authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85002908 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jet engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85002908" . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85002908> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85002908#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh85002908 . 
+_:bnode80authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh85002908 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85002908 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh85002908 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode87authoritiessubjectssh85002908 . 
+_:bnode87authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode87authoritiessubjectssh85002908 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-02-13T14:20:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85002908 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode87authoritiessubjectssh85002908 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airplanes--Turbojet engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode97authoritiessubjectssh85002908 . 
+_:bnode97authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode97authoritiessubjectssh85002908 <http://www.w3.org/2008/05/skos-xl#literalForm> "Turbojet plane engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#altLabel> "Turbojet plane engines" . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85002744> . 
+<http://id.loc.gov/authorities/subjects/sh85002744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002744> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aircraft gas-turbines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh98000239> . 
+<http://id.loc.gov/authorities/subjects/sh98000239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000239> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jet engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86003262> . 
+<http://id.loc.gov/authorities/subjects/sh86003262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86003262> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airplanes--Turbofan engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4128278-4> . 
+<http://d-nb.info/gnd/4128278-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4128278-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luftstrahltriebwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119443563> . 
+<http://data.bnf.fr/ark:/12148/cb119443563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119443563> <http://www.w3.org/2004/02/skos/core#prefLabel> "Avions -- Turboréacteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4278933-3> . 
+<http://d-nb.info/gnd/4278933-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4278933-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluggasturbine"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4154773-1> . 
+<http://d-nb.info/gnd/4154773-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4154773-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flugtriebwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2008/05/skos-xl#altLabel> "Turbojet plane engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode142authoritiessubjectssh85002908 . 
+_:bnode142authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode142authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002908> . 
+_:bnode142authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode142authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode142authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85002908> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode150authoritiessubjectssh85002908 . 
+_:bnode150authoritiessubjectssh85002908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode150authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002908> . 
+_:bnode150authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode150authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#createdDate> "1998-02-13T14:20:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode150authoritiessubjectssh85002908 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

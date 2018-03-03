@@ -1,0 +1,79 @@
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Orange products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh97003128 . 
+_:bnode7authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh97003128 . 
+_:bnode7authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#elementValue> "Orange products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh96007296> . 
+<http://id.loc.gov/authorities/subjects/sh96007296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96007296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96007296> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Citrus products"@en . 
+<http://id.loc.gov/authorities/subjects/sh96007296> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh97003128 . 
+_:bnode16authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh97003128 . 
+_:bnode16authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#elementValue> "Citrus products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095277> . 
+<http://id.loc.gov/authorities/subjects/sh85095277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095277> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Orange oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014475> . 
+<http://id.loc.gov/authorities/subjects/sh85014475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bitter orange oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095271> . 
+<http://id.loc.gov/authorities/subjects/sh85095271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095271> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Orange juice"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 97003128" . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh97003128> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh97003128#concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh97003128 . 
+_:bnode40authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 97-13232: Cooper, J. Oranges, 1997:" . 
+_:bnode40authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP galley (Orange products)"@en . 
+_:bnode40authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh97003128 . 
+_:bnode48authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#citation-source> "CAB thes.;Biol. & agr. index." . 
+_:bnode48authoritiessubjectssh97003128 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh97003128 . 
+_:bnode54authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh97003128 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-04-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh97003128 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh97003128 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh97003128 . 
+_:bnode61authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh97003128 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-09-05T14:18:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh97003128 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh97003128 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orange products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh96007296> . 
+<http://id.loc.gov/authorities/subjects/sh96007296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96007296> <http://www.w3.org/2004/02/skos/core#prefLabel> "Citrus products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095277> . 
+<http://id.loc.gov/authorities/subjects/sh85095277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095277> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orange oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014475> . 
+<http://id.loc.gov/authorities/subjects/sh85014475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bitter orange oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095271> . 
+<http://id.loc.gov/authorities/subjects/sh85095271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095271> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orange juice"@en . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode92authoritiessubjectssh97003128 . 
+_:bnode92authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode92authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97003128> . 
+_:bnode92authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode92authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#createdDate> "1997-04-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh97003128> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode100authoritiessubjectssh97003128 . 
+_:bnode100authoritiessubjectssh97003128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode100authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97003128> . 
+_:bnode100authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode100authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#createdDate> "1997-09-05T14:18:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh97003128 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

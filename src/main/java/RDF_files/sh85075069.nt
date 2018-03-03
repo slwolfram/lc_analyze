@@ -1,0 +1,74 @@
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Laundry--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85075069 . 
+_:bnode7authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85075068> . 
+_:bnode7authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85075068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85075068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075068> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Laundry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075068> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85075069 . 
+_:bnode12authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85075069 . 
+_:bnode12authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85075069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Laundry"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85075069 . 
+_:bnode20authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85075069 . 
+_:bnode20authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85075069 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85145329> . 
+<http://id.loc.gov/authorities/subjects/sh85145329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145329> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Washboards"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003010052> . 
+<http://id.loc.gov/authorities/subjects/sh2003010052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003010052> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ironing boards"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075075> . 
+<http://id.loc.gov/authorities/subjects/sh85075075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075075> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Laundry machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027156> . 
+<http://id.loc.gov/authorities/subjects/sh85027156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027156> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clothespins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005103> . 
+<http://id.loc.gov/authorities/subjects/sh91005103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005103> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clotheslines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85075069" . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85075069> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85075069#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85075069 . 
+_:bnode51authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85075069 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85075069 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85075069 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laundry--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85145329> . 
+<http://id.loc.gov/authorities/subjects/sh85145329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145329> <http://www.w3.org/2004/02/skos/core#prefLabel> "Washboards"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003010052> . 
+<http://id.loc.gov/authorities/subjects/sh2003010052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003010052> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ironing boards"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075075> . 
+<http://id.loc.gov/authorities/subjects/sh85075075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laundry machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027156> . 
+<http://id.loc.gov/authorities/subjects/sh85027156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027156> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clothespins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005103> . 
+<http://id.loc.gov/authorities/subjects/sh91005103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005103> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clotheslines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85075069> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh85075069 . 
+_:bnode87authoritiessubjectssh85075069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh85075069 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85075069> . 
+_:bnode87authoritiessubjectssh85075069 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh85075069 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85075069 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

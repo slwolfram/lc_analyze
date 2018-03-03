@@ -1,0 +1,133 @@
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85052461 . 
+_:bnode7authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85052461 . 
+_:bnode7authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85052461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#classification> "QK617" . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#classification> "SB353-SB353.5" . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode15authoritiessubjectssh85052461 . 
+_:bnode15authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode15authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode15authoritiessubjectssh85052461 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Fungi, Edible"@en . 
+_:bnode15authoritiessubjectssh85052461 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85052461 . 
+_:bnode20authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85052461 . 
+_:bnode20authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85052461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fungi, Edible"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11942199b> . 
+<http://data.bnf.fr/ark:/12148/cb11942199b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11942199b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Champignons comestibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/35844> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009548> . 
+<http://id.loc.gov/authorities/subjects/sh85009548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009548> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Auricularia auricula-judae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088758> . 
+<http://id.loc.gov/authorities/subjects/sh85088758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edible mushrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104998> . 
+<http://id.loc.gov/authorities/subjects/sh85104998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104998> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poria cocos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85137274> . 
+<http://id.loc.gov/authorities/subjects/sh85137274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137274> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tremella fuciformis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85052433> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85052461 . 
+_:bnode53authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85052461 . 
+_:bnode53authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85052461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/35844> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138160> . 
+<http://id.loc.gov/authorities/subjects/sh85138160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138160> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Truffles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102891> . 
+<http://id.loc.gov/authorities/subjects/sh85102891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102891> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants, Edible"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102891> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode70authoritiessubjectssh85052461 . 
+_:bnode70authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode71authoritiessubjectssh85052461 . 
+_:bnode70authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode71authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode71authoritiessubjectssh85052461 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plants, Edible"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85149060> . 
+<http://id.loc.gov/authorities/subjects/sh85149060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85149060> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yeast"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85052461" . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85052461> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85052461#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode86authoritiessubjectssh85052461 . 
+_:bnode86authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode86authoritiessubjectssh85052461 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh85052461 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode86authoritiessubjectssh85052461 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode93authoritiessubjectssh85052461 . 
+_:bnode93authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode93authoritiessubjectssh85052461 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-06-18T10:20:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh85052461 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode93authoritiessubjectssh85052461 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85052433> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102891> . 
+<http://id.loc.gov/authorities/subjects/sh85102891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102891> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants, Edible"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009548> . 
+<http://id.loc.gov/authorities/subjects/sh85009548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009548> <http://www.w3.org/2004/02/skos/core#prefLabel> "Auricularia auricula-judae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088758> . 
+<http://id.loc.gov/authorities/subjects/sh85088758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edible mushrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104998> . 
+<http://id.loc.gov/authorities/subjects/sh85104998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poria cocos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85137274> . 
+<http://id.loc.gov/authorities/subjects/sh85137274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137274> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tremella fuciformis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138160> . 
+<http://id.loc.gov/authorities/subjects/sh85138160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138160> <http://www.w3.org/2004/02/skos/core#prefLabel> "Truffles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85149060> . 
+<http://id.loc.gov/authorities/subjects/sh85149060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149060> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yeast"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode143authoritiessubjectssh85052461 . 
+_:bnode143authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode143authoritiessubjectssh85052461 <http://www.w3.org/2008/05/skos-xl#literalForm> "Fungi, Edible"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#altLabel> "Fungi, Edible" . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/35844> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.w3.org/2004/02/skos/core#prefLabel> "edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11942199b> . 
+<http://data.bnf.fr/ark:/12148/cb11942199b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11942199b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Champignons comestibles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/35844> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/35844> <http://www.w3.org/2004/02/skos/core#prefLabel> "edible fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode166authoritiessubjectssh85052461 . 
+_:bnode166authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode166authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85052461> . 
+_:bnode166authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode166authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85052461> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode174authoritiessubjectssh85052461 . 
+_:bnode174authoritiessubjectssh85052461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode174authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85052461> . 
+_:bnode174authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode174authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#createdDate> "2010-06-18T10:20:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode174authoritiessubjectssh85052461 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

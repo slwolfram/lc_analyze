@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literature--Adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85077508 . 
+_:bnode7authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85077507> . 
+_:bnode7authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85077508 . 
+_:bnode12authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85077508 . 
+_:bnode12authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#elementValue> "Literature"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002012499> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002012499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002012499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012499> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012499> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85077508 . 
+_:bnode20authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85077508 . 
+_:bnode20authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#elementValue> "Adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85077508 . 
+_:bnode24authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Adaptations, Literary"@en . 
+_:bnode24authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85077508 . 
+_:bnode29authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85077508 . 
+_:bnode29authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#elementValue> "Adaptations, Literary"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85077508 . 
+_:bnode33authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Literary adaptations"@en . 
+_:bnode33authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85077508 . 
+_:bnode38authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85077508 . 
+_:bnode38authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85077508 <http://www.loc.gov/mads/rdf/v1#elementValue> "Literary adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127240> . 
+<http://id.loc.gov/authorities/subjects/sh85127240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127240> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stage adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110428> . 
+<http://id.loc.gov/authorities/subjects/sh85110428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110428> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4171001-0> . 
+<http://d-nb.info/gnd/4171001-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4171001-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nachdichtung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb150038641> . 
+<http://data.bnf.fr/ark:/12148/cb150038641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb150038641> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Littérature -- Adaptations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048224> . 
+<http://id.loc.gov/authorities/subjects/sh85048224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048224> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Film adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133480> . 
+<http://id.loc.gov/authorities/subjects/sh85133480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133480> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Television adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Adaptations] under names of individual literary authors and individual works entered under title, and under individual literatures, e.g. [Shakespeare, William, 1564-1616--Adaptations; Beowulf--Adaptations; English literature--Adaptations]" . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85077508" . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85077508> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85077508#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85077508 . 
+_:bnode75authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85077508 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85077508 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85077508 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode82authoritiessubjectssh85077508 . 
+_:bnode82authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode82authoritiessubjectssh85077508 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2011-06-21T07:51:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85077508 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode82authoritiessubjectssh85077508 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literature--Adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode92authoritiessubjectssh85077508 . 
+_:bnode92authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode92authoritiessubjectssh85077508 <http://www.w3.org/2008/05/skos-xl#literalForm> "Adaptations, Literary"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#altLabel> "Adaptations, Literary" . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode99authoritiessubjectssh85077508 . 
+_:bnode99authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode99authoritiessubjectssh85077508 <http://www.w3.org/2008/05/skos-xl#literalForm> "Literary adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#altLabel> "Literary adaptations" . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127240> . 
+<http://id.loc.gov/authorities/subjects/sh85127240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stage adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110428> . 
+<http://id.loc.gov/authorities/subjects/sh85110428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110428> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048224> . 
+<http://id.loc.gov/authorities/subjects/sh85048224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Film adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133480> . 
+<http://id.loc.gov/authorities/subjects/sh85133480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133480> <http://www.w3.org/2004/02/skos/core#prefLabel> "Television adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4171001-0> . 
+<http://d-nb.info/gnd/4171001-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4171001-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nachdichtung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb150038641> . 
+<http://data.bnf.fr/ark:/12148/cb150038641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb150038641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Littérature -- Adaptations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Adaptations] under names of individual literary authors and individual works entered under title, and under individual literatures, e.g. [Shakespeare, William, 1564-1616--Adaptations; Beowulf--Adaptations; English literature--Adaptations]" . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2008/05/skos-xl#altLabel> "Adaptations, Literary"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2008/05/skos-xl#altLabel> "Literary adaptations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode143authoritiessubjectssh85077508 . 
+_:bnode143authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode143authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85077508> . 
+_:bnode143authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode143authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode143authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85077508> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode151authoritiessubjectssh85077508 . 
+_:bnode151authoritiessubjectssh85077508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode151authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85077508> . 
+_:bnode151authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode151authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#createdDate> "2011-06-21T07:51:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode151authoritiessubjectssh85077508 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

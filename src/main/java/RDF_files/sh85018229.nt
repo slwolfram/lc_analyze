@@ -1,0 +1,144 @@
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85018229 . 
+_:bnode7authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85018229 . 
+_:bnode7authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85018229 . 
+_:bnode11authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Omnibus service"@en . 
+_:bnode11authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85018229 . 
+_:bnode16authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85018229 . 
+_:bnode16authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementValue> "Omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#classification> "HE5601-HE5725" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode22authoritiessubjectssh85018229 . 
+_:bnode22authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode22authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode22authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Motor bus lines"@en . 
+_:bnode22authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85018229 . 
+_:bnode27authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85018229 . 
+_:bnode27authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motor bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4805800-2> . 
+<http://d-nb.info/gnd/4805800-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4805800-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Omnibusunternehmer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93008752> . 
+<http://id.loc.gov/authorities/subjects/sh93008752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93008752> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tour bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119309944> . 
+<http://data.bnf.fr/ark:/12148/cb119309944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119309944> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lignes d'autobus"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85020473> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85018229 . 
+_:bnode48authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85018229 . 
+_:bnode48authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementValue> "Carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005031> . 
+<http://id.loc.gov/authorities/subjects/sh88005031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005031> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bus stops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85137053> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transportation, Automotive"@en . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85018229 . 
+_:bnode61authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85018229 . 
+_:bnode61authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementValue> "Transportation, Automotive"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4172579-7> . 
+<http://d-nb.info/gnd/4172579-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4172579-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Omnibusunternehmen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001005757> . 
+<http://id.loc.gov/authorities/subjects/sh2001005757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001005757> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Minibus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85018545> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cab and omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode78authoritiessubjectssh85018229 . 
+_:bnode78authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode79authoritiessubjectssh85018229 . 
+_:bnode78authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode79authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode79authoritiessubjectssh85018229 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cab and omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on commercial or technical aspects of bus transportation. Works on the manufacture of buses are entered under [Bus industry.]" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Bus industry]" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85018229" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85018229> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85018229#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode94authoritiessubjectssh85018229 . 
+_:bnode94authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode94authoritiessubjectssh85018229 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-07-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh85018229 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode94authoritiessubjectssh85018229 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode101authoritiessubjectssh85018229 . 
+_:bnode101authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode101authoritiessubjectssh85018229 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-07-22T14:22:04"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh85018229 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode101authoritiessubjectssh85018229 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode111authoritiessubjectssh85018229 . 
+_:bnode111authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode111authoritiessubjectssh85018229 <http://www.w3.org/2008/05/skos-xl#literalForm> "Omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#altLabel> "Omnibus service" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85020473> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carriers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85137053> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transportation, Automotive"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93008752> . 
+<http://id.loc.gov/authorities/subjects/sh93008752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93008752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tour bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005031> . 
+<http://id.loc.gov/authorities/subjects/sh88005031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005031> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bus stops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001005757> . 
+<http://id.loc.gov/authorities/subjects/sh2001005757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001005757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Minibus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode143authoritiessubjectssh85018229 . 
+_:bnode143authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode143authoritiessubjectssh85018229 <http://www.w3.org/2008/05/skos-xl#literalForm> "Motor bus lines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#altLabel> "Motor bus lines" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85018545> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018545> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cab and omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4805800-2> . 
+<http://d-nb.info/gnd/4805800-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4805800-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omnibusunternehmer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119309944> . 
+<http://data.bnf.fr/ark:/12148/cb119309944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119309944> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lignes d'autobus"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4172579-7> . 
+<http://d-nb.info/gnd/4172579-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4172579-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omnibusunternehmen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on commercial or technical aspects of bus transportation. Works on the manufacture of buses are entered under [Bus industry.]" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#example> "Note under [Bus industry]" . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2008/05/skos-xl#altLabel> "Omnibus service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode177authoritiessubjectssh85018229 . 
+_:bnode177authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode177authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85018229> . 
+_:bnode177authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode177authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#createdDate> "2004-07-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode177authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85018229> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode185authoritiessubjectssh85018229 . 
+_:bnode185authoritiessubjectssh85018229 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode185authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85018229> . 
+_:bnode185authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode185authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#createdDate> "2004-07-22T14:22:04"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode185authoritiessubjectssh85018229 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,122 @@
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85107219 . 
+_:bnode7authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85107219 . 
+_:bnode7authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementValue> "Production planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85107219 . 
+_:bnode11authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Manufacturing planning"@en . 
+_:bnode11authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85107219 . 
+_:bnode16authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85107219 . 
+_:bnode16authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementValue> "Manufacturing planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85107219 . 
+_:bnode20authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Process planning"@en . 
+_:bnode20authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85107219 . 
+_:bnode25authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85107219 . 
+_:bnode25authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementValue> "Process planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12126091m> . 
+<http://data.bnf.fr/ark:/12148/cb12126091m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12126091m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production -- Planification"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90005199> . 
+<http://id.loc.gov/authorities/subjects/sh90005199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90005199> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manufacturing resource planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102696> . 
+<http://id.loc.gov/authorities/subjects/sh85102696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102696> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102696> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85107219 . 
+_:bnode42authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85107219 . 
+_:bnode42authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementValue> "Planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85107212> . 
+<http://id.loc.gov/authorities/subjects/sh85107212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85107212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107212> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107212> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85107219 . 
+_:bnode51authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85107219 . 
+_:bnode51authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85107219 <http://www.loc.gov/mads/rdf/v1#elementValue> "Production engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4113545-3> . 
+<http://d-nb.info/gnd/4113545-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4113545-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fertigungsplanung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4047360-0> . 
+<http://d-nb.info/gnd/4047360-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4047360-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Produktionsplanung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4140651-5> . 
+<http://d-nb.info/gnd/4140651-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4140651-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fertigungsorganisation"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85107219" . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85107219> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85107219#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85107219 . 
+_:bnode75authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85107219 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85107219 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85107219 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode82authoritiessubjectssh85107219 . 
+_:bnode82authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode82authoritiessubjectssh85107219 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-11-01T09:49:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85107219 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode82authoritiessubjectssh85107219 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode92authoritiessubjectssh85107219 . 
+_:bnode92authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode92authoritiessubjectssh85107219 <http://www.w3.org/2008/05/skos-xl#literalForm> "Manufacturing planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#altLabel> "Manufacturing planning" . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode99authoritiessubjectssh85107219 . 
+_:bnode99authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode99authoritiessubjectssh85107219 <http://www.w3.org/2008/05/skos-xl#literalForm> "Process planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#altLabel> "Process planning" . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102696> . 
+<http://id.loc.gov/authorities/subjects/sh85102696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102696> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85107212> . 
+<http://id.loc.gov/authorities/subjects/sh85107212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107212> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90005199> . 
+<http://id.loc.gov/authorities/subjects/sh90005199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90005199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufacturing resource planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12126091m> . 
+<http://data.bnf.fr/ark:/12148/cb12126091m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12126091m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production -- Planification"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4113545-3> . 
+<http://d-nb.info/gnd/4113545-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4113545-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fertigungsplanung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4047360-0> . 
+<http://d-nb.info/gnd/4047360-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4047360-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Produktionsplanung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4140651-5> . 
+<http://d-nb.info/gnd/4140651-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4140651-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fertigungsorganisation"@de . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2008/05/skos-xl#altLabel> "Manufacturing planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2008/05/skos-xl#altLabel> "Process planning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode146authoritiessubjectssh85107219 . 
+_:bnode146authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode146authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107219> . 
+_:bnode146authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode146authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode146authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85107219> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode154authoritiessubjectssh85107219 . 
+_:bnode154authoritiessubjectssh85107219 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode154authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85107219> . 
+_:bnode154authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode154authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#createdDate> "1994-11-01T09:49:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode154authoritiessubjectssh85107219 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

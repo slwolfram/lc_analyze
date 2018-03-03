@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85110519 . 
+_:bnode7authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85110519 . 
+_:bnode7authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85110519 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85110519 . 
+_:bnode11authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85110519 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Microwave meteorology"@en . 
+_:bnode11authoritiessubjectssh85110519 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85110519 . 
+_:bnode16authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85110519 . 
+_:bnode16authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85110519 <http://www.loc.gov/mads/rdf/v1#elementValue> "Microwave meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#classification> "QC973" . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85144053> . 
+<http://id.loc.gov/authorities/subjects/sh85144053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85144053> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VLF emissions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067836> . 
+<http://id.loc.gov/authorities/subjects/sh85067836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067836> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ionospheric drift"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084312> . 
+<http://id.loc.gov/authorities/subjects/sh85084312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084312> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meteor trails"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110521> . 
+<http://id.loc.gov/authorities/subjects/sh85110521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110521> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio noise"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121706868> . 
+<http://data.bnf.fr/ark:/12148/cb121706868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121706868> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radiométéorologie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009295> . 
+<http://id.loc.gov/authorities/subjects/sh85009295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009295> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Atmospheric radio refractivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067840> . 
+<http://id.loc.gov/authorities/subjects/sh85067840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067840> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ionospheric radio wave propagation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85033149> . 
+<http://id.loc.gov/authorities/subjects/sh85033149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85033149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cosmic noise"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067839> . 
+<http://id.loc.gov/authorities/subjects/sh85067839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067839> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ionospheric radio wave absorption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85084334> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode63authoritiessubjectssh85110519 . 
+_:bnode63authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode64authoritiessubjectssh85110519 . 
+_:bnode63authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode64authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode64authoritiessubjectssh85110519 <http://www.loc.gov/mads/rdf/v1#elementValue> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85110586> . 
+<http://id.loc.gov/authorities/subjects/sh85110586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110586> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio waves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110586> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode72authoritiessubjectssh85110519 . 
+_:bnode72authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode73authoritiessubjectssh85110519 . 
+_:bnode72authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode73authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode73authoritiessubjectssh85110519 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio waves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85110519" . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85110519> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85110519#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85110519 . 
+_:bnode83authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85110519 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85110519 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85110519 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode93authoritiessubjectssh85110519 . 
+_:bnode93authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode93authoritiessubjectssh85110519 <http://www.w3.org/2008/05/skos-xl#literalForm> "Microwave meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#altLabel> "Microwave meteorology" . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85084334> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084334> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85144053> . 
+<http://id.loc.gov/authorities/subjects/sh85144053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85144053> <http://www.w3.org/2004/02/skos/core#prefLabel> "VLF emissions"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067836> . 
+<http://id.loc.gov/authorities/subjects/sh85067836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067836> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ionospheric drift"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084312> . 
+<http://id.loc.gov/authorities/subjects/sh85084312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084312> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meteor trails"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110521> . 
+<http://id.loc.gov/authorities/subjects/sh85110521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110521> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio noise"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009295> . 
+<http://id.loc.gov/authorities/subjects/sh85009295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009295> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atmospheric radio refractivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067840> . 
+<http://id.loc.gov/authorities/subjects/sh85067840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067840> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ionospheric radio wave propagation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85033149> . 
+<http://id.loc.gov/authorities/subjects/sh85033149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cosmic noise"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067839> . 
+<http://id.loc.gov/authorities/subjects/sh85067839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ionospheric radio wave absorption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85110586> . 
+<http://id.loc.gov/authorities/subjects/sh85110586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110586> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio waves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121706868> . 
+<http://data.bnf.fr/ark:/12148/cb121706868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121706868> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radiométéorologie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2008/05/skos-xl#altLabel> "Microwave meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110519> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode158authoritiessubjectssh85110519 . 
+_:bnode158authoritiessubjectssh85110519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode158authoritiessubjectssh85110519 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85110519> . 
+_:bnode158authoritiessubjectssh85110519 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode158authoritiessubjectssh85110519 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode158authoritiessubjectssh85110519 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

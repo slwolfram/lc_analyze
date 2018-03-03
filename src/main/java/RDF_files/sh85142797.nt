@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verbal behavior"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85142797 . 
+_:bnode7authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85142797 . 
+_:bnode7authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#elementValue> "Verbal behavior"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85142797 . 
+_:bnode11authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Behavior, Verbal"@en . 
+_:bnode11authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85142797 . 
+_:bnode16authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85142797 . 
+_:bnode16authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#elementValue> "Behavior, Verbal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#classification> "BF455" . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85126434> . 
+<http://id.loc.gov/authorities/subjects/sh85126434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85126434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Speech"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126434> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85142797 . 
+_:bnode27authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85142797 . 
+_:bnode27authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#elementValue> "Speech"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85067203> . 
+<http://id.loc.gov/authorities/subjects/sh85067203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067203> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Interaction analysis in education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4343424-1> . 
+<http://d-nb.info/gnd/4343424-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4343424-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sprachverhalten"@de . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85142799> . 
+<http://id.loc.gov/authorities/subjects/sh85142799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85142799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142799> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verbal learning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142799> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85142797 . 
+_:bnode44authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85142797 . 
+_:bnode44authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#elementValue> "Verbal learning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11951701d> . 
+<http://data.bnf.fr/ark:/12148/cb11951701d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11951701d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Comportement verbal"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142800> . 
+<http://id.loc.gov/authorities/subjects/sh85142800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verbal self-defense"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142795> . 
+<http://id.loc.gov/authorities/subjects/sh85142795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142795> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Verbal ability"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85030776> . 
+<http://id.loc.gov/authorities/subjects/sh85030776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85030776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030776> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Conditioned response"@en . 
+<http://id.loc.gov/authorities/subjects/sh85030776> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode65authoritiessubjectssh85142797 . 
+_:bnode65authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode66authoritiessubjectssh85142797 . 
+_:bnode65authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode66authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode66authoritiessubjectssh85142797 <http://www.loc.gov/mads/rdf/v1#elementValue> "Conditioned response"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85142797" . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85142797> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85142797#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh85142797 . 
+_:bnode77authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh85142797 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh85142797 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh85142797 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85142797 . 
+_:bnode84authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85142797 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-12-14T06:56:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85142797 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85142797 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbal behavior"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode94authoritiessubjectssh85142797 . 
+_:bnode94authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode94authoritiessubjectssh85142797 <http://www.w3.org/2008/05/skos-xl#literalForm> "Behavior, Verbal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#altLabel> "Behavior, Verbal" . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85126434> . 
+<http://id.loc.gov/authorities/subjects/sh85126434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Speech"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85030776> . 
+<http://id.loc.gov/authorities/subjects/sh85030776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030776> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conditioned response"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85067203> . 
+<http://id.loc.gov/authorities/subjects/sh85067203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067203> <http://www.w3.org/2004/02/skos/core#prefLabel> "Interaction analysis in education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142800> . 
+<http://id.loc.gov/authorities/subjects/sh85142800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbal self-defense"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142795> . 
+<http://id.loc.gov/authorities/subjects/sh85142795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbal ability"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85142799> . 
+<http://id.loc.gov/authorities/subjects/sh85142799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verbal learning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4343424-1> . 
+<http://d-nb.info/gnd/4343424-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4343424-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sprachverhalten"@de . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11951701d> . 
+<http://data.bnf.fr/ark:/12148/cb11951701d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11951701d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comportement verbal"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2008/05/skos-xl#altLabel> "Behavior, Verbal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode144authoritiessubjectssh85142797 . 
+_:bnode144authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode144authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85142797> . 
+_:bnode144authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode144authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode144authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85142797> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode152authoritiessubjectssh85142797 . 
+_:bnode152authoritiessubjectssh85142797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode152authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85142797> . 
+_:bnode152authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode152authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#createdDate> "1994-12-14T06:56:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode152authoritiessubjectssh85142797 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

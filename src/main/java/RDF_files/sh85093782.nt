@@ -1,0 +1,155 @@
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Obstetrics--Surgery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85093782 . 
+_:bnode7authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85093768> . 
+_:bnode7authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85093768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85093768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Obstetrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093768> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85093782 . 
+_:bnode12authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85093782 . 
+_:bnode12authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#elementValue> "Obstetrics"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85130766> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85130766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85130766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130766> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Surgery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85130766> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85093782 . 
+_:bnode20authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85093782 . 
+_:bnode20authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#elementValue> "Surgery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85093782 . 
+_:bnode24authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Obstetrics, Operative"@en . 
+_:bnode24authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85093782 . 
+_:bnode29authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85093782 . 
+_:bnode29authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#elementValue> "Obstetrics, Operative"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85093782 . 
+_:bnode33authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Operative obstetrics"@en . 
+_:bnode33authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85093782 . 
+_:bnode38authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85093782 . 
+_:bnode38authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85093782 <http://www.loc.gov/mads/rdf/v1#elementValue> "Operative obstetrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#classification> "RG725-RG791" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000196> . 
+<http://id.loc.gov/authorities/subjects/sh85000196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Abortion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85033759> . 
+<http://id.loc.gov/authorities/subjects/sh85033759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85033759> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Craniotomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96003257> . 
+<http://id.loc.gov/authorities/subjects/sh96003257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96003257> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fetus--Surgery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85073634> . 
+<http://id.loc.gov/authorities/subjects/sh85073634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85073634> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Labor, Induced (Obstetrics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11967856m> . 
+<http://data.bnf.fr/ark:/12148/cb11967856m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11967856m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chirurgie obstétricale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000206> . 
+<http://id.loc.gov/authorities/subjects/sh85000206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000206> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Abortion, Therapeutic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4071623-5> . 
+<http://d-nb.info/gnd/4071623-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4071623-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geburtshilfliche Chirurgie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044448> . 
+<http://id.loc.gov/authorities/subjects/sh85044448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044448> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Episiotomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004560> . 
+<http://id.loc.gov/authorities/subjects/sh85004560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004560> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amniocentesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022196> . 
+<http://id.loc.gov/authorities/subjects/sh85022196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cesarean section"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131548> . 
+<http://id.loc.gov/authorities/subjects/sh85131548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131548> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Symphyseotomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on obstetrical operations. Works on non-obstetrical operations performed on pregnant women are entered under [Pregnant women--Surgery.]" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Pregnant women--Surgery]" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85093782" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85093782> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85093782#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode100authoritiessubjectssh85093782 . 
+_:bnode100authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode100authoritiessubjectssh85093782 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh85093782 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode100authoritiessubjectssh85093782 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode107authoritiessubjectssh85093782 . 
+_:bnode107authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode107authoritiessubjectssh85093782 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-04-26T14:19:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85093782 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode107authoritiessubjectssh85093782 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obstetrics--Surgery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode117authoritiessubjectssh85093782 . 
+_:bnode117authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode117authoritiessubjectssh85093782 <http://www.w3.org/2008/05/skos-xl#literalForm> "Obstetrics, Operative"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#altLabel> "Obstetrics, Operative" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode124authoritiessubjectssh85093782 . 
+_:bnode124authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode124authoritiessubjectssh85093782 <http://www.w3.org/2008/05/skos-xl#literalForm> "Operative obstetrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#altLabel> "Operative obstetrics" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000196> . 
+<http://id.loc.gov/authorities/subjects/sh85000196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abortion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85033759> . 
+<http://id.loc.gov/authorities/subjects/sh85033759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033759> <http://www.w3.org/2004/02/skos/core#prefLabel> "Craniotomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96003257> . 
+<http://id.loc.gov/authorities/subjects/sh96003257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fetus--Surgery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85073634> . 
+<http://id.loc.gov/authorities/subjects/sh85073634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85073634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Labor, Induced (Obstetrics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000206> . 
+<http://id.loc.gov/authorities/subjects/sh85000206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abortion, Therapeutic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044448> . 
+<http://id.loc.gov/authorities/subjects/sh85044448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Episiotomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004560> . 
+<http://id.loc.gov/authorities/subjects/sh85004560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004560> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amniocentesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022196> . 
+<http://id.loc.gov/authorities/subjects/sh85022196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cesarean section"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131548> . 
+<http://id.loc.gov/authorities/subjects/sh85131548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131548> <http://www.w3.org/2004/02/skos/core#prefLabel> "Symphyseotomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11967856m> . 
+<http://data.bnf.fr/ark:/12148/cb11967856m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11967856m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chirurgie obstétricale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4071623-5> . 
+<http://d-nb.info/gnd/4071623-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4071623-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geburtshilfliche Chirurgie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on obstetrical operations. Works on non-obstetrical operations performed on pregnant women are entered under [Pregnant women--Surgery.]" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#example> "Note under [Pregnant women--Surgery]" . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2008/05/skos-xl#altLabel> "Obstetrics, Operative"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2008/05/skos-xl#altLabel> "Operative obstetrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode195authoritiessubjectssh85093782 . 
+_:bnode195authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode195authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093782> . 
+_:bnode195authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode195authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode195authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85093782> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode203authoritiessubjectssh85093782 . 
+_:bnode203authoritiessubjectssh85093782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode203authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85093782> . 
+_:bnode203authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode203authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#createdDate> "1989-04-26T14:19:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode203authoritiessubjectssh85093782 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

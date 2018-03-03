@@ -1,0 +1,86 @@
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio--Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85110394 . 
+_:bnode7authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85110385> . 
+_:bnode7authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85110394 . 
+_:bnode12authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85110394 . 
+_:bnode12authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85110394 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85021828> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021828> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85110394 . 
+_:bnode20authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85110394 . 
+_:bnode20authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85110394 <http://www.loc.gov/mads/rdf/v1#elementValue> "Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85051702> . 
+<http://id.loc.gov/authorities/subjects/sh85051702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85051702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051702> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Freedom of information"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051702> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85110394 . 
+_:bnode29authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85110394 . 
+_:bnode29authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85110394 <http://www.loc.gov/mads/rdf/v1#elementValue> "Freedom of information"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85110448> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio broadcasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85110394 . 
+_:bnode38authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85110394 . 
+_:bnode38authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85110394 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio broadcasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12653109m> . 
+<http://data.bnf.fr/ark:/12148/cb12653109m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12653109m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio -- Censure"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85110394" . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85110394> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85110394#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85110394 . 
+_:bnode54authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85110394 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85110394 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85110394 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh85110394 . 
+_:bnode61authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh85110394 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-01-04T10:28:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh85110394 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh85110394 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio--Censorship"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85051702> . 
+<http://id.loc.gov/authorities/subjects/sh85051702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Freedom of information"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85110448> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio broadcasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12653109m> . 
+<http://data.bnf.fr/ark:/12148/cb12653109m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12653109m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio -- Censure"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh85110394 . 
+_:bnode87authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85110394> . 
+_:bnode87authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85110394> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh85110394 . 
+_:bnode95authoritiessubjectssh85110394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85110394> . 
+_:bnode95authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode95authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#createdDate> "1996-01-04T10:28:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85110394 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

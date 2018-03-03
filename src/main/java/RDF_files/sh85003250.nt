@@ -1,0 +1,87 @@
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85003250 . 
+_:bnode7authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85003250 . 
+_:bnode7authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85003250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105429> . 
+<http://id.loc.gov/authorities/subjects/sh85105429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105429> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Postage-stamp albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101196> . 
+<http://id.loc.gov/authorities/subjects/sh85101196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photograph albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014769> . 
+<http://id.loc.gov/authorities/subjects/sh85014769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blank-books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014769> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode24authoritiessubjectssh85003250 . 
+_:bnode24authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode25authoritiessubjectssh85003250 . 
+_:bnode24authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode25authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode25authoritiessubjectssh85003250 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blank-books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11976496q> . 
+<http://data.bnf.fr/ark:/12148/cb11976496q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11976496q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Albums"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4543648-4> . 
+<http://d-nb.info/gnd/4543648-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4543648-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Album"@de . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010066> . 
+<http://id.loc.gov/authorities/subjects/sh85010066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010066> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Autograph albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85003250" . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85003250> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85003250#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh85003250 . 
+_:bnode48authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh85003250 <http://www.loc.gov/mads/rdf/v1#citation-source> "Am. heritage dict." . 
+_:bnode48authoritiessubjectssh85003250 <http://www.loc.gov/mads/rdf/v1#citation-note> "(a book with blank pages for the insertion and preservation of collections, as of stamps, photographs, or autographs)"@en . 
+_:bnode48authoritiessubjectssh85003250 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh85003250 . 
+_:bnode56authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh85003250 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85003250 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh85003250 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh85003250 . 
+_:bnode63authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh85003250 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-01-27T09:50:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh85003250 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh85003250 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014769> . 
+<http://id.loc.gov/authorities/subjects/sh85014769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014769> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blank-books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105429> . 
+<http://id.loc.gov/authorities/subjects/sh85105429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Postage-stamp albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101196> . 
+<http://id.loc.gov/authorities/subjects/sh85101196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photograph albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010066> . 
+<http://id.loc.gov/authorities/subjects/sh85010066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010066> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autograph albums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11976496q> . 
+<http://data.bnf.fr/ark:/12148/cb11976496q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11976496q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albums"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4543648-4> . 
+<http://d-nb.info/gnd/4543648-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4543648-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Album"@de . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode104authoritiessubjectssh85003250 . 
+_:bnode104authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode104authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85003250> . 
+_:bnode104authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode104authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode104authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85003250> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode112authoritiessubjectssh85003250 . 
+_:bnode112authoritiessubjectssh85003250 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode112authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85003250> . 
+_:bnode112authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode112authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#createdDate> "1993-01-27T09:50:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode112authoritiessubjectssh85003250 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

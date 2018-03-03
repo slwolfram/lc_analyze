@@ -1,0 +1,104 @@
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Materials--Testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85082086 . 
+_:bnode7authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006405> . 
+_:bnode7authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh2002006405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006405> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Materials"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006405> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85082086 . 
+_:bnode12authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85082086 . 
+_:bnode12authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85082086 <http://www.loc.gov/mads/rdf/v1#elementValue> "Materials"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85134146> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85134146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85134146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134146> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134146> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85082086 . 
+_:bnode20authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85082086 . 
+_:bnode20authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85082086 <http://www.loc.gov/mads/rdf/v1#elementValue> "Testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082077> . 
+<http://id.loc.gov/authorities/subjects/sh85082077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082077> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Materials--Fatigue"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082072> . 
+<http://id.loc.gov/authorities/subjects/sh85082072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082072> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Materials--Dynamic testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000574> . 
+<http://id.loc.gov/authorities/subjects/sh85000574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000574> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acoustic emission"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010001343> . 
+<http://id.loc.gov/authorities/subjects/sh2010001343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010001343> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Containerless processing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11981991c> . 
+<http://data.bnf.fr/ark:/12148/cb11981991c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11981991c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Matériaux -- Essais"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082069> . 
+<http://id.loc.gov/authorities/subjects/sh85082069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082069> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Materials--Compression testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4037934-6> . 
+<http://d-nb.info/gnd/4037934-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4037934-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Werkstoffprüfung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096337> . 
+<http://id.loc.gov/authorities/subjects/sh85096337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096337> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oxygen index of materials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016986> . 
+<http://id.loc.gov/authorities/subjects/sh85016986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brittleness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086516> . 
+<http://id.loc.gov/authorities/subjects/sh85086516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086516> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moiré method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85082086" . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85082086> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85082086#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85082086 . 
+_:bnode71authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85082086 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85082086 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85082086 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Materials--Testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082077> . 
+<http://id.loc.gov/authorities/subjects/sh85082077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082077> <http://www.w3.org/2004/02/skos/core#prefLabel> "Materials--Fatigue"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082072> . 
+<http://id.loc.gov/authorities/subjects/sh85082072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082072> <http://www.w3.org/2004/02/skos/core#prefLabel> "Materials--Dynamic testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000574> . 
+<http://id.loc.gov/authorities/subjects/sh85000574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000574> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acoustic emission"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010001343> . 
+<http://id.loc.gov/authorities/subjects/sh2010001343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010001343> <http://www.w3.org/2004/02/skos/core#prefLabel> "Containerless processing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082069> . 
+<http://id.loc.gov/authorities/subjects/sh85082069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Materials--Compression testing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096337> . 
+<http://id.loc.gov/authorities/subjects/sh85096337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096337> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oxygen index of materials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016986> . 
+<http://id.loc.gov/authorities/subjects/sh85016986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brittleness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086516> . 
+<http://id.loc.gov/authorities/subjects/sh85086516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086516> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moiré method"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11981991c> . 
+<http://data.bnf.fr/ark:/12148/cb11981991c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11981991c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Matériaux -- Essais"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4037934-6> . 
+<http://d-nb.info/gnd/4037934-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4037934-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Werkstoffprüfung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85082086> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode132authoritiessubjectssh85082086 . 
+_:bnode132authoritiessubjectssh85082086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode132authoritiessubjectssh85082086 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85082086> . 
+_:bnode132authoritiessubjectssh85082086 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode132authoritiessubjectssh85082086 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode132authoritiessubjectssh85082086 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

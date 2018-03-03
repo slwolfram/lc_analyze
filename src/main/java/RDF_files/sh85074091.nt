@@ -1,0 +1,296 @@
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lakes--Michigan"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85074091 . 
+_:bnode7authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85074030> . 
+_:bnode7authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lakes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074030> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85074091 . 
+_:bnode12authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85074091 . 
+_:bnode12authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85074091 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lakes"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n80046126> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Michigan"@en . 
+<http://id.loc.gov/authorities/names/n80046126> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85074091 . 
+_:bnode20authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85074091 . 
+_:bnode20authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85074091 <http://www.loc.gov/mads/rdf/v1#elementValue> "Michigan"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94006659> . 
+<http://id.loc.gov/authorities/subjects/sh94006659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94006659> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Douglas Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000258> . 
+<http://id.loc.gov/authorities/subjects/sh98000258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vieux Desert, Lac (Wis. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005027> . 
+<http://id.loc.gov/authorities/subjects/sh91005027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005027> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "White Lake (Muskegon County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98006633> . 
+<http://id.loc.gov/authorities/subjects/sh98006633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98006633> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Michiana, Lake (Mich. and Ind.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004006772> . 
+<http://id.loc.gov/authorities/subjects/sh2004006772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004006772> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lincoln Lake (Kent County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99002155> . 
+<http://id.loc.gov/authorities/subjects/sh99002155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002155> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Long Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010014387> . 
+<http://id.loc.gov/authorities/subjects/sh2010014387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010014387> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Torch Lake (Antrim County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016001533> . 
+<http://id.loc.gov/authorities/subjects/sh2016001533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016001533> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Silver Lake (Oceana County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002801> . 
+<http://id.loc.gov/authorities/subjects/sh90002801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002801> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gull Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99001829> . 
+<http://id.loc.gov/authorities/subjects/sh99001829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001829> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indiana Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98006631> . 
+<http://id.loc.gov/authorities/subjects/sh98006631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98006631> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Barton Lake (Ind.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00008102> . 
+<http://id.loc.gov/authorities/subjects/sh00008102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00008102> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Little Paw Paw Lake (Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003936> . 
+<http://id.loc.gov/authorities/subjects/sh91003936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003936> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Portage Lake (Manistee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011001148> . 
+<http://id.loc.gov/authorities/subjects/sh2011001148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011001148> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wolf Lake (Muskegon County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001004768> . 
+<http://id.loc.gov/authorities/subjects/sh2001004768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001004768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stone Lake (Cass County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86005729> . 
+<http://id.loc.gov/authorities/subjects/sh86005729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005729> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crystal Lake (Benzie County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009005432> . 
+<http://id.loc.gov/authorities/subjects/sh2009005432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009005432> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manistique Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90005674> . 
+<http://id.loc.gov/authorities/subjects/sh90005674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90005674> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Macatawa, Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015002810> . 
+<http://id.loc.gov/authorities/subjects/sh2015002810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015002810> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Grand Lake (Presque Isle County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011003126> . 
+<http://id.loc.gov/authorities/subjects/sh2011003126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011003126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gun Lake (Allegan County and Barry County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97003264> . 
+<http://id.loc.gov/authorities/subjects/sh97003264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003264> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Round Lake (Lenawee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99002962> . 
+<http://id.loc.gov/authorities/subjects/sh99002962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002962> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fish Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85116561> . 
+<http://id.loc.gov/authorities/subjects/sh85116561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116561> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saint Clair, Lake (Mich. and Ont.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00005444> . 
+<http://id.loc.gov/authorities/subjects/sh00005444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005444> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Benton Lake (Newaygo County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96011657> . 
+<http://id.loc.gov/authorities/subjects/sh96011657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96011657> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paw Paw Lake (Berrien County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99002966> . 
+<http://id.loc.gov/authorities/subjects/sh99002966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002966> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "George, Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007004659> . 
+<http://id.loc.gov/authorities/subjects/sh2007004659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007004659> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Portage Lake (Houghton County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008005379> . 
+<http://id.loc.gov/authorities/subjects/sh2008005379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008005379> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "McClure Storage Basin (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009003219> . 
+<http://id.loc.gov/authorities/subjects/sh2009003219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009003219> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Glen Lake (Leelanau County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004862> . 
+<http://id.loc.gov/authorities/subjects/sh90004862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004862> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pere Marquette Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009008693> . 
+<http://id.loc.gov/authorities/subjects/sh2009008693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009008693> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Beaver Lake (Alger County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97003261> . 
+<http://id.loc.gov/authorities/subjects/sh97003261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003261> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Devils Lake (Lenawee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91002163> . 
+<http://id.loc.gov/authorities/subjects/sh91002163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91002163> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muskegon Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005768> . 
+<http://id.loc.gov/authorities/subjects/sh98005768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tenderfoot Lake (Wis. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001001186> . 
+<http://id.loc.gov/authorities/subjects/sh2001001186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001001186> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Long Lake (Ionia County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008005446> . 
+<http://id.loc.gov/authorities/subjects/sh2008005446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008005446> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dead River Storage Basin (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85144945> . 
+<http://id.loc.gov/authorities/subjects/sh85144945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85144945> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Walloon Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90005716> . 
+<http://id.loc.gov/authorities/subjects/sh90005716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90005716> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manistee Lake (Manistee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013000313> . 
+<http://id.loc.gov/authorities/subjects/sh2013000313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013000313> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hubbard Lake (Alcona County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063181> . 
+<http://id.loc.gov/authorities/subjects/sh85063181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063181> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huron, Lake (Mich. and Ont.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008003985> . 
+<http://id.loc.gov/authorities/subjects/sh2008003985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008003985> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Silver Lake Basin (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91001125> . 
+<http://id.loc.gov/authorities/subjects/sh91001125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91001125> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Charlevoix, Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85074091" . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85074091> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85074091#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode199authoritiessubjectssh85074091 . 
+_:bnode199authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode199authoritiessubjectssh85074091 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode199authoritiessubjectssh85074091 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode199authoritiessubjectssh85074091 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lakes--Michigan"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94006659> . 
+<http://id.loc.gov/authorities/subjects/sh94006659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94006659> <http://www.w3.org/2004/02/skos/core#prefLabel> "Douglas Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000258> . 
+<http://id.loc.gov/authorities/subjects/sh98000258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vieux Desert, Lac (Wis. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005027> . 
+<http://id.loc.gov/authorities/subjects/sh91005027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005027> <http://www.w3.org/2004/02/skos/core#prefLabel> "White Lake (Muskegon County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98006633> . 
+<http://id.loc.gov/authorities/subjects/sh98006633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98006633> <http://www.w3.org/2004/02/skos/core#prefLabel> "Michiana, Lake (Mich. and Ind.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004006772> . 
+<http://id.loc.gov/authorities/subjects/sh2004006772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004006772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lincoln Lake (Kent County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99002155> . 
+<http://id.loc.gov/authorities/subjects/sh99002155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Long Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010014387> . 
+<http://id.loc.gov/authorities/subjects/sh2010014387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010014387> <http://www.w3.org/2004/02/skos/core#prefLabel> "Torch Lake (Antrim County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016001533> . 
+<http://id.loc.gov/authorities/subjects/sh2016001533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016001533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silver Lake (Oceana County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002801> . 
+<http://id.loc.gov/authorities/subjects/sh90002801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002801> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gull Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99001829> . 
+<http://id.loc.gov/authorities/subjects/sh99001829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99001829> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indiana Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98006631> . 
+<http://id.loc.gov/authorities/subjects/sh98006631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98006631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barton Lake (Ind.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00008102> . 
+<http://id.loc.gov/authorities/subjects/sh00008102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00008102> <http://www.w3.org/2004/02/skos/core#prefLabel> "Little Paw Paw Lake (Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003936> . 
+<http://id.loc.gov/authorities/subjects/sh91003936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003936> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portage Lake (Manistee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011001148> . 
+<http://id.loc.gov/authorities/subjects/sh2011001148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011001148> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wolf Lake (Muskegon County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001004768> . 
+<http://id.loc.gov/authorities/subjects/sh2001004768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001004768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stone Lake (Cass County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86005729> . 
+<http://id.loc.gov/authorities/subjects/sh86005729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crystal Lake (Benzie County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009005432> . 
+<http://id.loc.gov/authorities/subjects/sh2009005432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009005432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manistique Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90005674> . 
+<http://id.loc.gov/authorities/subjects/sh90005674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90005674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Macatawa, Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015002810> . 
+<http://id.loc.gov/authorities/subjects/sh2015002810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015002810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grand Lake (Presque Isle County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011003126> . 
+<http://id.loc.gov/authorities/subjects/sh2011003126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011003126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gun Lake (Allegan County and Barry County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97003264> . 
+<http://id.loc.gov/authorities/subjects/sh97003264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003264> <http://www.w3.org/2004/02/skos/core#prefLabel> "Round Lake (Lenawee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99002962> . 
+<http://id.loc.gov/authorities/subjects/sh99002962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002962> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fish Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85116561> . 
+<http://id.loc.gov/authorities/subjects/sh85116561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116561> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Clair, Lake (Mich. and Ont.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00005444> . 
+<http://id.loc.gov/authorities/subjects/sh00005444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benton Lake (Newaygo County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96011657> . 
+<http://id.loc.gov/authorities/subjects/sh96011657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96011657> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paw Paw Lake (Berrien County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99002966> . 
+<http://id.loc.gov/authorities/subjects/sh99002966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99002966> <http://www.w3.org/2004/02/skos/core#prefLabel> "George, Lake (Ind. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007004659> . 
+<http://id.loc.gov/authorities/subjects/sh2007004659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007004659> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portage Lake (Houghton County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008005379> . 
+<http://id.loc.gov/authorities/subjects/sh2008005379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008005379> <http://www.w3.org/2004/02/skos/core#prefLabel> "McClure Storage Basin (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009003219> . 
+<http://id.loc.gov/authorities/subjects/sh2009003219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009003219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glen Lake (Leelanau County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004862> . 
+<http://id.loc.gov/authorities/subjects/sh90004862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004862> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pere Marquette Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009008693> . 
+<http://id.loc.gov/authorities/subjects/sh2009008693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009008693> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beaver Lake (Alger County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97003261> . 
+<http://id.loc.gov/authorities/subjects/sh97003261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003261> <http://www.w3.org/2004/02/skos/core#prefLabel> "Devils Lake (Lenawee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91002163> . 
+<http://id.loc.gov/authorities/subjects/sh91002163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91002163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muskegon Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005768> . 
+<http://id.loc.gov/authorities/subjects/sh98005768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tenderfoot Lake (Wis. and Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001001186> . 
+<http://id.loc.gov/authorities/subjects/sh2001001186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001001186> <http://www.w3.org/2004/02/skos/core#prefLabel> "Long Lake (Ionia County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008005446> . 
+<http://id.loc.gov/authorities/subjects/sh2008005446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008005446> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dead River Storage Basin (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85144945> . 
+<http://id.loc.gov/authorities/subjects/sh85144945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85144945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Walloon Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90005716> . 
+<http://id.loc.gov/authorities/subjects/sh90005716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90005716> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manistee Lake (Manistee County, Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013000313> . 
+<http://id.loc.gov/authorities/subjects/sh2013000313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013000313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hubbard Lake (Alcona County, Mich. : Lake)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063181> . 
+<http://id.loc.gov/authorities/subjects/sh85063181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063181> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huron, Lake (Mich. and Ont.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008003985> . 
+<http://id.loc.gov/authorities/subjects/sh2008003985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008003985> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silver Lake Basin (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91001125> . 
+<http://id.loc.gov/authorities/subjects/sh91001125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91001125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Charlevoix, Lake (Mich.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074091> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode420authoritiessubjectssh85074091 . 
+_:bnode420authoritiessubjectssh85074091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode420authoritiessubjectssh85074091 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85074091> . 
+_:bnode420authoritiessubjectssh85074091 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode420authoritiessubjectssh85074091 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode420authoritiessubjectssh85074091 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

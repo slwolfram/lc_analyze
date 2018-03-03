@@ -1,0 +1,108 @@
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music--History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85088794 . 
+_:bnode7authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85088762> . 
+_:bnode7authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85088794 . 
+_:bnode12authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85088794 . 
+_:bnode12authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85088794 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99001187> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85088794 . 
+_:bnode20authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85088794 . 
+_:bnode20authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85088794 <http://www.loc.gov/mads/rdf/v1#elementValue> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#classification> "ML159-ML3799" . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107301> . 
+<http://id.loc.gov/authorities/subjects/sh85107301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107301> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Program music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088956> . 
+<http://id.loc.gov/authorities/subjects/sh85088956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088956> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musical criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088807> . 
+<http://id.loc.gov/authorities/subjects/sh85088807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088807> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music--Performance--History"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11939566z> . 
+<http://data.bnf.fr/ark:/12148/cb11939566z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11939566z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musique -- Histoire et critique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85034149> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85088794 . 
+_:bnode47authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85088794 . 
+_:bnode47authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85088794 <http://www.loc.gov/mads/rdf/v1#elementValue> "Criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088864> . 
+<http://id.loc.gov/authorities/subjects/sh85088864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088864> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music--Origin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088780> . 
+<http://id.loc.gov/authorities/subjects/sh85088780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088780> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music--Chronology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Criticism]" . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings for forms and types of music subdivided by [History and criticism,] e.g. [Orchestral music--History and criticism; Songs--History and criticism] and topical headings for forms and types of music, e.g. [Choral music; Opera]" . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85088794" . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85088794> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85088794#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh85088794 . 
+_:bnode70authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh85088794 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-07-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh85088794 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh85088794 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh85088794 . 
+_:bnode77authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh85088794 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-09-30T12:47:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh85088794 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh85088794 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music--History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85034149> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107301> . 
+<http://id.loc.gov/authorities/subjects/sh85107301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107301> <http://www.w3.org/2004/02/skos/core#prefLabel> "Program music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088956> . 
+<http://id.loc.gov/authorities/subjects/sh85088956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088956> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musical criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088807> . 
+<http://id.loc.gov/authorities/subjects/sh85088807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088807> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music--Performance--History"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088864> . 
+<http://id.loc.gov/authorities/subjects/sh85088864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music--Origin"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088780> . 
+<http://id.loc.gov/authorities/subjects/sh85088780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music--Chronology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11939566z> . 
+<http://data.bnf.fr/ark:/12148/cb11939566z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11939566z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musique -- Histoire et critique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#editorial> "headings for forms and types of music subdivided by [History and criticism,] e.g. [Orchestral music--History and criticism; Songs--History and criticism] and topical headings for forms and types of music, e.g. [Choral music; Opera]" . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#example> "Note under [Criticism]" . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh85088794 . 
+_:bnode127authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088794> . 
+_:bnode127authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode127authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#createdDate> "2003-07-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85088794> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode135authoritiessubjectssh85088794 . 
+_:bnode135authoritiessubjectssh85088794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode135authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088794> . 
+_:bnode135authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode135authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#createdDate> "2003-09-30T12:47:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode135authoritiessubjectssh85088794 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

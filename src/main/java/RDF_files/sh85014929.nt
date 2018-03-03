@@ -1,0 +1,228 @@
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blood--Analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85014929 . 
+_:bnode7authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85014927> . 
+_:bnode7authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85014927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014927> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blood"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014927> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85014929 . 
+_:bnode12authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85014929 . 
+_:bnode12authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blood"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006221> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006221> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85014929 . 
+_:bnode20authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85014929 . 
+_:bnode20authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85014929 . 
+_:bnode24authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Analysis of blood"@en . 
+_:bnode24authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85014929 . 
+_:bnode29authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85014929 . 
+_:bnode29authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Analysis of blood"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85014929 . 
+_:bnode33authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode33authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blood--Chemistry"@en . 
+_:bnode33authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode38authoritiessubjectssh85014929 . 
+_:bnode38authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85014929 . 
+_:bnode38authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode046 . 
+_:bnode39authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode39authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode39authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blood"@en . 
+_:bnode39authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85014929 . 
+_:bnode43authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85014929 . 
+_:bnode43authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blood"@en . 
+_:bnode046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh85014929 . 
+_:bnode046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode47authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode47authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chemistry"@en . 
+_:bnode47authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85014929 . 
+_:bnode51authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85014929 . 
+_:bnode51authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode55authoritiessubjectssh85014929 . 
+_:bnode55authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode55authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode55authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blood chemistry"@en . 
+_:bnode55authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85014929 . 
+_:bnode60authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85014929 . 
+_:bnode60authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blood chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode64authoritiessubjectssh85014929 . 
+_:bnode64authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode64authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode64authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blood tests"@en . 
+_:bnode64authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85014929 . 
+_:bnode69authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85014929 . 
+_:bnode69authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blood tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#classification> "QP91-QP99.5" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#classification> "RB45" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85023014> . 
+<http://id.loc.gov/authorities/subjects/sh85023014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clinical chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023014> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode82authoritiessubjectssh85014929 . 
+_:bnode82authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode83authoritiessubjectssh85014929 . 
+_:bnode82authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode83authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode83authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Clinical chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11973588n> . 
+<http://data.bnf.fr/ark:/12148/cb11973588n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11973588n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sang -- Analyse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014976> . 
+<http://id.loc.gov/authorities/subjects/sh85014976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014976> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blood coagulation tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014983> . 
+<http://id.loc.gov/authorities/subjects/sh85014983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014983> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blood gases--Analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060202> . 
+<http://id.loc.gov/authorities/subjects/sh85060202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060202> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hemoglobinometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055363> . 
+<http://id.loc.gov/authorities/subjects/sh85055363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055363> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Glucose tolerance tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85015015> . 
+<http://id.loc.gov/authorities/subjects/sh85015015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015015> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blood protein electrophoresis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000088> . 
+<http://id.loc.gov/authorities/subjects/sh85000088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000088> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Abderhalden reaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode114authoritiessubjectssh85014929 . 
+_:bnode114authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode114authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode114authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blood--Analysis and chemistry"@en . 
+_:bnode114authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode119authoritiessubjectssh85014929 . 
+_:bnode119authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode120authoritiessubjectssh85014929 . 
+_:bnode119authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode0127 . 
+_:bnode120authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode120authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode120authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Blood"@en . 
+_:bnode120authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode124authoritiessubjectssh85014929 . 
+_:bnode124authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode125authoritiessubjectssh85014929 . 
+_:bnode124authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode125authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode125authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blood"@en . 
+_:bnode0127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode128authoritiessubjectssh85014929 . 
+_:bnode0127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode128authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode128authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode128authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Analysis and chemistry"@en . 
+_:bnode128authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode132authoritiessubjectssh85014929 . 
+_:bnode132authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode133authoritiessubjectssh85014929 . 
+_:bnode132authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode133authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode133authoritiessubjectssh85014929 <http://www.loc.gov/mads/rdf/v1#elementValue> "Analysis and chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/18068> . 
+<http://lod.nal.usda.gov/nalt/18068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18068> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "hematologic tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/18085> . 
+<http://lod.nal.usda.gov/nalt/18085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18085> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "blood chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on the physicochemical analysis of serum or plasma, and on the diagnostic significance of the results. Works on the examination of the formed elements of the blood by microscopic and other techniques, and on the diagnostic significance of the results, are entered under [Blood--Examination.]" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Blood--Examination]" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85014929" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85014929> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85014929#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode155authoritiessubjectssh85014929 . 
+_:bnode155authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode155authoritiessubjectssh85014929 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode155authoritiessubjectssh85014929 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode155authoritiessubjectssh85014929 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode162authoritiessubjectssh85014929 . 
+_:bnode162authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode162authoritiessubjectssh85014929 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-01-07T15:54:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode162authoritiessubjectssh85014929 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode162authoritiessubjectssh85014929 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blood--Analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode172authoritiessubjectssh85014929 . 
+_:bnode172authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode172authoritiessubjectssh85014929 <http://www.w3.org/2008/05/skos-xl#literalForm> "Analysis of blood"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#altLabel> "Analysis of blood" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode179authoritiessubjectssh85014929 . 
+_:bnode179authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode179authoritiessubjectssh85014929 <http://www.w3.org/2008/05/skos-xl#literalForm> "Blood--Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#altLabel> "Blood--Chemistry" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode186authoritiessubjectssh85014929 . 
+_:bnode186authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode186authoritiessubjectssh85014929 <http://www.w3.org/2008/05/skos-xl#literalForm> "Blood chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#altLabel> "Blood chemistry" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode193authoritiessubjectssh85014929 . 
+_:bnode193authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode193authoritiessubjectssh85014929 <http://www.w3.org/2008/05/skos-xl#literalForm> "Blood tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#altLabel> "Blood tests" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85023014> . 
+<http://id.loc.gov/authorities/subjects/sh85023014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clinical chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014976> . 
+<http://id.loc.gov/authorities/subjects/sh85014976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014976> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blood coagulation tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014983> . 
+<http://id.loc.gov/authorities/subjects/sh85014983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014983> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blood gases--Analysis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060202> . 
+<http://id.loc.gov/authorities/subjects/sh85060202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060202> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hemoglobinometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055363> . 
+<http://id.loc.gov/authorities/subjects/sh85055363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055363> <http://www.w3.org/2004/02/skos/core#prefLabel> "Glucose tolerance tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85015015> . 
+<http://id.loc.gov/authorities/subjects/sh85015015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blood protein electrophoresis"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000088> . 
+<http://id.loc.gov/authorities/subjects/sh85000088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000088> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abderhalden reaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode235authoritiessubjectssh85014929 . 
+_:bnode235authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode235authoritiessubjectssh85014929 <http://www.w3.org/2008/05/skos-xl#literalForm> "Blood--Analysis and chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#altLabel> "Blood--Analysis and chemistry" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11973588n> . 
+<http://data.bnf.fr/ark:/12148/cb11973588n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11973588n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sang -- Analyse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/18068> . 
+<http://lod.nal.usda.gov/nalt/18068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18068> <http://www.w3.org/2004/02/skos/core#prefLabel> "hematologic tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/18085> . 
+<http://lod.nal.usda.gov/nalt/18085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18085> <http://www.w3.org/2004/02/skos/core#prefLabel> "blood chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on the physicochemical analysis of serum or plasma, and on the diagnostic significance of the results. Works on the examination of the formed elements of the blood by microscopic and other techniques, and on the diagnostic significance of the results, are entered under [Blood--Examination.]" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#example> "Note under [Blood--Examination]" . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> "Analysis of blood"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> "Blood--Chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> "Blood chemistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2008/05/skos-xl#altLabel> "Blood tests"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode270authoritiessubjectssh85014929 . 
+_:bnode270authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode270authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85014929> . 
+_:bnode270authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode270authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode270authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85014929> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode278authoritiessubjectssh85014929 . 
+_:bnode278authoritiessubjectssh85014929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode278authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85014929> . 
+_:bnode278authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode278authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#createdDate> "1992-01-07T15:54:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode278authoritiessubjectssh85014929 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

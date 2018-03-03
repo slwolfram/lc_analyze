@@ -6,6 +6,7 @@
 
 package lc_analyze;
 
+import java.io.Serializable;
 import java.net.URI;
 import java.util.ArrayList;
 
@@ -27,7 +28,12 @@ import java.util.ArrayList;
  * 
  ***/
 
-public class LCSubjectHeading {
+public class LCSubjectHeading implements Serializable {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public enum type {
 		NAME, SUBJECT;
 	}
@@ -67,15 +73,17 @@ public class LCSubjectHeading {
 	 * A list of all the oclc numbers for records which contain the given heading
 	 * concept or string.
 	 **/
-	public ArrayList<String> oclcNumbers = new ArrayList<String>();
+	public ArrayList<CatRecord> catRecords = new ArrayList<CatRecord>();
 
 	/**
 	 * A simple constructor for the LCHeading class, used for headings which are not
 	 * subdivided.
 	 **/
-	
+
 	public ArrayList<LCSubjectHeading> broaderHeadings = new ArrayList<LCSubjectHeading>();
 	public ArrayList<LCSubjectHeading> narrowerHeadings = new ArrayList<LCSubjectHeading>();
+	public ArrayList<LCSubjectHeading> relatedHeadings = new ArrayList<LCSubjectHeading>();
+	public ArrayList<String> variantTerms = new ArrayList<String>();
 
 	public LCSubjectHeading(String headingName, URI uri) {
 		this.headingName = headingName;
@@ -92,7 +100,7 @@ public class LCSubjectHeading {
 	 * @param oclc
 	 * @param count
 	 **/
-	public LCSubjectHeading(ArrayList<String> conceptString, URI uri, String oclc, int count) {
+	public LCSubjectHeading(ArrayList<String> conceptString, URI uri, CatRecord catRecord, int count) {
 		System.out.println("Starting LCHeading constructor");
 		if (conceptString.isEmpty()) {
 			System.exit(-1);
@@ -101,12 +109,12 @@ public class LCSubjectHeading {
 		conceptString.remove(0);
 		this.count = count;
 		if (!conceptString.isEmpty()) {
-			this.subheadings.add(new LCSubjectHeading(conceptString, uri, oclc, count));
+			this.subheadings.add(new LCSubjectHeading(conceptString, uri, catRecord, count));
 		} else {
 
 			this.uri = uri;
-			if (oclc != null) {
-				this.oclcNumbers.add(oclc);
+			if (!this.catRecords.contains(catRecord)) {
+				this.catRecords.add(catRecord);
 			}
 
 		}
@@ -132,8 +140,8 @@ public class LCSubjectHeading {
 	 *            of knowing which concept is the root in order to add the rootURI)
 	 * @param count
 	 */
-	public LCSubjectHeading(ArrayList<String> conceptString, URI rootURI, URI complexURI, String oclc, int stringLength,
-			int count) {
+	public LCSubjectHeading(ArrayList<String> conceptString, URI rootURI, URI complexURI,
+			CatRecord catRecord, int stringLength, int count) {
 		System.out.println("Starting LCHeading constructor");
 		if (conceptString.isEmpty()) {
 			System.exit(-1);
@@ -146,15 +154,16 @@ public class LCSubjectHeading {
 		conceptString.remove(0);
 		this.count = count;
 		if (!conceptString.isEmpty()) {
-			if (oclc != null) {
-				this.oclcNumbers.add(oclc);
+			if (!this.catRecords.contains(catRecord)) {
+				this.catRecords.add(catRecord);
 			}
-			this.subheadings.add(new LCSubjectHeading(conceptString, rootURI, complexURI, oclc, stringLength, count));
+			this.subheadings
+					.add(new LCSubjectHeading(conceptString, rootURI, complexURI, catRecord, stringLength, count));
 		} else {
 
 			this.uri = complexURI;
-			if (oclc != null) {
-				this.oclcNumbers.add(oclc);
+			if (!this.catRecords.contains(catRecord)) {
+				this.catRecords.add(catRecord);
 			}
 
 		}
@@ -176,7 +185,7 @@ public class LCSubjectHeading {
 	 * root, use the constructor instead.
 	 **/
 
-	public boolean addSubdivisions(ArrayList<String> conceptString, URI uri, String oclc, int count) {
+	public boolean addSubdivisions(ArrayList<String> conceptString, URI uri, CatRecord catRecord, int count) {
 		System.out.println("Starting addSubdivisions w/ " + conceptString.get(0));
 		// because the if statement below checks for equality, this can only be false if
 		// the first element of conceptString doesn't match the root concept in the
@@ -191,15 +200,15 @@ public class LCSubjectHeading {
 		// the first element of the conceptString, so increment the counter for the
 		// LCHeading and remove the concept from the string.
 		this.count += count;
-		if (oclc != null && !this.oclcNumbers.contains(oclc)) {
-			this.oclcNumbers.add(oclc);
+		if (!this.catRecords.contains(catRecord)) {
+			this.catRecords.add(catRecord);
 		}
 		conceptString.remove(0);
 		if (conceptString.isEmpty()) {
 			if (this.uri == null) {
 				this.uri = uri;
 			}
-			
+
 			return true;
 		}
 		for (int i = 0; i < subheadings.size(); i++) {
@@ -207,16 +216,16 @@ public class LCSubjectHeading {
 			// down
 			// the hierarchy.
 			if (conceptString.get(0).contentEquals(subheadings.get(i).getHeading())) {
-				if (oclc != null && !this.oclcNumbers.contains(oclc)) {
-					this.oclcNumbers.add(oclc);
+				if (!this.catRecords.contains(catRecord)) {
+					this.catRecords.add(catRecord);
 				}
-				return this.subheadings.get(i).addSubdivisions(conceptString, uri, oclc, count);
+				return this.subheadings.get(i).addSubdivisions(conceptString, uri, catRecord, count);
 			}
 		}
 		// since no subheadings are a match, we have reached the part of the concept
 		// string that is new to the hierarchy (and the level of the hierarchy at which
 		// we can add the remaining part of the string.)
-		this.subheadings.add(new LCSubjectHeading(conceptString, uri, oclc, count));
+		this.subheadings.add(new LCSubjectHeading(conceptString, uri, catRecord, count));
 		return true;
 	}
 
@@ -226,12 +235,16 @@ public class LCSubjectHeading {
 	public String getHeading() {
 		return this.headingName;
 	}
-	
-	public void addBroaderHeadings(ArrayList<LCSubjectHeading> broaderTerms) {
+
+	public void setBroaderHeadings(ArrayList<LCSubjectHeading> broaderTerms) {
 		this.broaderHeadings = broaderTerms;
 	}
-	public void addNarrowerHeadings(ArrayList<LCSubjectHeading> narrowerTerms) {
+
+	public void setNarrowerHeadings(ArrayList<LCSubjectHeading> narrowerTerms) {
 		this.narrowerHeadings = narrowerTerms;
+	}
+	public void setRelatedHeadings(ArrayList<LCSubjectHeading> relatedTerms) {
+		this.relatedHeadings = relatedTerms;
 	}
 
 	/**
@@ -265,7 +278,7 @@ public class LCSubjectHeading {
 		if (this.uri != null)
 			uri = this.uri.toString();
 
-		headingTree += this.headingName + " (count:" + this.count + ") (URI:" + uri + ") (OCLC: " + this.oclcNumbers
+		headingTree += this.headingName + " (count:" + this.count + ") (URI:" + uri + ") (catRecords: " + this.catRecords
 				+ ")\n";
 		for (int j = 0; j < this.subheadings.size(); j++) {
 			headingTree += this.subheadings.get(j).toString(level + 1);
@@ -278,5 +291,10 @@ public class LCSubjectHeading {
 	 */
 	public void print() {
 		System.out.println(this.toString(1));
+	}
+
+	public void setVariantTerms(ArrayList<String> variantTerms) {
+		this.variantTerms = variantTerms;
+		
 	}
 }

@@ -1,0 +1,256 @@
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thailand--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85134451 . 
+_:bnode7authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79059683> . 
+_:bnode7authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n79059683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79059683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79059683> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thailand"@en . 
+<http://id.loc.gov/authorities/names/n79059683> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85134451 . 
+_:bnode12authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85134451 . 
+_:bnode12authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85134451 <http://www.loc.gov/mads/rdf/v1#elementValue> "Thailand"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85134451 . 
+_:bnode20authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85134451 . 
+_:bnode20authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85134451 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071634> . 
+<http://id.loc.gov/authorities/subjects/sh85071634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071634> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Karen languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003035> . 
+<http://id.loc.gov/authorities/subjects/sh91003035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003035> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kayah language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92006042> . 
+<http://id.loc.gov/authorities/subjects/sh92006042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92006042> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pa'o language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98003413> . 
+<http://id.loc.gov/authorities/subjects/sh98003413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98003413> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mlabri language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85073376> . 
+<http://id.loc.gov/authorities/subjects/sh85073376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85073376> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kui language (Mon-Khmer)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87003933> . 
+<http://id.loc.gov/authorities/subjects/sh87003933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003933> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lawa language (Thailand)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000798> . 
+<http://id.loc.gov/authorities/subjects/sh87000798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pattani dialect (Thailand)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007000790> . 
+<http://id.loc.gov/authorities/subjects/sh2007000790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007000790> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Northern Khmer language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85119866> . 
+<http://id.loc.gov/authorities/subjects/sh85119866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119866> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Semang languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120762> . 
+<http://id.loc.gov/authorities/subjects/sh85120762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sgaw Karen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121100> . 
+<http://id.loc.gov/authorities/subjects/sh85121100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121100> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92000912> . 
+<http://id.loc.gov/authorities/subjects/sh92000912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000912> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blang language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008001568> . 
+<http://id.loc.gov/authorities/subjects/sh2008001568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008001568> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lahu Bakeo dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092574> . 
+<http://id.loc.gov/authorities/subjects/sh85092574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092574> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Northern Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072226> . 
+<http://id.loc.gov/authorities/subjects/sh85072226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072226> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Khün language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93002099> . 
+<http://id.loc.gov/authorities/subjects/sh93002099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93002099> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Semang language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86002260> . 
+<http://id.loc.gov/authorities/subjects/sh86002260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86002260> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nyah Kur language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086666> . 
+<http://id.loc.gov/authorities/subjects/sh85086666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086666> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000355> . 
+<http://id.loc.gov/authorities/subjects/sh87000355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000355> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Urak Lawoiʾ language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003336> . 
+<http://id.loc.gov/authorities/subjects/sh92003336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003336> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saek language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001007854> . 
+<http://id.loc.gov/authorities/subjects/sh2001007854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001007854> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Katuic languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008004357> . 
+<http://id.loc.gov/authorities/subjects/sh2008004357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008004357> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thai Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096538> . 
+<http://id.loc.gov/authorities/subjects/sh85096538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096538> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pacoh language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010012192> . 
+<http://id.loc.gov/authorities/subjects/sh2010012192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010012192> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Northeastern Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109262> . 
+<http://id.loc.gov/authorities/subjects/sh85109262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109262> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pwo Karen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101462> . 
+<http://id.loc.gov/authorities/subjects/sh85101462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101462> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phu Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016000577> . 
+<http://id.loc.gov/authorities/subjects/sh2016000577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016000577> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chong language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007005902> . 
+<http://id.loc.gov/authorities/subjects/sh2007005902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007005902> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ban Khor Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005007539> . 
+<http://id.loc.gov/authorities/subjects/sh2005007539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005007539> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jehai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85125668> . 
+<http://id.loc.gov/authorities/subjects/sh85125668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125668> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Southern Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92004816> . 
+<http://id.loc.gov/authorities/subjects/sh92004816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92004816> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moken language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000990> . 
+<http://id.loc.gov/authorities/subjects/sh87000990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bru language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003009028> . 
+<http://id.loc.gov/authorities/subjects/sh2003009028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003009028> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moklen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85134451> . 
+<http://id.loc.gov/rwo/agents/sh85134451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85134451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85134451" . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85134451> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85134451#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode166authoritiessubjectssh85134451 . 
+_:bnode166authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode166authoritiessubjectssh85134451 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh85134451 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode166authoritiessubjectssh85134451 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode173authoritiessubjectssh85134451 . 
+_:bnode173authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode173authoritiessubjectssh85134451 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-04-03T12:54:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode173authoritiessubjectssh85134451 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode173authoritiessubjectssh85134451 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thailand--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071634> . 
+<http://id.loc.gov/authorities/subjects/sh85071634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karen languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003035> . 
+<http://id.loc.gov/authorities/subjects/sh91003035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003035> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kayah language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92006042> . 
+<http://id.loc.gov/authorities/subjects/sh92006042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92006042> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pa'o language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98003413> . 
+<http://id.loc.gov/authorities/subjects/sh98003413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003413> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mlabri language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85073376> . 
+<http://id.loc.gov/authorities/subjects/sh85073376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85073376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kui language (Mon-Khmer)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87003933> . 
+<http://id.loc.gov/authorities/subjects/sh87003933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003933> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lawa language (Thailand)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000798> . 
+<http://id.loc.gov/authorities/subjects/sh87000798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pattani dialect (Thailand)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007000790> . 
+<http://id.loc.gov/authorities/subjects/sh2007000790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007000790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Khmer language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85119866> . 
+<http://id.loc.gov/authorities/subjects/sh85119866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semang languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120762> . 
+<http://id.loc.gov/authorities/subjects/sh85120762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sgaw Karen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121100> . 
+<http://id.loc.gov/authorities/subjects/sh85121100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92000912> . 
+<http://id.loc.gov/authorities/subjects/sh92000912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000912> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blang language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008001568> . 
+<http://id.loc.gov/authorities/subjects/sh2008001568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008001568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lahu Bakeo dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092574> . 
+<http://id.loc.gov/authorities/subjects/sh85092574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092574> <http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072226> . 
+<http://id.loc.gov/authorities/subjects/sh85072226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Khün language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93002099> . 
+<http://id.loc.gov/authorities/subjects/sh93002099> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93002099> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semang language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86002260> . 
+<http://id.loc.gov/authorities/subjects/sh86002260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86002260> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nyah Kur language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086666> . 
+<http://id.loc.gov/authorities/subjects/sh85086666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086666> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000355> . 
+<http://id.loc.gov/authorities/subjects/sh87000355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000355> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urak Lawoiʾ language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003336> . 
+<http://id.loc.gov/authorities/subjects/sh92003336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saek language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001007854> . 
+<http://id.loc.gov/authorities/subjects/sh2001007854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001007854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katuic languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008004357> . 
+<http://id.loc.gov/authorities/subjects/sh2008004357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008004357> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thai Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096538> . 
+<http://id.loc.gov/authorities/subjects/sh85096538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096538> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pacoh language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010012192> . 
+<http://id.loc.gov/authorities/subjects/sh2010012192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010012192> <http://www.w3.org/2004/02/skos/core#prefLabel> "Northeastern Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109262> . 
+<http://id.loc.gov/authorities/subjects/sh85109262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109262> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pwo Karen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101462> . 
+<http://id.loc.gov/authorities/subjects/sh85101462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phu Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016000577> . 
+<http://id.loc.gov/authorities/subjects/sh2016000577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016000577> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chong language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007005902> . 
+<http://id.loc.gov/authorities/subjects/sh2007005902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007005902> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ban Khor Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005007539> . 
+<http://id.loc.gov/authorities/subjects/sh2005007539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005007539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jehai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85125668> . 
+<http://id.loc.gov/authorities/subjects/sh85125668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125668> <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Thai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92004816> . 
+<http://id.loc.gov/authorities/subjects/sh92004816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004816> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moken language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000990> . 
+<http://id.loc.gov/authorities/subjects/sh87000990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bru language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003009028> . 
+<http://id.loc.gov/authorities/subjects/sh2003009028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003009028> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moklen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode349authoritiessubjectssh85134451 . 
+_:bnode349authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode349authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85134451> . 
+_:bnode349authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode349authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode349authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85134451> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode357authoritiessubjectssh85134451 . 
+_:bnode357authoritiessubjectssh85134451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode357authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85134451> . 
+_:bnode357authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode357authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#createdDate> "1995-04-03T12:54:12"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode357authoritiessubjectssh85134451 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,76 @@
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epigenetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2011005133 . 
+_:bnode7authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2011005133 . 
+_:bnode7authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epigenetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053877> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2011005133 . 
+_:bnode16authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2011005133 . 
+_:bnode16authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2011005133" . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2011005133> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2011005133#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh2011005133 . 
+_:bnode28authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat: Zhu, R. Growth, morphology, and in vitro development of transgenic poplars with RNAi-inhibited PtDDM1-1/2 gene expression, 2011." . 
+_:bnode28authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh2011005133 . 
+_:bnode34authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-source> "McGraw-Hill dictionary of scientific and technical terms, 2003:" . 
+_:bnode34authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Epigenetics: the study of those processes by which genetic information ultimately results in distinctive physical and behavioral characteristics)"@en . 
+_:bnode34authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh2011005133 . 
+_:bnode42authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, accessed Oct. 24, 2011:" . 
+_:bnode42authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-note> "(epigenetics; the study of heritable changes in gene expression or cellular phenotype caused by mechanisms other than changes in the underlying DNA sequence. Examples of such changes might be DNA methylation or histone deacetylation, both of which serve to suppress gene expression without altering the sequence of the silenced genes)"@en . 
+_:bnode42authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh2011005133 . 
+_:bnode50authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-source> "Francis, R. Epigenetics : the ultimate mystery of inheritance, 2011." . 
+_:bnode50authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh2011005133 . 
+_:bnode56authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-source> "Epigenetics : linking genotype and phenotype in development and evolution, 2011." . 
+_:bnode56authoritiessubjectssh2011005133 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh2011005133 . 
+_:bnode62authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2011-11-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode62authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh2011005133 . 
+_:bnode70authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2012-01-11T08:58:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode70authoritiessubjectssh2011005133 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epigenetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053877> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh2011005133 . 
+_:bnode87authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2011005133> . 
+_:bnode87authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode87authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#createdDate> "2011-11-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2011005133> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh2011005133 . 
+_:bnode95authoritiessubjectssh2011005133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2011005133> . 
+_:bnode95authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode95authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#createdDate> "2012-01-11T08:58:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh2011005133 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

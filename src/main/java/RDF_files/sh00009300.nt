@@ -1,0 +1,86 @@
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cheese shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00009300 . 
+_:bnode7authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00009300 . 
+_:bnode7authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cheese shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#classification> "HD9280" . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85022851> . 
+<http://id.loc.gov/authorities/subjects/sh85022851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85022851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022851> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cheese industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022851> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh00009300 . 
+_:bnode18authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh00009300 . 
+_:bnode18authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cheese industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11978545k> . 
+<http://data.bnf.fr/ark:/12148/cb11978545k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11978545k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fromageries"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85126386> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Specialty stores"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh00009300 . 
+_:bnode31authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh00009300 . 
+_:bnode31authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Specialty stores"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00009300" . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00009300> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00009300#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode43authoritiessubjectssh00009300 . 
+_:bnode43authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode43authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 00050871: Hughes, Sarah. My aunt works in a cheese shop, 2001." . 
+_:bnode43authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh00009300 . 
+_:bnode49authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-source> "Internet Explorer, Nov. 2, 2000." . 
+_:bnode49authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh00009300 . 
+_:bnode55authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-source> "General Business File ASAP, Nov. 2, 2000" . 
+_:bnode55authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Wine and cheese shops)"@en . 
+_:bnode55authoritiessubjectssh00009300 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh00009300 . 
+_:bnode63authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-11-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode63authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh00009300 . 
+_:bnode71authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-12-20T11:27:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode71authoritiessubjectssh00009300 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cheese shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85022851> . 
+<http://id.loc.gov/authorities/subjects/sh85022851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022851> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cheese industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85126386> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126386> <http://www.w3.org/2004/02/skos/core#prefLabel> "Specialty stores"@en . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11978545k> . 
+<http://data.bnf.fr/ark:/12148/cb11978545k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11978545k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fromageries"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh00009300 . 
+_:bnode98authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00009300> . 
+_:bnode98authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#createdDate> "2000-11-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00009300> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode106authoritiessubjectssh00009300 . 
+_:bnode106authoritiessubjectssh00009300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode106authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00009300> . 
+_:bnode106authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode106authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#createdDate> "2000-12-20T11:27:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh00009300 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

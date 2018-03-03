@@ -1,0 +1,56 @@
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric lighting--Control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85041771 . 
+_:bnode7authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85041769> . 
+_:bnode7authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85041769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric lighting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041769> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85041771 . 
+_:bnode12authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85041771 . 
+_:bnode12authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85041771 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric lighting"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99004902> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99004902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99004902> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99004902> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Control"@en . 
+<http://id.loc.gov/authorities/subjects/sh99004902> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85041771 . 
+_:bnode20authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85041771 . 
+_:bnode20authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85041771 <http://www.loc.gov/mads/rdf/v1#elementValue> "Control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010089> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automatic control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85041771 . 
+_:bnode29authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85041771 . 
+_:bnode29authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85041771 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automatic control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85041771" . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85041771> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85041771#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode40authoritiessubjectssh85041771 . 
+_:bnode40authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode40authoritiessubjectssh85041771 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode40authoritiessubjectssh85041771 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode40authoritiessubjectssh85041771 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric lighting--Control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010089> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automatic control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041771> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode56authoritiessubjectssh85041771 . 
+_:bnode56authoritiessubjectssh85041771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode56authoritiessubjectssh85041771 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85041771> . 
+_:bnode56authoritiessubjectssh85041771 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode56authoritiessubjectssh85041771 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85041771 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

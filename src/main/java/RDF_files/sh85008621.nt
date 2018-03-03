@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Asia--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85008621 . 
+_:bnode7authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85008606> . 
+_:bnode7authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85008606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85008606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008606> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Asia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008606> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85008621 . 
+_:bnode12authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85008621 . 
+_:bnode12authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85008621 <http://www.loc.gov/mads/rdf/v1#elementValue> "Asia"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85008621 . 
+_:bnode20authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85008621 . 
+_:bnode20authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85008621 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095617> . 
+<http://id.loc.gov/authorities/subjects/sh85095617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095617> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oriental languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95009005> . 
+<http://id.loc.gov/authorities/subjects/sh95009005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95009005> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Australasian Signed English"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119821488> . 
+<http://data.bnf.fr/ark:/12148/cb119821488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119821488> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Asie -- Langues"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85008621> . 
+<http://id.loc.gov/rwo/agents/sh85008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered general works on the languages used in Asia, including languages originating in Europe or other places outside Asia. Works on the indigenous languages of Asia are entered under [Oriental languages.]" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Languages, Modern]" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Oriental languages]" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85008621" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85008621> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85008621#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode52authoritiessubjectssh85008621 . 
+_:bnode52authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode52authoritiessubjectssh85008621 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-06-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh85008621 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode52authoritiessubjectssh85008621 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85008621 . 
+_:bnode59authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85008621 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-08-01T13:53:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85008621 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85008621 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asia--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095617> . 
+<http://id.loc.gov/authorities/subjects/sh85095617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095617> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oriental languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95009005> . 
+<http://id.loc.gov/authorities/subjects/sh95009005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95009005> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australasian Signed English"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119821488> . 
+<http://data.bnf.fr/ark:/12148/cb119821488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119821488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Asie -- Langues"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#note> "Here are entered general works on the languages used in Asia, including languages originating in Europe or other places outside Asia. Works on the indigenous languages of Asia are entered under [Oriental languages.]" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#example> "Example under [Languages, Modern]" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#example> "Note under [Oriental languages]" . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode91authoritiessubjectssh85008621 . 
+_:bnode91authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode91authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85008621> . 
+_:bnode91authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode91authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#createdDate> "2001-06-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85008621> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode99authoritiessubjectssh85008621 . 
+_:bnode99authoritiessubjectssh85008621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode99authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85008621> . 
+_:bnode99authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode99authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#createdDate> "2001-08-01T13:53:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh85008621 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

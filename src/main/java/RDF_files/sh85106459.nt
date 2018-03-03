@@ -1,0 +1,169 @@
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85106459 . 
+_:bnode7authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85106459 . 
+_:bnode7authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#elementValue> "Presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85106459 . 
+_:bnode11authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Presidency"@en . 
+_:bnode11authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85106459 . 
+_:bnode16authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85106459 . 
+_:bnode16authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#elementValue> "Presidency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#classification> "JF255" . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006967> . 
+<http://id.loc.gov/authorities/subjects/sh88006967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006967> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fathers of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85046070> . 
+<http://id.loc.gov/authorities/subjects/sh85046070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046070> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ex-presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119456921> . 
+<http://data.bnf.fr/ark:/12148/cb119456921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119456921> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Présidents"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4115611-0> . 
+<http://d-nb.info/gnd/4115611-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4115611-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Präsident"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006966> . 
+<http://id.loc.gov/authorities/subjects/sh88006966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006966> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000277> . 
+<http://id.loc.gov/authorities/subjects/sh95000277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000277> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Grandchildren of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4182662-0> . 
+<http://d-nb.info/gnd/4182662-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4182662-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Staatspräsident"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96005838> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005838> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kings, queens, rulers, etc"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106464> . 
+<http://id.loc.gov/authorities/subjects/sh85106464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106464> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mothers of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85046286> . 
+<http://id.loc.gov/authorities/subjects/sh85046286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046286> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Executive power"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046286> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode63authoritiessubjectssh85106459 . 
+_:bnode63authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode64authoritiessubjectssh85106459 . 
+_:bnode63authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode64authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode64authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#elementValue> "Executive power"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96005652> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005652> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heads of state"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005652> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode72authoritiessubjectssh85106459 . 
+_:bnode72authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode73authoritiessubjectssh85106459 . 
+_:bnode72authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode73authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode73authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#elementValue> "Heads of state"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002011079> . 
+<http://id.loc.gov/authorities/subjects/sh2002011079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002011079> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Generals as presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001833> . 
+<http://id.loc.gov/authorities/subjects/sh93001833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001833> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4175552-2> . 
+<http://d-nb.info/gnd/4175552-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4175552-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Präsidentielles Regierungssystem"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb120061245> . 
+<http://data.bnf.fr/ark:/12148/cb120061245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb120061245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Présidents et recteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85106459" . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85106459> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85106459#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode100authoritiessubjectssh85106459 . 
+_:bnode100authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode100authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#citation-source> "McDonald, F. The American presidency, 1994." . 
+_:bnode100authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode106authoritiessubjectssh85106459 . 
+_:bnode106authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode106authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#citation-source> "Dumbrell, J. The Carter presidency, 1993." . 
+_:bnode106authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode112authoritiessubjectssh85106459 . 
+_:bnode112authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode112authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3." . 
+_:bnode112authoritiessubjectssh85106459 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode118authoritiessubjectssh85106459 . 
+_:bnode118authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode118authoritiessubjectssh85106459 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode118authoritiessubjectssh85106459 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode118authoritiessubjectssh85106459 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode125authoritiessubjectssh85106459 . 
+_:bnode125authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode125authoritiessubjectssh85106459 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-07-21T14:05:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode125authoritiessubjectssh85106459 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode125authoritiessubjectssh85106459 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode135authoritiessubjectssh85106459 . 
+_:bnode135authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode135authoritiessubjectssh85106459 <http://www.w3.org/2008/05/skos-xl#literalForm> "Presidency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#altLabel> "Presidency" . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96005652> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heads of state"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006967> . 
+<http://id.loc.gov/authorities/subjects/sh88006967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fathers of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85046070> . 
+<http://id.loc.gov/authorities/subjects/sh85046070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046070> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ex-presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006966> . 
+<http://id.loc.gov/authorities/subjects/sh88006966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006966> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000277> . 
+<http://id.loc.gov/authorities/subjects/sh95000277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000277> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grandchildren of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106464> . 
+<http://id.loc.gov/authorities/subjects/sh85106464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106464> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mothers of presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002011079> . 
+<http://id.loc.gov/authorities/subjects/sh2002011079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002011079> <http://www.w3.org/2004/02/skos/core#prefLabel> "Generals as presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001833> . 
+<http://id.loc.gov/authorities/subjects/sh93001833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001833> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women presidents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/childrensSubjects/sj96005838> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005838> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kings, queens, rulers, etc"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85046286> . 
+<http://id.loc.gov/authorities/subjects/sh85046286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046286> <http://www.w3.org/2004/02/skos/core#prefLabel> "Executive power"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119456921> . 
+<http://data.bnf.fr/ark:/12148/cb119456921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119456921> <http://www.w3.org/2004/02/skos/core#prefLabel> "Présidents"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4115611-0> . 
+<http://d-nb.info/gnd/4115611-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4115611-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Präsident"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4182662-0> . 
+<http://d-nb.info/gnd/4182662-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4182662-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Staatspräsident"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4175552-2> . 
+<http://d-nb.info/gnd/4175552-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4175552-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Präsidentielles Regierungssystem"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb120061245> . 
+<http://data.bnf.fr/ark:/12148/cb120061245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb120061245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Présidents et recteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2008/05/skos-xl#altLabel> "Presidency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode220authoritiessubjectssh85106459 . 
+_:bnode220authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode220authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85106459> . 
+_:bnode220authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode220authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode220authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85106459> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode228authoritiessubjectssh85106459 . 
+_:bnode228authoritiessubjectssh85106459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode228authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85106459> . 
+_:bnode228authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode228authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#createdDate> "1998-07-21T14:05:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode228authoritiessubjectssh85106459 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

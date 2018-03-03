@@ -1,0 +1,110 @@
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Freedmen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85051692 . 
+_:bnode7authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85051692 . 
+_:bnode7authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#elementValue> "Freedmen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85051692 . 
+_:bnode11authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Ex-slaves"@en . 
+_:bnode11authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85051692 . 
+_:bnode16authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85051692 . 
+_:bnode16authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ex-slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85051692 . 
+_:bnode20authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Freed slaves"@en . 
+_:bnode20authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85051692 . 
+_:bnode25authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85051692 . 
+_:bnode25authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#elementValue> "Freed slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#classification> "HT731" . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008008402> . 
+<http://id.loc.gov/authorities/subjects/sh2008008402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008008402> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children of freedmen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119411304> . 
+<http://data.bnf.fr/ark:/12148/cb119411304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119411304> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Affranchis"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4138609-7> . 
+<http://d-nb.info/gnd/4138609-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4138609-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Freigelassener"@de . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95003243> . 
+<http://id.loc.gov/authorities/subjects/sh95003243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95003243> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ex-slaves of Indian tribes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85123347> . 
+<http://id.loc.gov/authorities/subjects/sh85123347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85123347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85123347> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123347> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85051692 . 
+_:bnode52authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85051692 . 
+_:bnode52authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#elementValue> "Slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85051692" . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85051692> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85051692#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh85051692 . 
+_:bnode64authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#citation-source> "God struck me dead, c1993:" . 
+_:bnode64authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP t.p. (ex-slaves)"@en . 
+_:bnode64authoritiessubjectssh85051692 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85051692 . 
+_:bnode72authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85051692 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85051692 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85051692 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode79authoritiessubjectssh85051692 . 
+_:bnode79authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode79authoritiessubjectssh85051692 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-08-25T11:21:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh85051692 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode79authoritiessubjectssh85051692 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#prefLabel> "Freedmen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode89authoritiessubjectssh85051692 . 
+_:bnode89authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode89authoritiessubjectssh85051692 <http://www.w3.org/2008/05/skos-xl#literalForm> "Ex-slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#altLabel> "Ex-slaves" . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode96authoritiessubjectssh85051692 . 
+_:bnode96authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode96authoritiessubjectssh85051692 <http://www.w3.org/2008/05/skos-xl#literalForm> "Freed slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#altLabel> "Freed slaves" . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85123347> . 
+<http://id.loc.gov/authorities/subjects/sh85123347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85123347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008008402> . 
+<http://id.loc.gov/authorities/subjects/sh2008008402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008008402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children of freedmen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95003243> . 
+<http://id.loc.gov/authorities/subjects/sh95003243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95003243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ex-slaves of Indian tribes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119411304> . 
+<http://data.bnf.fr/ark:/12148/cb119411304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119411304> <http://www.w3.org/2004/02/skos/core#prefLabel> "Affranchis"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4138609-7> . 
+<http://d-nb.info/gnd/4138609-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4138609-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Freigelassener"@de . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2008/05/skos-xl#altLabel> "Ex-slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2008/05/skos-xl#altLabel> "Freed slaves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode133authoritiessubjectssh85051692 . 
+_:bnode133authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode133authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85051692> . 
+_:bnode133authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode133authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode133authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85051692> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode141authoritiessubjectssh85051692 . 
+_:bnode141authoritiessubjectssh85051692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode141authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85051692> . 
+_:bnode141authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode141authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#createdDate> "1994-08-25T11:21:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode141authoritiessubjectssh85051692 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

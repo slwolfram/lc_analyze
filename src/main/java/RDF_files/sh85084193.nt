@@ -1,0 +1,96 @@
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metals--Extrusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85084193 . 
+_:bnode7authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85084167> . 
+_:bnode7authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85084167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084167> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084167> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85084193 . 
+_:bnode12authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85084193 . 
+_:bnode12authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85084193 <http://www.loc.gov/mads/rdf/v1#elementValue> "Metals"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005739> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005739> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Extrusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005739> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85084193 . 
+_:bnode20authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85084193 . 
+_:bnode20authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85084193 <http://www.loc.gov/mads/rdf/v1#elementValue> "Extrusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#classification> "TS255" . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063489> . 
+<http://id.loc.gov/authorities/subjects/sh85063489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063489> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hydrostatic extrusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85060668> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "High energy forming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85084193 . 
+_:bnode35authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85084193 . 
+_:bnode35authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85084193 <http://www.loc.gov/mads/rdf/v1#elementValue> "High energy forming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083450> . 
+<http://id.loc.gov/authorities/subjects/sh85083450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Melt spinning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode43authoritiessubjectssh85084193 . 
+_:bnode43authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode43authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode43authoritiessubjectssh85084193 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Extrusion (Metals)"@en . 
+_:bnode43authoritiessubjectssh85084193 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85084193 . 
+_:bnode48authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85084193 . 
+_:bnode48authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85084193 <http://www.loc.gov/mads/rdf/v1#elementValue> "Extrusion (Metals)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Extrusion process]" . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85084193" . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85084193> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85084193#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh85084193 . 
+_:bnode62authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh85084193 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85084193 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh85084193 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh85084193 . 
+_:bnode69authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh85084193 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-04-03T08:05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh85084193 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh85084193 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metals--Extrusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85060668> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/2004/02/skos/core#prefLabel> "High energy forming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063489> . 
+<http://id.loc.gov/authorities/subjects/sh85063489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydrostatic extrusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083450> . 
+<http://id.loc.gov/authorities/subjects/sh85083450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melt spinning"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode94authoritiessubjectssh85084193 . 
+_:bnode94authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode94authoritiessubjectssh85084193 <http://www.w3.org/2008/05/skos-xl#literalForm> "Extrusion (Metals)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#altLabel> "Extrusion (Metals)" . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#example> "Example under [Extrusion process]" . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode104authoritiessubjectssh85084193 . 
+_:bnode104authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode104authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85084193> . 
+_:bnode104authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode104authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode104authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85084193> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode112authoritiessubjectssh85084193 . 
+_:bnode112authoritiessubjectssh85084193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode112authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85084193> . 
+_:bnode112authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode112authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#createdDate> "2008-04-03T08:05:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode112authoritiessubjectssh85084193 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

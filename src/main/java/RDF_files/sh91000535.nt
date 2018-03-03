@@ -1,0 +1,71 @@
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Low maintenance gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh91000535 . 
+_:bnode7authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh91000535 . 
+_:bnode7authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#elementValue> "Low maintenance gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00004764> . 
+<http://id.loc.gov/authorities/subjects/sh00004764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00004764> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Weedless gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053089> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh91000535 . 
+_:bnode20authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh91000535 . 
+_:bnode20authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91000535" . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91000535> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91000535#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh91000535 . 
+_:bnode32authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Colborn, N. Leisurely gardening : a laissez-faire guide to the low-maintenance garden." . 
+_:bnode32authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode38authoritiessubjectssh91000535 . 
+_:bnode38authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode38authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 1/30/91" . 
+_:bnode38authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-note> "(low maintenance gardening, low maintenance garden)"@en . 
+_:bnode38authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode46authoritiessubjectssh91000535 . 
+_:bnode46authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode46authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3;Biol. & agr. index, v. 43;Wyman's gard. encyc." . 
+_:bnode46authoritiessubjectssh91000535 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode52authoritiessubjectssh91000535 . 
+_:bnode52authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode52authoritiessubjectssh91000535 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-02-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh91000535 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode52authoritiessubjectssh91000535 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh91000535 . 
+_:bnode59authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh91000535 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-03-15T14:14:09"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh91000535 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh91000535 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Low maintenance gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053089> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00004764> . 
+<http://id.loc.gov/authorities/subjects/sh00004764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00004764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weedless gardening"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode80authoritiessubjectssh91000535 . 
+_:bnode80authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode80authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91000535> . 
+_:bnode80authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode80authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#createdDate> "1991-02-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91000535> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode88authoritiessubjectssh91000535 . 
+_:bnode88authoritiessubjectssh91000535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode88authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91000535> . 
+_:bnode88authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode88authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#createdDate> "1991-03-15T14:14:09"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh91000535 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

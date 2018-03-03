@@ -1,0 +1,56 @@
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Food industry and trade--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85050290 . 
+_:bnode7authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85050282> . 
+_:bnode7authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85050282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050282> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Food industry and trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050282> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85050290 . 
+_:bnode12authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85050290 . 
+_:bnode12authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85050290 <http://www.loc.gov/mads/rdf/v1#elementValue> "Food industry and trade"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85050290 . 
+_:bnode20authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85050290 . 
+_:bnode20authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85050290 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004723> . 
+<http://id.loc.gov/authorities/subjects/sh85004723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004723> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amylograph"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85050309> . 
+<http://id.loc.gov/authorities/subjects/sh85050309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050309> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Food processing machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85050290" . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85050290> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85050290#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode39authoritiessubjectssh85050290 . 
+_:bnode39authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode39authoritiessubjectssh85050290 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode39authoritiessubjectssh85050290 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode39authoritiessubjectssh85050290 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2004/02/skos/core#prefLabel> "Food industry and trade--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004723> . 
+<http://id.loc.gov/authorities/subjects/sh85004723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004723> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amylograph"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85050309> . 
+<http://id.loc.gov/authorities/subjects/sh85050309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Food processing machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85050290> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode60authoritiessubjectssh85050290 . 
+_:bnode60authoritiessubjectssh85050290 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode60authoritiessubjectssh85050290 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85050290> . 
+_:bnode60authoritiessubjectssh85050290 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode60authoritiessubjectssh85050290 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh85050290 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

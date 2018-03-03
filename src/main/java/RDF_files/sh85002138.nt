@@ -1,0 +1,157 @@
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older people--United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85002138 . 
+_:bnode7authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85002087> . 
+_:bnode7authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85002087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002087> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older people"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002087> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85002138 . 
+_:bnode12authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85002138 . 
+_:bnode12authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85002138 <http://www.loc.gov/mads/rdf/v1#elementValue> "Older people"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n78095330> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States"@en . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85002138 . 
+_:bnode20authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85002138 . 
+_:bnode20authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85002138 <http://www.loc.gov/mads/rdf/v1#elementValue> "United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005791> . 
+<http://id.loc.gov/authorities/subjects/sh94005791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005791> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Seneca Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98007608> . 
+<http://id.loc.gov/authorities/subjects/sh98007608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98007608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Taos Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93004012> . 
+<http://id.loc.gov/authorities/subjects/sh93004012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004012> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Pacific Islander Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006369> . 
+<http://id.loc.gov/authorities/subjects/sh93006369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006369> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Pueblo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001784> . 
+<http://id.loc.gov/authorities/subjects/sh85001784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001784> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older African Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061033> . 
+<http://id.loc.gov/authorities/subjects/sh85061033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061033> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Hispanic Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006367> . 
+<http://id.loc.gov/authorities/subjects/sh93006367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006367> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Ojibwa Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005490> . 
+<http://id.loc.gov/authorities/subjects/sh91005490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005490> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Asian Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024240> . 
+<http://id.loc.gov/authorities/subjects/sh85024240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024240> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Chinese Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89006742> . 
+<http://id.loc.gov/authorities/subjects/sh89006742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006742> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Lebanese Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86003032> . 
+<http://id.loc.gov/authorities/subjects/sh86003032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86003032> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older European Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084478> . 
+<http://id.loc.gov/authorities/subjects/sh85084478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084478> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Mexican Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009007136> . 
+<http://id.loc.gov/authorities/subjects/sh2009007136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009007136> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Alaska Natives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006365> . 
+<http://id.loc.gov/authorities/subjects/sh93006365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006365> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Laguna Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93006374> . 
+<http://id.loc.gov/authorities/subjects/sh93006374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93006374> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Yupik Eskimos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93004474> . 
+<http://id.loc.gov/authorities/subjects/sh93004474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004474> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Irish Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89000022> . 
+<http://id.loc.gov/authorities/subjects/sh89000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89000022> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older Japanese Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85002138" . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85002138> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85002138#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode99authoritiessubjectssh85002138 . 
+_:bnode99authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode99authoritiessubjectssh85002138 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-02-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh85002138 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode99authoritiessubjectssh85002138 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode106authoritiessubjectssh85002138 . 
+_:bnode106authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode106authoritiessubjectssh85002138 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-01T10:03:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh85002138 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode106authoritiessubjectssh85002138 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older people--United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005791> . 
+<http://id.loc.gov/authorities/subjects/sh94005791> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005791> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Seneca Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98007608> . 
+<http://id.loc.gov/authorities/subjects/sh98007608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98007608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Taos Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93004012> . 
+<http://id.loc.gov/authorities/subjects/sh93004012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004012> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Pacific Islander Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006369> . 
+<http://id.loc.gov/authorities/subjects/sh93006369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Pueblo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001784> . 
+<http://id.loc.gov/authorities/subjects/sh85001784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older African Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061033> . 
+<http://id.loc.gov/authorities/subjects/sh85061033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Hispanic Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006367> . 
+<http://id.loc.gov/authorities/subjects/sh93006367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006367> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Ojibwa Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005490> . 
+<http://id.loc.gov/authorities/subjects/sh91005490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Asian Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024240> . 
+<http://id.loc.gov/authorities/subjects/sh85024240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Chinese Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89006742> . 
+<http://id.loc.gov/authorities/subjects/sh89006742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006742> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Lebanese Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86003032> . 
+<http://id.loc.gov/authorities/subjects/sh86003032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86003032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older European Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084478> . 
+<http://id.loc.gov/authorities/subjects/sh85084478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Mexican Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009007136> . 
+<http://id.loc.gov/authorities/subjects/sh2009007136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009007136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Alaska Natives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006365> . 
+<http://id.loc.gov/authorities/subjects/sh93006365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006365> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Laguna Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93006374> . 
+<http://id.loc.gov/authorities/subjects/sh93006374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93006374> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Yupik Eskimos"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93004474> . 
+<http://id.loc.gov/authorities/subjects/sh93004474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004474> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Irish Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89000022> . 
+<http://id.loc.gov/authorities/subjects/sh89000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89000022> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older Japanese Americans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode202authoritiessubjectssh85002138 . 
+_:bnode202authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode202authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002138> . 
+_:bnode202authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode202authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#createdDate> "2004-02-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode202authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85002138> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode210authoritiessubjectssh85002138 . 
+_:bnode210authoritiessubjectssh85002138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode210authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85002138> . 
+_:bnode210authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode210authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-01T10:03:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode210authoritiessubjectssh85002138 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

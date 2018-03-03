@@ -1,0 +1,77 @@
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fordism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2009007777 . 
+_:bnode7authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2009007777 . 
+_:bnode7authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fordism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85080664> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manufacturing processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2009007777 . 
+_:bnode16authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2009007777 . 
+_:bnode16authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#elementValue> "Manufacturing processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2009007777" . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2009007777> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2009007777#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh2009007777 . 
+_:bnode28authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Polacy pracujący a kryzys fordyzmu, 2009." . 
+_:bnode28authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh2009007777 . 
+_:bnode34authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-source> "Business dictionary, viewed Aug. 19, 2009" . 
+_:bnode34authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Fordism; manufacturing philosophy that aims to achieve higher productivity by standardizing output, using conveyor assembly lines and breaking the work into small de-skilled tasks; based on Taylorism)"@en . 
+_:bnode34authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh2009007777 . 
+_:bnode42authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-source> "Answers.com website, Aug. 19, 2009" . 
+_:bnode42authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Fordism; a term coined by A. Gramsci to describe a form of production characterized by an assembly line and standardized outputs; Fordism was exemplified by the mass-production systems based on the principles of Taylorism used by the car maker Henry Ford)"@en . 
+_:bnode42authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh2009007777 . 
+_:bnode50authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, Aug. 19, 2009" . 
+_:bnode50authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Fordism; named after Henry Ford; refers to various social theories about production and related socio-economic phenomena)"@en . 
+_:bnode50authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh2009007777 . 
+_:bnode58authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-source> "Encyclopedia of business, 2nd ed.;Glossary of financial and business terms" . 
+_:bnode58authoritiessubjectssh2009007777 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh2009007777 . 
+_:bnode64authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-08-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+_:bnode64authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh2009007777 . 
+_:bnode72authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-09-18T08:00:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+_:bnode72authoritiessubjectssh2009007777 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fordism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85080664> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080664> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manufacturing processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh2009007777 . 
+_:bnode89authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2009007777> . 
+_:bnode89authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+_:bnode89authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#createdDate> "2009-08-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2009007777> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh2009007777 . 
+_:bnode97authoritiessubjectssh2009007777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2009007777> . 
+_:bnode97authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+_:bnode97authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#createdDate> "2009-09-18T08:00:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh2009007777 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

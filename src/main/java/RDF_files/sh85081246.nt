@@ -1,0 +1,89 @@
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marine plankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85081246 . 
+_:bnode7authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85081246 . 
+_:bnode7authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85081246 <http://www.loc.gov/mads/rdf/v1#elementValue> "Marine plankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#classification> "QH91.8.P5" . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081244> . 
+<http://id.loc.gov/authorities/subjects/sh85081244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081244> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marine phytoplankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh93004661> . 
+<http://id.loc.gov/authorities/subjects/sh93004661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93004661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marine organisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004661> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85081246 . 
+_:bnode22authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85081246 . 
+_:bnode22authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85081246 <http://www.loc.gov/mads/rdf/v1#elementValue> "Marine organisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119442513> . 
+<http://data.bnf.fr/ark:/12148/cb119442513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119442513> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plancton marin"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102688> . 
+<http://id.loc.gov/authorities/subjects/sh85102688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102688> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102688> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85081246 . 
+_:bnode35authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85081246 . 
+_:bnode35authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85081246 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4204929-5> . 
+<http://d-nb.info/gnd/4204929-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4204929-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meeresplankton"@de . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081282> . 
+<http://id.loc.gov/authorities/subjects/sh85081282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081282> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marine zooplankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85081246" . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85081246> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85081246#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh85081246 . 
+_:bnode55authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh85081246 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh85081246 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh85081246 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh85081246 . 
+_:bnode62authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh85081246 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-07-06T08:46:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85081246 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh85081246 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marine plankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh93004661> . 
+<http://id.loc.gov/authorities/subjects/sh93004661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marine organisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102688> . 
+<http://id.loc.gov/authorities/subjects/sh85102688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102688> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081244> . 
+<http://id.loc.gov/authorities/subjects/sh85081244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081244> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marine phytoplankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081282> . 
+<http://id.loc.gov/authorities/subjects/sh85081282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marine zooplankton"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119442513> . 
+<http://data.bnf.fr/ark:/12148/cb119442513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119442513> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plancton marin"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4204929-5> . 
+<http://d-nb.info/gnd/4204929-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4204929-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meeresplankton"@de . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh85081246 . 
+_:bnode103authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85081246> . 
+_:bnode103authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode103authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85081246> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode111authoritiessubjectssh85081246 . 
+_:bnode111authoritiessubjectssh85081246 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode111authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85081246> . 
+_:bnode111authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode111authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#createdDate> "1993-07-06T08:46:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode111authoritiessubjectssh85081246 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

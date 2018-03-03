@@ -1,0 +1,96 @@
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steam power plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85127698 . 
+_:bnode7authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85127698 . 
+_:bnode7authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Steam power plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85127698 . 
+_:bnode11authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Power plants, Steam"@en . 
+_:bnode11authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85127698 . 
+_:bnode16authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85127698 . 
+_:bnode16authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Power plants, Steam"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#classification> "TJ395-TJ412" . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85105986> . 
+<http://id.loc.gov/authorities/subjects/sh85105986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85105986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Power-plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105986> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85127698 . 
+_:bnode27authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85127698 . 
+_:bnode27authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Power-plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4010988-4> . 
+<http://d-nb.info/gnd/4010988-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4010988-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dampfkraftwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127641> . 
+<http://id.loc.gov/authorities/subjects/sh85127641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127641> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steam accumulators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4078994-9> . 
+<http://d-nb.info/gnd/4078994-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4078994-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wärmekraftwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85015349> . 
+<http://id.loc.gov/authorities/subjects/sh85015349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015349> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Boiling water reactors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85127698" . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85127698> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85127698#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh85127698 . 
+_:bnode55authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#citation-source> "AAT, 11/3/93" . 
+_:bnode55authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#citation-note> "(steam power plants: use for power plants in which the prime movers, usually turbines, connected to the generators are driven by steam to produce electricity)"@en . 
+_:bnode55authoritiessubjectssh85127698 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh85127698 . 
+_:bnode63authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh85127698 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh85127698 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh85127698 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh85127698 . 
+_:bnode70authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh85127698 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-12-27T08:14:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh85127698 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh85127698 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steam power plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh85127698 . 
+_:bnode80authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh85127698 <http://www.w3.org/2008/05/skos-xl#literalForm> "Power plants, Steam"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#altLabel> "Power plants, Steam" . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85105986> . 
+<http://id.loc.gov/authorities/subjects/sh85105986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Power-plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127641> . 
+<http://id.loc.gov/authorities/subjects/sh85127641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127641> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steam accumulators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85015349> . 
+<http://id.loc.gov/authorities/subjects/sh85015349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015349> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boiling water reactors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4010988-4> . 
+<http://d-nb.info/gnd/4010988-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4010988-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dampfkraftwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4078994-9> . 
+<http://d-nb.info/gnd/4078994-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4078994-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wärmekraftwerk"@de . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2008/05/skos-xl#altLabel> "Power plants, Steam"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh85127698 . 
+_:bnode115authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85127698> . 
+_:bnode115authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode115authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85127698> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode123authoritiessubjectssh85127698 . 
+_:bnode123authoritiessubjectssh85127698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode123authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85127698> . 
+_:bnode123authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode123authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#createdDate> "1993-12-27T08:14:24"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode123authoritiessubjectssh85127698 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

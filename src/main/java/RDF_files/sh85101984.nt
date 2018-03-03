@@ -1,0 +1,106 @@
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Picture books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85101984 . 
+_:bnode7authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85101984 . 
+_:bnode7authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#elementValue> "Picture books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#classification> "NC965.85" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096854> . 
+<http://id.loc.gov/authorities/subjects/sh85096854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096854> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coloring books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85056474> . 
+<http://id.loc.gov/authorities/subjects/sh85056474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85056474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85056474> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Graphic arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85056474> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85101984 . 
+_:bnode22authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85101984 . 
+_:bnode22authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#elementValue> "Graphic arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85101984 . 
+_:bnode31authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85101984 . 
+_:bnode31authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119656886> . 
+<http://data.bnf.fr/ark:/12148/cb119656886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119656886> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livres d'images"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4006604-6> . 
+<http://d-nb.info/gnd/4006604-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4006604-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bilderbuch"@de . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85128386> . 
+<http://id.loc.gov/authorities/subjects/sh85128386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85128386> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stories without words"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Pictorial works] under names of countries, cities, etc., individual persons, families, and corporate bodies, and under classes of persons, ethnic groups, and topical headings" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85101984" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85101984> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85101984#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh85101984 . 
+_:bnode57authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode57authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-note> "(picture books)"@en . 
+_:bnode57authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode65authoritiessubjectssh85101984 . 
+_:bnode65authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode65authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hennepin" . 
+_:bnode65authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Picture books for adults)"@en . 
+_:bnode65authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode73authoritiessubjectssh85101984 . 
+_:bnode73authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode73authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-source> "AC subject headings" . 
+_:bnode73authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Picture books)"@en . 
+_:bnode73authoritiessubjectssh85101984 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode81authoritiessubjectssh85101984 . 
+_:bnode81authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode81authoritiessubjectssh85101984 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh85101984 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode81authoritiessubjectssh85101984 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85101984 . 
+_:bnode88authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85101984 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-03-19T11:35:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85101984 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85101984 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#prefLabel> "Picture books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85056474> . 
+<http://id.loc.gov/authorities/subjects/sh85056474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85056474> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graphic arts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096854> . 
+<http://id.loc.gov/authorities/subjects/sh85096854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coloring books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85128386> . 
+<http://id.loc.gov/authorities/subjects/sh85128386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85128386> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stories without words"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119656886> . 
+<http://data.bnf.fr/ark:/12148/cb119656886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119656886> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livres d'images"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4006604-6> . 
+<http://d-nb.info/gnd/4006604-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4006604-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilderbuch"@de . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Pictorial works] under names of countries, cities, etc., individual persons, families, and corporate bodies, and under classes of persons, ethnic groups, and topical headings" . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode131authoritiessubjectssh85101984 . 
+_:bnode131authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode131authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85101984> . 
+_:bnode131authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode131authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode131authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85101984> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode139authoritiessubjectssh85101984 . 
+_:bnode139authoritiessubjectssh85101984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode139authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85101984> . 
+_:bnode139authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode139authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#createdDate> "1997-03-19T11:35:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode139authoritiessubjectssh85101984 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

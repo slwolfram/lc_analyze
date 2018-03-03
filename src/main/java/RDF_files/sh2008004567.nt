@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Film series"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2008004567 . 
+_:bnode7authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2008004567 . 
+_:bnode7authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#elementValue> "Film series"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#classification> "PN1995.9.S34" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088075> . 
+<http://id.loc.gov/authorities/subjects/sh85088075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088075> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Film sequels"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85088084> . 
+<http://id.loc.gov/authorities/subjects/sh85088084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088084> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motion pictures"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088084> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh2008004567 . 
+_:bnode22authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh2008004567 . 
+_:bnode22authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motion pictures"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on successive films that feature the same characters and remain true to a common premise. Works about individual film series are entered under the heading appropriate to the series, e.g., [Star Wars films--History and criticism; James Bond films--History and criticism.] Works about films that were shown in weekly installments and usually featured cliffhanger endings are entered under [Film serials.]" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Film serials]" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2008004567" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2008004567> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2008004567#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode38authoritiessubjectssh2008004567 . 
+_:bnode38authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode38authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 2008026991: The legend returns and dies harder another day, 2008:" . 
+_:bnode38authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-note> "table of contents (Tarzan, Nancy Drew, James Bond, Star wars, etc.)"@en . 
+_:bnode38authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode46authoritiessubjectssh2008004567 . 
+_:bnode46authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode46authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-source> "Katz, E. Film enc., 2001" . 
+_:bnode46authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Series: a group of films, each complete on its own, but sharing a common cast of characters with continuing traits, and a similar situation format that despite plot variations remains true to a common premise and develops according to an expected formula)"@en . 
+_:bnode46authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode54authoritiessubjectssh2008004567 . 
+_:bnode54authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode54authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, June 17, 2008" . 
+_:bnode54authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-note> "(A film series is a collection of related films in succession [which] share a common diegetic world)"@en . 
+_:bnode54authoritiessubjectssh2008004567 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh2008004567 . 
+_:bnode62authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-06-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode62authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh2008004567 . 
+_:bnode70authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2015-12-02T05:44:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode70authoritiessubjectssh2008004567 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#prefLabel> "Film series"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85088084> . 
+<http://id.loc.gov/authorities/subjects/sh85088084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088084> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motion pictures"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088075> . 
+<http://id.loc.gov/authorities/subjects/sh85088075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Film sequels"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on successive films that feature the same characters and remain true to a common premise. Works about individual film series are entered under the heading appropriate to the series, e.g., [Star Wars films--History and criticism; James Bond films--History and criticism.] Works about films that were shown in weekly installments and usually featured cliffhanger endings are entered under [Film serials.]" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#example> "Note under [Film serials]" . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode96authoritiessubjectssh2008004567 . 
+_:bnode96authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode96authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2008004567> . 
+_:bnode96authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode96authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#createdDate> "2008-06-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2008004567> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode104authoritiessubjectssh2008004567 . 
+_:bnode104authoritiessubjectssh2008004567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode104authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2008004567> . 
+_:bnode104authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode104authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#createdDate> "2015-12-02T05:44:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode104authoritiessubjectssh2008004567 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

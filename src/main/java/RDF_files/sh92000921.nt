@@ -1,0 +1,120 @@
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Veterinary vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh92000921 . 
+_:bnode7authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh92000921 . 
+_:bnode7authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#elementValue> "Veterinary vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#classification> "SF918.V32" . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000623> . 
+<http://id.loc.gov/authorities/subjects/sh98000623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000623> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pleuropneumonia vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85141714> . 
+<http://id.loc.gov/authorities/subjects/sh85141714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85141714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141714> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vaccination of animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141714> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh92000921 . 
+_:bnode22authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh92000921 . 
+_:bnode22authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vaccination of animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85143008> . 
+<http://id.loc.gov/authorities/subjects/sh85143008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85143008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143008> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Veterinary biologicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85143008> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh92000921 . 
+_:bnode31authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh92000921 . 
+_:bnode31authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#elementValue> "Veterinary biologicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb122688036> . 
+<http://data.bnf.fr/ark:/12148/cb122688036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb122688036> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vaccins vétérinaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000627> . 
+<http://id.loc.gov/authorities/subjects/sh98000627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000627> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rinderpest vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091546> . 
+<http://id.loc.gov/authorities/subjects/sh85091546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091546> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Newcastle disease vaccine"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85141718> . 
+<http://id.loc.gov/authorities/subjects/sh85141718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85141718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141718> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85141718> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh92000921 . 
+_:bnode52authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh92000921 . 
+_:bnode52authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044546> . 
+<http://id.loc.gov/authorities/subjects/sh85044546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044546> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equine influenza vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 92000921" . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh92000921> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh92000921#concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode68authoritiessubjectssh92000921 . 
+_:bnode68authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode68authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Veterinary vaccines, 1992." . 
+_:bnode68authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode74authoritiessubjectssh92000921 . 
+_:bnode74authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode74authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 2/10/92" . 
+_:bnode74authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-note> "(veterinary vaccines)"@en . 
+_:bnode74authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode82authoritiessubjectssh92000921 . 
+_:bnode82authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode82authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3" . 
+_:bnode82authoritiessubjectssh92000921 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh92000921 . 
+_:bnode88authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh92000921 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-02-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh92000921 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh92000921 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh92000921 . 
+_:bnode95authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh92000921 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-10-01T11:40:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh92000921 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh92000921 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veterinary vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85143008> . 
+<http://id.loc.gov/authorities/subjects/sh85143008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143008> <http://www.w3.org/2004/02/skos/core#prefLabel> "Veterinary biologicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85141718> . 
+<http://id.loc.gov/authorities/subjects/sh85141718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000623> . 
+<http://id.loc.gov/authorities/subjects/sh98000623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000623> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pleuropneumonia vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000627> . 
+<http://id.loc.gov/authorities/subjects/sh98000627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000627> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rinderpest vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091546> . 
+<http://id.loc.gov/authorities/subjects/sh85091546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091546> <http://www.w3.org/2004/02/skos/core#prefLabel> "Newcastle disease vaccine"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044546> . 
+<http://id.loc.gov/authorities/subjects/sh85044546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044546> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equine influenza vaccines"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85141714> . 
+<http://id.loc.gov/authorities/subjects/sh85141714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141714> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaccination of animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb122688036> . 
+<http://data.bnf.fr/ark:/12148/cb122688036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb122688036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaccins vétérinaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode146authoritiessubjectssh92000921 . 
+_:bnode146authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode146authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh92000921> . 
+_:bnode146authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode146authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#createdDate> "1992-02-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode146authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh92000921> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode154authoritiessubjectssh92000921 . 
+_:bnode154authoritiessubjectssh92000921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode154authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh92000921> . 
+_:bnode154authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode154authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#createdDate> "1992-10-01T11:40:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode154authoritiessubjectssh92000921 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

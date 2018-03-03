@@ -1,0 +1,53 @@
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jojoba products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85070674 . 
+_:bnode7authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85070674 . 
+_:bnode7authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85070674 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jojoba products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12272249m> . 
+<http://data.bnf.fr/ark:/12148/cb12272249m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12272249m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Produits du jojoba"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/48134> . 
+<http://lod.nal.usda.gov/nalt/48134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/48134> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "jojoba products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode24authoritiessubjectssh85070674 . 
+_:bnode24authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode25authoritiessubjectssh85070674 . 
+_:bnode24authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode25authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode25authoritiessubjectssh85070674 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85070674" . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85070674> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85070674#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode36authoritiessubjectssh85070674 . 
+_:bnode36authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode36authoritiessubjectssh85070674 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode36authoritiessubjectssh85070674 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode36authoritiessubjectssh85070674 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jojoba products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/48134> . 
+<http://lod.nal.usda.gov/nalt/48134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/48134> <http://www.w3.org/2004/02/skos/core#prefLabel> "jojoba products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12272249m> . 
+<http://data.bnf.fr/ark:/12148/cb12272249m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12272249m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Produits du jojoba"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85070674> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode62authoritiessubjectssh85070674 . 
+_:bnode62authoritiessubjectssh85070674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode62authoritiessubjectssh85070674 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85070674> . 
+_:bnode62authoritiessubjectssh85070674 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode62authoritiessubjectssh85070674 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85070674 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

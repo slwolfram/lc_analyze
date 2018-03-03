@@ -1,0 +1,291 @@
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85080858 . 
+_:bnode7authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85080858 . 
+_:bnode7authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#elementValue> "Maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85080858 . 
+_:bnode11authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Plans"@en . 
+_:bnode11authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85080858 . 
+_:bnode16authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85080858 . 
+_:bnode16authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005308> . 
+<http://id.loc.gov/authorities/subjects/sh91005308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005308> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Map reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085518> . 
+<http://id.loc.gov/authorities/subjects/sh85085518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085518> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mine maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13337749p> . 
+<http://data.bnf.fr/ark:/12148/cb13337749p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13337749p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plans (droit)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119510453> . 
+<http://data.bnf.fr/ark:/12148/cb119510453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119510453> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plan économique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020525> . 
+<http://id.loc.gov/authorities/subjects/sh85020525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020525> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080872> . 
+<http://id.loc.gov/authorities/subjects/sh85080872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080872> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Statistical maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb131649322> . 
+<http://data.bnf.fr/ark:/12148/cb131649322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb131649322> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dessins de bâtiment"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86004763> . 
+<http://id.loc.gov/authorities/subjects/sh86004763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86004763> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acquisition of maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080865> . 
+<http://id.loc.gov/authorities/subjects/sh85080865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080865> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manuscript maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11952385d> . 
+<http://data.bnf.fr/ark:/12148/cb11952385d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11952385d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001307> . 
+<http://id.loc.gov/authorities/subjects/sh85001307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001307> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautical charts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12042702c> . 
+<http://data.bnf.fr/ark:/12148/cb12042702c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12042702c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plans"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016052> . 
+<http://id.loc.gov/authorities/subjects/sh85016052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016052> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bottle-charts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020861> . 
+<http://id.loc.gov/authorities/subjects/sh85020861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020861> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging of maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064858> . 
+<http://id.loc.gov/authorities/subjects/sh85064858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064858> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Index maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080862> . 
+<http://id.loc.gov/authorities/subjects/sh85080862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080862> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Comparative maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011004894> . 
+<http://id.loc.gov/authorities/subjects/sh2011004894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011004894> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Digital maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001258> . 
+<http://id.loc.gov/authorities/subjects/sh93001258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Map covers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080867> . 
+<http://id.loc.gov/authorities/subjects/sh85080867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080867> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Military maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006002391> . 
+<http://id.loc.gov/authorities/subjects/sh2006002391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006002391> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Strip maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12524017d> . 
+<http://data.bnf.fr/ark:/12148/cb12524017d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12524017d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartes -- Conservation et restauration"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011004392> . 
+<http://id.loc.gov/authorities/subjects/sh2011004392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011004392> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wall maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096172> . 
+<http://id.loc.gov/authorities/subjects/sh85096172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096172> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Outline maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005008608> . 
+<http://id.loc.gov/authorities/subjects/sh2005008608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005008608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Miniature maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99005041> . 
+<http://id.loc.gov/authorities/subjects/sh99005041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99005041> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thematic maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080871> . 
+<http://id.loc.gov/authorities/subjects/sh85080871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080871> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pictorial maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017003359> . 
+<http://id.loc.gov/authorities/subjects/sh2017003359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017003359> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Satirical maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4029783-4> . 
+<http://d-nb.info/gnd/4029783-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4029783-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Karte"@de . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090331> . 
+<http://id.loc.gov/authorities/subjects/sh85090331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nautical charts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85148208> . 
+<http://id.loc.gov/authorities/subjects/sh85148208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85148208> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "World maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00003498> . 
+<http://id.loc.gov/authorities/subjects/sh00003498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00003498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00003498> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartographic materials"@en . 
+<http://id.loc.gov/authorities/subjects/sh00003498> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode145authoritiessubjectssh85080858 . 
+_:bnode145authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode146authoritiessubjectssh85080858 . 
+_:bnode145authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode146authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode146authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cartographic materials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057328> . 
+<http://id.loc.gov/authorities/subjects/sh85057328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057328> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Grids (Cartography)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85020515> . 
+<http://id.loc.gov/authorities/subjects/sh85020515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020515> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020515> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode158authoritiessubjectssh85080858 . 
+_:bnode158authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode159authoritiessubjectssh85080858 . 
+_:bnode158authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode159authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode159authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cartography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053986> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode167authoritiessubjectssh85080858 . 
+_:bnode167authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode168authoritiessubjectssh85080858 . 
+_:bnode167authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode168authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode168authoritiessubjectssh85080858 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080873> . 
+<http://id.loc.gov/authorities/subjects/sh85080873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080873> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tourist maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136074> . 
+<http://id.loc.gov/authorities/subjects/sh85136074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Topographic maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/1046> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Maps] under names of countries, cities, etc. and subjects for individual maps or collections of maps, e.g. [Africa--Climate--Maps; Africa, North--Economic conditions--Maps; Real property--Maps;] and headings beginning with the word [Map]" . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85080858" . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85080858> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85080858#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode189authoritiessubjectssh85080858 . 
+_:bnode189authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode189authoritiessubjectssh85080858 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode189authoritiessubjectssh85080858 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode189authoritiessubjectssh85080858 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode196authoritiessubjectssh85080858 . 
+_:bnode196authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode196authoritiessubjectssh85080858 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-05-07T13:30:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode196authoritiessubjectssh85080858 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode196authoritiessubjectssh85080858 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode206authoritiessubjectssh85080858 . 
+_:bnode206authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode206authoritiessubjectssh85080858 <http://www.w3.org/2008/05/skos-xl#literalForm> "Plans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#altLabel> "Plans" . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00003498> . 
+<http://id.loc.gov/authorities/subjects/sh00003498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00003498> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartographic materials"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053986> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005308> . 
+<http://id.loc.gov/authorities/subjects/sh91005308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005308> <http://www.w3.org/2004/02/skos/core#prefLabel> "Map reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085518> . 
+<http://id.loc.gov/authorities/subjects/sh85085518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085518> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mine maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020525> . 
+<http://id.loc.gov/authorities/subjects/sh85020525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020525> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartometry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080872> . 
+<http://id.loc.gov/authorities/subjects/sh85080872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Statistical maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86004763> . 
+<http://id.loc.gov/authorities/subjects/sh86004763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86004763> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acquisition of maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080865> . 
+<http://id.loc.gov/authorities/subjects/sh85080865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080865> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manuscript maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001307> . 
+<http://id.loc.gov/authorities/subjects/sh85001307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001307> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautical charts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016052> . 
+<http://id.loc.gov/authorities/subjects/sh85016052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016052> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bottle-charts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020861> . 
+<http://id.loc.gov/authorities/subjects/sh85020861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020861> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloging of maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064858> . 
+<http://id.loc.gov/authorities/subjects/sh85064858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Index maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080862> . 
+<http://id.loc.gov/authorities/subjects/sh85080862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080862> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comparative maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011004894> . 
+<http://id.loc.gov/authorities/subjects/sh2011004894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011004894> <http://www.w3.org/2004/02/skos/core#prefLabel> "Digital maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001258> . 
+<http://id.loc.gov/authorities/subjects/sh93001258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Map covers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080867> . 
+<http://id.loc.gov/authorities/subjects/sh85080867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080867> <http://www.w3.org/2004/02/skos/core#prefLabel> "Military maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006002391> . 
+<http://id.loc.gov/authorities/subjects/sh2006002391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006002391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strip maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011004392> . 
+<http://id.loc.gov/authorities/subjects/sh2011004392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011004392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wall maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096172> . 
+<http://id.loc.gov/authorities/subjects/sh85096172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Outline maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005008608> . 
+<http://id.loc.gov/authorities/subjects/sh2005008608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005008608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miniature maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99005041> . 
+<http://id.loc.gov/authorities/subjects/sh99005041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99005041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thematic maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080871> . 
+<http://id.loc.gov/authorities/subjects/sh85080871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080871> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pictorial maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017003359> . 
+<http://id.loc.gov/authorities/subjects/sh2017003359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017003359> <http://www.w3.org/2004/02/skos/core#prefLabel> "Satirical maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090331> . 
+<http://id.loc.gov/authorities/subjects/sh85090331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nautical charts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85148208> . 
+<http://id.loc.gov/authorities/subjects/sh85148208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148208> <http://www.w3.org/2004/02/skos/core#prefLabel> "World maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057328> . 
+<http://id.loc.gov/authorities/subjects/sh85057328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057328> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grids (Cartography)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080873> . 
+<http://id.loc.gov/authorities/subjects/sh85080873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tourist maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136074> . 
+<http://id.loc.gov/authorities/subjects/sh85136074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Topographic maps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85020515> . 
+<http://id.loc.gov/authorities/subjects/sh85020515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020515> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/1046> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13337749p> . 
+<http://data.bnf.fr/ark:/12148/cb13337749p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13337749p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plans (droit)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119510453> . 
+<http://data.bnf.fr/ark:/12148/cb119510453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119510453> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plan économique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb131649322> . 
+<http://data.bnf.fr/ark:/12148/cb131649322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb131649322> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dessins de bâtiment"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11952385d> . 
+<http://data.bnf.fr/ark:/12148/cb11952385d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11952385d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12042702c> . 
+<http://data.bnf.fr/ark:/12148/cb12042702c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12042702c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plans"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12524017d> . 
+<http://data.bnf.fr/ark:/12148/cb12524017d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12524017d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartes -- Conservation et restauration"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4029783-4> . 
+<http://d-nb.info/gnd/4029783-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4029783-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karte"@de . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Maps] under names of countries, cities, etc. and subjects for individual maps or collections of maps, e.g. [Africa--Climate--Maps; Africa, North--Economic conditions--Maps; Real property--Maps;] and headings beginning with the word [Map]" . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2008/05/skos-xl#altLabel> "Plans"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode399authoritiessubjectssh85080858 . 
+_:bnode399authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode399authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85080858> . 
+_:bnode399authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode399authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode399authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85080858> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode407authoritiessubjectssh85080858 . 
+_:bnode407authoritiessubjectssh85080858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode407authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85080858> . 
+_:bnode407authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode407authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#createdDate> "2004-05-07T13:30:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode407authoritiessubjectssh85080858 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

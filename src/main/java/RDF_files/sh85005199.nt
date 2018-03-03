@@ -1,0 +1,305 @@
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animal industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85005199 . 
+_:bnode7authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85005199 . 
+_:bnode7authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animal industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85005199 . 
+_:bnode11authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Animal products industry"@en . 
+_:bnode11authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85005199 . 
+_:bnode16authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85005199 . 
+_:bnode16authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#elementValue> "Animal products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85005199 . 
+_:bnode20authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Livestock industry"@en . 
+_:bnode20authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85005199 . 
+_:bnode25authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85005199 . 
+_:bnode25authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#elementValue> "Livestock industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#classification> "HD9410-HD9440" . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2014002016> . 
+<http://id.loc.gov/authorities/subjects/sh2014002016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014002016> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Swine industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035460> . 
+<http://id.loc.gov/authorities/subjects/sh85035460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035460> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dairy products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89004005> . 
+<http://id.loc.gov/authorities/subjects/sh89004005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004005> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water buffalo industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85002331> . 
+<http://id.loc.gov/authorities/subjects/sh85002331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002331> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85005199 . 
+_:bnode48authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85005199 . 
+_:bnode48authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85005199 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agricultural industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017004389> . 
+<http://id.loc.gov/authorities/subjects/sh2017004389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017004389> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sponge trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121233> . 
+<http://id.loc.gov/authorities/subjects/sh85121233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121233> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sheep industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97007896> . 
+<http://id.loc.gov/authorities/subjects/sh97007896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97007896> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ostrich products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112441> . 
+<http://id.loc.gov/authorities/subjects/sh85112441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112441> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reindeer industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077800> . 
+<http://id.loc.gov/authorities/subjects/sh85077800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livestock--Marketing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92004352> . 
+<http://id.loc.gov/authorities/subjects/sh92004352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92004352> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alligator products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055490> . 
+<http://id.loc.gov/authorities/subjects/sh85055490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055490> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Goat industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077784> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97008629> . 
+<http://id.loc.gov/authorities/subjects/sh97008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97008629> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Camelid industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4204561-7> . 
+<http://d-nb.info/gnd/4204561-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4204561-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tierhandel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096287> . 
+<http://id.loc.gov/authorities/subjects/sh85096287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096287> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ox industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035466> . 
+<http://id.loc.gov/authorities/subjects/sh85035466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035466> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dairying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96002016> . 
+<http://id.loc.gov/authorities/subjects/sh96002016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96002016> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ratite industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021415> . 
+<http://id.loc.gov/authorities/subjects/sh85021415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cattle trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98001931> . 
+<http://id.loc.gov/authorities/subjects/sh98001931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98001931> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bee products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077810> . 
+<http://id.loc.gov/authorities/subjects/sh85077810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077810> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Factory farms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93009424> . 
+<http://id.loc.gov/authorities/subjects/sh93009424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93009424> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edible snails industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/5350> . 
+<http://lod.nal.usda.gov/nalt/5350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/5350> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "livestock and meat industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047530> . 
+<http://id.loc.gov/authorities/subjects/sh85047530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047530> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Feather industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107664> . 
+<http://id.loc.gov/authorities/subjects/sh85107664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107664> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Protein products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92001886> . 
+<http://id.loc.gov/authorities/subjects/sh92001886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001886> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livestock--Services for"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99003397> . 
+<http://id.loc.gov/authorities/subjects/sh99003397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99003397> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wildlife products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12115927j> . 
+<http://data.bnf.fr/ark:/12148/cb12115927j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12115927j> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Animaux -- Industrie et commerce"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91004241> . 
+<http://id.loc.gov/authorities/subjects/sh91004241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91004241> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bison industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89001460> . 
+<http://id.loc.gov/authorities/subjects/sh89001460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89001460> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Domestic ass industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146663> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wild animal trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105924> . 
+<http://id.loc.gov/authorities/subjects/sh85105924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105924> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poultry industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062100> . 
+<http://id.loc.gov/authorities/subjects/sh85062100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062100> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Horse industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85148173> . 
+<http://id.loc.gov/authorities/subjects/sh85148173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85148173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Working animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100303> . 
+<http://id.loc.gov/authorities/subjects/sh85100303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100303> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pet industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132889> . 
+<http://id.loc.gov/authorities/subjects/sh85132889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132889> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Taxidermy industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060640> . 
+<http://id.loc.gov/authorities/subjects/sh85060640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060640> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hides and skins industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015002163> . 
+<http://id.loc.gov/authorities/subjects/sh2015002163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015002163> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cochineal insect industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95005240> . 
+<http://id.loc.gov/authorities/subjects/sh95005240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95005240> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kangaroo products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Services for] under individual domestic animals and groups of domestic animals, e.g. [Cattle--Services for]" . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85005199" . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85005199> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85005199#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode198authoritiessubjectssh85005199 . 
+_:bnode198authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode198authoritiessubjectssh85005199 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode198authoritiessubjectssh85005199 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode198authoritiessubjectssh85005199 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode205authoritiessubjectssh85005199 . 
+_:bnode205authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode205authoritiessubjectssh85005199 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-09-27T10:52:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode205authoritiessubjectssh85005199 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode205authoritiessubjectssh85005199 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animal industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode215authoritiessubjectssh85005199 . 
+_:bnode215authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode215authoritiessubjectssh85005199 <http://www.w3.org/2008/05/skos-xl#literalForm> "Animal products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#altLabel> "Animal products industry" . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode222authoritiessubjectssh85005199 . 
+_:bnode222authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode222authoritiessubjectssh85005199 <http://www.w3.org/2008/05/skos-xl#literalForm> "Livestock industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#altLabel> "Livestock industry" . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85002331> . 
+<http://id.loc.gov/authorities/subjects/sh85002331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2014002016> . 
+<http://id.loc.gov/authorities/subjects/sh2014002016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014002016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Swine industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035460> . 
+<http://id.loc.gov/authorities/subjects/sh85035460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035460> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dairy products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89004005> . 
+<http://id.loc.gov/authorities/subjects/sh89004005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004005> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water buffalo industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017004389> . 
+<http://id.loc.gov/authorities/subjects/sh2017004389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017004389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sponge trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121233> . 
+<http://id.loc.gov/authorities/subjects/sh85121233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sheep industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97007896> . 
+<http://id.loc.gov/authorities/subjects/sh97007896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97007896> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ostrich products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112441> . 
+<http://id.loc.gov/authorities/subjects/sh85112441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112441> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reindeer industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077800> . 
+<http://id.loc.gov/authorities/subjects/sh85077800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livestock--Marketing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92004352> . 
+<http://id.loc.gov/authorities/subjects/sh92004352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004352> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alligator products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055490> . 
+<http://id.loc.gov/authorities/subjects/sh85055490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055490> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goat industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077784> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97008629> . 
+<http://id.loc.gov/authorities/subjects/sh97008629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97008629> <http://www.w3.org/2004/02/skos/core#prefLabel> "Camelid industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096287> . 
+<http://id.loc.gov/authorities/subjects/sh85096287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096287> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ox industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035466> . 
+<http://id.loc.gov/authorities/subjects/sh85035466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035466> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dairying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96002016> . 
+<http://id.loc.gov/authorities/subjects/sh96002016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96002016> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ratite industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021415> . 
+<http://id.loc.gov/authorities/subjects/sh85021415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cattle trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98001931> . 
+<http://id.loc.gov/authorities/subjects/sh98001931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98001931> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bee products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077810> . 
+<http://id.loc.gov/authorities/subjects/sh85077810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Factory farms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93009424> . 
+<http://id.loc.gov/authorities/subjects/sh93009424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93009424> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edible snails industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047530> . 
+<http://id.loc.gov/authorities/subjects/sh85047530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feather industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107664> . 
+<http://id.loc.gov/authorities/subjects/sh85107664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107664> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protein products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92001886> . 
+<http://id.loc.gov/authorities/subjects/sh92001886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001886> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livestock--Services for"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99003397> . 
+<http://id.loc.gov/authorities/subjects/sh99003397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99003397> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wildlife products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91004241> . 
+<http://id.loc.gov/authorities/subjects/sh91004241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91004241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bison industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89001460> . 
+<http://id.loc.gov/authorities/subjects/sh89001460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89001460> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domestic ass industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146663> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146663> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wild animal trade"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105924> . 
+<http://id.loc.gov/authorities/subjects/sh85105924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poultry industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062100> . 
+<http://id.loc.gov/authorities/subjects/sh85062100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062100> <http://www.w3.org/2004/02/skos/core#prefLabel> "Horse industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85148173> . 
+<http://id.loc.gov/authorities/subjects/sh85148173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Working animals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100303> . 
+<http://id.loc.gov/authorities/subjects/sh85100303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pet industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132889> . 
+<http://id.loc.gov/authorities/subjects/sh85132889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxidermy industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060640> . 
+<http://id.loc.gov/authorities/subjects/sh85060640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060640> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hides and skins industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015002163> . 
+<http://id.loc.gov/authorities/subjects/sh2015002163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015002163> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cochineal insect industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95005240> . 
+<http://id.loc.gov/authorities/subjects/sh95005240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95005240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kangaroo products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4204561-7> . 
+<http://d-nb.info/gnd/4204561-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4204561-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tierhandel"@de . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/5350> . 
+<http://lod.nal.usda.gov/nalt/5350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/5350> <http://www.w3.org/2004/02/skos/core#prefLabel> "livestock and meat industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12115927j> . 
+<http://data.bnf.fr/ark:/12148/cb12115927j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12115927j> <http://www.w3.org/2004/02/skos/core#prefLabel> "Animaux -- Industrie et commerce"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Services for] under individual domestic animals and groups of domestic animals, e.g. [Cattle--Services for]" . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2008/05/skos-xl#altLabel> "Animal products industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2008/05/skos-xl#altLabel> "Livestock industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode426authoritiessubjectssh85005199 . 
+_:bnode426authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode426authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85005199> . 
+_:bnode426authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode426authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode426authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85005199> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode434authoritiessubjectssh85005199 . 
+_:bnode434authoritiessubjectssh85005199 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode434authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85005199> . 
+_:bnode434authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode434authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#createdDate> "1999-09-27T10:52:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode434authoritiessubjectssh85005199 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

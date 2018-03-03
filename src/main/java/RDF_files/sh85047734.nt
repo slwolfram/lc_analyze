@@ -1,0 +1,116 @@
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Females"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85047734 . 
+_:bnode7authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85047734 . 
+_:bnode7authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85047734 <http://www.loc.gov/mads/rdf/v1#elementValue> "Females"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85120549> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85047734 . 
+_:bnode16authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85047734 . 
+_:bnode16authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85047734 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/29755> . 
+<http://lod.nal.usda.gov/nalt/29755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/29755> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "females"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147274> . 
+<http://id.loc.gov/authorities/subjects/sh85147274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147274> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98003023> . 
+<http://id.loc.gov/authorities/subjects/sh98003023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98003023> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bitches (Dogs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89006993> . 
+<http://id.loc.gov/authorities/subjects/sh89006993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006993> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Female livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12111973r> . 
+<http://data.bnf.fr/ark:/12148/cb12111973r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12111973r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Femelles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/36115> . 
+<http://purl.org/bncf/tid/36115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/36115> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Femmine"@it . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012001919> . 
+<http://id.loc.gov/authorities/subjects/sh2012001919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012001919> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Female honeybees"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001373> . 
+<http://id.loc.gov/authorities/subjects/sh93001373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001373> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Queens (Insects)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85055012> . 
+<http://id.loc.gov/authorities/subjects/sh85055012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85055012> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Girls"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4302979-6> . 
+<http://d-nb.info/gnd/4302979-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4302979-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Weibchen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on female organisms in general. Works on the human female are entered under [Women.]" . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Women]" . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85047734" . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85047734> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85047734#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85047734 . 
+_:bnode72authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85047734 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85047734 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85047734 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode79authoritiessubjectssh85047734 . 
+_:bnode79authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode79authoritiessubjectssh85047734 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-05-08T13:53:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh85047734 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode79authoritiessubjectssh85047734 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Females"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85120549> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sex"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147274> . 
+<http://id.loc.gov/authorities/subjects/sh85147274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147274> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98003023> . 
+<http://id.loc.gov/authorities/subjects/sh98003023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003023> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bitches (Dogs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89006993> . 
+<http://id.loc.gov/authorities/subjects/sh89006993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006993> <http://www.w3.org/2004/02/skos/core#prefLabel> "Female livestock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012001919> . 
+<http://id.loc.gov/authorities/subjects/sh2012001919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012001919> <http://www.w3.org/2004/02/skos/core#prefLabel> "Female honeybees"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001373> . 
+<http://id.loc.gov/authorities/subjects/sh93001373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Queens (Insects)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85055012> . 
+<http://id.loc.gov/authorities/subjects/sh85055012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85055012> <http://www.w3.org/2004/02/skos/core#prefLabel> "Girls"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/29755> . 
+<http://lod.nal.usda.gov/nalt/29755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/29755> <http://www.w3.org/2004/02/skos/core#prefLabel> "females"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12111973r> . 
+<http://data.bnf.fr/ark:/12148/cb12111973r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12111973r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Femelles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/36115> . 
+<http://purl.org/bncf/tid/36115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/36115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Femmine"@it . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4302979-6> . 
+<http://d-nb.info/gnd/4302979-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4302979-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weibchen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on female organisms in general. Works on the human female are entered under [Women.]" . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#example> "Note under [Women]" . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode149authoritiessubjectssh85047734 . 
+_:bnode149authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode149authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85047734> . 
+_:bnode149authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode149authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode149authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85047734> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode157authoritiessubjectssh85047734 . 
+_:bnode157authoritiessubjectssh85047734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode157authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85047734> . 
+_:bnode157authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode157authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#createdDate> "1989-05-08T13:53:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode157authoritiessubjectssh85047734 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

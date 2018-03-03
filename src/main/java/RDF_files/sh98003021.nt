@@ -1,0 +1,86 @@
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chants royaux"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98003021 . 
+_:bnode7authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98003021 . 
+_:bnode7authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chants royaux"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh98003021 . 
+_:bnode11authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Chansons royales"@en . 
+_:bnode11authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh98003021 . 
+_:bnode16authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh98003021 . 
+_:bnode16authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chansons royales"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85051892> . 
+<http://id.loc.gov/authorities/subjects/sh85051892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85051892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051892> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "French poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85051892> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh98003021 . 
+_:bnode25authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh98003021 . 
+_:bnode25authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#elementValue> "French poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12550863f> . 
+<http://data.bnf.fr/ark:/12148/cb12550863f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12550863f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chants royaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98003021" . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98003021> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98003021#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh98003021 . 
+_:bnode41authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 98-130742: Roubaud, J. La ballade et le chant royal, 1998." . 
+_:bnode41authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh98003021 . 
+_:bnode47authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-source> "Britannica Micro." . 
+_:bnode47authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-note> "(chant royal, fixed form of verse developed by French poets of the 13th to the 15th centuries; Clément Marot in the 16th century was a master of this form; the 17th-century fabulist La Fontaine was the last exponent of the chant royal before its eclipse; revived in the 19th century; although introduced in England by Sir Edmund Gosse in his poem \"The praise of Dionysus\" (1877), it is practically unknown in any literature but French)"@en . 
+_:bnode47authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh98003021 . 
+_:bnode55authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-source> "Americana" . 
+_:bnode55authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-note> "(chant royal, a French poetic form, also called \"chanson royale,\" popular from the 14th to the 16th century; related to the ballade, it is longer and formally more demanding, consisting usually of five 11-line stanzas followed by an envoi of 5 lines; elaborate, courtly, and grandiose \"chants royaux\" are conventionally addressed to a divinity or a person of exalted rank, such as a king or nobleman)"@en . 
+_:bnode55authoritiessubjectssh98003021 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh98003021 . 
+_:bnode63authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh98003021 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-05-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh98003021 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh98003021 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh98003021 . 
+_:bnode70authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh98003021 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-06-18T11:16:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh98003021 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh98003021 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chants royaux"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh98003021 . 
+_:bnode80authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh98003021 <http://www.w3.org/2008/05/skos-xl#literalForm> "Chansons royales"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#altLabel> "Chansons royales" . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85051892> . 
+<http://id.loc.gov/authorities/subjects/sh85051892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051892> <http://www.w3.org/2004/02/skos/core#prefLabel> "French poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12550863f> . 
+<http://data.bnf.fr/ark:/12148/cb12550863f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12550863f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chants royaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2008/05/skos-xl#altLabel> "Chansons royales"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode100authoritiessubjectssh98003021 . 
+_:bnode100authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode100authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003021> . 
+_:bnode100authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode100authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#createdDate> "1998-05-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98003021> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode108authoritiessubjectssh98003021 . 
+_:bnode108authoritiessubjectssh98003021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode108authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003021> . 
+_:bnode108authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode108authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#createdDate> "1998-06-18T11:16:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh98003021 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

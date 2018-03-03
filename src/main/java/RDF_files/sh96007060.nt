@@ -1,0 +1,66 @@
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wetland forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96007060 . 
+_:bnode7authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96007060 . 
+_:bnode7authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wetland forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#classification> "SD410.9" . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85050707> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forests and forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh96007060 . 
+_:bnode18authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh96007060 . 
+_:bnode18authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#elementValue> "Forests and forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96007060" . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96007060> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96007060#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode30authoritiessubjectssh96007060 . 
+_:bnode30authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode30authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 96-26666: Northern forested wetlands, 1996." . 
+_:bnode30authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode36authoritiessubjectssh96007060 . 
+_:bnode36authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode36authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-source> "AGRICOLA via 1stsearch, 6/6/96" . 
+_:bnode36authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-note> "(titles: wetland forestry)"@en . 
+_:bnode36authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode44authoritiessubjectssh96007060 . 
+_:bnode44authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode44authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-source> "Biol. & agric. index via 1stsearch, 6/6/96;Vocab. of forest man., 1990;Silvicultural terms in Canada, 1992;Forest term." . 
+_:bnode44authoritiessubjectssh96007060 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh96007060 . 
+_:bnode50authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh96007060 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-06-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh96007060 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh96007060 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh96007060 . 
+_:bnode57authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh96007060 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-08-01T11:13:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh96007060 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh96007060 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wetland forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85050707> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forests and forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode73authoritiessubjectssh96007060 . 
+_:bnode73authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode73authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96007060> . 
+_:bnode73authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode73authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#createdDate> "1996-06-10T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96007060> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode81authoritiessubjectssh96007060 . 
+_:bnode81authoritiessubjectssh96007060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode81authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96007060> . 
+_:bnode81authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode81authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#createdDate> "1996-08-01T11:13:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh96007060 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

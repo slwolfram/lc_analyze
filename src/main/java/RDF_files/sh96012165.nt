@@ -1,0 +1,133 @@
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phenotype"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96012165 . 
+_:bnode7authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96012165 . 
+_:bnode7authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phenotype"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh96012165 . 
+_:bnode11authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Phenotypes"@en . 
+_:bnode11authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh96012165 . 
+_:bnode16authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh96012165 . 
+_:bnode16authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phenotypes"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/6003> . 
+<http://lod.nal.usda.gov/nalt/6003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/6003> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "phenotype"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh96001717> . 
+<http://id.loc.gov/authorities/subjects/sh96001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96001717> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genotype-environment interaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh96001717> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh96012165 . 
+_:bnode29authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh96012165 . 
+_:bnode29authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genotype-environment interaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053877> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh96012165 . 
+_:bnode38authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh96012165 . 
+_:bnode38authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4248244-6> . 
+<http://d-nb.info/gnd/4248244-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4248244-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phänotyp"@de . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96012165" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96012165> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96012165#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode54authoritiessubjectssh96012165 . 
+_:bnode54authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode54authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Rollo, C.D. Phenotypes, 1994, c1995." . 
+_:bnode54authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode60authoritiessubjectssh96012165 . 
+_:bnode60authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode60authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "McGraw-Hill dict. sci. tech." . 
+_:bnode60authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(phenotype: \"The observable characters of an organism.\")"@en . 
+_:bnode60authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode68authoritiessubjectssh96012165 . 
+_:bnode68authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode68authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "Concise sci. dict., 1984" . 
+_:bnode68authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(phenotype: \"The observable characteristics of an organism. These are determined by its genes (genotype), the dominance relationships between the alleles, and by the interaction of the genes with the environment.\")"@en . 
+_:bnode68authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode76authoritiessubjectssh96012165 . 
+_:bnode76authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode76authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "The Oxford dict. of natural history, 1985" . 
+_:bnode76authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(phenotype: \"The observable manifestation of a specific genotype; those properties of an organism produced by the genotype in conjunction with the environment that are observable.\")"@en . 
+_:bnode76authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode84authoritiessubjectssh96012165 . 
+_:bnode84authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode84authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3." . 
+_:bnode84authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode90authoritiessubjectssh96012165 . 
+_:bnode90authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode90authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "CAB thes." . 
+_:bnode90authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Phenotypes)"@en . 
+_:bnode90authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode98authoritiessubjectssh96012165 . 
+_:bnode98authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode98authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "Biol. & agr. index" . 
+_:bnode98authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Genotype and phenotype)"@en . 
+_:bnode98authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode106authoritiessubjectssh96012165 . 
+_:bnode106authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode106authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH" . 
+_:bnode106authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Phenotype)"@en . 
+_:bnode106authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode114authoritiessubjectssh96012165 . 
+_:bnode114authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode114authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-source> "Crisp. thes." . 
+_:bnode114authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Phenotype: the entire physical, biochemical and physiological makeup of an individual as determined both genetically and environmentally; also any one or any group of such traits.)"@en . 
+_:bnode114authoritiessubjectssh96012165 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode122authoritiessubjectssh96012165 . 
+_:bnode122authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode122authoritiessubjectssh96012165 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-12-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode122authoritiessubjectssh96012165 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode122authoritiessubjectssh96012165 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode129authoritiessubjectssh96012165 . 
+_:bnode129authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode129authoritiessubjectssh96012165 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-02-03T15:46:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode129authoritiessubjectssh96012165 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode129authoritiessubjectssh96012165 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenotype"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode139authoritiessubjectssh96012165 . 
+_:bnode139authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode139authoritiessubjectssh96012165 <http://www.w3.org/2008/05/skos-xl#literalForm> "Phenotypes"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#altLabel> "Phenotypes" . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053877> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh96001717> . 
+<http://id.loc.gov/authorities/subjects/sh96001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96001717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genotype-environment interaction"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/6003> . 
+<http://lod.nal.usda.gov/nalt/6003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/6003> <http://www.w3.org/2004/02/skos/core#prefLabel> "phenotype"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4248244-6> . 
+<http://d-nb.info/gnd/4248244-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4248244-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phänotyp"@de . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2008/05/skos-xl#altLabel> "Phenotypes"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode169authoritiessubjectssh96012165 . 
+_:bnode169authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode169authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96012165> . 
+_:bnode169authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+_:bnode169authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#createdDate> "1996-12-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode169authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96012165> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode177authoritiessubjectssh96012165 . 
+_:bnode177authoritiessubjectssh96012165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode177authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96012165> . 
+_:bnode177authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+_:bnode177authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#createdDate> "1997-02-03T15:46:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode177authoritiessubjectssh96012165 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

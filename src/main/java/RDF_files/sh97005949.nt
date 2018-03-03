@@ -1,0 +1,56 @@
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psyllium products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh97005949 . 
+_:bnode7authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh97005949 . 
+_:bnode7authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh97005949 <http://www.loc.gov/mads/rdf/v1#elementValue> "Psyllium products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh97005949 . 
+_:bnode16authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh97005949 . 
+_:bnode16authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh97005949 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 97005949" . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh97005949> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh97005949#concept> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh97005949 . 
+_:bnode28authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh97005949 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 90-900370: Mathur, D.P. Psyllium production and marketing in India, 1990." . 
+_:bnode28authoritiessubjectssh97005949 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode34authoritiessubjectssh97005949 . 
+_:bnode34authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode34authoritiessubjectssh97005949 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-07-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode34authoritiessubjectssh97005949 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode34authoritiessubjectssh97005949 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh97005949 . 
+_:bnode41authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh97005949 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-09-19T12:13:09"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh97005949 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh97005949 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psyllium products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode57authoritiessubjectssh97005949 . 
+_:bnode57authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode57authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97005949> . 
+_:bnode57authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode57authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#createdDate> "1997-07-31T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh97005949> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode65authoritiessubjectssh97005949 . 
+_:bnode65authoritiessubjectssh97005949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode65authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97005949> . 
+_:bnode65authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode65authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#createdDate> "1997-09-19T12:13:09"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh97005949 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

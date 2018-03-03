@@ -1,0 +1,61 @@
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piano music (Rock)"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh91003281 . 
+_:bnode7authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh91003281 . 
+_:bnode7authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh91003281 <http://www.loc.gov/mads/rdf/v1#elementValue> "Piano music (Rock)"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12288398r> . 
+<http://data.bnf.fr/ark:/12148/cb12288398r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12288398r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piano (rock), Musique de"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85114675> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rock music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh91003281 . 
+_:bnode20authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh91003281 . 
+_:bnode20authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh91003281 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rock music"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91003281" . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91003281> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91003281#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode31authoritiessubjectssh91003281 . 
+_:bnode31authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode31authoritiessubjectssh91003281 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Norton, C. Rock preludes, c1989." . 
+_:bnode31authoritiessubjectssh91003281 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode37authoritiessubjectssh91003281 . 
+_:bnode37authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode37authoritiessubjectssh91003281 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-07-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode37authoritiessubjectssh91003281 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode37authoritiessubjectssh91003281 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiessubjectssh91003281 . 
+_:bnode44authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiessubjectssh91003281 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-08-19T08:44:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiessubjectssh91003281 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiessubjectssh91003281 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piano music (Rock)"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85114675> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85114675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rock music"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12288398r> . 
+<http://data.bnf.fr/ark:/12148/cb12288398r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12288398r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piano (rock), Musique de"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode65authoritiessubjectssh91003281 . 
+_:bnode65authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode65authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003281> . 
+_:bnode65authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode65authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#createdDate> "1991-07-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91003281> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode73authoritiessubjectssh91003281 . 
+_:bnode73authoritiessubjectssh91003281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode73authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003281> . 
+_:bnode73authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode73authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#createdDate> "1991-08-19T08:44:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh91003281 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

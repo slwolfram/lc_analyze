@@ -1,0 +1,272 @@
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85110293 . 
+_:bnode7authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85110293 . 
+_:bnode7authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85110293 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#classification> "TK6575" . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122312> . 
+<http://id.loc.gov/authorities/subjects/sh85122312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122312> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Side-looking radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109035> . 
+<http://id.loc.gov/authorities/subjects/sh85109035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109035> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulse compression radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85110385> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode26authoritiessubjectssh85110293 . 
+_:bnode26authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode27authoritiessubjectssh85110293 . 
+_:bnode26authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode27authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode27authoritiessubjectssh85110293 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110323> . 
+<http://id.loc.gov/authorities/subjects/sh85110323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110323> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar receiving apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4176770-6> . 
+<http://d-nb.info/gnd/4176770-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4176770-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radarfernerkundung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100647> . 
+<http://id.loc.gov/authorities/subjects/sh85100647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100647> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phased array antennas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136450> . 
+<http://id.loc.gov/authorities/subjects/sh85136450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Track-while-scan radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85031575> . 
+<http://id.loc.gov/authorities/subjects/sh85031575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85031575> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Continuous wave radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85112798> . 
+<http://id.loc.gov/authorities/subjects/sh85112798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85112798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Remote sensing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85112798> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85110293 . 
+_:bnode55authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85110293 . 
+_:bnode55authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85110293 <http://www.loc.gov/mads/rdf/v1#elementValue> "Remote sensing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042373> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electronic systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85110293 . 
+_:bnode64authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85110293 . 
+_:bnode64authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85110293 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electronic systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039085> . 
+<http://id.loc.gov/authorities/subjects/sh85039085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039085> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Doppler radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130854> . 
+<http://id.loc.gov/authorities/subjects/sh85130854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130854> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Surveillance radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/36228> . 
+<http://lod.nal.usda.gov/nalt/36228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/36228> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4018904-1> . 
+<http://d-nb.info/gnd/4018904-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4018904-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Funkortung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89000644> . 
+<http://id.loc.gov/authorities/subjects/sh89000644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89000644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space-based radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012000768> . 
+<http://id.loc.gov/authorities/subjects/sh2012000768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012000768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ultra-wideband radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87004626> . 
+<http://id.loc.gov/authorities/subjects/sh87004626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004626> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Over-the-horizon radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095164> . 
+<http://id.loc.gov/authorities/subjects/sh85095164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095164> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Optical radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4176775-5> . 
+<http://d-nb.info/gnd/4176775-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4176775-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radarortung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057460> . 
+<http://id.loc.gov/authorities/subjects/sh85057460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057460> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ground penetrating radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064758> . 
+<http://id.loc.gov/authorities/subjects/sh85064758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Incoherent scatter radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85084970> . 
+<http://id.loc.gov/authorities/subjects/sh85084970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084970> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Microwave pillboxes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132484> . 
+<http://id.loc.gov/authorities/subjects/sh85132484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132484> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Target acquisition"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110327> . 
+<http://id.loc.gov/authorities/subjects/sh85110327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110327> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar transmitters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85109042> . 
+<http://id.loc.gov/authorities/subjects/sh85109042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85109042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109042> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulse techniques (Electronics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85109042> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode129authoritiessubjectssh85110293 . 
+_:bnode129authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode130authoritiessubjectssh85110293 . 
+_:bnode129authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode130authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode130authoritiessubjectssh85110293 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pulse techniques (Electronics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110320> . 
+<http://id.loc.gov/authorities/subjects/sh85110320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110320> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119772298> . 
+<http://data.bnf.fr/ark:/12148/cb119772298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119772298> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136454> . 
+<http://id.loc.gov/authorities/subjects/sh85136454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136454> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tracking radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086970> . 
+<http://id.loc.gov/authorities/subjects/sh85086970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086970> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Monopulse radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088170> . 
+<http://id.loc.gov/authorities/subjects/sh85088170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088170> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Moving target indicator radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027764> . 
+<http://id.loc.gov/authorities/subjects/sh85027764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027764> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coherent radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110324> . 
+<http://id.loc.gov/authorities/subjects/sh85110324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110324> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radar simulators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85037291> . 
+<http://id.loc.gov/authorities/subjects/sh85037291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85037291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037291> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Detectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85037291> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode166authoritiessubjectssh85110293 . 
+_:bnode166authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode167authoritiessubjectssh85110293 . 
+_:bnode166authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode167authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode167authoritiessubjectssh85110293 <http://www.loc.gov/mads/rdf/v1#elementValue> "Detectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003008609> . 
+<http://id.loc.gov/authorities/subjects/sh2003008609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003008609> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Low probability of intercept radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90005248> . 
+<http://id.loc.gov/authorities/subjects/sh90005248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90005248> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bistatic radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Radar] under individual wars, e.g. [World War, 1939-1945--Radar]" . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85110293" . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85110293> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85110293#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode188authoritiessubjectssh85110293 . 
+_:bnode188authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode188authoritiessubjectssh85110293 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode188authoritiessubjectssh85110293 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode188authoritiessubjectssh85110293 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85110385> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110385> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85112798> . 
+<http://id.loc.gov/authorities/subjects/sh85112798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Remote sensing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042373> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronic systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85037291> . 
+<http://id.loc.gov/authorities/subjects/sh85037291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037291> <http://www.w3.org/2004/02/skos/core#prefLabel> "Detectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122312> . 
+<http://id.loc.gov/authorities/subjects/sh85122312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122312> <http://www.w3.org/2004/02/skos/core#prefLabel> "Side-looking radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109035> . 
+<http://id.loc.gov/authorities/subjects/sh85109035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109035> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulse compression radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110323> . 
+<http://id.loc.gov/authorities/subjects/sh85110323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110323> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar receiving apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100647> . 
+<http://id.loc.gov/authorities/subjects/sh85100647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100647> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phased array antennas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136450> . 
+<http://id.loc.gov/authorities/subjects/sh85136450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Track-while-scan radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85031575> . 
+<http://id.loc.gov/authorities/subjects/sh85031575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85031575> <http://www.w3.org/2004/02/skos/core#prefLabel> "Continuous wave radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039085> . 
+<http://id.loc.gov/authorities/subjects/sh85039085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039085> <http://www.w3.org/2004/02/skos/core#prefLabel> "Doppler radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130854> . 
+<http://id.loc.gov/authorities/subjects/sh85130854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Surveillance radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89000644> . 
+<http://id.loc.gov/authorities/subjects/sh89000644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89000644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space-based radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012000768> . 
+<http://id.loc.gov/authorities/subjects/sh2012000768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012000768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ultra-wideband radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87004626> . 
+<http://id.loc.gov/authorities/subjects/sh87004626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Over-the-horizon radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095164> . 
+<http://id.loc.gov/authorities/subjects/sh85095164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095164> <http://www.w3.org/2004/02/skos/core#prefLabel> "Optical radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057460> . 
+<http://id.loc.gov/authorities/subjects/sh85057460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057460> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ground penetrating radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064758> . 
+<http://id.loc.gov/authorities/subjects/sh85064758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064758> <http://www.w3.org/2004/02/skos/core#prefLabel> "Incoherent scatter radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85084970> . 
+<http://id.loc.gov/authorities/subjects/sh85084970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microwave pillboxes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132484> . 
+<http://id.loc.gov/authorities/subjects/sh85132484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132484> <http://www.w3.org/2004/02/skos/core#prefLabel> "Target acquisition"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110327> . 
+<http://id.loc.gov/authorities/subjects/sh85110327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110327> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar transmitters"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110320> . 
+<http://id.loc.gov/authorities/subjects/sh85110320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar meteorology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136454> . 
+<http://id.loc.gov/authorities/subjects/sh85136454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136454> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tracking radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086970> . 
+<http://id.loc.gov/authorities/subjects/sh85086970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Monopulse radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088170> . 
+<http://id.loc.gov/authorities/subjects/sh85088170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moving target indicator radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027764> . 
+<http://id.loc.gov/authorities/subjects/sh85027764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027764> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coherent radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110324> . 
+<http://id.loc.gov/authorities/subjects/sh85110324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110324> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar simulators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003008609> . 
+<http://id.loc.gov/authorities/subjects/sh2003008609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003008609> <http://www.w3.org/2004/02/skos/core#prefLabel> "Low probability of intercept radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90005248> . 
+<http://id.loc.gov/authorities/subjects/sh90005248> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90005248> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bistatic radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85109042> . 
+<http://id.loc.gov/authorities/subjects/sh85109042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109042> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulse techniques (Electronics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/36228> . 
+<http://lod.nal.usda.gov/nalt/36228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/36228> <http://www.w3.org/2004/02/skos/core#prefLabel> "radar"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4176770-6> . 
+<http://d-nb.info/gnd/4176770-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4176770-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radarfernerkundung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4018904-1> . 
+<http://d-nb.info/gnd/4018904-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4018904-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Funkortung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4176775-5> . 
+<http://d-nb.info/gnd/4176775-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4176775-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radarortung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119772298> . 
+<http://data.bnf.fr/ark:/12148/cb119772298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119772298> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radar"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Radar] under individual wars, e.g. [World War, 1939-1945--Radar]" . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110293> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode376authoritiessubjectssh85110293 . 
+_:bnode376authoritiessubjectssh85110293 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode376authoritiessubjectssh85110293 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85110293> . 
+_:bnode376authoritiessubjectssh85110293 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode376authoritiessubjectssh85110293 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode376authoritiessubjectssh85110293 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

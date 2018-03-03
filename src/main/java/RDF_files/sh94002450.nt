@@ -1,0 +1,101 @@
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guildhalls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh94002450 . 
+_:bnode7authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh94002450 . 
+_:bnode7authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#elementValue> "Guildhalls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh94002450 . 
+_:bnode11authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Gildhalls"@en . 
+_:bnode11authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh94002450 . 
+_:bnode16authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh94002450 . 
+_:bnode16authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gildhalls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh94002450 . 
+_:bnode20authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Guild halls"@en . 
+_:bnode20authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh94002450 . 
+_:bnode25authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh94002450 . 
+_:bnode25authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#elementValue> "Guild halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4191136-2> . 
+<http://d-nb.info/gnd/4191136-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4191136-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zunfthaus"@de . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85017769> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh94002450 . 
+_:bnode38authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh94002450 . 
+_:bnode38authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#elementValue> "Buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 94002450" . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh94002450> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh94002450#concept> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh94002450 . 
+_:bnode50authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 94011729: Slepian, M. Merchant ideology in the Renaissance, 1995:" . 
+_:bnode50authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP t.p. (guild hall) galley (monuments connected with the guilds, the guild halls themselves and the works of art within, have remained neglected; the guild hall was the headquarters of the guild)"@en . 
+_:bnode50authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh94002450 . 
+_:bnode58authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode58authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-note> "(guildhall; the hall built or used by a guild or corporation for its assemblies; also, gildhall)"@en . 
+_:bnode58authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode66authoritiessubjectssh94002450 . 
+_:bnode66authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode66authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3" . 
+_:bnode66authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-note> "(guildhall)"@en . 
+_:bnode66authoritiessubjectssh94002450 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode74authoritiessubjectssh94002450 . 
+_:bnode74authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode74authoritiessubjectssh94002450 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-03-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh94002450 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode74authoritiessubjectssh94002450 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode81authoritiessubjectssh94002450 . 
+_:bnode81authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode81authoritiessubjectssh94002450 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2013-05-03T07:59:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh94002450 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode81authoritiessubjectssh94002450 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guildhalls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode91authoritiessubjectssh94002450 . 
+_:bnode91authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode91authoritiessubjectssh94002450 <http://www.w3.org/2008/05/skos-xl#literalForm> "Gildhalls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#altLabel> "Gildhalls" . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode98authoritiessubjectssh94002450 . 
+_:bnode98authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode98authoritiessubjectssh94002450 <http://www.w3.org/2008/05/skos-xl#literalForm> "Guild halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#altLabel> "Guild halls" . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85017769> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4191136-2> . 
+<http://d-nb.info/gnd/4191136-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4191136-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zunfthaus"@de . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2008/05/skos-xl#altLabel> "Gildhalls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2008/05/skos-xl#altLabel> "Guild halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode120authoritiessubjectssh94002450 . 
+_:bnode120authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode120authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94002450> . 
+_:bnode120authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode120authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#createdDate> "1994-03-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh94002450> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode128authoritiessubjectssh94002450 . 
+_:bnode128authoritiessubjectssh94002450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode128authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94002450> . 
+_:bnode128authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode128authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#createdDate> "2013-05-03T07:59:38"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh94002450 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

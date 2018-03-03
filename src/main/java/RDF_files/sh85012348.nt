@@ -1,0 +1,115 @@
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public baths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85012348 . 
+_:bnode7authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85012348 . 
+_:bnode7authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public baths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#classification> "RA605-RA606" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85108620> . 
+<http://id.loc.gov/authorities/subjects/sh85108620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108620> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108620> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh85012348 . 
+_:bnode18authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh85012348 . 
+_:bnode18authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11978599h> . 
+<http://data.bnf.fr/ark:/12148/cb11978599h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11978599h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bains publics"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93000235> . 
+<http://id.loc.gov/authorities/subjects/sh93000235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93000235> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bathhouses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99013339> . 
+<http://id.loc.gov/authorities/subjects/sh99013339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99013339> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baths, Roman"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode34authoritiessubjectssh85012348 . 
+_:bnode34authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode34authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode34authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Baths, Public"@en . 
+_:bnode34authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode39authoritiessubjectssh85012348 . 
+_:bnode39authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85012348 . 
+_:bnode39authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode40authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#elementValue> "Baths, Public"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96004889> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004889> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baths"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004889> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85012348 . 
+_:bnode48authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85012348 . 
+_:bnode48authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#elementValue> "Baths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85012348" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85012348> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85012348#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode60authoritiessubjectssh85012348 . 
+_:bnode60authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode60authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-source> "Acad Am. encyc.:" . 
+_:bnode60authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-note> "under bath (public baths)"@en . 
+_:bnode60authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode68authoritiessubjectssh85012348 . 
+_:bnode68authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode68authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House:" . 
+_:bnode68authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-note> "under bath (baths)"@en . 
+_:bnode68authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode76authoritiessubjectssh85012348 . 
+_:bnode76authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode76authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-source> "World Book:" . 
+_:bnode76authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-note> "under bath (public baths)"@en . 
+_:bnode76authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode84authoritiessubjectssh85012348 . 
+_:bnode84authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode84authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3;Britannica Micro." . 
+_:bnode84authoritiessubjectssh85012348 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode90authoritiessubjectssh85012348 . 
+_:bnode90authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode90authoritiessubjectssh85012348 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85012348 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode90authoritiessubjectssh85012348 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode97authoritiessubjectssh85012348 . 
+_:bnode97authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode97authoritiessubjectssh85012348 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-12-01T06:58:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85012348 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode97authoritiessubjectssh85012348 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public baths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85108620> . 
+<http://id.loc.gov/authorities/subjects/sh85108620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108620> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96004889> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004889> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93000235> . 
+<http://id.loc.gov/authorities/subjects/sh93000235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93000235> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bathhouses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99013339> . 
+<http://id.loc.gov/authorities/subjects/sh99013339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99013339> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baths, Roman"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode127authoritiessubjectssh85012348 . 
+_:bnode127authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode127authoritiessubjectssh85012348 <http://www.w3.org/2008/05/skos-xl#literalForm> "Baths, Public"@en . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#altLabel> "Baths, Public" . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11978599h> . 
+<http://data.bnf.fr/ark:/12148/cb11978599h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11978599h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bains publics"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode140authoritiessubjectssh85012348 . 
+_:bnode140authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode140authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85012348> . 
+_:bnode140authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode140authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode140authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85012348> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode148authoritiessubjectssh85012348 . 
+_:bnode148authoritiessubjectssh85012348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode148authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85012348> . 
+_:bnode148authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode148authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#createdDate> "1999-12-01T06:58:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode148authoritiessubjectssh85012348 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

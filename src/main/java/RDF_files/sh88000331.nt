@@ -1,0 +1,72 @@
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chrome objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh88000331 . 
+_:bnode7authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh88000331 . 
+_:bnode7authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chrome objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#classification> "NK8030-NK8035" . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85084093> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metal-work"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh88000331 . 
+_:bnode18authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh88000331 . 
+_:bnode18authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#elementValue> "Metal-work"@en . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb15837930z> . 
+<http://data.bnf.fr/ark:/12148/cb15837930z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb15837930z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Objets en métal chromé"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88000331" . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88000331> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88000331#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh88000331 . 
+_:bnode34authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Kilbride, R.J. Art deco chrome, the Chase era, c1988." . 
+_:bnode34authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh88000331 . 
+_:bnode40authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-source> "Schroeder's antiques price guide:" . 
+_:bnode40authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 32, under Art deco (Chrome items signed \"Chase\" ... Chrome plated brass used for chairs, cocktail shakers, lamps, and tables : mass produced)"@en . 
+_:bnode40authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh88000331 . 
+_:bnode48authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-source> "Britannica Micro.;McGraw-Hill art" . 
+_:bnode48authoritiessubjectssh88000331 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh88000331 . 
+_:bnode54authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh88000331 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-01-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh88000331 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh88000331 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh88000331 . 
+_:bnode61authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh88000331 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-02-29T14:41:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh88000331 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh88000331 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrome objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85084093> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metal-work"@en . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb15837930z> . 
+<http://data.bnf.fr/ark:/12148/cb15837930z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb15837930z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Objets en métal chromé"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh88000331 . 
+_:bnode82authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88000331> . 
+_:bnode82authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#createdDate> "1988-01-19T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88000331> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh88000331 . 
+_:bnode90authoritiessubjectssh88000331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88000331> . 
+_:bnode90authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#createdDate> "1988-02-29T14:41:55"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh88000331 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

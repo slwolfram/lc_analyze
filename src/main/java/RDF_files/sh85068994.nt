@@ -1,0 +1,154 @@
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Italy--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85068994 . 
+_:bnode7authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79021783> . 
+_:bnode7authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n79021783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79021783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79021783> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Italy"@en . 
+<http://id.loc.gov/authorities/names/n79021783> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85068994 . 
+_:bnode12authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85068994 . 
+_:bnode12authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85068994 <http://www.loc.gov/mads/rdf/v1#elementValue> "Italy"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85068994 . 
+_:bnode20authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85068994 . 
+_:bnode20authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85068994 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052039> . 
+<http://id.loc.gov/authorities/subjects/sh85052039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052039> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Friulian dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083973> . 
+<http://id.loc.gov/authorities/subjects/sh85083973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083973> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Messapic language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142644> . 
+<http://id.loc.gov/authorities/subjects/sh85142644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Venetic language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001007071> . 
+<http://id.loc.gov/authorities/subjects/sh2001007071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001007071> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oscan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068810> . 
+<http://id.loc.gov/authorities/subjects/sh85068810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068810> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Judeo-Italian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97002830> . 
+<http://id.loc.gov/authorities/subjects/sh97002830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97002830> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Italian Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87003128> . 
+<http://id.loc.gov/authorities/subjects/sh87003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ladin dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052858> . 
+<http://id.loc.gov/authorities/subjects/sh85052858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052858> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gallo-Italian dialects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2014001357> . 
+<http://id.loc.gov/authorities/subjects/sh2014001357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014001357> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arbëresh language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85093304> . 
+<http://id.loc.gov/authorities/subjects/sh85093304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093304> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuraghic language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013001185> . 
+<http://id.loc.gov/authorities/subjects/sh2013001185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013001185> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Abruzzese dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001007065> . 
+<http://id.loc.gov/authorities/subjects/sh2001007065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001007065> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Umbrian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142421> . 
+<http://id.loc.gov/authorities/subjects/sh85142421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142421> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vaudois dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117551> . 
+<http://id.loc.gov/authorities/subjects/sh85117551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117551> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sardinian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85051553> . 
+<http://id.loc.gov/authorities/subjects/sh85051553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051553> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Franco-Provençal dialects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002001717> . 
+<http://id.loc.gov/authorities/subjects/sh2002001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002001717> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cimbrian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85068994> . 
+<http://id.loc.gov/rwo/agents/sh85068994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85068994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85068994" . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85068994> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85068994#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode98authoritiessubjectssh85068994 . 
+_:bnode98authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode98authoritiessubjectssh85068994 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh85068994 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode98authoritiessubjectssh85068994 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh85068994 . 
+_:bnode105authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh85068994 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-01-20T17:35:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85068994 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh85068994 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italy--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052039> . 
+<http://id.loc.gov/authorities/subjects/sh85052039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052039> <http://www.w3.org/2004/02/skos/core#prefLabel> "Friulian dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083973> . 
+<http://id.loc.gov/authorities/subjects/sh85083973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083973> <http://www.w3.org/2004/02/skos/core#prefLabel> "Messapic language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142644> . 
+<http://id.loc.gov/authorities/subjects/sh85142644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Venetic language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001007071> . 
+<http://id.loc.gov/authorities/subjects/sh2001007071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001007071> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oscan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068810> . 
+<http://id.loc.gov/authorities/subjects/sh85068810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Judeo-Italian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97002830> . 
+<http://id.loc.gov/authorities/subjects/sh97002830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97002830> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italian Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87003128> . 
+<http://id.loc.gov/authorities/subjects/sh87003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ladin dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052858> . 
+<http://id.loc.gov/authorities/subjects/sh85052858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gallo-Italian dialects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2014001357> . 
+<http://id.loc.gov/authorities/subjects/sh2014001357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014001357> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbëresh language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85093304> . 
+<http://id.loc.gov/authorities/subjects/sh85093304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093304> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuraghic language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013001185> . 
+<http://id.loc.gov/authorities/subjects/sh2013001185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013001185> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abruzzese dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001007065> . 
+<http://id.loc.gov/authorities/subjects/sh2001007065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001007065> <http://www.w3.org/2004/02/skos/core#prefLabel> "Umbrian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142421> . 
+<http://id.loc.gov/authorities/subjects/sh85142421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142421> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vaudois dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117551> . 
+<http://id.loc.gov/authorities/subjects/sh85117551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sardinian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85051553> . 
+<http://id.loc.gov/authorities/subjects/sh85051553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051553> <http://www.w3.org/2004/02/skos/core#prefLabel> "Franco-Provençal dialects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002001717> . 
+<http://id.loc.gov/authorities/subjects/sh2002001717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002001717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cimbrian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode196authoritiessubjectssh85068994 . 
+_:bnode196authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode196authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85068994> . 
+_:bnode196authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode196authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode196authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85068994> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode204authoritiessubjectssh85068994 . 
+_:bnode204authoritiessubjectssh85068994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode204authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85068994> . 
+_:bnode204authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode204authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#createdDate> "1995-01-20T17:35:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode204authoritiessubjectssh85068994 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

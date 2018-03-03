@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lichenicolous fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh88005338 . 
+_:bnode7authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh88005338 . 
+_:bnode7authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lichenicolous fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#classification> "QK604.2.L54" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4246523-0> . 
+<http://d-nb.info/gnd/4246523-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4246523-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flechtenbesiedelnde Pilze"@de . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85052433> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh88005338 . 
+_:bnode22authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh88005338 . 
+_:bnode22authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88005338" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88005338> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88005338#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh88005338 . 
+_:bnode34authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Samuels, G.J. Fungicolous, lichenicolous, and myxomyceticolous species of Hypocreopsis, Nectriopsis, Nectria, Peristomialis, and Trichonectria, 1988." . 
+_:bnode34authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh88005338 . 
+_:bnode40authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 8/25/88" . 
+_:bnode40authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-note> "(lichenicolous)"@en . 
+_:bnode40authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh88005338 . 
+_:bnode48authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-source> "Ainsworth/Bisby dict. fungi:" . 
+_:bnode48authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 215 (lichenicolous fungi)"@en . 
+_:bnode48authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh88005338 . 
+_:bnode56authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-source> "Phone call to A. Rossman, BARC-West, Beltsville, Maryland, 8/25/88" . 
+_:bnode56authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-note> "(term used in current scientific literature)"@en . 
+_:bnode56authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh88005338 . 
+_:bnode64authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-source> "Ainsworth fungi;Webster, J. Introduction to fungi" . 
+_:bnode64authoritiessubjectssh88005338 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh88005338 . 
+_:bnode70authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh88005338 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh88005338 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh88005338 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh88005338 . 
+_:bnode77authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh88005338 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-06-23T07:36:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh88005338 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh88005338 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lichenicolous fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85052433> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fungi"@en . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4246523-0> . 
+<http://d-nb.info/gnd/4246523-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4246523-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flechtenbesiedelnde Pilze"@de . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh88005338 . 
+_:bnode98authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88005338> . 
+_:bnode98authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#createdDate> "1988-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88005338> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode106authoritiessubjectssh88005338 . 
+_:bnode106authoritiessubjectssh88005338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode106authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88005338> . 
+_:bnode106authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode106authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#createdDate> "2003-06-23T07:36:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh88005338 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

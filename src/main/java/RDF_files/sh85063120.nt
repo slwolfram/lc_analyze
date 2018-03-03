@@ -1,0 +1,115 @@
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hunting--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85063120 . 
+_:bnode7authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96005707> . 
+_:bnode7authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hunting"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005707> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85063120 . 
+_:bnode12authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85063120 . 
+_:bnode12authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hunting"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85063120 . 
+_:bnode20authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85063120 . 
+_:bnode20authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#classification> "SK273-SK275" . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb131631349> . 
+<http://data.bnf.fr/ark:/12148/cb131631349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb131631349> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chasse -- Matériel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036353> . 
+<http://id.loc.gov/authorities/subjects/sh85036353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036353> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Decoys (Hunting)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode34authoritiessubjectssh85063120 . 
+_:bnode34authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode34authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode34authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Hunting--Implements and appliances"@en . 
+_:bnode34authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode39authoritiessubjectssh85063120 . 
+_:bnode39authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85063120 . 
+_:bnode39authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode047 . 
+_:bnode40authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode40authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode40authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Hunting"@en . 
+_:bnode40authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85063120 . 
+_:bnode44authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85063120 . 
+_:bnode44authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hunting"@en . 
+_:bnode047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85063120 . 
+_:bnode047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode48authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode48authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Implements and appliances"@en . 
+_:bnode48authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85063120 . 
+_:bnode52authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85063120 . 
+_:bnode52authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85063120 <http://www.loc.gov/mads/rdf/v1#elementValue> "Implements and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97003845> . 
+<http://id.loc.gov/authorities/subjects/sh97003845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003845> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blinds (Hunting)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063137> . 
+<http://id.loc.gov/authorities/subjects/sh85063137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063137> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hunting guns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007010202> . 
+<http://id.loc.gov/authorities/subjects/sh2007010202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007010202> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scouting cameras"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85063120" . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85063120> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85063120#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85063120 . 
+_:bnode75authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85063120 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85063120 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85063120 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode82authoritiessubjectssh85063120 . 
+_:bnode82authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode82authoritiessubjectssh85063120 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-12-16T09:37:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85063120 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode82authoritiessubjectssh85063120 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hunting--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036353> . 
+<http://id.loc.gov/authorities/subjects/sh85036353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036353> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decoys (Hunting)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97003845> . 
+<http://id.loc.gov/authorities/subjects/sh97003845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blinds (Hunting)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063137> . 
+<http://id.loc.gov/authorities/subjects/sh85063137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hunting guns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007010202> . 
+<http://id.loc.gov/authorities/subjects/sh2007010202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007010202> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scouting cameras"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode112authoritiessubjectssh85063120 . 
+_:bnode112authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode112authoritiessubjectssh85063120 <http://www.w3.org/2008/05/skos-xl#literalForm> "Hunting--Implements and appliances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#altLabel> "Hunting--Implements and appliances" . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb131631349> . 
+<http://data.bnf.fr/ark:/12148/cb131631349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb131631349> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chasse -- Matériel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode125authoritiessubjectssh85063120 . 
+_:bnode125authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode125authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85063120> . 
+_:bnode125authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode125authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode125authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85063120> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode133authoritiessubjectssh85063120 . 
+_:bnode133authoritiessubjectssh85063120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode133authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85063120> . 
+_:bnode133authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode133authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#createdDate> "1996-12-16T09:37:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode133authoritiessubjectssh85063120 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

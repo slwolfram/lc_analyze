@@ -1,0 +1,69 @@
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "School support teams"@en . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh97004451 . 
+_:bnode7authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh97004451 . 
+_:bnode7authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#elementValue> "School support teams"@en . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb150152762> . 
+<http://data.bnf.fr/ark:/12148/cb150152762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb150152762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soutien scolaire"@fr . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85118340> . 
+<http://id.loc.gov/authorities/subjects/sh85118340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85118340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118340> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "School improvement programs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85118340> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh97004451 . 
+_:bnode20authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh97004451 . 
+_:bnode20authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#elementValue> "School improvement programs"@en . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on external groups of teachers, pupil services personnel, and persons with expertise in school reform that provide support and assistance to the staff of high-poverty schools." . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 97004451" . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh97004451> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh97004451#concept> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh97004451 . 
+_:bnode34authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Educators supporting educators, c1997:" . 
+_:bnode34authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#citation-note> "t.p. (School support teams)"@en . 
+_:bnode34authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh97004451 . 
+_:bnode42authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#citation-source> "Improving America's schools (WWW) May 30, 1997." . 
+_:bnode42authoritiessubjectssh97004451 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode48authoritiessubjectssh97004451 . 
+_:bnode48authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode48authoritiessubjectssh97004451 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-05-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode48authoritiessubjectssh97004451 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode48authoritiessubjectssh97004451 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh97004451 . 
+_:bnode55authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh97004451 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-07-18T14:26:58"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh97004451 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh97004451 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#prefLabel> "School support teams"@en . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85118340> . 
+<http://id.loc.gov/authorities/subjects/sh85118340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118340> <http://www.w3.org/2004/02/skos/core#prefLabel> "School improvement programs"@en . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb150152762> . 
+<http://data.bnf.fr/ark:/12148/cb150152762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb150152762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soutien scolaire"@fr . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on external groups of teachers, pupil services personnel, and persons with expertise in school reform that provide support and assistance to the staff of high-poverty schools." . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode78authoritiessubjectssh97004451 . 
+_:bnode78authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode78authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97004451> . 
+_:bnode78authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode78authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#createdDate> "1997-05-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh97004451> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh97004451 . 
+_:bnode86authoritiessubjectssh97004451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh97004451> . 
+_:bnode86authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode86authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#createdDate> "1997-07-18T14:26:58"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh97004451 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

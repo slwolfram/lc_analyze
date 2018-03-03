@@ -1,0 +1,98 @@
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2001009205 . 
+_:bnode7authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2001009205 . 
+_:bnode7authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2001009205 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119413462> . 
+<http://data.bnf.fr/ark:/12148/cb119413462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119413462> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tuberculose"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/14191> . 
+<http://lod.nal.usda.gov/nalt/14191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/14191> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00006124> . 
+<http://id.loc.gov/authorities/subjects/sh00006124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006124> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006124> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode24authoritiessubjectssh2001009205 . 
+_:bnode24authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode25authoritiessubjectssh2001009205 . 
+_:bnode24authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode25authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode25authoritiessubjectssh2001009205 <http://www.loc.gov/mads/rdf/v1#elementValue> "Infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85089186> . 
+<http://id.loc.gov/authorities/subjects/sh85089186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85089186> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mycobacterium tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007003767> . 
+<http://id.loc.gov/authorities/subjects/sh2007003767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007003767> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Multidrug-resistant tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085608> . 
+<http://id.loc.gov/authorities/subjects/sh85085608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Miners' phthisis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85122540> . 
+<http://id.loc.gov/authorities/subjects/sh85122540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122540> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Silicotuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1164> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/416> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under individual organs and regions of the body." . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Reference under the heading [Tuberculosis]" . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2001009205" . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2001009205> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2001009205#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh2001009205 . 
+_:bnode59authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-07-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode59authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh2001009205 . 
+_:bnode67authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-05-10T10:37:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode67authoritiessubjectssh2001009205 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00006124> . 
+<http://id.loc.gov/authorities/subjects/sh00006124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006124> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infections"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007003767> . 
+<http://id.loc.gov/authorities/subjects/sh2007003767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007003767> <http://www.w3.org/2004/02/skos/core#prefLabel> "Multidrug-resistant tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085608> . 
+<http://id.loc.gov/authorities/subjects/sh85085608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miners' phthisis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85122540> . 
+<http://id.loc.gov/authorities/subjects/sh85122540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicotuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85089186> . 
+<http://id.loc.gov/authorities/subjects/sh85089186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85089186> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mycobacterium tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/14191> . 
+<http://lod.nal.usda.gov/nalt/14191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/14191> <http://www.w3.org/2004/02/skos/core#prefLabel> "tuberculosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/416> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119413462> . 
+<http://data.bnf.fr/ark:/12148/cb119413462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119413462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuberculose"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under individual organs and regions of the body." . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#example> "Reference under the heading [Tuberculosis]" . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode119authoritiessubjectssh2001009205 . 
+_:bnode119authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode119authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001009205> . 
+_:bnode119authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode119authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#createdDate> "2001-07-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode119authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2001009205> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh2001009205 . 
+_:bnode127authoritiessubjectssh2001009205 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001009205> . 
+_:bnode127authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode127authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#createdDate> "2006-05-10T10:37:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh2001009205 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

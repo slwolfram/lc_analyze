@@ -1,0 +1,242 @@
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85087597 . 
+_:bnode7authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85087597 . 
+_:bnode7authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85087597 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85087597 . 
+_:bnode11authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85087597 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Automotive vehicles"@en . 
+_:bnode11authoritiessubjectssh85087597 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85087597 . 
+_:bnode16authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85087597 . 
+_:bnode16authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85087597 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automotive vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#classification> "TL" . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138148> . 
+<http://id.loc.gov/authorities/subjects/sh85138148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138148> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Trucks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2014001434> . 
+<http://id.loc.gov/authorities/subjects/sh2014001434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014001434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Autonomous vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136455> . 
+<http://id.loc.gov/authorities/subjects/sh85136455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136455> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tracklaying vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018245> . 
+<http://id.loc.gov/authorities/subjects/sh85018245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Buses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042036> . 
+<http://id.loc.gov/authorities/subjects/sh85042036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042036> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010258> . 
+<http://id.loc.gov/authorities/subjects/sh85010258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Four-wheel drive vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85137053> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transportation, Automotive"@en . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85087597 . 
+_:bnode55authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85087597 . 
+_:bnode55authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85087597 <http://www.loc.gov/mads/rdf/v1#elementValue> "Transportation, Automotive"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059630> . 
+<http://id.loc.gov/authorities/subjects/sh85059630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059630> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hearses (Vehicles)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005392> . 
+<http://id.loc.gov/authorities/subjects/sh94005392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005392> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lowriders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85087594> . 
+<http://id.loc.gov/authorities/subjects/sh85087594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor vehicle fleets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85115559> . 
+<http://id.loc.gov/authorities/subjects/sh85115559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85115559> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Roving vehicles (Astronautics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91004621> . 
+<http://id.loc.gov/authorities/subjects/sh91004621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91004621> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor homes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035061> . 
+<http://id.loc.gov/authorities/subjects/sh85035061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035061> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cyclecars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85087639> . 
+<http://id.loc.gov/authorities/subjects/sh85087639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087639> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor vehicles, Amphibious"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85114482> . 
+<http://id.loc.gov/authorities/subjects/sh85114482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85114482> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Road-rail vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85142531> . 
+<http://id.loc.gov/authorities/subjects/sh85142531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85142531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142531> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142531> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode96authoritiessubjectssh85087597 . 
+_:bnode96authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode97authoritiessubjectssh85087597 . 
+_:bnode96authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode97authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode97authoritiessubjectssh85087597 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038285> . 
+<http://id.loc.gov/authorities/subjects/sh85038285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038285> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Disabled vehicles on express highways"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057456> . 
+<http://id.loc.gov/authorities/subjects/sh85057456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057456> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ground-effect machines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85056167> . 
+<http://id.loc.gov/authorities/subjects/sh85056167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85056167> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Graders (Earthmoving machinery)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94008329> . 
+<http://id.loc.gov/authorities/subjects/sh94008329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94008329> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Golf carts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028964> . 
+<http://id.loc.gov/authorities/subjects/sh85028964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028964> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commercial vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002004155> . 
+<http://id.loc.gov/authorities/subjects/sh2002004155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002004155> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alternative fuel vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010429> . 
+<http://id.loc.gov/authorities/subjects/sh85010429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010429> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Government vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85087665> . 
+<http://id.loc.gov/authorities/subjects/sh85087665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087665> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motorcycles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85134622> . 
+<http://id.loc.gov/authorities/subjects/sh85134622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134622> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Theft from motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11942167q> . 
+<http://data.bnf.fr/ark:/12148/cb11942167q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11942167q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Véhicules automobiles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127669> . 
+<http://id.loc.gov/authorities/subjects/sh85127669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127669> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steam-carriages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4073757-3> . 
+<http://d-nb.info/gnd/4073757-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4073757-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kraftfahrzeug"@de . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042763> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Emergency vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98002175> . 
+<http://id.loc.gov/authorities/subjects/sh98002175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98002175> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Off-road vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85087597" . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85087597> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85087597#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode164authoritiessubjectssh85087597 . 
+_:bnode164authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode164authoritiessubjectssh85087597 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode164authoritiessubjectssh85087597 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode164authoritiessubjectssh85087597 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode174authoritiessubjectssh85087597 . 
+_:bnode174authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode174authoritiessubjectssh85087597 <http://www.w3.org/2008/05/skos-xl#literalForm> "Automotive vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#altLabel> "Automotive vehicles" . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85137053> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137053> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transportation, Automotive"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85142531> . 
+<http://id.loc.gov/authorities/subjects/sh85142531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138148> . 
+<http://id.loc.gov/authorities/subjects/sh85138148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138148> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trucks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2014001434> . 
+<http://id.loc.gov/authorities/subjects/sh2014001434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014001434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autonomous vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136455> . 
+<http://id.loc.gov/authorities/subjects/sh85136455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136455> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tracklaying vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018245> . 
+<http://id.loc.gov/authorities/subjects/sh85018245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042036> . 
+<http://id.loc.gov/authorities/subjects/sh85042036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042036> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010258> . 
+<http://id.loc.gov/authorities/subjects/sh85010258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Four-wheel drive vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059630> . 
+<http://id.loc.gov/authorities/subjects/sh85059630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hearses (Vehicles)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005392> . 
+<http://id.loc.gov/authorities/subjects/sh94005392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lowriders"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85087594> . 
+<http://id.loc.gov/authorities/subjects/sh85087594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor vehicle fleets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85115559> . 
+<http://id.loc.gov/authorities/subjects/sh85115559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85115559> <http://www.w3.org/2004/02/skos/core#prefLabel> "Roving vehicles (Astronautics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91004621> . 
+<http://id.loc.gov/authorities/subjects/sh91004621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91004621> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor homes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035061> . 
+<http://id.loc.gov/authorities/subjects/sh85035061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035061> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyclecars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85087639> . 
+<http://id.loc.gov/authorities/subjects/sh85087639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor vehicles, Amphibious"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85114482> . 
+<http://id.loc.gov/authorities/subjects/sh85114482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85114482> <http://www.w3.org/2004/02/skos/core#prefLabel> "Road-rail vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038285> . 
+<http://id.loc.gov/authorities/subjects/sh85038285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038285> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disabled vehicles on express highways"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057456> . 
+<http://id.loc.gov/authorities/subjects/sh85057456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057456> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ground-effect machines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85056167> . 
+<http://id.loc.gov/authorities/subjects/sh85056167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85056167> <http://www.w3.org/2004/02/skos/core#prefLabel> "Graders (Earthmoving machinery)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94008329> . 
+<http://id.loc.gov/authorities/subjects/sh94008329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94008329> <http://www.w3.org/2004/02/skos/core#prefLabel> "Golf carts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028964> . 
+<http://id.loc.gov/authorities/subjects/sh85028964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commercial vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002004155> . 
+<http://id.loc.gov/authorities/subjects/sh2002004155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002004155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alternative fuel vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010429> . 
+<http://id.loc.gov/authorities/subjects/sh85010429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010429> <http://www.w3.org/2004/02/skos/core#prefLabel> "Government vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85087665> . 
+<http://id.loc.gov/authorities/subjects/sh85087665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087665> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motorcycles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85134622> . 
+<http://id.loc.gov/authorities/subjects/sh85134622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134622> <http://www.w3.org/2004/02/skos/core#prefLabel> "Theft from motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127669> . 
+<http://id.loc.gov/authorities/subjects/sh85127669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127669> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steam-carriages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042763> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emergency vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98002175> . 
+<http://id.loc.gov/authorities/subjects/sh98002175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98002175> <http://www.w3.org/2004/02/skos/core#prefLabel> "Off-road vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11942167q> . 
+<http://data.bnf.fr/ark:/12148/cb11942167q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11942167q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Véhicules automobiles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4073757-3> . 
+<http://d-nb.info/gnd/4073757-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4073757-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kraftfahrzeug"@de . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2008/05/skos-xl#altLabel> "Automotive vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode339authoritiessubjectssh85087597 . 
+_:bnode339authoritiessubjectssh85087597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode339authoritiessubjectssh85087597 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85087597> . 
+_:bnode339authoritiessubjectssh85087597 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode339authoritiessubjectssh85087597 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode339authoritiessubjectssh85087597 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

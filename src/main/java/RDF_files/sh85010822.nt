@@ -1,0 +1,107 @@
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anaerobic bacteria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85010822 . 
+_:bnode7authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85010822 . 
+_:bnode7authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#elementValue> "Anaerobic bacteria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#classification> "QR89.5" . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90000074> . 
+<http://id.loc.gov/authorities/subjects/sh90000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90000074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pelobacter"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010813> . 
+<http://id.loc.gov/authorities/subjects/sh85010813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010813> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bacteria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010813> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85010822 . 
+_:bnode22authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85010822 . 
+_:bnode22authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bacteria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11957987z> . 
+<http://data.bnf.fr/ark:/12148/cb11957987z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11957987z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bactéries anaérobies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005996> . 
+<http://id.loc.gov/authorities/subjects/sh94005996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005996> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Desulfovibrio"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005020185> . 
+<http://id.loc.gov/authorities/subjects/sh2005020185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005020185> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeromonadaceae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4195489-0> . 
+<http://d-nb.info/gnd/4195489-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4195489-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anaerobe Bakterien"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode42authoritiessubjectssh85010822 . 
+_:bnode42authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode42authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode42authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Bacteria, Anaerobic"@en . 
+_:bnode42authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85010822 . 
+_:bnode47authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85010822 . 
+_:bnode47authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bacteria, Anaerobic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95009277> . 
+<http://id.loc.gov/authorities/subjects/sh95009277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95009277> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zymomonas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85010822" . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85010822> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85010822#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode63authoritiessubjectssh85010822 . 
+_:bnode63authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode63authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH" . 
+_:bnode63authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Bacteria, Anaerobic)"@en . 
+_:bnode63authoritiessubjectssh85010822 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85010822 . 
+_:bnode71authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85010822 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85010822 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85010822 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode78authoritiessubjectssh85010822 . 
+_:bnode78authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode78authoritiessubjectssh85010822 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-05-30T12:55:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85010822 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode78authoritiessubjectssh85010822 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anaerobic bacteria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010813> . 
+<http://id.loc.gov/authorities/subjects/sh85010813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010813> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacteria"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90000074> . 
+<http://id.loc.gov/authorities/subjects/sh90000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90000074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pelobacter"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005996> . 
+<http://id.loc.gov/authorities/subjects/sh94005996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005996> <http://www.w3.org/2004/02/skos/core#prefLabel> "Desulfovibrio"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005020185> . 
+<http://id.loc.gov/authorities/subjects/sh2005020185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005020185> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeromonadaceae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95009277> . 
+<http://id.loc.gov/authorities/subjects/sh95009277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95009277> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zymomonas"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode113authoritiessubjectssh85010822 . 
+_:bnode113authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode113authoritiessubjectssh85010822 <http://www.w3.org/2008/05/skos-xl#literalForm> "Bacteria, Anaerobic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#altLabel> "Bacteria, Anaerobic" . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11957987z> . 
+<http://data.bnf.fr/ark:/12148/cb11957987z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11957987z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bactéries anaérobies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4195489-0> . 
+<http://d-nb.info/gnd/4195489-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4195489-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anaerobe Bakterien"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode131authoritiessubjectssh85010822 . 
+_:bnode131authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode131authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010822> . 
+_:bnode131authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode131authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode131authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85010822> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode139authoritiessubjectssh85010822 . 
+_:bnode139authoritiessubjectssh85010822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode139authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010822> . 
+_:bnode139authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode139authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#createdDate> "1989-05-30T12:55:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode139authoritiessubjectssh85010822 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

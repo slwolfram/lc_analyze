@@ -1,0 +1,215 @@
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85139643 . 
+_:bnode7authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85139643 . 
+_:bnode7authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85139643 . 
+_:bnode11authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Joblessness"@en . 
+_:bnode11authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85139643 . 
+_:bnode16authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85139643 . 
+_:bnode16authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Joblessness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#classification> "HD5707.5-HD5710.2" . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139639> . 
+<http://id.loc.gov/authorities/subjects/sh85139639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139639> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Unemployed"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119500644> . 
+<http://data.bnf.fr/ark:/12148/cb119500644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119500644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chômage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139649> . 
+<http://id.loc.gov/authorities/subjects/sh85139649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139649> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Frictional unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139651> . 
+<http://id.loc.gov/authorities/subjects/sh85139651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139651> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Structural unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4267173-5> . 
+<http://d-nb.info/gnd/4267173-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4267173-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Unfreiwillige Arbeitslosigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003748> . 
+<http://id.loc.gov/authorities/subjects/sh91003748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003748> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rural unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85073724> . 
+<http://id.loc.gov/authorities/subjects/sh85073724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85073724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85073724> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Labor supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85073724> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85139643 . 
+_:bnode51authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85139643 . 
+_:bnode51authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Labor supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4002730-2> . 
+<http://d-nb.info/gnd/4002730-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4002730-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arbeitslosigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042925> . 
+<http://id.loc.gov/authorities/subjects/sh85042925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042925> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employment stabilization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038425> . 
+<http://id.loc.gov/authorities/subjects/sh85038425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Disguised unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139652> . 
+<http://id.loc.gov/authorities/subjects/sh85139652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139652> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Technological unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139650> . 
+<http://id.loc.gov/authorities/subjects/sh85139650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139650> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seasonal unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/48113> . 
+<http://lod.nal.usda.gov/nalt/48113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/48113> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85114090> . 
+<http://id.loc.gov/authorities/subjects/sh85114090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85114090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85114090> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Right to labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh85114090> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode84authoritiessubjectssh85139643 . 
+_:bnode84authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode85authoritiessubjectssh85139643 . 
+_:bnode84authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode85authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode85authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Right to labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85139575> . 
+<http://id.loc.gov/authorities/subjects/sh85139575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85139575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139575> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Underemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139575> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode93authoritiessubjectssh85139643 . 
+_:bnode93authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode94authoritiessubjectssh85139643 . 
+_:bnode93authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode94authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode94authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Underemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004004959> . 
+<http://id.loc.gov/authorities/subjects/sh2004004959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004004959> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Natural rate of unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/5661> . 
+<http://purl.org/bncf/tid/5661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/5661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Disoccupazione"@it . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042916> . 
+<http://id.loc.gov/authorities/subjects/sh85042916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042916> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Employment (Economic theory)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042916> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode110authoritiessubjectssh85139643 . 
+_:bnode110authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode111authoritiessubjectssh85139643 . 
+_:bnode110authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode111authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode111authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Employment (Economic theory)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85080626> . 
+<http://id.loc.gov/authorities/subjects/sh85080626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080626> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manpower policy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080626> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode119authoritiessubjectssh85139643 . 
+_:bnode119authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode120authoritiessubjectssh85139643 . 
+_:bnode119authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode120authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode120authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Manpower policy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85052285> . 
+<http://id.loc.gov/authorities/subjects/sh85052285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85052285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052285> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Full employment policies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85052285> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode128authoritiessubjectssh85139643 . 
+_:bnode128authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode129authoritiessubjectssh85139643 . 
+_:bnode128authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode129authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode129authoritiessubjectssh85139643 <http://www.loc.gov/mads/rdf/v1#elementValue> "Full employment policies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/645> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119500644> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85139643" . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85139643> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85139643#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode142authoritiessubjectssh85139643 . 
+_:bnode142authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode142authoritiessubjectssh85139643 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode142authoritiessubjectssh85139643 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode142authoritiessubjectssh85139643 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode149authoritiessubjectssh85139643 . 
+_:bnode149authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode149authoritiessubjectssh85139643 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-03-09T13:55:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode149authoritiessubjectssh85139643 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode149authoritiessubjectssh85139643 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode159authoritiessubjectssh85139643 . 
+_:bnode159authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode159authoritiessubjectssh85139643 <http://www.w3.org/2008/05/skos-xl#literalForm> "Joblessness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#altLabel> "Joblessness" . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85073724> . 
+<http://id.loc.gov/authorities/subjects/sh85073724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85073724> <http://www.w3.org/2004/02/skos/core#prefLabel> "Labor supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85114090> . 
+<http://id.loc.gov/authorities/subjects/sh85114090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85114090> <http://www.w3.org/2004/02/skos/core#prefLabel> "Right to labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042916> . 
+<http://id.loc.gov/authorities/subjects/sh85042916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employment (Economic theory)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85080626> . 
+<http://id.loc.gov/authorities/subjects/sh85080626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manpower policy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139639> . 
+<http://id.loc.gov/authorities/subjects/sh85139639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unemployed"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139649> . 
+<http://id.loc.gov/authorities/subjects/sh85139649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139649> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frictional unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139651> . 
+<http://id.loc.gov/authorities/subjects/sh85139651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139651> <http://www.w3.org/2004/02/skos/core#prefLabel> "Structural unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003748> . 
+<http://id.loc.gov/authorities/subjects/sh91003748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rural unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042925> . 
+<http://id.loc.gov/authorities/subjects/sh85042925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employment stabilization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038425> . 
+<http://id.loc.gov/authorities/subjects/sh85038425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disguised unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139652> . 
+<http://id.loc.gov/authorities/subjects/sh85139652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139652> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technological unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139650> . 
+<http://id.loc.gov/authorities/subjects/sh85139650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139650> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seasonal unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004004959> . 
+<http://id.loc.gov/authorities/subjects/sh2004004959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004004959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natural rate of unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85139575> . 
+<http://id.loc.gov/authorities/subjects/sh85139575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139575> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85052285> . 
+<http://id.loc.gov/authorities/subjects/sh85052285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052285> <http://www.w3.org/2004/02/skos/core#prefLabel> "Full employment policies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/48113> . 
+<http://lod.nal.usda.gov/nalt/48113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/48113> <http://www.w3.org/2004/02/skos/core#prefLabel> "unemployment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/645> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb119500644> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119500644> . 
+<http://data.bnf.fr/ark:/12148/cb119500644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119500644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chômage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4267173-5> . 
+<http://d-nb.info/gnd/4267173-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4267173-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Unfreiwillige Arbeitslosigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4002730-2> . 
+<http://d-nb.info/gnd/4002730-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4002730-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbeitslosigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/5661> . 
+<http://purl.org/bncf/tid/5661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/5661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disoccupazione"@it . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2008/05/skos-xl#altLabel> "Joblessness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode271authoritiessubjectssh85139643 . 
+_:bnode271authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode271authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85139643> . 
+_:bnode271authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode271authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode271authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85139643> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode279authoritiessubjectssh85139643 . 
+_:bnode279authoritiessubjectssh85139643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode279authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85139643> . 
+_:bnode279authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode279authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#createdDate> "1998-03-09T13:55:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode279authoritiessubjectssh85139643 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

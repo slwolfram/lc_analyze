@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motion pictures, German"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh91003448 . 
+_:bnode7authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh91003448 . 
+_:bnode7authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motion pictures, German"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh91003448 . 
+_:bnode11authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#variantLabel> "German motion pictures"@en . 
+_:bnode11authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh91003448 . 
+_:bnode16authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh91003448 . 
+_:bnode16authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#elementValue> "German motion pictures"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh89005676> . 
+<http://id.loc.gov/authorities/subjects/sh89005676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89005676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005676> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Foreign films"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005676> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh91003448 . 
+_:bnode25authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh91003448 . 
+_:bnode25authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#elementValue> "Foreign films"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12026044x> . 
+<http://data.bnf.fr/ark:/12148/cb12026044x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12026044x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cinéma allemand"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on motion pictures produced by German film companies and shown outside of Germany. General works on motion pictures shown in Germany or produced by German film companies are entered under [Motion pictures--Germany.]" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#note> "This heading is not used for individual films, which are entered under headings appropriate to the content, genre, and/or form of the film." . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Motion pictures--Germany]" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91003448" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91003448> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91003448#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh91003448 . 
+_:bnode47authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Schneider, I. Film, Fernsehen & Co., 1990." . 
+_:bnode47authoritiessubjectssh91003448 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode53authoritiessubjectssh91003448 . 
+_:bnode53authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode53authoritiessubjectssh91003448 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-07-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode53authoritiessubjectssh91003448 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode53authoritiessubjectssh91003448 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/cu> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode60authoritiessubjectssh91003448 . 
+_:bnode60authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode60authoritiessubjectssh91003448 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-08-07T08:04:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode60authoritiessubjectssh91003448 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode60authoritiessubjectssh91003448 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/cu> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motion pictures, German"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode70authoritiessubjectssh91003448 . 
+_:bnode70authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode70authoritiessubjectssh91003448 <http://www.w3.org/2008/05/skos-xl#literalForm> "German motion pictures"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#altLabel> "German motion pictures" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh89005676> . 
+<http://id.loc.gov/authorities/subjects/sh89005676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005676> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foreign films"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12026044x> . 
+<http://data.bnf.fr/ark:/12148/cb12026044x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12026044x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cinéma allemand"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on motion pictures produced by German film companies and shown outside of Germany. General works on motion pictures shown in Germany or produced by German film companies are entered under [Motion pictures--Germany.]" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#note> "This heading is not used for individual films, which are entered under headings appropriate to the content, genre, and/or form of the film." . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#example> "Note under [Motion pictures--Germany]" . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2008/05/skos-xl#altLabel> "German motion pictures"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode96authoritiessubjectssh91003448 . 
+_:bnode96authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode96authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003448> . 
+_:bnode96authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/cu> . 
+_:bnode96authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#createdDate> "1991-07-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91003448> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode104authoritiessubjectssh91003448 . 
+_:bnode104authoritiessubjectssh91003448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode104authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003448> . 
+_:bnode104authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/cu> . 
+_:bnode104authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#createdDate> "2008-08-07T08:04:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode104authoritiessubjectssh91003448 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

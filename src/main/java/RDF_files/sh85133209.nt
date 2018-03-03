@@ -1,0 +1,103 @@
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teeth--Care and hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85133209 . 
+_:bnode7authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85133203> . 
+_:bnode7authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85133203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85133203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133203> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teeth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133203> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85133209 . 
+_:bnode12authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85133209 . 
+_:bnode12authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85133209 <http://www.loc.gov/mads/rdf/v1#elementValue> "Teeth"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99004887> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99004887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99004887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99004887> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Care and hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh99004887> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85133209 . 
+_:bnode20authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85133209 . 
+_:bnode20authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85133209 <http://www.loc.gov/mads/rdf/v1#elementValue> "Care and hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#classification> "RK61" . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11944105n> . 
+<http://data.bnf.fr/ark:/12148/cb11944105n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11944105n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dents -- Soins et hygiène"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85106595> . 
+<http://id.loc.gov/authorities/subjects/sh85106595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85106595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106595> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Preventive dentistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106595> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85133209 . 
+_:bnode35authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85133209 . 
+_:bnode35authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85133209 <http://www.loc.gov/mads/rdf/v1#elementValue> "Preventive dentistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036893> . 
+<http://id.loc.gov/authorities/subjects/sh85036893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036893> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dental hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133225> . 
+<http://id.loc.gov/authorities/subjects/sh85133225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133225> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teeth--Polishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4067327-3> . 
+<http://d-nb.info/gnd/4067327-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4067327-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zahnpflege"@de . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036873> . 
+<http://id.loc.gov/authorities/subjects/sh85036873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036873> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dental caries--Prevention"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on personal dental hygiene for the layman. Works on dental hygiene as practiced by dental hygienists are entered under [Dental hygiene.]" . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Dental hygiene]" . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85133209" . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85133209> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85133209#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh85133209 . 
+_:bnode67authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh85133209 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85133209 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh85133209 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode74authoritiessubjectssh85133209 . 
+_:bnode74authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode74authoritiessubjectssh85133209 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-12-04T12:57:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh85133209 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode74authoritiessubjectssh85133209 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teeth--Care and hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85106595> . 
+<http://id.loc.gov/authorities/subjects/sh85106595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Preventive dentistry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036893> . 
+<http://id.loc.gov/authorities/subjects/sh85036893> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036893> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dental hygiene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133225> . 
+<http://id.loc.gov/authorities/subjects/sh85133225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teeth--Polishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036873> . 
+<http://id.loc.gov/authorities/subjects/sh85036873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dental caries--Prevention"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11944105n> . 
+<http://data.bnf.fr/ark:/12148/cb11944105n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11944105n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dents -- Soins et hygiène"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4067327-3> . 
+<http://d-nb.info/gnd/4067327-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4067327-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zahnpflege"@de . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on personal dental hygiene for the layman. Works on dental hygiene as practiced by dental hygienists are entered under [Dental hygiene.]" . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#example> "Note under [Dental hygiene]" . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode119authoritiessubjectssh85133209 . 
+_:bnode119authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode119authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85133209> . 
+_:bnode119authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode119authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode119authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85133209> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh85133209 . 
+_:bnode127authoritiessubjectssh85133209 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85133209> . 
+_:bnode127authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode127authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#createdDate> "1987-12-04T12:57:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85133209 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

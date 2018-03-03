@@ -1,0 +1,75 @@
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran Church--Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85079007 . 
+_:bnode7authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85078999> . 
+_:bnode7authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran Church"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85079007 . 
+_:bnode12authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85079007 . 
+_:bnode12authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85079007 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lutheran Church"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85040989> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85079007 . 
+_:bnode20authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85079007 . 
+_:bnode20authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85079007 <http://www.loc.gov/mads/rdf/v1#elementValue> "Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#classification> "LC573-LC574" . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85079020> . 
+<http://id.loc.gov/authorities/subjects/sh85079020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079020> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran universities and colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015001844> . 
+<http://id.loc.gov/authorities/subjects/sh2015001844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015001844> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran high schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010013446> . 
+<http://id.loc.gov/authorities/subjects/sh2010013446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013446> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85079007" . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85079007> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85079007#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode46authoritiessubjectssh85079007 . 
+_:bnode46authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode46authoritiessubjectssh85079007 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode46authoritiessubjectssh85079007 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode46authoritiessubjectssh85079007 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode53authoritiessubjectssh85079007 . 
+_:bnode53authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode53authoritiessubjectssh85079007 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-08-01T15:49:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode53authoritiessubjectssh85079007 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode53authoritiessubjectssh85079007 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheran Church--Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85079020> . 
+<http://id.loc.gov/authorities/subjects/sh85079020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheran universities and colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015001844> . 
+<http://id.loc.gov/authorities/subjects/sh2015001844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015001844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheran high schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010013446> . 
+<http://id.loc.gov/authorities/subjects/sh2010013446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010013446> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheran teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode79authoritiessubjectssh85079007 . 
+_:bnode79authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode79authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85079007> . 
+_:bnode79authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode79authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85079007> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh85079007 . 
+_:bnode87authoritiessubjectssh85079007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85079007> . 
+_:bnode87authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#createdDate> "1989-08-01T15:49:43"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85079007 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

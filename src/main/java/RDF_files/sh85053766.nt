@@ -1,0 +1,105 @@
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General semantics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85053766 . 
+_:bnode7authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85053766 . 
+_:bnode7authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementValue> "General semantics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85053766 . 
+_:bnode11authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Non-Aristotelian philosophy"@en . 
+_:bnode11authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85053766 . 
+_:bnode16authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85053766 . 
+_:bnode16authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Non-Aristotelian philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85053766 . 
+_:bnode20authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Semantics, General"@en . 
+_:bnode20authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85053766 . 
+_:bnode25authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85053766 . 
+_:bnode25authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Semantics, General"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#classification> "B820" . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044451> . 
+<http://id.loc.gov/authorities/subjects/sh85044451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044451> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epistemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119686987> . 
+<http://data.bnf.fr/ark:/12148/cb119686987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119686987> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sémantique générale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85040989> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85053766 . 
+_:bnode44authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85053766 . 
+_:bnode44authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106058> . 
+<http://id.loc.gov/authorities/subjects/sh85106058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106058> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pragmatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4054490-4> . 
+<http://d-nb.info/gnd/4054490-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4054490-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Semantik"@de . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85119877> . 
+<http://id.loc.gov/authorities/subjects/sh85119877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119877> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Semantics (Philosophy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119877> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85053766 . 
+_:bnode61authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85053766 . 
+_:bnode61authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85053766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Semantics (Philosophy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85053766" . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85053766> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85053766#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85053766 . 
+_:bnode72authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85053766 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85053766 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85053766 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#prefLabel> "General semantics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode82authoritiessubjectssh85053766 . 
+_:bnode82authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode82authoritiessubjectssh85053766 <http://www.w3.org/2008/05/skos-xl#literalForm> "Non-Aristotelian philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#altLabel> "Non-Aristotelian philosophy" . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode89authoritiessubjectssh85053766 . 
+_:bnode89authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode89authoritiessubjectssh85053766 <http://www.w3.org/2008/05/skos-xl#literalForm> "Semantics, General"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#altLabel> "Semantics, General" . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85040989> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040989> <http://www.w3.org/2004/02/skos/core#prefLabel> "Education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85119877> . 
+<http://id.loc.gov/authorities/subjects/sh85119877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semantics (Philosophy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044451> . 
+<http://id.loc.gov/authorities/subjects/sh85044451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044451> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epistemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106058> . 
+<http://id.loc.gov/authorities/subjects/sh85106058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106058> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pragmatics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119686987> . 
+<http://data.bnf.fr/ark:/12148/cb119686987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119686987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sémantique générale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4054490-4> . 
+<http://d-nb.info/gnd/4054490-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4054490-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semantik"@de . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2008/05/skos-xl#altLabel> "Non-Aristotelian philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2008/05/skos-xl#altLabel> "Semantics, General"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053766> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode131authoritiessubjectssh85053766 . 
+_:bnode131authoritiessubjectssh85053766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode131authoritiessubjectssh85053766 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053766> . 
+_:bnode131authoritiessubjectssh85053766 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode131authoritiessubjectssh85053766 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode131authoritiessubjectssh85053766 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

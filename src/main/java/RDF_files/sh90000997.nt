@@ -1,0 +1,342 @@
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh90000997 . 
+_:bnode7authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh90000997 . 
+_:bnode7authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh90000997 . 
+_:bnode11authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Galleries (Rooms)"@en . 
+_:bnode11authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh90000997 . 
+_:bnode16authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh90000997 . 
+_:bnode16authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#elementValue> "Galleries (Rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85026887> . 
+<http://id.loc.gov/authorities/subjects/sh85026887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85026887> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Clean rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044144> . 
+<http://id.loc.gov/authorities/subjects/sh85044144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044144> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Entrance halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88003345> . 
+<http://id.loc.gov/authorities/subjects/sh88003345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88003345> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Classrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85085685> . 
+<http://id.loc.gov/authorities/subjects/sh85085685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085685> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Miniature rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/authorities/subjects/sh85058480> . 
+<http://id.loc.gov/authorities/subjects/sh85058480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority> . 
+<http://id.loc.gov/authorities/subjects/sh85058480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058480> <http://www.w3.org/2000/01/rdf-schema#label> "sh85058480" . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode41authoritiessubjectssh90000997 . 
+_:bnode41authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode41authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode41authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Halls"@en . 
+_:bnode41authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode46authoritiessubjectssh90000997 . 
+_:bnode46authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh90000997 . 
+_:bnode46authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode47authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#elementValue> "Halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006008271> . 
+<http://id.loc.gov/authorities/subjects/sh2006008271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006008271> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teenagers' rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012333> . 
+<http://id.loc.gov/authorities/subjects/sh85012333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012333> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bathrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111990> . 
+<http://id.loc.gov/authorities/subjects/sh85111990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recreation rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111943> . 
+<http://id.loc.gov/authorities/subjects/sh85111943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111943> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Recovery rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85125401> . 
+<http://id.loc.gov/authorities/subjects/sh85125401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125401> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sound studios"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012787> . 
+<http://id.loc.gov/authorities/subjects/sh85012787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012787> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bedrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038072> . 
+<http://id.loc.gov/authorities/subjects/sh85038072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038072> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dining rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90000468> . 
+<http://id.loc.gov/authorities/subjects/sh90000468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90000468> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ballrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010011985> . 
+<http://id.loc.gov/authorities/subjects/sh2010011985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010011985> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Autopsy rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000979> . 
+<http://id.loc.gov/authorities/subjects/sh91000979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000979> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Utility rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077818> . 
+<http://id.loc.gov/authorities/subjects/sh85077818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077818> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Living rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99013894> . 
+<http://id.loc.gov/authorities/subjects/sh99013894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99013894> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Period rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86005028> . 
+<http://id.loc.gov/authorities/subjects/sh86005028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005028> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Trading rooms (Finance)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00010154> . 
+<http://id.loc.gov/authorities/subjects/sh00010154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00010154> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Safe rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87004798> . 
+<http://id.loc.gov/authorities/subjects/sh87004798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sunspaces"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4190829-6> . 
+<http://d-nb.info/gnd/4190829-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4190829-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zimmer"@de . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023774> . 
+<http://id.loc.gov/authorities/subjects/sh85023774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023774> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111697> . 
+<http://id.loc.gov/authorities/subjects/sh85111697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reading rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85030903> . 
+<http://id.loc.gov/authorities/subjects/sh85030903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85030903> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Conference rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003128> . 
+<http://id.loc.gov/authorities/subjects/sh92003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Broadcasting studios"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97009035> . 
+<http://id.loc.gov/authorities/subjects/sh97009035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97009035> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Small rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007007134> . 
+<http://id.loc.gov/authorities/subjects/sh2007007134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007007134> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lobbies (Rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057528> . 
+<http://id.loc.gov/authorities/subjects/sh85057528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057528> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Growth cabinets and rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052832> . 
+<http://id.loc.gov/authorities/subjects/sh85052832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052832> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Galleries (Architecture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053080> . 
+<http://id.loc.gov/authorities/subjects/sh85053080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053080> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Garden rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb14447846f> . 
+<http://data.bnf.fr/ark:/12148/cb14447846f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb14447846f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pièces (architecture)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094979> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Operating rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101258> . 
+<http://id.loc.gov/authorities/subjects/sh85101258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photography--Studios and dark rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95005925> . 
+<http://id.loc.gov/authorities/subjects/sh95005925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95005925> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exedrae (Architecture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00007925> . 
+<http://id.loc.gov/authorities/subjects/sh00007925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00007925> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reception rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004007104> . 
+<http://id.loc.gov/authorities/subjects/sh2004007104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004007104> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Home theaters"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003010800> . 
+<http://id.loc.gov/authorities/subjects/sh2003010800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003010800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Waiting rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072576> . 
+<http://id.loc.gov/authorities/subjects/sh85072576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072576> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kitchens"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85118975> . 
+<http://id.loc.gov/authorities/subjects/sh85118975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118975> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scriptoria"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86005000> . 
+<http://id.loc.gov/authorities/subjects/sh86005000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005000> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Control rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94000032> . 
+<http://id.loc.gov/authorities/subjects/sh94000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94000032> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Restrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005982> . 
+<http://id.loc.gov/authorities/subjects/sh94005982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005982> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dressing rooms (Performing arts)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85017769> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode203authoritiessubjectssh90000997 . 
+_:bnode203authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode204authoritiessubjectssh90000997 . 
+_:bnode203authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode204authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode204authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#elementValue> "Buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016002756> . 
+<http://id.loc.gov/authorities/subjects/sh2016002756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016002756> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Patient rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 90000997" . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh90000997> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh90000997#concept> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode218authoritiessubjectssh90000997 . 
+_:bnode218authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode218authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3." . 
+_:bnode218authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode224authoritiessubjectssh90000997 . 
+_:bnode224authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode224authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House." . 
+_:bnode224authoritiessubjectssh90000997 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode230authoritiessubjectssh90000997 . 
+_:bnode230authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode230authoritiessubjectssh90000997 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-02-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode230authoritiessubjectssh90000997 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode230authoritiessubjectssh90000997 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode237authoritiessubjectssh90000997 . 
+_:bnode237authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode237authoritiessubjectssh90000997 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2013-05-09T07:56:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode237authoritiessubjectssh90000997 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode237authoritiessubjectssh90000997 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode247authoritiessubjectssh90000997 . 
+_:bnode247authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode247authoritiessubjectssh90000997 <http://www.w3.org/2008/05/skos-xl#literalForm> "Galleries (Rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#altLabel> "Galleries (Rooms)" . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85017769> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017769> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buildings"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85026887> . 
+<http://id.loc.gov/authorities/subjects/sh85026887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85026887> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clean rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044144> . 
+<http://id.loc.gov/authorities/subjects/sh85044144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044144> <http://www.w3.org/2004/02/skos/core#prefLabel> "Entrance halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88003345> . 
+<http://id.loc.gov/authorities/subjects/sh88003345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88003345> <http://www.w3.org/2004/02/skos/core#prefLabel> "Classrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85085685> . 
+<http://id.loc.gov/authorities/subjects/sh85085685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085685> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miniature rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006008271> . 
+<http://id.loc.gov/authorities/subjects/sh2006008271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006008271> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teenagers' rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012333> . 
+<http://id.loc.gov/authorities/subjects/sh85012333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012333> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bathrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111990> . 
+<http://id.loc.gov/authorities/subjects/sh85111990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recreation rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111943> . 
+<http://id.loc.gov/authorities/subjects/sh85111943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111943> <http://www.w3.org/2004/02/skos/core#prefLabel> "Recovery rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85125401> . 
+<http://id.loc.gov/authorities/subjects/sh85125401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125401> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sound studios"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012787> . 
+<http://id.loc.gov/authorities/subjects/sh85012787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012787> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bedrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038072> . 
+<http://id.loc.gov/authorities/subjects/sh85038072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038072> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dining rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90000468> . 
+<http://id.loc.gov/authorities/subjects/sh90000468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90000468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ballrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010011985> . 
+<http://id.loc.gov/authorities/subjects/sh2010011985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010011985> <http://www.w3.org/2004/02/skos/core#prefLabel> "Autopsy rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000979> . 
+<http://id.loc.gov/authorities/subjects/sh91000979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Utility rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077818> . 
+<http://id.loc.gov/authorities/subjects/sh85077818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077818> <http://www.w3.org/2004/02/skos/core#prefLabel> "Living rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99013894> . 
+<http://id.loc.gov/authorities/subjects/sh99013894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99013894> <http://www.w3.org/2004/02/skos/core#prefLabel> "Period rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86005028> . 
+<http://id.loc.gov/authorities/subjects/sh86005028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005028> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trading rooms (Finance)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00010154> . 
+<http://id.loc.gov/authorities/subjects/sh00010154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00010154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Safe rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87004798> . 
+<http://id.loc.gov/authorities/subjects/sh87004798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sunspaces"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023774> . 
+<http://id.loc.gov/authorities/subjects/sh85023774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023774> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111697> . 
+<http://id.loc.gov/authorities/subjects/sh85111697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111697> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reading rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85030903> . 
+<http://id.loc.gov/authorities/subjects/sh85030903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85030903> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conference rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003128> . 
+<http://id.loc.gov/authorities/subjects/sh92003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broadcasting studios"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97009035> . 
+<http://id.loc.gov/authorities/subjects/sh97009035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97009035> <http://www.w3.org/2004/02/skos/core#prefLabel> "Small rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007007134> . 
+<http://id.loc.gov/authorities/subjects/sh2007007134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007007134> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lobbies (Rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057528> . 
+<http://id.loc.gov/authorities/subjects/sh85057528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057528> <http://www.w3.org/2004/02/skos/core#prefLabel> "Growth cabinets and rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052832> . 
+<http://id.loc.gov/authorities/subjects/sh85052832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052832> <http://www.w3.org/2004/02/skos/core#prefLabel> "Galleries (Architecture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053080> . 
+<http://id.loc.gov/authorities/subjects/sh85053080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053080> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garden rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094979> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094979> <http://www.w3.org/2004/02/skos/core#prefLabel> "Operating rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101258> . 
+<http://id.loc.gov/authorities/subjects/sh85101258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photography--Studios and dark rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95005925> . 
+<http://id.loc.gov/authorities/subjects/sh95005925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95005925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exedrae (Architecture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00007925> . 
+<http://id.loc.gov/authorities/subjects/sh00007925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00007925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reception rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004007104> . 
+<http://id.loc.gov/authorities/subjects/sh2004007104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004007104> <http://www.w3.org/2004/02/skos/core#prefLabel> "Home theaters"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003010800> . 
+<http://id.loc.gov/authorities/subjects/sh2003010800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003010800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waiting rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072576> . 
+<http://id.loc.gov/authorities/subjects/sh85072576> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072576> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kitchens"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85118975> . 
+<http://id.loc.gov/authorities/subjects/sh85118975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118975> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scriptoria"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86005000> . 
+<http://id.loc.gov/authorities/subjects/sh86005000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005000> <http://www.w3.org/2004/02/skos/core#prefLabel> "Control rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94000032> . 
+<http://id.loc.gov/authorities/subjects/sh94000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94000032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Restrooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005982> . 
+<http://id.loc.gov/authorities/subjects/sh94005982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005982> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dressing rooms (Performing arts)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016002756> . 
+<http://id.loc.gov/authorities/subjects/sh2016002756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016002756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patient rooms"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode459authoritiessubjectssh90000997 . 
+_:bnode459authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode459authoritiessubjectssh90000997 <http://www.w3.org/2008/05/skos-xl#literalForm> "Halls"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#altLabel> "Halls" . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4190829-6> . 
+<http://d-nb.info/gnd/4190829-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4190829-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zimmer"@de . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb14447846f> . 
+<http://data.bnf.fr/ark:/12148/cb14447846f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb14447846f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pièces (architecture)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2008/05/skos-xl#altLabel> "Galleries (Rooms)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode479authoritiessubjectssh90000997 . 
+_:bnode479authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode479authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh90000997> . 
+_:bnode479authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode479authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#createdDate> "1990-02-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode479authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh90000997> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode487authoritiessubjectssh90000997 . 
+_:bnode487authoritiessubjectssh90000997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode487authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh90000997> . 
+_:bnode487authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode487authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#createdDate> "2013-05-09T07:56:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode487authoritiessubjectssh90000997 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

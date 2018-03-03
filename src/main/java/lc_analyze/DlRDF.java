@@ -82,7 +82,12 @@ public class DlRDF {
 				CloseableHttpClient client = HttpClientBuilder.create().build();
 				HttpUriRequest request = RequestBuilder.get().setUri(uri).setHeader("accept", "text/plain").build();
 				HttpResponse response = client.execute(request);
-				HttpEntity entity = response.getEntity();
+				HttpEntity entity = null;
+				try {
+					 entity = response.getEntity();
+					} catch (NullPointerException e) {
+						e.printStackTrace();
+					}
 				if (entity != null) {
 					try (FileOutputStream outstream = new FileOutputStream(rdf_file)) {
 						entity.writeTo(outstream);

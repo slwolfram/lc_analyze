@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public hospitals--Outpatient services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85062398 . 
+_:bnode7authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85062397> . 
+_:bnode7authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85062397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85062397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062397> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public hospitals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062397> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85062398 . 
+_:bnode12authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85062398 . 
+_:bnode12authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public hospitals"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85062398 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Outpatient services"@en . 
+_:bnode16authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85062398 . 
+_:bnode20authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85062398 . 
+_:bnode20authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#elementValue> "Outpatient services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85062398 . 
+_:bnode24authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Outpatient services in public hospitals"@en . 
+_:bnode24authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85062398 . 
+_:bnode29authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85062398 . 
+_:bnode29authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#elementValue> "Outpatient services in public hospitals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#classification> "RA974-RA974.5" . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85004180> . 
+<http://id.loc.gov/authorities/subjects/sh85004180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85004180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004180> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ambulatory medical care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004180> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode40authoritiessubjectssh85062398 . 
+_:bnode40authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh85062398 . 
+_:bnode40authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode41authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode41authoritiessubjectssh85062398 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ambulatory medical care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85062398" . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85062398> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85062398#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode52authoritiessubjectssh85062398 . 
+_:bnode52authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode52authoritiessubjectssh85062398 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode52authoritiessubjectssh85062398 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode52authoritiessubjectssh85062398 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85062398 . 
+_:bnode59authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85062398 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-06-26T09:15:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85062398 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85062398 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public hospitals--Outpatient services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode69authoritiessubjectssh85062398 . 
+_:bnode69authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode69authoritiessubjectssh85062398 <http://www.w3.org/2008/05/skos-xl#literalForm> "Outpatient services in public hospitals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2004/02/skos/core#altLabel> "Outpatient services in public hospitals" . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85004180> . 
+<http://id.loc.gov/authorities/subjects/sh85004180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004180> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambulatory medical care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2008/05/skos-xl#altLabel> "Outpatient services in public hospitals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode84authoritiessubjectssh85062398 . 
+_:bnode84authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode84authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85062398> . 
+_:bnode84authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode84authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85062398> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode92authoritiessubjectssh85062398 . 
+_:bnode92authoritiessubjectssh85062398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode92authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85062398> . 
+_:bnode92authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode92authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#createdDate> "1992-06-26T09:15:46"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh85062398 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

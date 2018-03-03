@@ -1,0 +1,179 @@
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85053761 . 
+_:bnode7authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85053761 . 
+_:bnode7authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85053761 <http://www.loc.gov/mads/rdf/v1#elementValue> "General Motors automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85053761 . 
+_:bnode11authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85053761 <http://www.loc.gov/mads/rdf/v1#variantLabel> "GM automobiles"@en . 
+_:bnode11authoritiessubjectssh85053761 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85053761 . 
+_:bnode16authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85053761 . 
+_:bnode16authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85053761 <http://www.loc.gov/mads/rdf/v1#elementValue> "GM automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98001356> . 
+<http://id.loc.gov/authorities/subjects/sh98001356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98001356> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors V-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85053761 . 
+_:bnode29authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85053761 . 
+_:bnode29authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85053761 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018628> . 
+<http://id.loc.gov/authorities/subjects/sh85018628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018628> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cadillac automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094584> . 
+<http://id.loc.gov/authorities/subjects/sh85094584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094584> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oldsmobile automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003054> . 
+<http://id.loc.gov/authorities/subjects/sh91003054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003054> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saturn automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000866> . 
+<http://id.loc.gov/authorities/subjects/sh95000866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000866> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors W-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91002443> . 
+<http://id.loc.gov/authorities/subjects/sh91002443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91002443> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors N-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023173> . 
+<http://id.loc.gov/authorities/subjects/sh85023173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chevrolet automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89003903> . 
+<http://id.loc.gov/authorities/subjects/sh89003903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89003903> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geo automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053763> . 
+<http://id.loc.gov/authorities/subjects/sh85053763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053763> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors J-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85073608> . 
+<http://id.loc.gov/authorities/subjects/sh85073608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85073608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "La Salle automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98001287> . 
+<http://id.loc.gov/authorities/subjects/sh98001287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98001287> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors Y-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2009000238> . 
+<http://id.loc.gov/authorities/subjects/sh2009000238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2009000238> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors trucks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053764> . 
+<http://id.loc.gov/authorities/subjects/sh85053764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053764> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors X-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104810> . 
+<http://id.loc.gov/authorities/subjects/sh85104810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104810> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pontiac automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96002339> . 
+<http://id.loc.gov/authorities/subjects/sh96002339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96002339> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "EV1 automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12495596f> . 
+<http://data.bnf.fr/ark:/12148/cb12495596f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12495596f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors (automobiles)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86002179> . 
+<http://id.loc.gov/authorities/subjects/sh86002179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86002179> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors C-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000555> . 
+<http://id.loc.gov/authorities/subjects/sh91000555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000555> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "General Motors A-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017690> . 
+<http://id.loc.gov/authorities/subjects/sh85017690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017690> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Buick automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85053761" . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85053761> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85053761#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode112authoritiessubjectssh85053761 . 
+_:bnode112authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode112authoritiessubjectssh85053761 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode112authoritiessubjectssh85053761 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode112authoritiessubjectssh85053761 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode119authoritiessubjectssh85053761 . 
+_:bnode119authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode119authoritiessubjectssh85053761 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-03-23T14:19:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode119authoritiessubjectssh85053761 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode119authoritiessubjectssh85053761 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode129authoritiessubjectssh85053761 . 
+_:bnode129authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode129authoritiessubjectssh85053761 <http://www.w3.org/2008/05/skos-xl#literalForm> "GM automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#altLabel> "GM automobiles" . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98001356> . 
+<http://id.loc.gov/authorities/subjects/sh98001356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98001356> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors V-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018628> . 
+<http://id.loc.gov/authorities/subjects/sh85018628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cadillac automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094584> . 
+<http://id.loc.gov/authorities/subjects/sh85094584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094584> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oldsmobile automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003054> . 
+<http://id.loc.gov/authorities/subjects/sh91003054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saturn automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000866> . 
+<http://id.loc.gov/authorities/subjects/sh95000866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000866> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors W-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91002443> . 
+<http://id.loc.gov/authorities/subjects/sh91002443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91002443> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors N-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023173> . 
+<http://id.loc.gov/authorities/subjects/sh85023173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chevrolet automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89003903> . 
+<http://id.loc.gov/authorities/subjects/sh89003903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89003903> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geo automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053763> . 
+<http://id.loc.gov/authorities/subjects/sh85053763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053763> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors J-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85073608> . 
+<http://id.loc.gov/authorities/subjects/sh85073608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85073608> <http://www.w3.org/2004/02/skos/core#prefLabel> "La Salle automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98001287> . 
+<http://id.loc.gov/authorities/subjects/sh98001287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98001287> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors Y-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2009000238> . 
+<http://id.loc.gov/authorities/subjects/sh2009000238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2009000238> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors trucks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053764> . 
+<http://id.loc.gov/authorities/subjects/sh85053764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053764> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors X-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104810> . 
+<http://id.loc.gov/authorities/subjects/sh85104810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pontiac automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96002339> . 
+<http://id.loc.gov/authorities/subjects/sh96002339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96002339> <http://www.w3.org/2004/02/skos/core#prefLabel> "EV1 automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86002179> . 
+<http://id.loc.gov/authorities/subjects/sh86002179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86002179> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors C-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000555> . 
+<http://id.loc.gov/authorities/subjects/sh91000555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000555> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors A-cars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017690> . 
+<http://id.loc.gov/authorities/subjects/sh85017690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Buick automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12495596f> . 
+<http://data.bnf.fr/ark:/12148/cb12495596f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12495596f> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors (automobiles)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2008/05/skos-xl#altLabel> "GM automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode239authoritiessubjectssh85053761 . 
+_:bnode239authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode239authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053761> . 
+_:bnode239authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode239authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode239authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85053761> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode247authoritiessubjectssh85053761 . 
+_:bnode247authoritiessubjectssh85053761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode247authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053761> . 
+_:bnode247authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode247authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#createdDate> "2004-03-23T14:19:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode247authoritiessubjectssh85053761 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

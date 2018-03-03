@@ -1,0 +1,70 @@
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "People with visual disabilities--Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh91003319 . 
+_:bnode7authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85143940> . 
+_:bnode7authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85143940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85143940> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143940> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "People with visual disabilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85143940> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh91003319 . 
+_:bnode12authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh91003319 . 
+_:bnode12authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh91003319 <http://www.loc.gov/mads/rdf/v1#elementValue> "People with visual disabilities"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85015758> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015758> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh91003319 . 
+_:bnode20authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh91003319 . 
+_:bnode20authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh91003319 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12005514q> . 
+<http://data.bnf.fr/ark:/12148/cb12005514q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12005514q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Handicapés visuels -- Livres et lecture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85074712> . 
+<http://id.loc.gov/authorities/subjects/sh85074712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074712> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Large type books"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12005514q> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91003319" . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91003319> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91003319#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh91003319 . 
+_:bnode41authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh91003319 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-10-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh91003319 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh91003319 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode48authoritiessubjectssh91003319 . 
+_:bnode48authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode48authoritiessubjectssh91003319 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-11-17T09:34:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode48authoritiessubjectssh91003319 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode48authoritiessubjectssh91003319 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#prefLabel> "People with visual disabilities--Books and reading"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85074712> . 
+<http://id.loc.gov/authorities/subjects/sh85074712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074712> <http://www.w3.org/2004/02/skos/core#prefLabel> "Large type books"@en . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb12005514q> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12005514q> . 
+<http://data.bnf.fr/ark:/12148/cb12005514q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12005514q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handicapés visuels -- Livres et lecture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode70authoritiessubjectssh91003319 . 
+_:bnode70authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode70authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003319> . 
+_:bnode70authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode70authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#createdDate> "2001-10-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91003319> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode78authoritiessubjectssh91003319 . 
+_:bnode78authoritiessubjectssh91003319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode78authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91003319> . 
+_:bnode78authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode78authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#createdDate> "2001-11-17T09:34:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh91003319 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

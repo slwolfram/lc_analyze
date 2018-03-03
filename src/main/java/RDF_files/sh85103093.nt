@@ -1,0 +1,135 @@
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasmids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85103093 . 
+_:bnode7authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85103093 . 
+_:bnode7authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasmids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85103093 . 
+_:bnode11authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Paragenes"@en . 
+_:bnode11authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85103093 . 
+_:bnode16authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85103093 . 
+_:bnode16authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementValue> "Paragenes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#classification> "QH452.6" . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#classification> "QR76.6" . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4046270-5> . 
+<http://d-nb.info/gnd/4046270-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4046270-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasmid"@de . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/42959> . 
+<http://purl.org/bncf/tid/42959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/42959> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasmidi"@it . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85110175> . 
+<http://id.loc.gov/authorities/subjects/sh85110175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110175> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "R factors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/26356> . 
+<http://lod.nal.usda.gov/nalt/26356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/26356> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "plasmids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053875> . 
+<http://id.loc.gov/authorities/subjects/sh85053875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053875> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetic vectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053875> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85103093 . 
+_:bnode45authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85103093 . 
+_:bnode45authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetic vectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85035253> . 
+<http://id.loc.gov/authorities/subjects/sh85035253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85035253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035253> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cytoplasmic inheritance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85035253> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode54authoritiessubjectssh85103093 . 
+_:bnode54authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode55authoritiessubjectssh85103093 . 
+_:bnode54authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode55authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode55authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cytoplasmic inheritance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85046578> . 
+<http://id.loc.gov/authorities/subjects/sh85046578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046578> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Extrachromosomal DNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046578> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode63authoritiessubjectssh85103093 . 
+_:bnode63authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode64authoritiessubjectssh85103093 . 
+_:bnode63authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode64authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode64authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementValue> "Extrachromosomal DNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4298864-0> . 
+<http://d-nb.info/gnd/4298864-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4298864-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lineares Plasmid"@de . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh88007588> . 
+<http://id.loc.gov/authorities/subjects/sh88007588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88007588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007588> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mobile genetic elements"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007588> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode76authoritiessubjectssh85103093 . 
+_:bnode76authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode77authoritiessubjectssh85103093 . 
+_:bnode76authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode77authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode77authoritiessubjectssh85103093 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mobile genetic elements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://aims.fao.org/aos/agrovoc/c_16014> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85103093" . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85103093> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85103093#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85103093 . 
+_:bnode88authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85103093 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85103093 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85103093 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh85103093 . 
+_:bnode95authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh85103093 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-01-25T15:18:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85103093 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh85103093 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasmids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode105authoritiessubjectssh85103093 . 
+_:bnode105authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode105authoritiessubjectssh85103093 <http://www.w3.org/2008/05/skos-xl#literalForm> "Paragenes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#altLabel> "Paragenes" . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053875> . 
+<http://id.loc.gov/authorities/subjects/sh85053875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053875> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetic vectors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85035253> . 
+<http://id.loc.gov/authorities/subjects/sh85035253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035253> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cytoplasmic inheritance"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh88007588> . 
+<http://id.loc.gov/authorities/subjects/sh88007588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007588> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mobile genetic elements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85110175> . 
+<http://id.loc.gov/authorities/subjects/sh85110175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110175> <http://www.w3.org/2004/02/skos/core#prefLabel> "R factors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85046578> . 
+<http://id.loc.gov/authorities/subjects/sh85046578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Extrachromosomal DNA"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/26356> . 
+<http://lod.nal.usda.gov/nalt/26356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/26356> <http://www.w3.org/2004/02/skos/core#prefLabel> "plasmids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://aims.fao.org/aos/agrovoc/c_16014> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4046270-5> . 
+<http://d-nb.info/gnd/4046270-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4046270-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasmid"@de . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/42959> . 
+<http://purl.org/bncf/tid/42959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/42959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasmidi"@it . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4298864-0> . 
+<http://d-nb.info/gnd/4298864-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4298864-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lineares Plasmid"@de . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2008/05/skos-xl#altLabel> "Paragenes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode161authoritiessubjectssh85103093 . 
+_:bnode161authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode161authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85103093> . 
+_:bnode161authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode161authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode161authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85103093> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode169authoritiessubjectssh85103093 . 
+_:bnode169authoritiessubjectssh85103093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode169authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85103093> . 
+_:bnode169authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode169authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#createdDate> "1989-01-25T15:18:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode169authoritiessubjectssh85103093 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

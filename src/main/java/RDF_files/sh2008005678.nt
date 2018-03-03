@@ -1,0 +1,75 @@
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vibrio parahaemolyticus--Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh2008005678 . 
+_:bnode7authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2004003308> . 
+_:bnode7authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh2004003308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2004003308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004003308> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vibrio parahaemolyticus"@en . 
+<http://id.loc.gov/authorities/subjects/sh2004003308> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh2008005678 . 
+_:bnode12authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh2008005678 . 
+_:bnode12authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh2008005678 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vibrio parahaemolyticus"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85053877> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053877> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh2008005678 . 
+_:bnode20authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh2008005678 . 
+_:bnode20authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh2008005678 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010849> . 
+<http://id.loc.gov/authorities/subjects/sh85010849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010849> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bacterial genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010849> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh2008005678 . 
+_:bnode29authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh2008005678 . 
+_:bnode29authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh2008005678 <http://www.loc.gov/mads/rdf/v1#elementValue> "Bacterial genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2008005678" . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2008005678> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2008005678#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh2008005678 . 
+_:bnode41authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh2008005678 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Blankinship, L.A. Molecular analysis, detection, and elimination of Vibrio parahaemolyticus from shellfish, 2002:" . 
+_:bnode41authoritiessubjectssh2008005678 <http://www.loc.gov/mads/rdf/v1#citation-note> "abstr. (This project investigates the genetic differences between pandemic V. parahaemolyticus O3:K6 and its parent strain)"@en . 
+_:bnode41authoritiessubjectssh2008005678 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh2008005678 . 
+_:bnode49authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-09-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode49authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh2008005678 . 
+_:bnode57authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-09-12T08:18:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode57authoritiessubjectssh2008005678 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vibrio parahaemolyticus--Genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010849> . 
+<http://id.loc.gov/authorities/subjects/sh85010849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bacterial genetics"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode74authoritiessubjectssh2008005678 . 
+_:bnode74authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode74authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2008005678> . 
+_:bnode74authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode74authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#createdDate> "2008-09-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2008005678> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh2008005678 . 
+_:bnode82authoritiessubjectssh2008005678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2008005678> . 
+_:bnode82authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/abau> . 
+_:bnode82authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#createdDate> "2008-09-12T08:18:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh2008005678 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

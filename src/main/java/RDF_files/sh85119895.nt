@@ -1,0 +1,73 @@
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Semiconductor industry--Laser use in"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85119895 . 
+_:bnode7authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85119894> . 
+_:bnode7authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85119894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119894> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Semiconductor industry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119894> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85119895 . 
+_:bnode12authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85119895 . 
+_:bnode12authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85119895 <http://www.loc.gov/mads/rdf/v1#elementValue> "Semiconductor industry"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85119895 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85119895 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Laser use in"@en . 
+_:bnode16authoritiessubjectssh85119895 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85119895 . 
+_:bnode20authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85119895 . 
+_:bnode20authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85119895 <http://www.loc.gov/mads/rdf/v1#elementValue> "Laser use in"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121095930> . 
+<http://data.bnf.fr/ark:/12148/cb121095930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121095930> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lasers dans l'industrie des semiconducteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85074788> . 
+<http://id.loc.gov/authorities/subjects/sh85074788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85074788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074788> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lasers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074788> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85119895 . 
+_:bnode33authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85119895 . 
+_:bnode33authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85119895 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lasers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85119895" . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85119895> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85119895#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiessubjectssh85119895 . 
+_:bnode44authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiessubjectssh85119895 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiessubjectssh85119895 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiessubjectssh85119895 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85119895 . 
+_:bnode51authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85119895 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2013-09-06T07:14:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85119895 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85119895 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Semiconductor industry--Laser use in"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85074788> . 
+<http://id.loc.gov/authorities/subjects/sh85074788> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074788> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lasers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121095930> . 
+<http://data.bnf.fr/ark:/12148/cb121095930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121095930> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lasers dans l'industrie des semiconducteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode72authoritiessubjectssh85119895 . 
+_:bnode72authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode72authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85119895> . 
+_:bnode72authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode72authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85119895> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode80authoritiessubjectssh85119895 . 
+_:bnode80authoritiessubjectssh85119895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode80authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85119895> . 
+_:bnode80authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode80authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#createdDate> "2013-09-06T07:14:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85119895 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

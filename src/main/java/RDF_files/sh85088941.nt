@@ -1,0 +1,158 @@
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85088941 . 
+_:bnode7authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85088941 . 
+_:bnode7authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85088941 . 
+_:bnode11authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Music educators"@en . 
+_:bnode11authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85088941 . 
+_:bnode16authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85088941 . 
+_:bnode16authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music educators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85088941 . 
+_:bnode20authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Music pedagogues"@en . 
+_:bnode20authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85088941 . 
+_:bnode25authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85088941 . 
+_:bnode25authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music pedagogues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4140880-9> . 
+<http://d-nb.info/gnd/4140880-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4140880-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musiklehrer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85132964> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85088941 . 
+_:bnode38authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85088941 . 
+_:bnode38authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85088941 <http://www.loc.gov/mads/rdf/v1#elementValue> "Teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000858> . 
+<http://id.loc.gov/authorities/subjects/sh95000858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000858> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Violin teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000624> . 
+<http://id.loc.gov/authorities/subjects/sh98000624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000624> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guitar teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2014002406> . 
+<http://id.loc.gov/authorities/subjects/sh2014002406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014002406> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flute teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89004054> . 
+<http://id.loc.gov/authorities/subjects/sh89004054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004054> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women music teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015001938> . 
+<http://id.loc.gov/authorities/subjects/sh2015001938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015001938> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Composition teachers (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002003021> . 
+<http://id.loc.gov/authorities/subjects/sh2002003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002003021> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Harp teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88002827> . 
+<http://id.loc.gov/authorities/subjects/sh88002827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88002827> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Voice teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003002211> . 
+<http://id.loc.gov/authorities/subjects/sh2003002211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003002211> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piano teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11978061f> . 
+<http://data.bnf.fr/ark:/12148/cb11978061f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11978061f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Professeurs de musique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94006073> . 
+<http://id.loc.gov/authorities/subjects/sh94006073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94006073> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cello teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011000872> . 
+<http://id.loc.gov/authorities/subjects/sh2011000872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011000872> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cimbalom teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010008440> . 
+<http://id.loc.gov/authorities/subjects/sh2010008440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010008440> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organ teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85088941" . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85088941> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85088941#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode98authoritiessubjectssh85088941 . 
+_:bnode98authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode98authoritiessubjectssh85088941 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-01-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh85088941 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode98authoritiessubjectssh85088941 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh85088941 . 
+_:bnode105authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh85088941 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-08-20T08:17:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85088941 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh85088941 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode115authoritiessubjectssh85088941 . 
+_:bnode115authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode115authoritiessubjectssh85088941 <http://www.w3.org/2008/05/skos-xl#literalForm> "Music educators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#altLabel> "Music educators" . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode122authoritiessubjectssh85088941 . 
+_:bnode122authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode122authoritiessubjectssh85088941 <http://www.w3.org/2008/05/skos-xl#literalForm> "Music pedagogues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#altLabel> "Music pedagogues" . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85132964> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000858> . 
+<http://id.loc.gov/authorities/subjects/sh95000858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Violin teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000624> . 
+<http://id.loc.gov/authorities/subjects/sh98000624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000624> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guitar teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2014002406> . 
+<http://id.loc.gov/authorities/subjects/sh2014002406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014002406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flute teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89004054> . 
+<http://id.loc.gov/authorities/subjects/sh89004054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women music teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015001938> . 
+<http://id.loc.gov/authorities/subjects/sh2015001938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015001938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Composition teachers (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002003021> . 
+<http://id.loc.gov/authorities/subjects/sh2002003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002003021> <http://www.w3.org/2004/02/skos/core#prefLabel> "Harp teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88002827> . 
+<http://id.loc.gov/authorities/subjects/sh88002827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88002827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voice teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003002211> . 
+<http://id.loc.gov/authorities/subjects/sh2003002211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003002211> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piano teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94006073> . 
+<http://id.loc.gov/authorities/subjects/sh94006073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94006073> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cello teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011000872> . 
+<http://id.loc.gov/authorities/subjects/sh2011000872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011000872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cimbalom teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010008440> . 
+<http://id.loc.gov/authorities/subjects/sh2010008440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010008440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organ teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4140880-9> . 
+<http://d-nb.info/gnd/4140880-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4140880-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musiklehrer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11978061f> . 
+<http://data.bnf.fr/ark:/12148/cb11978061f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11978061f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Professeurs de musique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2008/05/skos-xl#altLabel> "Music educators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2008/05/skos-xl#altLabel> "Music pedagogues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode204authoritiessubjectssh85088941 . 
+_:bnode204authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode204authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088941> . 
+_:bnode204authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode204authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#createdDate> "2002-01-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode204authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85088941> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode212authoritiessubjectssh85088941 . 
+_:bnode212authoritiessubjectssh85088941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode212authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088941> . 
+_:bnode212authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode212authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#createdDate> "2008-08-20T08:17:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode212authoritiessubjectssh85088941 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

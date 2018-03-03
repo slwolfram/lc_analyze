@@ -1,0 +1,78 @@
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drama--History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85039329 . 
+_:bnode7authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96005303> . 
+_:bnode7authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005303> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drama"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005303> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85039329 . 
+_:bnode12authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85039329 . 
+_:bnode12authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85039329 <http://www.loc.gov/mads/rdf/v1#elementValue> "Drama"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99001187> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85039329 . 
+_:bnode20authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85039329 . 
+_:bnode20authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85039329 <http://www.loc.gov/mads/rdf/v1#elementValue> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#classification> "PN1720-PN1861" . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4012899-4> . 
+<http://d-nb.info/gnd/4012899-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4012899-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drama"@de . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85034149> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85039329 . 
+_:bnode35authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85039329 . 
+_:bnode35authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85039329 <http://www.loc.gov/mads/rdf/v1#elementValue> "Criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on criticism of the drama as a literary form. Works on criticism of the drama as presented on the stage are entered under [Dramatic criticism.] Collections of reviews of dramatic performances are entered under [Theater--Reviews.]" . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Notes under [Dramatic criticism; Theater--Reviews]" . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85039329" . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85039329> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85039329#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh85039329 . 
+_:bnode50authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh85039329 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh85039329 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh85039329 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh85039329 . 
+_:bnode57authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh85039329 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-01-09T16:55:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh85039329 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh85039329 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drama--History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85034149> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4012899-4> . 
+<http://d-nb.info/gnd/4012899-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4012899-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drama"@de . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on criticism of the drama as a literary form. Works on criticism of the drama as presented on the stage are entered under [Dramatic criticism.] Collections of reviews of dramatic performances are entered under [Theater--Reviews.]" . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#example> "Notes under [Dramatic criticism; Theater--Reviews]" . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh85039329 . 
+_:bnode82authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85039329> . 
+_:bnode82authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85039329> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh85039329 . 
+_:bnode90authoritiessubjectssh85039329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85039329> . 
+_:bnode90authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#createdDate> "1987-01-09T16:55:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85039329 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

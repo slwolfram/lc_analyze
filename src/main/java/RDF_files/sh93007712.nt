@@ -1,0 +1,63 @@
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sorghum products"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh93007712 . 
+_:bnode7authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh93007712 . 
+_:bnode7authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh93007712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sorghum products"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#classification> "TP435.S65" . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005003229> . 
+<http://id.loc.gov/authorities/subjects/sh2005003229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005003229> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Millet beer"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh93007712 . 
+_:bnode22authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh93007712 . 
+_:bnode22authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh93007712 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 93007712" . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh93007712> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh93007712#concept> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh93007712 . 
+_:bnode34authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh93007712 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 93-195177: Pushpamma, P. Sorghum as food in the semi-arid tropics, c1993." . 
+_:bnode34authoritiessubjectssh93007712 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode40authoritiessubjectssh93007712 . 
+_:bnode40authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode40authoritiessubjectssh93007712 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-10-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode40authoritiessubjectssh93007712 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode40authoritiessubjectssh93007712 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh93007712 . 
+_:bnode47authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh93007712 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-10-01T10:06:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh93007712 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh93007712 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sorghum products"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005003229> . 
+<http://id.loc.gov/authorities/subjects/sh2005003229> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005003229> <http://www.w3.org/2004/02/skos/core#prefLabel> "Millet beer"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode68authoritiessubjectssh93007712 . 
+_:bnode68authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode68authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93007712> . 
+_:bnode68authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode68authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#createdDate> "1993-10-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode68authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh93007712> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode76authoritiessubjectssh93007712 . 
+_:bnode76authoritiessubjectssh93007712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode76authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93007712> . 
+_:bnode76authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode76authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#createdDate> "2001-10-01T10:06:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode76authoritiessubjectssh93007712 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

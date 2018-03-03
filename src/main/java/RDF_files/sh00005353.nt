@@ -1,0 +1,77 @@
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coated foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00005353 . 
+_:bnode7authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00005353 . 
+_:bnode7authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00005353 <http://www.loc.gov/mads/rdf/v1#elementValue> "Coated foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/426> . 
+<http://lod.nal.usda.gov/nalt/426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/426> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "coated foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh99005861> . 
+<http://id.loc.gov/authorities/subjects/sh99005861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99005861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99005861> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Processed foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh99005861> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh00005353 . 
+_:bnode20authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh00005353 . 
+_:bnode20authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh00005353 <http://www.loc.gov/mads/rdf/v1#elementValue> "Processed foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85040962> . 
+<http://id.loc.gov/authorities/subjects/sh85040962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85040962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85040962> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Edible coatings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85040962> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh00005353 . 
+_:bnode29authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh00005353 . 
+_:bnode29authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh00005353 <http://www.loc.gov/mads/rdf/v1#elementValue> "Edible coatings"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00005353" . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00005353> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00005353#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh00005353 . 
+_:bnode41authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh00005353 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Dodds, A. The European coated foods market, 2000:" . 
+_:bnode41authoritiessubjectssh00005353 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 2 (the coated food products market includes coatings such as batters, breadcrumbs, glazed and film coated products. Foods coated are mainly fish and poultry but also include some red meat products.)"@en . 
+_:bnode41authoritiessubjectssh00005353 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh00005353 . 
+_:bnode49authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-04-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode49authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh00005353 . 
+_:bnode57authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-06-12T14:01:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode57authoritiessubjectssh00005353 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coated foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh99005861> . 
+<http://id.loc.gov/authorities/subjects/sh99005861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99005861> <http://www.w3.org/2004/02/skos/core#prefLabel> "Processed foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85040962> . 
+<http://id.loc.gov/authorities/subjects/sh85040962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85040962> <http://www.w3.org/2004/02/skos/core#prefLabel> "Edible coatings"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/426> . 
+<http://lod.nal.usda.gov/nalt/426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/426> <http://www.w3.org/2004/02/skos/core#prefLabel> "coated foods"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode84authoritiessubjectssh00005353 . 
+_:bnode84authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode84authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00005353> . 
+_:bnode84authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode84authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#createdDate> "2000-04-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00005353> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode92authoritiessubjectssh00005353 . 
+_:bnode92authoritiessubjectssh00005353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode92authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00005353> . 
+_:bnode92authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/uk> . 
+_:bnode92authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#createdDate> "2000-06-12T14:01:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh00005353 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reverse engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh93004214 . 
+_:bnode7authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh93004214 . 
+_:bnode7authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#elementValue> "Reverse engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#classification> "TA168.5" . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85043176> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh93004214 . 
+_:bnode18authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh93004214 . 
+_:bnode18authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#elementValue> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb124305693> . 
+<http://data.bnf.fr/ark:/12148/cb124305693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb124305693> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rétro-ingénierie (informatique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008005322> . 
+<http://id.loc.gov/authorities/subjects/sh2008005322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008005322> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Disassemblers (Computer programs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006006021> . 
+<http://id.loc.gov/authorities/subjects/sh2006006021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006006021> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Decompilers (Computer programs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 93004214" . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh93004214> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh93004214#concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh93004214 . 
+_:bnode42authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 93-135354: Reverse engineering : legal and business strategies for competitive product design in the 1990's, c1992" . 
+_:bnode42authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Reverse-engineer refers to the process by which one analyzes a product or item in order to learn a trade secret associated with that product or item, such as its composition or the process by which it was made.)"@en . 
+_:bnode42authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh93004214 . 
+_:bnode50authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-source> "Engr. index:" . 
+_:bnode50authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-note> "v. 89, Pt. IX, p. 8072, under heading Reverse engineering (also headings for Reverse engineering of software, Reverse data engineering, and Reverse engineering tools)"@en . 
+_:bnode50authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh93004214 . 
+_:bnode58authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-source> "ASTI;Web. 3" . 
+_:bnode58authoritiessubjectssh93004214 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh93004214 . 
+_:bnode64authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh93004214 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-06-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh93004214 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh93004214 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh93004214 . 
+_:bnode71authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh93004214 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-07-19T09:56:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh93004214 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh93004214 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reverse engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85043176> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008005322> . 
+<http://id.loc.gov/authorities/subjects/sh2008005322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008005322> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disassemblers (Computer programs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006006021> . 
+<http://id.loc.gov/authorities/subjects/sh2006006021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006006021> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decompilers (Computer programs)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb124305693> . 
+<http://data.bnf.fr/ark:/12148/cb124305693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb124305693> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rétro-ingénierie (informatique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh93004214 . 
+_:bnode102authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93004214> . 
+_:bnode102authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode102authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#createdDate> "1993-06-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh93004214> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode110authoritiessubjectssh93004214 . 
+_:bnode110authoritiessubjectssh93004214 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode110authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93004214> . 
+_:bnode110authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode110authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#createdDate> "1993-07-19T09:56:32"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode110authoritiessubjectssh93004214 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

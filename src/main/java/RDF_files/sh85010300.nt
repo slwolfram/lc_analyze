@@ -1,0 +1,125 @@
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Motors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85010300 . 
+_:bnode7authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+_:bnode7authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85010300 . 
+_:bnode12authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85010300 . 
+_:bnode12authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006090> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00006090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006090> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motors"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006090> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85010300 . 
+_:bnode20authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85010300 . 
+_:bnode20authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85010300 . 
+_:bnode24authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Automobile engines"@en . 
+_:bnode24authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85010300 . 
+_:bnode29authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85010300 . 
+_:bnode29authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobile engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#classification> "TL210" . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010347> . 
+<http://id.loc.gov/authorities/subjects/sh85010347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85010347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010347> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Power trains"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010347> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode40authoritiessubjectssh85010300 . 
+_:bnode40authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh85010300 . 
+_:bnode40authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode048 . 
+_:bnode41authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode41authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode41authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+_:bnode41authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85010300 . 
+_:bnode45authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85010300 . 
+_:bnode45authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+_:bnode048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85010300 . 
+_:bnode048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode49authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode49authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Power trains"@en . 
+_:bnode49authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85010300 . 
+_:bnode53authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85010300 . 
+_:bnode53authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Power trains"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85067314> . 
+<http://id.loc.gov/authorities/subjects/sh85067314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85067314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85067314> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Internal combustion engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85067314> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode62authoritiessubjectssh85010300 . 
+_:bnode62authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode63authoritiessubjectssh85010300 . 
+_:bnode62authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode63authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode63authoritiessubjectssh85010300 <http://www.loc.gov/mads/rdf/v1#elementValue> "Internal combustion engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4127798-3> . 
+<http://d-nb.info/gnd/4127798-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4127798-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kraftfahrzeugmotor"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052224> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fuel pumps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11941320c> . 
+<http://data.bnf.fr/ark:/12148/cb11941320c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11941320c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles -- Moteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010454> . 
+<http://id.loc.gov/authorities/subjects/sh85010454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010454> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automotive gas turbines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Motors]" . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85010300" . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85010300> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85010300#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode91authoritiessubjectssh85010300 . 
+_:bnode91authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode91authoritiessubjectssh85010300 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiessubjectssh85010300 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode91authoritiessubjectssh85010300 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Motors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode101authoritiessubjectssh85010300 . 
+_:bnode101authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode101authoritiessubjectssh85010300 <http://www.w3.org/2008/05/skos-xl#literalForm> "Automobile engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#altLabel> "Automobile engines" . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010347> . 
+<http://id.loc.gov/authorities/subjects/sh85010347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Power trains"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85067314> . 
+<http://id.loc.gov/authorities/subjects/sh85067314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85067314> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internal combustion engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052224> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fuel pumps"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010454> . 
+<http://id.loc.gov/authorities/subjects/sh85010454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010454> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automotive gas turbines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4127798-3> . 
+<http://d-nb.info/gnd/4127798-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4127798-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kraftfahrzeugmotor"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11941320c> . 
+<http://data.bnf.fr/ark:/12148/cb11941320c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11941320c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles -- Moteurs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#example> "Example under [Motors]" . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2008/05/skos-xl#altLabel> "Automobile engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010300> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode143authoritiessubjectssh85010300 . 
+_:bnode143authoritiessubjectssh85010300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode143authoritiessubjectssh85010300 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010300> . 
+_:bnode143authoritiessubjectssh85010300 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode143authoritiessubjectssh85010300 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode143authoritiessubjectssh85010300 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

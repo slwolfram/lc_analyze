@@ -1,0 +1,108 @@
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetic translation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85053874 . 
+_:bnode7authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85053874 . 
+_:bnode7authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85053874 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetic translation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85053874 . 
+_:bnode11authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85053874 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Translation (Genetics)"@en . 
+_:bnode11authoritiessubjectssh85053874 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85053874 . 
+_:bnode16authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85053874 . 
+_:bnode16authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85053874 <http://www.loc.gov/mads/rdf/v1#elementValue> "Translation (Genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#classification> "QH450.5" . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053852> . 
+<http://id.loc.gov/authorities/subjects/sh85053852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053852> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetic code"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053852> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85053874 . 
+_:bnode27authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85053874 . 
+_:bnode27authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85053874 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetic code"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005292> . 
+<http://id.loc.gov/authorities/subjects/sh88005292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005292> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Post-translational modification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4185909-1> . 
+<http://d-nb.info/gnd/4185909-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4185909-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Translation <Genetik>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/53244> . 
+<http://lod.nal.usda.gov/nalt/53244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/53244> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "translation (genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053870> . 
+<http://id.loc.gov/authorities/subjects/sh85053870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053870> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genetic regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053870> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85053874 . 
+_:bnode48authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85053874 . 
+_:bnode48authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85053874 <http://www.loc.gov/mads/rdf/v1#elementValue> "Genetic regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85092360> . 
+<http://id.loc.gov/authorities/subjects/sh85092360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85092360> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nonsense suppression (Genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119623937> . 
+<http://data.bnf.fr/ark:/12148/cb119623937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119623937> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Traduction génétique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85053874" . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85053874> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85053874#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh85053874 . 
+_:bnode67authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh85053874 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85053874 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh85053874 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode74authoritiessubjectssh85053874 . 
+_:bnode74authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode74authoritiessubjectssh85053874 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-01-14T16:53:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh85053874 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode74authoritiessubjectssh85053874 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetic translation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode84authoritiessubjectssh85053874 . 
+_:bnode84authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode84authoritiessubjectssh85053874 <http://www.w3.org/2008/05/skos-xl#literalForm> "Translation (Genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#altLabel> "Translation (Genetics)" . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053852> . 
+<http://id.loc.gov/authorities/subjects/sh85053852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053852> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetic code"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053870> . 
+<http://id.loc.gov/authorities/subjects/sh85053870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genetic regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005292> . 
+<http://id.loc.gov/authorities/subjects/sh88005292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005292> <http://www.w3.org/2004/02/skos/core#prefLabel> "Post-translational modification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85092360> . 
+<http://id.loc.gov/authorities/subjects/sh85092360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85092360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nonsense suppression (Genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4185909-1> . 
+<http://d-nb.info/gnd/4185909-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4185909-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Translation <Genetik>"@de . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/53244> . 
+<http://lod.nal.usda.gov/nalt/53244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/53244> <http://www.w3.org/2004/02/skos/core#prefLabel> "translation (genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119623937> . 
+<http://data.bnf.fr/ark:/12148/cb119623937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119623937> <http://www.w3.org/2004/02/skos/core#prefLabel> "Traduction génétique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2008/05/skos-xl#altLabel> "Translation (Genetics)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode129authoritiessubjectssh85053874 . 
+_:bnode129authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode129authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053874> . 
+_:bnode129authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode129authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode129authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85053874> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode137authoritiessubjectssh85053874 . 
+_:bnode137authoritiessubjectssh85053874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode137authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85053874> . 
+_:bnode137authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode137authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#createdDate> "1988-01-14T16:53:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode137authoritiessubjectssh85053874 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

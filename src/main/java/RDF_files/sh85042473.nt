@@ -1,0 +1,128 @@
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Elegiac poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85042473 . 
+_:bnode7authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85042473 . 
+_:bnode7authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Elegiac poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85042473 . 
+_:bnode11authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Elegies"@en . 
+_:bnode11authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85042473 . 
+_:bnode16authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85042473 . 
+_:bnode16authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Elegies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85042473 . 
+_:bnode20authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Lamentations"@en . 
+_:bnode20authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85042473 . 
+_:bnode25authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85042473 . 
+_:bnode25authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lamentations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#classification> "PN1389" . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11934307p> . 
+<http://data.bnf.fr/ark:/12148/cb11934307p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11934307p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Élégies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013000315> . 
+<http://id.loc.gov/authorities/subjects/sh2013000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013000315> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pastoral elegies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11974163f> . 
+<http://data.bnf.fr/ark:/12148/cb11974163f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11974163f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jérusalem -- Mur des lamentations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb16178959p> . 
+<http://data.bnf.fr/ark:/12148/cb16178959p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb16178959p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Relation avec les Lamentations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85079180> . 
+<http://id.loc.gov/authorities/subjects/sh85079180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85079180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079180> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lyric poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85079180> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85042473 . 
+_:bnode52authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85042473 . 
+_:bnode52authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lyric poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4151713-1> . 
+<http://d-nb.info/gnd/4151713-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4151713-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Elegie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85103704> . 
+<http://id.loc.gov/authorities/subjects/sh85103704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103704> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103704> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode65authoritiessubjectssh85042473 . 
+_:bnode65authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode66authoritiessubjectssh85042473 . 
+_:bnode65authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode66authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode66authoritiessubjectssh85042473 <http://www.loc.gov/mads/rdf/v1#elementValue> "Poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85074196> . 
+<http://id.loc.gov/authorities/subjects/sh85074196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074196> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Laments"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85042473" . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85042473> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85042473#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh85042473 . 
+_:bnode80authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh85042473 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85042473 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh85042473 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode87authoritiessubjectssh85042473 . 
+_:bnode87authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode87authoritiessubjectssh85042473 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-07-15T16:58:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85042473 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode87authoritiessubjectssh85042473 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elegiac poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode97authoritiessubjectssh85042473 . 
+_:bnode97authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode97authoritiessubjectssh85042473 <http://www.w3.org/2008/05/skos-xl#literalForm> "Elegies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#altLabel> "Elegies" . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode104authoritiessubjectssh85042473 . 
+_:bnode104authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode104authoritiessubjectssh85042473 <http://www.w3.org/2008/05/skos-xl#literalForm> "Lamentations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#altLabel> "Lamentations" . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85079180> . 
+<http://id.loc.gov/authorities/subjects/sh85079180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079180> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lyric poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85103704> . 
+<http://id.loc.gov/authorities/subjects/sh85103704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103704> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013000315> . 
+<http://id.loc.gov/authorities/subjects/sh2013000315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013000315> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pastoral elegies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85074196> . 
+<http://id.loc.gov/authorities/subjects/sh85074196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074196> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laments"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11934307p> . 
+<http://data.bnf.fr/ark:/12148/cb11934307p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11934307p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Élégies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11974163f> . 
+<http://data.bnf.fr/ark:/12148/cb11974163f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11974163f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jérusalem -- Mur des lamentations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb16178959p> . 
+<http://data.bnf.fr/ark:/12148/cb16178959p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb16178959p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Relation avec les Lamentations"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4151713-1> . 
+<http://d-nb.info/gnd/4151713-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4151713-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elegie"@de . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2008/05/skos-xl#altLabel> "Elegies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2008/05/skos-xl#altLabel> "Lamentations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode156authoritiessubjectssh85042473 . 
+_:bnode156authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode156authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042473> . 
+_:bnode156authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode156authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode156authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85042473> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode164authoritiessubjectssh85042473 . 
+_:bnode164authoritiessubjectssh85042473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode164authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042473> . 
+_:bnode164authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode164authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#createdDate> "1996-07-15T16:58:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode164authoritiessubjectssh85042473 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

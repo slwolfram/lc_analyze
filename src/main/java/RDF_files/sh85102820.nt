@@ -1,0 +1,237 @@
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85102820 . 
+_:bnode7authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85102820 . 
+_:bnode7authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85102820 . 
+_:bnode11authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Phytopathogenic viruses"@en . 
+_:bnode11authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85102820 . 
+_:bnode16authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85102820 . 
+_:bnode16authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phytopathogenic viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85102820 . 
+_:bnode20authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Plant virology"@en . 
+_:bnode20authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85102820 . 
+_:bnode25authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85102820 . 
+_:bnode25authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant virology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#classification> "QR351" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/58572> . 
+<http://lod.nal.usda.gov/nalt/58572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/58572> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "plant viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002842> . 
+<http://id.loc.gov/authorities/subjects/sh2007002842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002842> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Potexviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2002006452> . 
+<http://id.loc.gov/authorities/subjects/sh2002006452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006452> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006452> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85102820 . 
+_:bnode44authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85102820 . 
+_:bnode44authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementValue> "Viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4174074-9> . 
+<http://d-nb.info/gnd/4174074-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4174074-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pflanzenviren"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002906> . 
+<http://id.loc.gov/authorities/subjects/sh2007002906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002906> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geminiviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002895> . 
+<http://id.loc.gov/authorities/subjects/sh2007002895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002895> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Luteoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002844> . 
+<http://id.loc.gov/authorities/subjects/sh2007002844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002844> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tobamoviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85143828> . 
+<http://id.loc.gov/authorities/subjects/sh85143828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85143828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143828> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Virus diseases of plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85143828> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode69authoritiessubjectssh85102820 . 
+_:bnode69authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode70authoritiessubjectssh85102820 . 
+_:bnode69authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode70authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode70authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementValue> "Virus diseases of plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002845> . 
+<http://id.loc.gov/authorities/subjects/sh2007002845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002845> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Carlaviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002916> . 
+<http://id.loc.gov/authorities/subjects/sh2007002916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002916> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Potyviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002009419> . 
+<http://id.loc.gov/authorities/subjects/sh2002009419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002009419> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Comoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002920> . 
+<http://id.loc.gov/authorities/subjects/sh2007002920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002920> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tobraviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002926> . 
+<http://id.loc.gov/authorities/subjects/sh2007002926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002926> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Closteroviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002973> . 
+<http://id.loc.gov/authorities/subjects/sh2007002973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002973> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tombusviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85084747> . 
+<http://id.loc.gov/authorities/subjects/sh85084747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084747> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phytopathogenic microorganisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084747> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode102authoritiessubjectssh85102820 . 
+_:bnode102authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode103authoritiessubjectssh85102820 . 
+_:bnode102authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode103authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode103authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#elementValue> "Phytopathogenic microorganisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002839> . 
+<http://id.loc.gov/authorities/subjects/sh2007002839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002839> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hordeiviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008008674> . 
+<http://id.loc.gov/authorities/subjects/sh2008008674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008008674> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tenuiviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11962592f> . 
+<http://data.bnf.fr/ark:/12148/cb11962592f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11962592f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Phytovirus"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052432> . 
+<http://id.loc.gov/authorities/subjects/sh85052432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052432> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fungal viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002831> . 
+<http://id.loc.gov/authorities/subjects/sh2007002831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002831> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mosaic viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005000076> . 
+<http://id.loc.gov/authorities/subjects/sh2005000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005000076> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tymoviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004003306> . 
+<http://id.loc.gov/authorities/subjects/sh2004003306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004003306> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bromoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002925> . 
+<http://id.loc.gov/authorities/subjects/sh2007002925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002925> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sequiviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002891> . 
+<http://id.loc.gov/authorities/subjects/sh2007002891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002891> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Caulimoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Viruses] under individual plants and groups of plants, e.g. [Corn--Viruses]" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85102820" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85102820> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85102820#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode152authoritiessubjectssh85102820 . 
+_:bnode152authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode152authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#citation-source> "Bojnansky, V. Dict. plant virology, 1991." . 
+_:bnode152authoritiessubjectssh85102820 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode158authoritiessubjectssh85102820 . 
+_:bnode158authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode158authoritiessubjectssh85102820 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode158authoritiessubjectssh85102820 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode158authoritiessubjectssh85102820 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode165authoritiessubjectssh85102820 . 
+_:bnode165authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode165authoritiessubjectssh85102820 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-09-18T07:58:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode165authoritiessubjectssh85102820 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode165authoritiessubjectssh85102820 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode175authoritiessubjectssh85102820 . 
+_:bnode175authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode175authoritiessubjectssh85102820 <http://www.w3.org/2008/05/skos-xl#literalForm> "Phytopathogenic viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#altLabel> "Phytopathogenic viruses" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode182authoritiessubjectssh85102820 . 
+_:bnode182authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode182authoritiessubjectssh85102820 <http://www.w3.org/2008/05/skos-xl#literalForm> "Plant virology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#altLabel> "Plant virology" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2002006452> . 
+<http://id.loc.gov/authorities/subjects/sh2002006452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002006452> <http://www.w3.org/2004/02/skos/core#prefLabel> "Viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85084747> . 
+<http://id.loc.gov/authorities/subjects/sh85084747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084747> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phytopathogenic microorganisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002842> . 
+<http://id.loc.gov/authorities/subjects/sh2007002842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002842> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potexviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002906> . 
+<http://id.loc.gov/authorities/subjects/sh2007002906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002906> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geminiviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002895> . 
+<http://id.loc.gov/authorities/subjects/sh2007002895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luteoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002844> . 
+<http://id.loc.gov/authorities/subjects/sh2007002844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002844> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tobamoviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002845> . 
+<http://id.loc.gov/authorities/subjects/sh2007002845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carlaviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002916> . 
+<http://id.loc.gov/authorities/subjects/sh2007002916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002916> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potyviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002009419> . 
+<http://id.loc.gov/authorities/subjects/sh2002009419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002009419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002920> . 
+<http://id.loc.gov/authorities/subjects/sh2007002920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tobraviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002926> . 
+<http://id.loc.gov/authorities/subjects/sh2007002926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002926> <http://www.w3.org/2004/02/skos/core#prefLabel> "Closteroviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002973> . 
+<http://id.loc.gov/authorities/subjects/sh2007002973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002973> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tombusviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002839> . 
+<http://id.loc.gov/authorities/subjects/sh2007002839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hordeiviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008008674> . 
+<http://id.loc.gov/authorities/subjects/sh2008008674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008008674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tenuiviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052432> . 
+<http://id.loc.gov/authorities/subjects/sh85052432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fungal viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002831> . 
+<http://id.loc.gov/authorities/subjects/sh2007002831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002831> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mosaic viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005000076> . 
+<http://id.loc.gov/authorities/subjects/sh2005000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005000076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tymoviruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004003306> . 
+<http://id.loc.gov/authorities/subjects/sh2004003306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004003306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bromoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002925> . 
+<http://id.loc.gov/authorities/subjects/sh2007002925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sequiviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002891> . 
+<http://id.loc.gov/authorities/subjects/sh2007002891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002891> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caulimoviridae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85143828> . 
+<http://id.loc.gov/authorities/subjects/sh85143828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143828> <http://www.w3.org/2004/02/skos/core#prefLabel> "Virus diseases of plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/58572> . 
+<http://lod.nal.usda.gov/nalt/58572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/58572> <http://www.w3.org/2004/02/skos/core#prefLabel> "plant viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4174074-9> . 
+<http://d-nb.info/gnd/4174074-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4174074-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzenviren"@de . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11962592f> . 
+<http://data.bnf.fr/ark:/12148/cb11962592f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11962592f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phytovirus"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Viruses] under individual plants and groups of plants, e.g. [Corn--Viruses]" . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2008/05/skos-xl#altLabel> "Phytopathogenic viruses"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2008/05/skos-xl#altLabel> "Plant virology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode316authoritiessubjectssh85102820 . 
+_:bnode316authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode316authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102820> . 
+_:bnode316authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode316authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode316authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85102820> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode324authoritiessubjectssh85102820 . 
+_:bnode324authoritiessubjectssh85102820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode324authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102820> . 
+_:bnode324authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode324authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#createdDate> "2009-09-18T07:58:22"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode324authoritiessubjectssh85102820 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

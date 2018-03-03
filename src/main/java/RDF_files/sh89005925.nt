@@ -1,0 +1,77 @@
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brycinus"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh89005925 . 
+_:bnode7authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh89005925 . 
+_:bnode7authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#elementValue> "Brycinus"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#classification> "QL638.C5" . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4393785-8> . 
+<http://d-nb.info/gnd/4393785-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4393785-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brycinus"@de . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85022613> . 
+<http://id.loc.gov/authorities/subjects/sh85022613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85022613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022613> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Characidae"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022613> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh89005925 . 
+_:bnode22authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh89005925 . 
+_:bnode22authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#elementValue> "Characidae"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 89005925" . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh89005925> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh89005925#concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh89005925 . 
+_:bnode34authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Paugy, D. Révision systématique des Alestes et Brycinus africains (Pisces, Characidae)" . 
+_:bnode34authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh89005925 . 
+_:bnode40authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-source> "Syn. liv. org.:" . 
+_:bnode40authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-note> "v. 2, p. 874."@en . 
+_:bnode40authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh89005925 . 
+_:bnode48authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-source> "Sterba, S. Fische der Welt:" . 
+_:bnode48authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 190."@en . 
+_:bnode48authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh89005925 . 
+_:bnode56authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3;Amer. fish. soc.;Lindberg. Fishes of the world;Migdalski. Fresh & saltwater fishes of the world;Moyle. Fishes" . 
+_:bnode56authoritiessubjectssh89005925 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh89005925 . 
+_:bnode62authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh89005925 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-10-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh89005925 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh89005925 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh89005925 . 
+_:bnode69authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh89005925 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-11-27T07:48:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh89005925 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh89005925 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brycinus"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85022613> . 
+<http://id.loc.gov/authorities/subjects/sh85022613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022613> <http://www.w3.org/2004/02/skos/core#prefLabel> "Characidae"@en . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4393785-8> . 
+<http://d-nb.info/gnd/4393785-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4393785-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brycinus"@de . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh89005925 . 
+_:bnode90authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89005925> . 
+_:bnode90authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#createdDate> "1989-10-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh89005925> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh89005925 . 
+_:bnode98authoritiessubjectssh89005925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89005925> . 
+_:bnode98authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#createdDate> "1989-11-27T07:48:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh89005925 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,62 @@
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish art objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98001360 . 
+_:bnode7authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98001360 . 
+_:bnode7authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98001360 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jewish art objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12049879x> . 
+<http://data.bnf.fr/ark:/12148/cb12049879x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12049879x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Objets d'art juifs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85008034> . 
+<http://id.loc.gov/authorities/subjects/sh85008034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85008034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008034> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Art objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85008034> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh98001360 . 
+_:bnode20authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh98001360 . 
+_:bnode20authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh98001360 <http://www.loc.gov/mads/rdf/v1#elementValue> "Art objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98001360" . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98001360> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98001360#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh98001360 . 
+_:bnode32authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh98001360 <http://www.loc.gov/mads/rdf/v1#citation-source> "The catalogue of original Judaic treasures from the collections of the Jewish Museum in Prague, 199-." . 
+_:bnode32authoritiessubjectssh98001360 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode38authoritiessubjectssh98001360 . 
+_:bnode38authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode38authoritiessubjectssh98001360 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-03-06T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode38authoritiessubjectssh98001360 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode38authoritiessubjectssh98001360 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ukcu> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode45authoritiessubjectssh98001360 . 
+_:bnode45authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode45authoritiessubjectssh98001360 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-04-16T14:27:04"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode45authoritiessubjectssh98001360 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode45authoritiessubjectssh98001360 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ukcu> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish art objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85008034> . 
+<http://id.loc.gov/authorities/subjects/sh85008034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008034> <http://www.w3.org/2004/02/skos/core#prefLabel> "Art objects"@en . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12049879x> . 
+<http://data.bnf.fr/ark:/12148/cb12049879x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12049879x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Objets d'art juifs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode66authoritiessubjectssh98001360 . 
+_:bnode66authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode66authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98001360> . 
+_:bnode66authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ukcu> . 
+_:bnode66authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#createdDate> "1998-03-06T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98001360> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode74authoritiessubjectssh98001360 . 
+_:bnode74authoritiessubjectssh98001360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode74authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98001360> . 
+_:bnode74authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ukcu> . 
+_:bnode74authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#createdDate> "1998-04-16T14:27:04"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh98001360 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

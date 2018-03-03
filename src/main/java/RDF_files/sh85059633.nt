@@ -1,0 +1,172 @@
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85059633 . 
+_:bnode7authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85059633 . 
+_:bnode7authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85059633 <http://www.loc.gov/mads/rdf/v1#elementValue> "Heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#classification> "QP111-QP114" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85020226> . 
+<http://id.loc.gov/authorities/subjects/sh85020226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85020226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020226> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cardiovascular system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85020226> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh85059633 . 
+_:bnode18authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh85059633 . 
+_:bnode18authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh85059633 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cardiovascular system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/9341> . 
+<http://lod.nal.usda.gov/nalt/9341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/9341> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006938> . 
+<http://id.loc.gov/authorities/subjects/sh86006938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006938> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cardiac receptors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119440955> . 
+<http://data.bnf.fr/ark:/12148/cb119440955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119440955> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coeur"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93009192> . 
+<http://id.loc.gov/authorities/subjects/sh93009192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93009192> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Endocardium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059740> . 
+<http://id.loc.gov/authorities/subjects/sh85059740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059740> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heart atrium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85023136> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chest"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85059633 . 
+_:bnode47authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85059633 . 
+_:bnode47authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85059633 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chest"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh89000797> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cardiopulmonary system"@en . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85059633 . 
+_:bnode56authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85059633 . 
+_:bnode56authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85059633 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cardiopulmonary system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020207> . 
+<http://id.loc.gov/authorities/subjects/sh85020207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020207> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cardiography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059743> . 
+<http://id.loc.gov/authorities/subjects/sh85059743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059743> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heart conduction system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047946> . 
+<http://id.loc.gov/authorities/subjects/sh85047946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047946> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fetal heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059694> . 
+<http://id.loc.gov/authorities/subjects/sh85059694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059694> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Myocardium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059750> . 
+<http://id.loc.gov/authorities/subjects/sh85059750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059750> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heart septum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099851> . 
+<http://id.loc.gov/authorities/subjects/sh85099851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099851> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pericardium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109028> . 
+<http://id.loc.gov/authorities/subjects/sh85109028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109028> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulse"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/2505> . 
+<http://purl.org/bncf/tid/2505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/2505> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cuore"@it . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4024632-2> . 
+<http://d-nb.info/gnd/4024632-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4024632-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Herz"@de . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85059727> . 
+<http://id.loc.gov/authorities/subjects/sh85059727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059727> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heart valves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Viscera]" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Embryology, Human]" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings beginning with the words [Cardiac] or [Cardiogenic]" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85059633" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85059633> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85059633#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode113authoritiessubjectssh85059633 . 
+_:bnode113authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode113authoritiessubjectssh85059633 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode113authoritiessubjectssh85059633 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode113authoritiessubjectssh85059633 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode120authoritiessubjectssh85059633 . 
+_:bnode120authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode120authoritiessubjectssh85059633 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-03-21T13:30:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh85059633 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode120authoritiessubjectssh85059633 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85020226> . 
+<http://id.loc.gov/authorities/subjects/sh85020226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020226> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cardiovascular system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85023136> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023136> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chest"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh89000797> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89000797> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cardiopulmonary system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006938> . 
+<http://id.loc.gov/authorities/subjects/sh86006938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006938> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cardiac receptors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93009192> . 
+<http://id.loc.gov/authorities/subjects/sh93009192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93009192> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endocardium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059740> . 
+<http://id.loc.gov/authorities/subjects/sh85059740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heart atrium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020207> . 
+<http://id.loc.gov/authorities/subjects/sh85020207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020207> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cardiography"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059743> . 
+<http://id.loc.gov/authorities/subjects/sh85059743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059743> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heart conduction system"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047946> . 
+<http://id.loc.gov/authorities/subjects/sh85047946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047946> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fetal heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059694> . 
+<http://id.loc.gov/authorities/subjects/sh85059694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059694> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myocardium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059750> . 
+<http://id.loc.gov/authorities/subjects/sh85059750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059750> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heart septum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099851> . 
+<http://id.loc.gov/authorities/subjects/sh85099851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099851> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pericardium"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109028> . 
+<http://id.loc.gov/authorities/subjects/sh85109028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109028> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulse"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85059727> . 
+<http://id.loc.gov/authorities/subjects/sh85059727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059727> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heart valves"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/9341> . 
+<http://lod.nal.usda.gov/nalt/9341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/9341> <http://www.w3.org/2004/02/skos/core#prefLabel> "heart"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119440955> . 
+<http://data.bnf.fr/ark:/12148/cb119440955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119440955> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coeur"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/2505> . 
+<http://purl.org/bncf/tid/2505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/2505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuore"@it . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4024632-2> . 
+<http://d-nb.info/gnd/4024632-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4024632-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Herz"@de . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#editorial> "headings beginning with the words [Cardiac] or [Cardiogenic]" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#example> "Example under [Viscera]" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#example> "Note under [Embryology, Human]" . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode227authoritiessubjectssh85059633 . 
+_:bnode227authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode227authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85059633> . 
+_:bnode227authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode227authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode227authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85059633> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode235authoritiessubjectssh85059633 . 
+_:bnode235authoritiessubjectssh85059633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode235authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85059633> . 
+_:bnode235authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode235authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#createdDate> "1989-03-21T13:30:54"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode235authoritiessubjectssh85059633 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,84 @@
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transportation agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2002008967 . 
+_:bnode7authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2002008967 . 
+_:bnode7authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#elementValue> "Transportation agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060773> . 
+<http://id.loc.gov/authorities/subjects/sh85060773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060773> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Highway departments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007003191> . 
+<http://id.loc.gov/authorities/subjects/sh2007003191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007003191> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "State transportation agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93004225> . 
+<http://id.loc.gov/authorities/subjects/sh93004225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004225> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airport authorities"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85000901> . 
+<http://id.loc.gov/authorities/subjects/sh85000901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85000901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000901> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Administrative agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000901> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh2002008967 . 
+_:bnode28authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh2002008967 . 
+_:bnode28authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#elementValue> "Administrative agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2002008967" . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2002008967> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2002008967#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh2002008967 . 
+_:bnode40authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Impact of new information and communication technologies on transportation agencies, 2001." . 
+_:bnode40authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode46authoritiessubjectssh2002008967 . 
+_:bnode46authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode46authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#citation-source> "RILN, Mar.5, 2002." . 
+_:bnode46authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode52authoritiessubjectssh2002008967 . 
+_:bnode52authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode52authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#citation-source> "Ovid's Wilson soc. sci. abstr., 1967-98." . 
+_:bnode52authoritiessubjectssh2002008967 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh2002008967 . 
+_:bnode58authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-07-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/njr> . 
+_:bnode58authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh2002008967 . 
+_:bnode66authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-03-09T11:08:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/njr> . 
+_:bnode66authoritiessubjectssh2002008967 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transportation agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85000901> . 
+<http://id.loc.gov/authorities/subjects/sh85000901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Administrative agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060773> . 
+<http://id.loc.gov/authorities/subjects/sh85060773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060773> <http://www.w3.org/2004/02/skos/core#prefLabel> "Highway departments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007003191> . 
+<http://id.loc.gov/authorities/subjects/sh2007003191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007003191> <http://www.w3.org/2004/02/skos/core#prefLabel> "State transportation agencies"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93004225> . 
+<http://id.loc.gov/authorities/subjects/sh93004225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004225> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airport authorities"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh2002008967 . 
+_:bnode98authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002008967> . 
+_:bnode98authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/njr> . 
+_:bnode98authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#createdDate> "2002-07-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2002008967> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode106authoritiessubjectssh2002008967 . 
+_:bnode106authoritiessubjectssh2002008967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode106authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002008967> . 
+_:bnode106authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/njr> . 
+_:bnode106authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#createdDate> "2006-03-09T11:08:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh2002008967 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,89 @@
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Choral singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85024700 . 
+_:bnode7authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85024700 . 
+_:bnode7authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85024700 <http://www.loc.gov/mads/rdf/v1#elementValue> "Choral singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#classification> "MT875" . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85108114> . 
+<http://id.loc.gov/authorities/subjects/sh85108114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108114> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psalmody"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95002835> . 
+<http://id.loc.gov/authorities/subjects/sh95002835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95002835> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Caroling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85122827> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode26authoritiessubjectssh85024700 . 
+_:bnode26authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode27authoritiessubjectssh85024700 . 
+_:bnode26authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode27authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode27authoritiessubjectssh85024700 <http://www.loc.gov/mads/rdf/v1#elementValue> "Singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4147898-8> . 
+<http://d-nb.info/gnd/4147898-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4147898-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chorgesang"@de . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119453868> . 
+<http://data.bnf.fr/ark:/12148/cb119453868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119453868> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chant choral"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007733> . 
+<http://id.loc.gov/authorities/subjects/sh88007733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007733> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shape-note singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011800> . 
+<http://id.loc.gov/authorities/subjects/sh85011800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Barbershop singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85024700" . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85024700> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85024700#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85024700 . 
+_:bnode54authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85024700 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85024700 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85024700 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh85024700 . 
+_:bnode61authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh85024700 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-08-10T13:19:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh85024700 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh85024700 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#prefLabel> "Choral singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85122827> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85122827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85108114> . 
+<http://id.loc.gov/authorities/subjects/sh85108114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108114> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psalmody"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95002835> . 
+<http://id.loc.gov/authorities/subjects/sh95002835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95002835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caroling"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007733> . 
+<http://id.loc.gov/authorities/subjects/sh88007733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007733> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shape-note singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011800> . 
+<http://id.loc.gov/authorities/subjects/sh85011800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barbershop singing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4147898-8> . 
+<http://d-nb.info/gnd/4147898-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4147898-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chorgesang"@de . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119453868> . 
+<http://data.bnf.fr/ark:/12148/cb119453868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119453868> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chant choral"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh85024700 . 
+_:bnode107authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85024700> . 
+_:bnode107authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode107authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85024700> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh85024700 . 
+_:bnode115authoritiessubjectssh85024700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85024700> . 
+_:bnode115authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode115authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#createdDate> "1998-08-10T13:19:44"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh85024700 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,74 @@
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pilates method"@en . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98007568 . 
+_:bnode7authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98007568 . 
+_:bnode7authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#elementValue> "Pilates method"@en . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#classification> "RA781.4" . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00005703> . 
+<http://id.loc.gov/authorities/subjects/sh00005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005703> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Exercise"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005703> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh98007568 . 
+_:bnode18authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh98007568 . 
+_:bnode18authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#elementValue> "Exercise"@en . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb150562137> . 
+<http://data.bnf.fr/ark:/12148/cb150562137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb150562137> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Méthode Pilates"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98007568" . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98007568> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98007568#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh98007568 . 
+_:bnode34authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-source> "Working out the Pilates way, c1992:" . 
+_:bnode34authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-note> "description on cassette container (The Pilates method is a condition program that improves muscle control, flexibility, coordination, strength and tone)"@en . 
+_:bnode34authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh98007568 . 
+_:bnode42authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-source> "RLIN, Nov. 3, 1998" . 
+_:bnode42authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Pilates method; local NYPL subject hdg.)"@en . 
+_:bnode42authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh98007568 . 
+_:bnode50authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-source> "New York Times article, Nov. 3, 1998:" . 
+_:bnode50authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-note> "Sect. F, p. 9, \"Learning Pilates, one stretch at a time\" (the exercise method was invented by a man, Joseph Pilates, a boxer and physical therapist from Germany. Obsessed with body conditioning, he developed the framework ... while serving as a nurse during World War I. ... He opened the first Pilates Studio in the United States in New York City in 1926)"@en . 
+_:bnode50authoritiessubjectssh98007568 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh98007568 . 
+_:bnode58authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh98007568 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-11-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh98007568 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh98007568 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh98007568 . 
+_:bnode65authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh98007568 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-03-26T08:23:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh98007568 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh98007568 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pilates method"@en . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00005703> . 
+<http://id.loc.gov/authorities/subjects/sh00005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Exercise"@en . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb150562137> . 
+<http://data.bnf.fr/ark:/12148/cb150562137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb150562137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Méthode Pilates"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh98007568 . 
+_:bnode86authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98007568> . 
+_:bnode86authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+_:bnode86authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#createdDate> "1998-11-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98007568> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh98007568 . 
+_:bnode94authoritiessubjectssh98007568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98007568> . 
+_:bnode94authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nnc> . 
+_:bnode94authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#createdDate> "2004-03-26T08:23:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh98007568 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

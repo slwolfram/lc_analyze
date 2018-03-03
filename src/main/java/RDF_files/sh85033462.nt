@@ -1,0 +1,131 @@
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Country life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85033462 . 
+_:bnode7authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85033462 . 
+_:bnode7authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85033462 <http://www.loc.gov/mads/rdf/v1#elementValue> "Country life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85033462 . 
+_:bnode11authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85033462 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Rural life"@en . 
+_:bnode11authoritiessubjectssh85033462 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85033462 . 
+_:bnode16authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85033462 . 
+_:bnode16authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85033462 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rural life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#classification> "GT3470-GT3471" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85080593> . 
+<http://id.loc.gov/authorities/subjects/sh85080593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080593> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manners and customs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080593> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85033462 . 
+_:bnode27authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85033462 . 
+_:bnode27authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85033462 <http://www.loc.gov/mads/rdf/v1#elementValue> "Manners and customs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85087783> . 
+<http://id.loc.gov/authorities/subjects/sh85087783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087783> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mountain life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85047218> . 
+<http://id.loc.gov/authorities/subjects/sh85047218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047218> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Farm life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098332> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Part-time farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098584> . 
+<http://id.loc.gov/authorities/subjects/sh85098584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098584> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pastoral poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102824> . 
+<http://id.loc.gov/authorities/subjects/sh85102824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102824> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plantation life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061681> . 
+<http://id.loc.gov/authorities/subjects/sh85061681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061681> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Home economics, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119346452> . 
+<http://data.bnf.fr/ark:/12148/cb119346452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119346452> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vie rurale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4034309-1> . 
+<http://d-nb.info/gnd/4034309-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4034309-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Landleben"@de . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13554022r> . 
+<http://data.bnf.fr/ark:/12148/cb13554022r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13554022r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Country life (périodique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4144143-6> . 
+<http://d-nb.info/gnd/4144143-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4144143-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bauernleben"@de . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered popular works on living in the country and works on manners and customs in rural areas. Popular works on farms and works on manners and customs on farms are entered under [Farm life.] Theoretical works on the social organization of rural areas are entered under [Sociology, Rural.] Works on the social conditions of rural areas are entered under [Rural conditions.]" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Notes under [Farm life; Rural conditions; Sociology, Rural]" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85033462" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85033462> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85033462#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85033462 . 
+_:bnode83authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85033462 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85033462 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85033462 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode90authoritiessubjectssh85033462 . 
+_:bnode90authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode90authoritiessubjectssh85033462 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-07-03T14:30:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85033462 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode90authoritiessubjectssh85033462 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Country life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode100authoritiessubjectssh85033462 . 
+_:bnode100authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode100authoritiessubjectssh85033462 <http://www.w3.org/2008/05/skos-xl#literalForm> "Rural life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#altLabel> "Rural life" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85080593> . 
+<http://id.loc.gov/authorities/subjects/sh85080593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080593> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manners and customs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85087783> . 
+<http://id.loc.gov/authorities/subjects/sh85087783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087783> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mountain life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85047218> . 
+<http://id.loc.gov/authorities/subjects/sh85047218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047218> <http://www.w3.org/2004/02/skos/core#prefLabel> "Farm life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098332> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098332> <http://www.w3.org/2004/02/skos/core#prefLabel> "Part-time farming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098584> . 
+<http://id.loc.gov/authorities/subjects/sh85098584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098584> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pastoral poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102824> . 
+<http://id.loc.gov/authorities/subjects/sh85102824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102824> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantation life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061681> . 
+<http://id.loc.gov/authorities/subjects/sh85061681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061681> <http://www.w3.org/2004/02/skos/core#prefLabel> "Home economics, Rural"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119346452> . 
+<http://data.bnf.fr/ark:/12148/cb119346452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119346452> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vie rurale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4034309-1> . 
+<http://d-nb.info/gnd/4034309-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4034309-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landleben"@de . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13554022r> . 
+<http://data.bnf.fr/ark:/12148/cb13554022r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13554022r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Country life (périodique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4144143-6> . 
+<http://d-nb.info/gnd/4144143-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4144143-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bauernleben"@de . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#note> "Here are entered popular works on living in the country and works on manners and customs in rural areas. Popular works on farms and works on manners and customs on farms are entered under [Farm life.] Theoretical works on the social organization of rural areas are entered under [Sociology, Rural.] Works on the social conditions of rural areas are entered under [Rural conditions.]" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#example> "Notes under [Farm life; Rural conditions; Sociology, Rural]" . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2008/05/skos-xl#altLabel> "Rural life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode169authoritiessubjectssh85033462 . 
+_:bnode169authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode169authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85033462> . 
+_:bnode169authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode169authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode169authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85033462> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode177authoritiessubjectssh85033462 . 
+_:bnode177authoritiessubjectssh85033462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode177authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85033462> . 
+_:bnode177authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode177authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#createdDate> "2003-07-03T14:30:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode177authoritiessubjectssh85033462 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

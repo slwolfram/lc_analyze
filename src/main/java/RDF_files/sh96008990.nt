@@ -1,0 +1,84 @@
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish press"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96008990 . 
+_:bnode7authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96008990 . 
+_:bnode7authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96008990 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jewish press"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85045176> . 
+<http://id.loc.gov/authorities/subjects/sh85045176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85045176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045176> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ethnic press"@en . 
+<http://id.loc.gov/authorities/subjects/sh85045176> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh96008990 . 
+_:bnode16authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh96008990 . 
+_:bnode16authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh96008990 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ethnic press"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070313> . 
+<http://id.loc.gov/authorities/subjects/sh85070313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070313> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish periodicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070310> . 
+<http://id.loc.gov/authorities/subjects/sh85070310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070310> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish newspapers"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4384033-4> . 
+<http://d-nb.info/gnd/4384033-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4384033-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jüdische Presse"@de . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11955162x> . 
+<http://data.bnf.fr/ark:/12148/cb11955162x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11955162x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presse juive"@fr . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96008990" . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96008990> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96008990#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode44authoritiessubjectssh96008990 . 
+_:bnode44authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode44authoritiessubjectssh96008990 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Bibliographies of Polish Judaica, 1993." . 
+_:bnode44authoritiessubjectssh96008990 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode50authoritiessubjectssh96008990 . 
+_:bnode50authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode50authoritiessubjectssh96008990 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC database, 8/21/96." . 
+_:bnode50authoritiessubjectssh96008990 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh96008990 . 
+_:bnode56authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh96008990 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-08-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh96008990 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh96008990 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/yyp> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh96008990 . 
+_:bnode63authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh96008990 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-10-01T11:31:23"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh96008990 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh96008990 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/yyp> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish press"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85045176> . 
+<http://id.loc.gov/authorities/subjects/sh85045176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethnic press"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070313> . 
+<http://id.loc.gov/authorities/subjects/sh85070313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070313> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish periodicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070310> . 
+<http://id.loc.gov/authorities/subjects/sh85070310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070310> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish newspapers"@en . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4384033-4> . 
+<http://d-nb.info/gnd/4384033-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4384033-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jüdische Presse"@de . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11955162x> . 
+<http://data.bnf.fr/ark:/12148/cb11955162x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11955162x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presse juive"@fr . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode99authoritiessubjectssh96008990 . 
+_:bnode99authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode99authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96008990> . 
+_:bnode99authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/yyp> . 
+_:bnode99authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#createdDate> "1996-08-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96008990> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh96008990 . 
+_:bnode107authoritiessubjectssh96008990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96008990> . 
+_:bnode107authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/yyp> . 
+_:bnode107authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#createdDate> "1996-10-01T11:31:23"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh96008990 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

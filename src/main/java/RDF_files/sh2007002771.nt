@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ten-minute plays, American"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2007002771 . 
+_:bnode7authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2007002771 . 
+_:bnode7authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ten-minute plays, American"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2007002771 . 
+_:bnode11authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#variantLabel> "American ten-minute plays"@en . 
+_:bnode11authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2007002771 . 
+_:bnode16authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2007002771 . 
+_:bnode16authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#elementValue> "American ten-minute plays"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85004305> . 
+<http://id.loc.gov/authorities/subjects/sh85004305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85004305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004305> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "American drama"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004305> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2007002771 . 
+_:bnode25authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2007002771 . 
+_:bnode25authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#elementValue> "American drama"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2007002771" . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2007002771> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2007002771#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh2007002771 . 
+_:bnode37authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Ten-minute plays : volume 6, c2005." . 
+_:bnode37authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode43authoritiessubjectssh2007002771 . 
+_:bnode43authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode43authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#citation-source> "10 by 10 : ten ten-minute plays by ten leading playwrights for young audiences, each inspired by one of the Ten Commandments, c2004." . 
+_:bnode43authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh2007002771 . 
+_:bnode49authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#citation-source> "30 ten-minute plays for 3 actors from Actors Theatre of Louisville's National Ten-minute Play Contest, 2001." . 
+_:bnode49authoritiessubjectssh2007002771 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh2007002771 . 
+_:bnode55authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-04-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode55authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh2007002771 . 
+_:bnode63authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-07-10T07:54:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode63authoritiessubjectssh2007002771 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ten-minute plays, American"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode74authoritiessubjectssh2007002771 . 
+_:bnode74authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode74authoritiessubjectssh2007002771 <http://www.w3.org/2008/05/skos-xl#literalForm> "American ten-minute plays"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2004/02/skos/core#altLabel> "American ten-minute plays" . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85004305> . 
+<http://id.loc.gov/authorities/subjects/sh85004305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004305> <http://www.w3.org/2004/02/skos/core#prefLabel> "American drama"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2008/05/skos-xl#altLabel> "American ten-minute plays"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh2007002771 . 
+_:bnode89authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2007002771> . 
+_:bnode89authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode89authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#createdDate> "2007-04-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2007002771> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh2007002771 . 
+_:bnode97authoritiessubjectssh2007002771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2007002771> . 
+_:bnode97authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode97authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#createdDate> "2007-07-10T07:54:14"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh2007002771 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

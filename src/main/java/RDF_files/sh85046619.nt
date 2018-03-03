@@ -1,0 +1,146 @@
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Extremities (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85046619 . 
+_:bnode7authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85046619 . 
+_:bnode7authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85046619 <http://www.loc.gov/mads/rdf/v1#elementValue> "Extremities (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85046619 . 
+_:bnode11authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85046619 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Limbs (Anatomy)"@en . 
+_:bnode11authoritiessubjectssh85046619 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85046619 . 
+_:bnode16authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85046619 . 
+_:bnode16authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85046619 <http://www.loc.gov/mads/rdf/v1#elementValue> "Limbs (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#classification> "QL950.7-QL950.8" . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#classification> "QM117" . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#classification> "QM548-QM549" . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85046609> . 
+<http://id.loc.gov/authorities/subjects/sh85046609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046609> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forelimb"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4016074-9> . 
+<http://d-nb.info/gnd/4016074-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4016074-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gliedmaßen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85007224> . 
+<http://id.loc.gov/authorities/subjects/sh85007224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85007224> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arm"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004663> . 
+<http://id.loc.gov/authorities/subjects/sh85004663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004663> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Residual limbs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11973212k> . 
+<http://data.bnf.fr/ark:/12148/cb11973212k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11973212k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Membres"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048438> . 
+<http://id.loc.gov/authorities/subjects/sh85048438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048438> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fins (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075709> . 
+<http://id.loc.gov/authorities/subjects/sh85075709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075709> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Leg"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010013655> . 
+<http://id.loc.gov/authorities/subjects/sh2010013655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013655> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Antennae (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93003164> . 
+<http://id.loc.gov/authorities/subjects/sh93003164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93003164> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spinneret (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85004835> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode67authoritiessubjectssh85046619 . 
+_:bnode67authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode68authoritiessubjectssh85046619 . 
+_:bnode67authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode68authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode68authoritiessubjectssh85046619 <http://www.loc.gov/mads/rdf/v1#elementValue> "Anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007002854> . 
+<http://id.loc.gov/authorities/subjects/sh2007002854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007002854> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flippers (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85046601> . 
+<http://id.loc.gov/authorities/subjects/sh85046601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046601> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hindlimb"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92000729> . 
+<http://id.loc.gov/authorities/subjects/sh92000729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000729> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tarsus (Arthropod anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131941> . 
+<http://id.loc.gov/authorities/subjects/sh85131941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131941> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tail"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85046619" . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85046619> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85046619#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode94authoritiessubjectssh85046619 . 
+_:bnode94authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode94authoritiessubjectssh85046619 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh85046619 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode94authoritiessubjectssh85046619 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode101authoritiessubjectssh85046619 . 
+_:bnode101authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode101authoritiessubjectssh85046619 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-03-09T14:05:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh85046619 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode101authoritiessubjectssh85046619 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#prefLabel> "Extremities (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode111authoritiessubjectssh85046619 . 
+_:bnode111authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode111authoritiessubjectssh85046619 <http://www.w3.org/2008/05/skos-xl#literalForm> "Limbs (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#altLabel> "Limbs (Anatomy)" . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85004835> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anatomy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85046609> . 
+<http://id.loc.gov/authorities/subjects/sh85046609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046609> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forelimb"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85007224> . 
+<http://id.loc.gov/authorities/subjects/sh85007224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85007224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arm"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004663> . 
+<http://id.loc.gov/authorities/subjects/sh85004663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004663> <http://www.w3.org/2004/02/skos/core#prefLabel> "Residual limbs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048438> . 
+<http://id.loc.gov/authorities/subjects/sh85048438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048438> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fins (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075709> . 
+<http://id.loc.gov/authorities/subjects/sh85075709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075709> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leg"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010013655> . 
+<http://id.loc.gov/authorities/subjects/sh2010013655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010013655> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antennae (Biology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93003164> . 
+<http://id.loc.gov/authorities/subjects/sh93003164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93003164> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spinneret (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007002854> . 
+<http://id.loc.gov/authorities/subjects/sh2007002854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007002854> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flippers (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85046601> . 
+<http://id.loc.gov/authorities/subjects/sh85046601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046601> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hindlimb"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92000729> . 
+<http://id.loc.gov/authorities/subjects/sh92000729> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000729> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarsus (Arthropod anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131941> . 
+<http://id.loc.gov/authorities/subjects/sh85131941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131941> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tail"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4016074-9> . 
+<http://d-nb.info/gnd/4016074-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4016074-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gliedmaßen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11973212k> . 
+<http://data.bnf.fr/ark:/12148/cb11973212k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11973212k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Membres"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2008/05/skos-xl#altLabel> "Limbs (Anatomy)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode191authoritiessubjectssh85046619 . 
+_:bnode191authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode191authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85046619> . 
+_:bnode191authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode191authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode191authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85046619> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode199authoritiessubjectssh85046619 . 
+_:bnode199authoritiessubjectssh85046619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode199authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85046619> . 
+_:bnode199authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode199authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#createdDate> "1998-03-09T14:05:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode199authoritiessubjectssh85046619 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

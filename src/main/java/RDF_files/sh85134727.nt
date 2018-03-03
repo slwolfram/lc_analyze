@@ -1,0 +1,79 @@
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Therapeutics, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85134727 . 
+_:bnode7authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85134727 . 
+_:bnode7authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85134727 <http://www.loc.gov/mads/rdf/v1#elementValue> "Therapeutics, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85134727 . 
+_:bnode11authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85134727 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Experimental therapeutics"@en . 
+_:bnode11authoritiessubjectssh85134727 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85134727 . 
+_:bnode16authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85134727 . 
+_:bnode16authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85134727 <http://www.loc.gov/mads/rdf/v1#elementValue> "Experimental therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#classification> "RM111" . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11979069f> . 
+<http://data.bnf.fr/ark:/12148/cb11979069f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11979069f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Thérapeutique expérimentale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85083140> . 
+<http://id.loc.gov/authorities/subjects/sh85083140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083140> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083140> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85134727 . 
+_:bnode31authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85134727 . 
+_:bnode31authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85134727 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100600> . 
+<http://id.loc.gov/authorities/subjects/sh85100600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100600> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacology, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85134727" . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85134727> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85134727#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh85134727 . 
+_:bnode47authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh85134727 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh85134727 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh85134727 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85134727 . 
+_:bnode54authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85134727 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-12-13T14:59:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85134727 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85134727 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#prefLabel> "Therapeutics, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode64authoritiessubjectssh85134727 . 
+_:bnode64authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode64authoritiessubjectssh85134727 <http://www.w3.org/2008/05/skos-xl#literalForm> "Experimental therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#altLabel> "Experimental therapeutics" . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85083140> . 
+<http://id.loc.gov/authorities/subjects/sh85083140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083140> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100600> . 
+<http://id.loc.gov/authorities/subjects/sh85100600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100600> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacology, Experimental"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11979069f> . 
+<http://data.bnf.fr/ark:/12148/cb11979069f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11979069f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thérapeutique expérimentale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2008/05/skos-xl#altLabel> "Experimental therapeutics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh85134727 . 
+_:bnode89authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85134727> . 
+_:bnode89authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode89authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85134727> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh85134727 . 
+_:bnode97authoritiessubjectssh85134727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85134727> . 
+_:bnode97authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#createdDate> "1994-12-13T14:59:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85134727 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

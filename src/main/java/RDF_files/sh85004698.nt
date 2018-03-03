@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amusement parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85004698 . 
+_:bnode7authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85004698 . 
+_:bnode7authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Amusement parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85004698 . 
+_:bnode11authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Funparks"@en . 
+_:bnode11authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85004698 . 
+_:bnode16authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85004698 . 
+_:bnode16authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Funparks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85004698 . 
+_:bnode20authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Theme parks"@en . 
+_:bnode20authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85004698 . 
+_:bnode25authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85004698 . 
+_:bnode25authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Theme parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#classification> "GV1851-GV1860" . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4199476-0> . 
+<http://d-nb.info/gnd/4199476-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4199476-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Freizeitpark"@de . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85098119> . 
+<http://id.loc.gov/authorities/subjects/sh85098119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85098119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098119> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85098119> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode40authoritiessubjectssh85004698 . 
+_:bnode40authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh85004698 . 
+_:bnode40authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode41authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode41authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11997968h> . 
+<http://data.bnf.fr/ark:/12148/cb11997968h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11997968h> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parcs d'attractions"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85004708> . 
+<http://id.loc.gov/authorities/subjects/sh85004708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85004708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004708> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amusement rides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004708> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85004698 . 
+_:bnode53authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85004698 . 
+_:bnode53authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Amusement rides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96004762> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amusements"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004762> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode62authoritiessubjectssh85004698 . 
+_:bnode62authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode63authoritiessubjectssh85004698 . 
+_:bnode62authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode63authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode63authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#elementValue> "Amusements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85004698" . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85004698> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85004698#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode74authoritiessubjectssh85004698 . 
+_:bnode74authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode74authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#citation-source> "Dict. of funparks & attractions (a serial)" . 
+_:bnode74authoritiessubjectssh85004698 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh85004698 . 
+_:bnode80authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh85004698 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85004698 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh85004698 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode87authoritiessubjectssh85004698 . 
+_:bnode87authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode87authoritiessubjectssh85004698 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-09-24T07:54:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85004698 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode87authoritiessubjectssh85004698 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amusement parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode97authoritiessubjectssh85004698 . 
+_:bnode97authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode97authoritiessubjectssh85004698 <http://www.w3.org/2008/05/skos-xl#literalForm> "Funparks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#altLabel> "Funparks" . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode104authoritiessubjectssh85004698 . 
+_:bnode104authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode104authoritiessubjectssh85004698 <http://www.w3.org/2008/05/skos-xl#literalForm> "Theme parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#altLabel> "Theme parks" . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85098119> . 
+<http://id.loc.gov/authorities/subjects/sh85098119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098119> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96004762> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96004762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amusements"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85004708> . 
+<http://id.loc.gov/authorities/subjects/sh85004708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004708> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amusement rides"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4199476-0> . 
+<http://d-nb.info/gnd/4199476-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4199476-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Freizeitpark"@de . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11997968h> . 
+<http://data.bnf.fr/ark:/12148/cb11997968h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11997968h> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parcs d'attractions"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2008/05/skos-xl#altLabel> "Funparks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2008/05/skos-xl#altLabel> "Theme parks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode141authoritiessubjectssh85004698 . 
+_:bnode141authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode141authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85004698> . 
+_:bnode141authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode141authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode141authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85004698> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode149authoritiessubjectssh85004698 . 
+_:bnode149authoritiessubjectssh85004698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode149authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85004698> . 
+_:bnode149authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode149authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#createdDate> "2010-09-24T07:54:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode149authoritiessubjectssh85004698 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

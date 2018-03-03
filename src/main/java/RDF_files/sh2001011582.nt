@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Optometry schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2001011582 . 
+_:bnode7authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2001011582 . 
+_:bnode7authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#elementValue> "Optometry schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2001011582 . 
+_:bnode11authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Optometry colleges"@en . 
+_:bnode11authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2001011582 . 
+_:bnode16authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2001011582 . 
+_:bnode16authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#elementValue> "Optometry colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85059578> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Health occupations schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2001011582 . 
+_:bnode25authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2001011582 . 
+_:bnode25authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#elementValue> "Health occupations schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2001011582" . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2001011582> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2001011582#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh2001011582 . 
+_:bnode37authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: OAT, complete preparation for the Optometry Admission Test, 1998:" . 
+_:bnode37authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. xi (optometry schools)"@en . 
+_:bnode37authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh2001011582 . 
+_:bnode45authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-source> "Google search, May 12, 2001" . 
+_:bnode45authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-note> "(optometry schools; optometry colleges; Association of Schools and Colleges of Optometry)"@en . 
+_:bnode45authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode53authoritiessubjectssh2001011582 . 
+_:bnode53authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode53authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-source> "Association of Schools and Colleges of Optometry website, Nov. 28, 2001" . 
+_:bnode53authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"School\" seems more prevalent than \"College\")"@en . 
+_:bnode53authoritiessubjectssh2001011582 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh2001011582 . 
+_:bnode61authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mnsp> . 
+_:bnode61authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode69authoritiessubjectssh2001011582 . 
+_:bnode69authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode69authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-02-07T13:28:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode69authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/mnsp> . 
+_:bnode69authoritiessubjectssh2001011582 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2004/02/skos/core#prefLabel> "Optometry schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh2001011582 . 
+_:bnode80authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh2001011582 <http://www.w3.org/2008/05/skos-xl#literalForm> "Optometry colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2004/02/skos/core#altLabel> "Optometry colleges" . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85059578> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Health occupations schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2008/05/skos-xl#altLabel> "Optometry colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh2001011582 . 
+_:bnode95authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001011582> . 
+_:bnode95authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mnsp> . 
+_:bnode95authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#createdDate> "2001-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2001011582> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh2001011582 . 
+_:bnode103authoritiessubjectssh2001011582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2001011582> . 
+_:bnode103authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/mnsp> . 
+_:bnode103authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#createdDate> "2002-02-07T13:28:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh2001011582 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

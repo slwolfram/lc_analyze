@@ -1,0 +1,124 @@
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Beta lactam antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh86002798 . 
+_:bnode7authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh86002798 . 
+_:bnode7authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Beta lactam antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh86002798 . 
+_:bnode11authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Lactam antibiotics"@en . 
+_:bnode11authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh86002798 . 
+_:bnode16authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh86002798 . 
+_:bnode16authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lactam antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#classification> "RM666.B46" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#classification> "RS431.B48" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85073858> . 
+<http://id.loc.gov/authorities/subjects/sh85073858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85073858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85073858> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lactams"@en . 
+<http://id.loc.gov/authorities/subjects/sh85073858> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh86002798 . 
+_:bnode29authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh86002798 . 
+_:bnode29authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lactams"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4166365-2> . 
+<http://d-nb.info/gnd/4166365-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4166365-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lactamantibiotikum <beta->"@de . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021981> . 
+<http://id.loc.gov/authorities/subjects/sh85021981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021981> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cephalosporins"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12266277m> . 
+<http://data.bnf.fr/ark:/12148/cb12266277m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12266277m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bêta-lactamines"@fr . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099402> . 
+<http://id.loc.gov/authorities/subjects/sh85099402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099402> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Penicillin"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85005638> . 
+<http://id.loc.gov/authorities/subjects/sh85005638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85005638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005638> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85005638> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode54authoritiessubjectssh86002798 . 
+_:bnode54authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode55authoritiessubjectssh86002798 . 
+_:bnode54authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode55authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode55authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010687> . 
+<http://id.loc.gov/authorities/subjects/sh85010687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010687> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aztreonam"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 86002798" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh86002798> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh86002798#concept> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode70authoritiessubjectssh86002798 . 
+_:bnode70authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode70authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Beta-lactam antibiotics for clinical use, 1986." . 
+_:bnode70authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode76authoritiessubjectssh86002798 . 
+_:bnode76authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode76authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH" . 
+_:bnode76authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Antibiotics, Lactam x Beta-lactam antibiotics)"@en . 
+_:bnode76authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode84authoritiessubjectssh86002798 . 
+_:bnode84authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode84authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-source> "Katzung. B. Basic & clinical pharmacology, 1984: pp. 522-" . 
+_:bnode84authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Beta-lactam drugs)"@en . 
+_:bnode84authoritiessubjectssh86002798 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode92authoritiessubjectssh86002798 . 
+_:bnode92authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode92authoritiessubjectssh86002798 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-05-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh86002798 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode92authoritiessubjectssh86002798 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode99authoritiessubjectssh86002798 . 
+_:bnode99authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode99authoritiessubjectssh86002798 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-02-21T13:40:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh86002798 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode99authoritiessubjectssh86002798 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Beta lactam antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode109authoritiessubjectssh86002798 . 
+_:bnode109authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode109authoritiessubjectssh86002798 <http://www.w3.org/2008/05/skos-xl#literalForm> "Lactam antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#altLabel> "Lactam antibiotics" . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85073858> . 
+<http://id.loc.gov/authorities/subjects/sh85073858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85073858> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lactams"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85005638> . 
+<http://id.loc.gov/authorities/subjects/sh85005638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005638> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021981> . 
+<http://id.loc.gov/authorities/subjects/sh85021981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021981> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cephalosporins"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099402> . 
+<http://id.loc.gov/authorities/subjects/sh85099402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Penicillin"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010687> . 
+<http://id.loc.gov/authorities/subjects/sh85010687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aztreonam"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4166365-2> . 
+<http://d-nb.info/gnd/4166365-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4166365-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lactamantibiotikum <beta->"@de . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12266277m> . 
+<http://data.bnf.fr/ark:/12148/cb12266277m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12266277m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bêta-lactamines"@fr . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2008/05/skos-xl#altLabel> "Lactam antibiotics"@en . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode154authoritiessubjectssh86002798 . 
+_:bnode154authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode154authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh86002798> . 
+_:bnode154authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode154authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#createdDate> "1986-05-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode154authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh86002798> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode162authoritiessubjectssh86002798 . 
+_:bnode162authoritiessubjectssh86002798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode162authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh86002798> . 
+_:bnode162authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode162authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#createdDate> "2003-02-21T13:40:59"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode162authoritiessubjectssh86002798 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,99 @@
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum--Storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85100392 . 
+_:bnode7authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85100361> . 
+_:bnode7authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85100392 . 
+_:bnode12authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85100392 . 
+_:bnode12authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85100392 <http://www.loc.gov/mads/rdf/v1#elementValue> "Petroleum"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00008427> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00008427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00008427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00008427> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh00008427> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85100392 . 
+_:bnode20authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85100392 . 
+_:bnode20authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85100392 <http://www.loc.gov/mads/rdf/v1#elementValue> "Storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#classification> "TP692.5" . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85094370> . 
+<http://id.loc.gov/authorities/subjects/sh85094370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85094370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094370> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oil storage tanks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094370> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85100392 . 
+_:bnode31authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85100392 . 
+_:bnode31authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85100392 <http://www.loc.gov/mads/rdf/v1#elementValue> "Oil storage tanks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100367> . 
+<http://id.loc.gov/authorities/subjects/sh85100367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100367> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum--Offshore storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85100427> . 
+<http://id.loc.gov/authorities/subjects/sh85100427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100427> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100427> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85100392 . 
+_:bnode44authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85100392 . 
+_:bnode44authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85100392 <http://www.loc.gov/mads/rdf/v1#elementValue> "Petroleum engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11967317b> . 
+<http://data.bnf.fr/ark:/12148/cb11967317b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11967317b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pétrole -- Stockage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100399> . 
+<http://id.loc.gov/authorities/subjects/sh85100399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100399> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum--Underground storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85100392" . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85100392> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85100392#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh85100392 . 
+_:bnode64authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh85100392 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh85100392 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh85100392 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85100392 . 
+_:bnode71authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85100392 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-12-23T12:09:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85100392 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85100392 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum--Storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85100427> . 
+<http://id.loc.gov/authorities/subjects/sh85100427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100427> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100367> . 
+<http://id.loc.gov/authorities/subjects/sh85100367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100367> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum--Offshore storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100399> . 
+<http://id.loc.gov/authorities/subjects/sh85100399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum--Underground storage"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85094370> . 
+<http://id.loc.gov/authorities/subjects/sh85094370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oil storage tanks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11967317b> . 
+<http://data.bnf.fr/ark:/12148/cb11967317b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11967317b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pétrole -- Stockage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh85100392 . 
+_:bnode107authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100392> . 
+_:bnode107authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode107authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85100392> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode115authoritiessubjectssh85100392 . 
+_:bnode115authoritiessubjectssh85100392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode115authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100392> . 
+_:bnode115authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode115authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#createdDate> "1996-12-23T12:09:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh85100392 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

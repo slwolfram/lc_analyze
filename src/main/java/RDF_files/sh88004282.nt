@@ -1,0 +1,114 @@
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rugby League football"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh88004282 . 
+_:bnode7authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh88004282 . 
+_:bnode7authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rugby League football"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh88004282 . 
+_:bnode11authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Rugby League"@en . 
+_:bnode11authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh88004282 . 
+_:bnode16authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh88004282 . 
+_:bnode16authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rugby League"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#classification> "GV946" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85115741> . 
+<http://id.loc.gov/authorities/subjects/sh85115741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85115741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85115741> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rugby football"@en . 
+<http://id.loc.gov/authorities/subjects/sh85115741> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh88004282 . 
+_:bnode27authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh88004282 . 
+_:bnode27authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rugby football"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933845c> . 
+<http://data.bnf.fr/ark:/12148/cb11933845c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933845c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rugby à XIII"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96003474> . 
+<http://id.loc.gov/authorities/subjects/sh96003474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96003474> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rugby League football matches"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on rugby played with 13 players. Works on rugby played with 15 players are entered under [Rugby Union football.]" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Rugby Union football]" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88004282" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88004282> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88004282#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh88004282 . 
+_:bnode51authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Americana." . 
+_:bnode51authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh88004282 . 
+_:bnode57authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Britannica Micro." . 
+_:bnode57authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-note> "(under Rugby Football League: governing body of Rugby League football (professional rugby))"@en . 
+_:bnode57authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode65authoritiessubjectssh88004282 . 
+_:bnode65authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode65authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Britannica Macro." . 
+_:bnode65authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Rugby League: the main difference between the Rugby League game and the Rugby Union game is that Rugby League is partly professional whereas Rugby Union has remained entirely amateur)"@en . 
+_:bnode65authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode73authoritiessubjectssh88004282 . 
+_:bnode73authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode73authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Intl. dict. sports." . 
+_:bnode73authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode79authoritiessubjectssh88004282 . 
+_:bnode79authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode79authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. sports." . 
+_:bnode79authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode85authoritiessubjectssh88004282 . 
+_:bnode85authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode85authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3." . 
+_:bnode85authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode91authoritiessubjectssh88004282 . 
+_:bnode91authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode91authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-source> "Southern California Youth Rugby Association WWW site, 29 Jan. 2003" . 
+_:bnode91authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-note> "(In 1997 Rugby Union became an \"open\" game. Now the only thing that separates the two games are the way they are played)"@en . 
+_:bnode91authoritiessubjectssh88004282 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode99authoritiessubjectssh88004282 . 
+_:bnode99authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode99authoritiessubjectssh88004282 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-02-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh88004282 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode99authoritiessubjectssh88004282 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nla> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode106authoritiessubjectssh88004282 . 
+_:bnode106authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode106authoritiessubjectssh88004282 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-04-15T09:39:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh88004282 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode106authoritiessubjectssh88004282 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/nla> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rugby League football"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode116authoritiessubjectssh88004282 . 
+_:bnode116authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode116authoritiessubjectssh88004282 <http://www.w3.org/2008/05/skos-xl#literalForm> "Rugby League"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#altLabel> "Rugby League" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85115741> . 
+<http://id.loc.gov/authorities/subjects/sh85115741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85115741> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rugby football"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96003474> . 
+<http://id.loc.gov/authorities/subjects/sh96003474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003474> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rugby League football matches"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933845c> . 
+<http://data.bnf.fr/ark:/12148/cb11933845c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933845c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rugby à XIII"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on rugby played with 13 players. Works on rugby played with 15 players are entered under [Rugby Union football.]" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#example> "Note under [Rugby Union football]" . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2008/05/skos-xl#altLabel> "Rugby League"@en . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode145authoritiessubjectssh88004282 . 
+_:bnode145authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode145authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88004282> . 
+_:bnode145authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nla> . 
+_:bnode145authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#createdDate> "2003-02-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode145authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88004282> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode153authoritiessubjectssh88004282 . 
+_:bnode153authoritiessubjectssh88004282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode153authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88004282> . 
+_:bnode153authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/nla> . 
+_:bnode153authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#createdDate> "2003-04-15T09:39:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode153authoritiessubjectssh88004282 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

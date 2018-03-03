@@ -1,0 +1,76 @@
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Young adult literature, English"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh89006807 . 
+_:bnode7authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh89006807 . 
+_:bnode7authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#elementValue> "Young adult literature, English"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh89006807 . 
+_:bnode11authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#variantLabel> "English young adult literature"@en . 
+_:bnode11authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh89006807 . 
+_:bnode16authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh89006807 . 
+_:bnode16authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#elementValue> "English young adult literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85043777> . 
+<http://id.loc.gov/authorities/subjects/sh85043777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85043777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "English literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85043777> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh89006807 . 
+_:bnode25authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh89006807 . 
+_:bnode25authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#elementValue> "English literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12012188n> . 
+<http://data.bnf.fr/ark:/12148/cb12012188n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12012188n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Littérature pour la jeunesse anglaise"@fr . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 89006807" . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh89006807> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh89006807#concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh89006807 . 
+_:bnode41authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Speaking for ourselves : autobiographical sketches by notable authors of books for young adults, 1990." . 
+_:bnode41authoritiessubjectssh89006807 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh89006807 . 
+_:bnode47authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh89006807 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-11-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh89006807 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh89006807 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh89006807 . 
+_:bnode54authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh89006807 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-01-23T14:15:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh89006807 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh89006807 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#prefLabel> "Young adult literature, English"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode64authoritiessubjectssh89006807 . 
+_:bnode64authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode64authoritiessubjectssh89006807 <http://www.w3.org/2008/05/skos-xl#literalForm> "English young adult literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#altLabel> "English young adult literature" . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85043777> . 
+<http://id.loc.gov/authorities/subjects/sh85043777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043777> <http://www.w3.org/2004/02/skos/core#prefLabel> "English literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12012188n> . 
+<http://data.bnf.fr/ark:/12148/cb12012188n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12012188n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Littérature pour la jeunesse anglaise"@fr . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2008/05/skos-xl#altLabel> "English young adult literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode84authoritiessubjectssh89006807 . 
+_:bnode84authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode84authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89006807> . 
+_:bnode84authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode84authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#createdDate> "1989-11-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh89006807> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode92authoritiessubjectssh89006807 . 
+_:bnode92authoritiessubjectssh89006807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode92authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh89006807> . 
+_:bnode92authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode92authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#createdDate> "1990-01-23T14:15:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh89006807 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,154 @@
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zimbabwe--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85149819 . 
+_:bnode7authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n80089993> . 
+_:bnode7authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n80089993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n80089993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n80089993> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zimbabwe"@en . 
+<http://id.loc.gov/authorities/names/n80089993> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85149819 . 
+_:bnode12authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85149819 . 
+_:bnode12authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85149819 <http://www.loc.gov/mads/rdf/v1#elementValue> "Zimbabwe"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85149819 . 
+_:bnode20authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85149819 . 
+_:bnode20authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85149819 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121756> . 
+<http://id.loc.gov/authorities/subjects/sh85121756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121756> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shona language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85076967> . 
+<http://id.loc.gov/authorities/subjects/sh85076967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076967> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lilima dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005703> . 
+<http://id.loc.gov/authorities/subjects/sh91005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005703> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Korekore dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013000047> . 
+<http://id.loc.gov/authorities/subjects/sh2013000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013000047> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kunda language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138356> . 
+<http://id.loc.gov/authorities/subjects/sh85138356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138356> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tswa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135983> . 
+<http://id.loc.gov/authorities/subjects/sh85135983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135983> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tonga language (Zambezi)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011005914> . 
+<http://id.loc.gov/authorities/subjects/sh2011005914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011005914> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zimbabwean Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024233> . 
+<http://id.loc.gov/authorities/subjects/sh85024233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024233> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ndau language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93004963> . 
+<http://id.loc.gov/authorities/subjects/sh93004963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004963> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Karanga language (Bantu)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93004966> . 
+<http://id.loc.gov/authorities/subjects/sh93004966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004966> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manyika language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93009494> . 
+<http://id.loc.gov/authorities/subjects/sh93009494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93009494> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nambya language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85142606> . 
+<http://id.loc.gov/authorities/subjects/sh85142606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142606> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Venda language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85090472> . 
+<http://id.loc.gov/authorities/subjects/sh85090472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85090472> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ndebele language (Zimbabwe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98008149> . 
+<http://id.loc.gov/authorities/subjects/sh98008149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98008149> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kalanga language (Botswana and Zimbabwe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85078695> . 
+<http://id.loc.gov/authorities/subjects/sh85078695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078695> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lozi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002009966> . 
+<http://id.loc.gov/authorities/subjects/sh2002009966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002009966> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zezuru dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85149819> . 
+<http://id.loc.gov/rwo/agents/sh85149819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85149819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85149819" . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85149819> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85149819#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode98authoritiessubjectssh85149819 . 
+_:bnode98authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode98authoritiessubjectssh85149819 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh85149819 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode98authoritiessubjectssh85149819 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh85149819 . 
+_:bnode105authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh85149819 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-05-09T16:43:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85149819 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh85149819 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zimbabwe--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121756> . 
+<http://id.loc.gov/authorities/subjects/sh85121756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shona language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85076967> . 
+<http://id.loc.gov/authorities/subjects/sh85076967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lilima dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005703> . 
+<http://id.loc.gov/authorities/subjects/sh91005703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005703> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korekore dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013000047> . 
+<http://id.loc.gov/authorities/subjects/sh2013000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013000047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunda language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138356> . 
+<http://id.loc.gov/authorities/subjects/sh85138356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138356> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tswa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135983> . 
+<http://id.loc.gov/authorities/subjects/sh85135983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135983> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonga language (Zambezi)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011005914> . 
+<http://id.loc.gov/authorities/subjects/sh2011005914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011005914> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zimbabwean Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024233> . 
+<http://id.loc.gov/authorities/subjects/sh85024233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ndau language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93004963> . 
+<http://id.loc.gov/authorities/subjects/sh93004963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004963> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karanga language (Bantu)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93004966> . 
+<http://id.loc.gov/authorities/subjects/sh93004966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004966> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manyika language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93009494> . 
+<http://id.loc.gov/authorities/subjects/sh93009494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93009494> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nambya language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85142606> . 
+<http://id.loc.gov/authorities/subjects/sh85142606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142606> <http://www.w3.org/2004/02/skos/core#prefLabel> "Venda language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85090472> . 
+<http://id.loc.gov/authorities/subjects/sh85090472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85090472> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ndebele language (Zimbabwe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98008149> . 
+<http://id.loc.gov/authorities/subjects/sh98008149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98008149> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalanga language (Botswana and Zimbabwe)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85078695> . 
+<http://id.loc.gov/authorities/subjects/sh85078695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078695> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lozi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002009966> . 
+<http://id.loc.gov/authorities/subjects/sh2002009966> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002009966> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zezuru dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode196authoritiessubjectssh85149819 . 
+_:bnode196authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode196authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85149819> . 
+_:bnode196authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode196authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode196authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85149819> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode204authoritiessubjectssh85149819 . 
+_:bnode204authoritiessubjectssh85149819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode204authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85149819> . 
+_:bnode204authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode204authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#createdDate> "1995-05-09T16:43:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode204authoritiessubjectssh85149819 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,129 @@
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00006380 . 
+_:bnode7authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00006380 . 
+_:bnode7authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00006380 <http://www.loc.gov/mads/rdf/v1#elementValue> "Labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh00006380 . 
+_:bnode11authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh00006380 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Productivity, Labor"@en . 
+_:bnode11authoritiessubjectssh00006380 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh00006380 . 
+_:bnode16authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh00006380 . 
+_:bnode16authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh00006380 <http://www.loc.gov/mads/rdf/v1#elementValue> "Productivity, Labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85062531> . 
+<http://id.loc.gov/authorities/subjects/sh85062531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062531> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hours of labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh95004314> . 
+<http://id.loc.gov/authorities/subjects/sh95004314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95004314> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Labor time"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107220> . 
+<http://id.loc.gov/authorities/subjects/sh85107220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107220> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Production standards"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/8316> . 
+<http://purl.org/bncf/tid/8316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/8316> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Produttività"@it . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb133189659> . 
+<http://data.bnf.fr/ark:/12148/cb133189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb133189659> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Productivité"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85107223> . 
+<http://id.loc.gov/authorities/subjects/sh85107223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107223> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Productivity bargaining"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098897> . 
+<http://id.loc.gov/authorities/subjects/sh85098897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098897> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paydays"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85144771> . 
+<http://id.loc.gov/authorities/subjects/sh85144771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85144771> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wages and labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/48666> . 
+<http://lod.nal.usda.gov/nalt/48666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/48666> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85019948> . 
+<http://id.loc.gov/authorities/subjects/sh85019948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019948> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Capital productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85075537> . 
+<http://id.loc.gov/authorities/subjects/sh85075537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075537> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Learning curve (Industrial engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1095> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1153> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under types of industries, occupations, and processes." . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Reference under the heading [Labor productivity]" . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00006380" . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00006380> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00006380#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode79authoritiessubjectssh00006380 . 
+_:bnode79authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode79authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-05-03T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode79authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode79authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode87authoritiessubjectssh00006380 . 
+_:bnode87authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode87authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-03-06T08:57:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode87authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode87authoritiessubjectssh00006380 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#prefLabel> "Labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode98authoritiessubjectssh00006380 . 
+_:bnode98authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode98authoritiessubjectssh00006380 <http://www.w3.org/2008/05/skos-xl#literalForm> "Productivity, Labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#altLabel> "Productivity, Labor" . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107220> . 
+<http://id.loc.gov/authorities/subjects/sh85107220> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107220> <http://www.w3.org/2004/02/skos/core#prefLabel> "Production standards"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098897> . 
+<http://id.loc.gov/authorities/subjects/sh85098897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paydays"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85144771> . 
+<http://id.loc.gov/authorities/subjects/sh85144771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85144771> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wages and labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85075537> . 
+<http://id.loc.gov/authorities/subjects/sh85075537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Learning curve (Industrial engineering)"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85062531> . 
+<http://id.loc.gov/authorities/subjects/sh85062531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062531> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hours of labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh95004314> . 
+<http://id.loc.gov/authorities/subjects/sh95004314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95004314> <http://www.w3.org/2004/02/skos/core#prefLabel> "Labor time"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85107223> . 
+<http://id.loc.gov/authorities/subjects/sh85107223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107223> <http://www.w3.org/2004/02/skos/core#prefLabel> "Productivity bargaining"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85019948> . 
+<http://id.loc.gov/authorities/subjects/sh85019948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019948> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capital productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/48666> . 
+<http://lod.nal.usda.gov/nalt/48666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/48666> <http://www.w3.org/2004/02/skos/core#prefLabel> "labor productivity"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/8316> . 
+<http://purl.org/bncf/tid/8316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/8316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Produttività"@it . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb133189659> . 
+<http://data.bnf.fr/ark:/12148/cb133189659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb133189659> <http://www.w3.org/2004/02/skos/core#prefLabel> "Productivité"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under types of industries, occupations, and processes." . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#example> "Reference under the heading [Labor productivity]" . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2008/05/skos-xl#altLabel> "Productivity, Labor"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode167authoritiessubjectssh00006380 . 
+_:bnode167authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode167authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00006380> . 
+_:bnode167authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode167authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#createdDate> "2000-05-03T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode167authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00006380> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode175authoritiessubjectssh00006380 . 
+_:bnode175authoritiessubjectssh00006380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode175authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00006380> . 
+_:bnode175authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode175authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#createdDate> "2006-03-06T08:57:01"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode175authoritiessubjectssh00006380 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

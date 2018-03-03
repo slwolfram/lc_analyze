@@ -1,0 +1,78 @@
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children with disabilities--Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85058706 . 
+_:bnode7authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85058689> . 
+_:bnode7authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children with disabilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058689> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85058706 . 
+_:bnode12authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85058706 . 
+_:bnode12authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85058706 <http://www.loc.gov/mads/rdf/v1#elementValue> "Children with disabilities"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2010013998> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85058706 . 
+_:bnode20authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85058706 . 
+_:bnode20authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85058706 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12650142q> . 
+<http://data.bnf.fr/ark:/12148/cb12650142q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12650142q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enfants handicapés -- Enseignement professionnel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2010013998> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85058706 . 
+_:bnode33authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85058706 . 
+_:bnode33authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85058706 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/authorities/subjects/sh85101602> . 
+<http://id.loc.gov/authorities/subjects/sh85101602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority> . 
+<http://id.loc.gov/authorities/subjects/sh85101602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101602> <http://www.w3.org/2000/01/rdf-schema#label> "sh85101602" . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85058706" . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85058706> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85058706#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode50authoritiessubjectssh85058706 . 
+_:bnode50authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode50authoritiessubjectssh85058706 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-09-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode50authoritiessubjectssh85058706 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode50authoritiessubjectssh85058706 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh85058706 . 
+_:bnode57authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh85058706 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-11-16T08:02:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh85058706 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh85058706 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children with disabilities--Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2010013998> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010013998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vocational education"@en . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12650142q> . 
+<http://data.bnf.fr/ark:/12148/cb12650142q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12650142q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enfants handicapés -- Enseignement professionnel"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode78authoritiessubjectssh85058706 . 
+_:bnode78authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode78authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85058706> . 
+_:bnode78authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode78authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#createdDate> "2001-09-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85058706> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh85058706 . 
+_:bnode86authoritiessubjectssh85058706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85058706> . 
+_:bnode86authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode86authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#createdDate> "2001-11-16T08:02:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh85058706 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

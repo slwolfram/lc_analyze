@@ -1,0 +1,88 @@
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles--Registration and transfer--Fees"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh98003216 . 
+_:bnode7authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85010201> . 
+_:bnode7authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010201> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh98003216 . 
+_:bnode12authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh98003216 . 
+_:bnode12authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh98003216 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobiles"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002007661> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode023 . 
+<http://id.loc.gov/authorities/subjects/sh2002007661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002007661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Registration and transfer"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002007661> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh98003216 . 
+_:bnode20authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh98003216 . 
+_:bnode20authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh98003216 <http://www.loc.gov/mads/rdf/v1#elementValue> "Registration and transfer"@en . 
+_:bnode023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005654> . 
+_:bnode023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005654> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fees"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005654> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh98003216 . 
+_:bnode28authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh98003216 . 
+_:bnode28authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh98003216 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fees"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85047672> . 
+<http://id.loc.gov/authorities/subjects/sh85047672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85047672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85047672> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fees, Administrative"@en . 
+<http://id.loc.gov/authorities/subjects/sh85047672> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode37authoritiessubjectssh98003216 . 
+_:bnode37authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh98003216 . 
+_:bnode37authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode38authoritiessubjectssh98003216 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fees, Administrative"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13194832d> . 
+<http://data.bnf.fr/ark:/12148/cb13194832d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13194832d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobiles -- Immatriculation -- Frais"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98003216" . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98003216> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98003216#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode53authoritiessubjectssh98003216 . 
+_:bnode53authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode53authoritiessubjectssh98003216 <http://www.loc.gov/mads/rdf/v1#citation-source> "98-657431: Fees : schedule of fees for jurisdications [i.e. jurisdictions] ... 1997." . 
+_:bnode53authoritiessubjectssh98003216 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh98003216 . 
+_:bnode59authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh98003216 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh98003216 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh98003216 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh98003216 . 
+_:bnode66authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh98003216 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-06-18T16:32:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh98003216 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh98003216 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles--Registration and transfer--Fees"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85047672> . 
+<http://id.loc.gov/authorities/subjects/sh85047672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85047672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fees, Administrative"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13194832d> . 
+<http://data.bnf.fr/ark:/12148/cb13194832d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13194832d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobiles -- Immatriculation -- Frais"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh98003216 . 
+_:bnode87authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003216> . 
+_:bnode87authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#createdDate> "1998-05-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98003216> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh98003216 . 
+_:bnode95authoritiessubjectssh98003216 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003216> . 
+_:bnode95authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode95authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#createdDate> "1998-06-18T16:32:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh98003216 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,580 @@
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mexico--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85084601 . 
+_:bnode7authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n81013960> . 
+_:bnode7authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n81013960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n81013960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n81013960> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mexico"@en . 
+<http://id.loc.gov/authorities/names/n81013960> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85084601 . 
+_:bnode12authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85084601 . 
+_:bnode12authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85084601 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mexico"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85084601 . 
+_:bnode20authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85084601 . 
+_:bnode20authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85084601 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102174> . 
+<http://id.loc.gov/authorities/subjects/sh85102174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102174> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pima language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104898> . 
+<http://id.loc.gov/authorities/subjects/sh85104898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sierra Popoluca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85018698> . 
+<http://id.loc.gov/authorities/subjects/sh85018698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85018698> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cahita language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010670> . 
+<http://id.loc.gov/authorities/subjects/sh85010670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010670> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nahuatl language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024690> . 
+<http://id.loc.gov/authorities/subjects/sh85024690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024690> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chontal language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027306> . 
+<http://id.loc.gov/authorities/subjects/sh85027306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027306> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coahuilteco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85069137> . 
+<http://id.loc.gov/authorities/subjects/sh85069137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069137> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ixcateco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85120224> . 
+<http://id.loc.gov/authorities/subjects/sh85120224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85120224> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seri language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133964> . 
+<http://id.loc.gov/authorities/subjects/sh85133964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133964> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tepehuan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135683> . 
+<http://id.loc.gov/authorities/subjects/sh85135683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135683> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tlapanec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96003716> . 
+<http://id.loc.gov/authorities/subjects/sh96003716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96003716> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sayula language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034692> . 
+<http://id.loc.gov/authorities/subjects/sh85034692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034692> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cuitlateco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011000013> . 
+<http://id.loc.gov/authorities/subjects/sh2011000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011000013> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chichimeca-Jonaz language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024661> . 
+<http://id.loc.gov/authorities/subjects/sh85024661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chol language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107763> . 
+<http://id.loc.gov/authorities/subjects/sh85107763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107763> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proto-Popotecan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082432> . 
+<http://id.loc.gov/authorities/subjects/sh85082432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082432> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mayo dialect (Piman)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85073799> . 
+<http://id.loc.gov/authorities/subjects/sh85073799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85073799> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lacandon dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136227> . 
+<http://id.loc.gov/authorities/subjects/sh85136227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136227> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Totonac language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005000667> . 
+<http://id.loc.gov/authorities/subjects/sh2005000667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005000667> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Toltec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082449> . 
+<http://id.loc.gov/authorities/subjects/sh85082449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082449> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mazateco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104896> . 
+<http://id.loc.gov/authorities/subjects/sh85104896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104896> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Popolocan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024446> . 
+<http://id.loc.gov/authorities/subjects/sh85024446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024446> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chiricahua language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096879> . 
+<http://id.loc.gov/authorities/subjects/sh85096879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096879> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pakawan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094049> . 
+<http://id.loc.gov/authorities/subjects/sh85094049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094049> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ocuiltec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072322> . 
+<http://id.loc.gov/authorities/subjects/sh85072322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072322> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kiliwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096067> . 
+<http://id.loc.gov/authorities/subjects/sh85096067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096067> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Otomi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107748> . 
+<http://id.loc.gov/authorities/subjects/sh85107748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107748> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proto-Chinantec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85032507> . 
+<http://id.loc.gov/authorities/subjects/sh85032507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cora language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94003719> . 
+<http://id.loc.gov/authorities/subjects/sh94003719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94003719> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guarijío language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096063> . 
+<http://id.loc.gov/authorities/subjects/sh85096063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096063> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Otomanguean languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024599> . 
+<http://id.loc.gov/authorities/subjects/sh85024599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024599> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chocho language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92000768> . 
+<http://id.loc.gov/authorities/subjects/sh92000768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92000768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zapotecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004516> . 
+<http://id.loc.gov/authorities/subjects/sh85004516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004516> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amuzgo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024221> . 
+<http://id.loc.gov/authorities/subjects/sh85024221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024221> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chinantecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85069176> . 
+<http://id.loc.gov/authorities/subjects/sh85069176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069176> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jacalteca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086319> . 
+<http://id.loc.gov/authorities/subjects/sh85086319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086319> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mixe language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102177> . 
+<http://id.loc.gov/authorities/subjects/sh85102177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102177> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piman languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107768> . 
+<http://id.loc.gov/authorities/subjects/sh85107768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proto-Tzeltal-Tzotzil language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85107769> . 
+<http://id.loc.gov/authorities/subjects/sh85107769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107769> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proto-Yuman language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85150014> . 
+<http://id.loc.gov/authorities/subjects/sh85150014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85150014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zoque language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139215> . 
+<http://id.loc.gov/authorities/subjects/sh85139215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139215> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tzotzil language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061416> . 
+<http://id.loc.gov/authorities/subjects/sh85061416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061416> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hokan-Coahuiltecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082405> . 
+<http://id.loc.gov/authorities/subjects/sh85082405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082405> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mayan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096068> . 
+<http://id.loc.gov/authorities/subjects/sh85096068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096068> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Otomian languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096959> . 
+<http://id.loc.gov/authorities/subjects/sh85096959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096959> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Palaihnihan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85137911> . 
+<http://id.loc.gov/authorities/subjects/sh85137911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137911> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Trique language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85045527> . 
+<http://id.loc.gov/authorities/subjects/sh85045527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045527> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eudeve language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85149668> . 
+<http://id.loc.gov/authorities/subjects/sh85149668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85149668> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zapotec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003005172> . 
+<http://id.loc.gov/authorities/subjects/sh2003005172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003005172> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mexican Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87004817> . 
+<http://id.loc.gov/authorities/subjects/sh87004817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87004817> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mochó language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027634> . 
+<http://id.loc.gov/authorities/subjects/sh85027634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027634> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cocopa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082198> . 
+<http://id.loc.gov/authorities/subjects/sh85082198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082198> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Matlatzinca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132458> . 
+<http://id.loc.gov/authorities/subjects/sh85132458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132458> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tarahumara language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96006717> . 
+<http://id.loc.gov/authorities/subjects/sh96006717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96006717> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proto-Zapotecan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85149510> . 
+<http://id.loc.gov/authorities/subjects/sh85149510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85149510> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yuman languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85037778> . 
+<http://id.loc.gov/authorities/subjects/sh85037778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037778> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kumiai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90001778> . 
+<http://id.loc.gov/authorities/subjects/sh90001778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90001778> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pame language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000630> . 
+<http://id.loc.gov/authorities/subjects/sh91000630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000630> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paipai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061417> . 
+<http://id.loc.gov/authorities/subjects/sh85061417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061417> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hokan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022767> . 
+<http://id.loc.gov/authorities/subjects/sh85022767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022767> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chatino language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89007219> . 
+<http://id.loc.gov/authorities/subjects/sh89007219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89007219> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tectiteco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097529> . 
+<http://id.loc.gov/authorities/subjects/sh85097529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097529> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Papabuco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85086330> . 
+<http://id.loc.gov/authorities/subjects/sh85086330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85086330> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mixtec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082398> . 
+<http://id.loc.gov/authorities/subjects/sh85082398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082398> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maya language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027557> . 
+<http://id.loc.gov/authorities/subjects/sh85027557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023219> . 
+<http://id.loc.gov/authorities/subjects/sh85023219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023219> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chiapanec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85139210> . 
+<http://id.loc.gov/authorities/subjects/sh85139210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85139210> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tzeltal language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005890> . 
+<http://id.loc.gov/authorities/subjects/sh88005890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005890> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mixtecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96007809> . 
+<http://id.loc.gov/authorities/subjects/sh96007809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96007809> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ozumacín dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003012014> . 
+<http://id.loc.gov/authorities/subjects/sh2003012014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003012014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cochimi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132468> . 
+<http://id.loc.gov/authorities/subjects/sh85132468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132468> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tarascan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96003718> . 
+<http://id.loc.gov/authorities/subjects/sh96003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96003718> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oluta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85149017> . 
+<http://id.loc.gov/authorities/subjects/sh85149017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85149017> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yaqui language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062818> . 
+<http://id.loc.gov/authorities/subjects/sh85062818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062818> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huichol language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082444> . 
+<http://id.loc.gov/authorities/subjects/sh85082444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082444> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mazahua language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132338> . 
+<http://id.loc.gov/authorities/subjects/sh85132338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132338> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tanoan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005233> . 
+<http://id.loc.gov/authorities/subjects/sh92005233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005233> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chinantec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103977> . 
+<http://id.loc.gov/authorities/subjects/sh85103977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103977> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pokonchi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86004434> . 
+<http://id.loc.gov/authorities/subjects/sh86004434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86004434> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pima Bajo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034689> . 
+<http://id.loc.gov/authorities/subjects/sh85034689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034689> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cuicatec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104895> . 
+<http://id.loc.gov/authorities/subjects/sh85104895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104895> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Popoloca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062749> . 
+<http://id.loc.gov/authorities/subjects/sh85062749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062749> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huave language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072496> . 
+<http://id.loc.gov/authorities/subjects/sh85072496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072496> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kiowa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022480> . 
+<http://id.loc.gov/authorities/subjects/sh85022480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022480> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tojolabal language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097547> . 
+<http://id.loc.gov/authorities/subjects/sh85097547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097547> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tohono O'odham dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094865> . 
+<http://id.loc.gov/authorities/subjects/sh85094865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094865> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Opata language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062746> . 
+<http://id.loc.gov/authorities/subjects/sh85062746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062746> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huastec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85084601> . 
+<http://id.loc.gov/rwo/agents/sh85084601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85084601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85084601" . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85084601> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85084601#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode382authoritiessubjectssh85084601 . 
+_:bnode382authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode382authoritiessubjectssh85084601 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode382authoritiessubjectssh85084601 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode382authoritiessubjectssh85084601 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode389authoritiessubjectssh85084601 . 
+_:bnode389authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode389authoritiessubjectssh85084601 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-04-12T13:22:25"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode389authoritiessubjectssh85084601 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode389authoritiessubjectssh85084601 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexico--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102174> . 
+<http://id.loc.gov/authorities/subjects/sh85102174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102174> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pima language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104898> . 
+<http://id.loc.gov/authorities/subjects/sh85104898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sierra Popoluca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85018698> . 
+<http://id.loc.gov/authorities/subjects/sh85018698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85018698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cahita language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010670> . 
+<http://id.loc.gov/authorities/subjects/sh85010670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010670> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nahuatl language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024690> . 
+<http://id.loc.gov/authorities/subjects/sh85024690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024690> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chontal language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027306> . 
+<http://id.loc.gov/authorities/subjects/sh85027306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coahuilteco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85069137> . 
+<http://id.loc.gov/authorities/subjects/sh85069137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069137> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ixcateco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85120224> . 
+<http://id.loc.gov/authorities/subjects/sh85120224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85120224> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seri language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133964> . 
+<http://id.loc.gov/authorities/subjects/sh85133964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tepehuan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135683> . 
+<http://id.loc.gov/authorities/subjects/sh85135683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135683> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tlapanec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96003716> . 
+<http://id.loc.gov/authorities/subjects/sh96003716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003716> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sayula language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034692> . 
+<http://id.loc.gov/authorities/subjects/sh85034692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034692> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuitlateco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011000013> . 
+<http://id.loc.gov/authorities/subjects/sh2011000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011000013> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chichimeca-Jonaz language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024661> . 
+<http://id.loc.gov/authorities/subjects/sh85024661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024661> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chol language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107763> . 
+<http://id.loc.gov/authorities/subjects/sh85107763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107763> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proto-Popotecan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082432> . 
+<http://id.loc.gov/authorities/subjects/sh85082432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mayo dialect (Piman)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85073799> . 
+<http://id.loc.gov/authorities/subjects/sh85073799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85073799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lacandon dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136227> . 
+<http://id.loc.gov/authorities/subjects/sh85136227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totonac language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005000667> . 
+<http://id.loc.gov/authorities/subjects/sh2005000667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005000667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toltec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082449> . 
+<http://id.loc.gov/authorities/subjects/sh85082449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082449> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mazateco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104896> . 
+<http://id.loc.gov/authorities/subjects/sh85104896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104896> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popolocan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024446> . 
+<http://id.loc.gov/authorities/subjects/sh85024446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024446> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chiricahua language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096879> . 
+<http://id.loc.gov/authorities/subjects/sh85096879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096879> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pakawan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094049> . 
+<http://id.loc.gov/authorities/subjects/sh85094049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094049> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ocuiltec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072322> . 
+<http://id.loc.gov/authorities/subjects/sh85072322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072322> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kiliwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096067> . 
+<http://id.loc.gov/authorities/subjects/sh85096067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Otomi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107748> . 
+<http://id.loc.gov/authorities/subjects/sh85107748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proto-Chinantec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85032507> . 
+<http://id.loc.gov/authorities/subjects/sh85032507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cora language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94003719> . 
+<http://id.loc.gov/authorities/subjects/sh94003719> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94003719> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guarijío language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096063> . 
+<http://id.loc.gov/authorities/subjects/sh85096063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096063> <http://www.w3.org/2004/02/skos/core#prefLabel> "Otomanguean languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024599> . 
+<http://id.loc.gov/authorities/subjects/sh85024599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024599> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chocho language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92000768> . 
+<http://id.loc.gov/authorities/subjects/sh92000768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92000768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zapotecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004516> . 
+<http://id.loc.gov/authorities/subjects/sh85004516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004516> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amuzgo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024221> . 
+<http://id.loc.gov/authorities/subjects/sh85024221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024221> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinantecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85069176> . 
+<http://id.loc.gov/authorities/subjects/sh85069176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jacalteca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086319> . 
+<http://id.loc.gov/authorities/subjects/sh85086319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086319> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mixe language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102177> . 
+<http://id.loc.gov/authorities/subjects/sh85102177> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102177> <http://www.w3.org/2004/02/skos/core#prefLabel> "Piman languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107768> . 
+<http://id.loc.gov/authorities/subjects/sh85107768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proto-Tzeltal-Tzotzil language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85107769> . 
+<http://id.loc.gov/authorities/subjects/sh85107769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107769> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proto-Yuman language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85150014> . 
+<http://id.loc.gov/authorities/subjects/sh85150014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85150014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zoque language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139215> . 
+<http://id.loc.gov/authorities/subjects/sh85139215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139215> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tzotzil language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061416> . 
+<http://id.loc.gov/authorities/subjects/sh85061416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061416> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hokan-Coahuiltecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082405> . 
+<http://id.loc.gov/authorities/subjects/sh85082405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082405> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mayan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096068> . 
+<http://id.loc.gov/authorities/subjects/sh85096068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096068> <http://www.w3.org/2004/02/skos/core#prefLabel> "Otomian languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096959> . 
+<http://id.loc.gov/authorities/subjects/sh85096959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096959> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palaihnihan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85137911> . 
+<http://id.loc.gov/authorities/subjects/sh85137911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137911> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trique language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85045527> . 
+<http://id.loc.gov/authorities/subjects/sh85045527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eudeve language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85149668> . 
+<http://id.loc.gov/authorities/subjects/sh85149668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149668> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zapotec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003005172> . 
+<http://id.loc.gov/authorities/subjects/sh2003005172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003005172> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexican Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87004817> . 
+<http://id.loc.gov/authorities/subjects/sh87004817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87004817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mochó language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027634> . 
+<http://id.loc.gov/authorities/subjects/sh85027634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027634> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cocopa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082198> . 
+<http://id.loc.gov/authorities/subjects/sh85082198> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082198> <http://www.w3.org/2004/02/skos/core#prefLabel> "Matlatzinca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132458> . 
+<http://id.loc.gov/authorities/subjects/sh85132458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132458> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarahumara language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96006717> . 
+<http://id.loc.gov/authorities/subjects/sh96006717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96006717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proto-Zapotecan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85149510> . 
+<http://id.loc.gov/authorities/subjects/sh85149510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149510> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yuman languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85037778> . 
+<http://id.loc.gov/authorities/subjects/sh85037778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037778> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kumiai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90001778> . 
+<http://id.loc.gov/authorities/subjects/sh90001778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90001778> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pame language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000630> . 
+<http://id.loc.gov/authorities/subjects/sh91000630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paipai language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061417> . 
+<http://id.loc.gov/authorities/subjects/sh85061417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061417> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hokan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022767> . 
+<http://id.loc.gov/authorities/subjects/sh85022767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022767> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chatino language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89007219> . 
+<http://id.loc.gov/authorities/subjects/sh89007219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89007219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tectiteco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097529> . 
+<http://id.loc.gov/authorities/subjects/sh85097529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097529> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papabuco language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85086330> . 
+<http://id.loc.gov/authorities/subjects/sh85086330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85086330> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mixtec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082398> . 
+<http://id.loc.gov/authorities/subjects/sh85082398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082398> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maya language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027557> . 
+<http://id.loc.gov/authorities/subjects/sh85027557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023219> . 
+<http://id.loc.gov/authorities/subjects/sh85023219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chiapanec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85139210> . 
+<http://id.loc.gov/authorities/subjects/sh85139210> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85139210> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tzeltal language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005890> . 
+<http://id.loc.gov/authorities/subjects/sh88005890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005890> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mixtecan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96007809> . 
+<http://id.loc.gov/authorities/subjects/sh96007809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96007809> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ozumacín dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003012014> . 
+<http://id.loc.gov/authorities/subjects/sh2003012014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003012014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cochimi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132468> . 
+<http://id.loc.gov/authorities/subjects/sh85132468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tarascan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96003718> . 
+<http://id.loc.gov/authorities/subjects/sh96003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96003718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oluta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85149017> . 
+<http://id.loc.gov/authorities/subjects/sh85149017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85149017> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yaqui language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062818> . 
+<http://id.loc.gov/authorities/subjects/sh85062818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062818> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huichol language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082444> . 
+<http://id.loc.gov/authorities/subjects/sh85082444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082444> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mazahua language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132338> . 
+<http://id.loc.gov/authorities/subjects/sh85132338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132338> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tanoan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005233> . 
+<http://id.loc.gov/authorities/subjects/sh92005233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005233> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chinantec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103977> . 
+<http://id.loc.gov/authorities/subjects/sh85103977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103977> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pokonchi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86004434> . 
+<http://id.loc.gov/authorities/subjects/sh86004434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86004434> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pima Bajo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034689> . 
+<http://id.loc.gov/authorities/subjects/sh85034689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034689> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuicatec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104895> . 
+<http://id.loc.gov/authorities/subjects/sh85104895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104895> <http://www.w3.org/2004/02/skos/core#prefLabel> "Popoloca language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062749> . 
+<http://id.loc.gov/authorities/subjects/sh85062749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062749> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huave language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072496> . 
+<http://id.loc.gov/authorities/subjects/sh85072496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072496> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kiowa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022480> . 
+<http://id.loc.gov/authorities/subjects/sh85022480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022480> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tojolabal language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097547> . 
+<http://id.loc.gov/authorities/subjects/sh85097547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097547> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tohono O'odham dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094865> . 
+<http://id.loc.gov/authorities/subjects/sh85094865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094865> <http://www.w3.org/2004/02/skos/core#prefLabel> "Opata language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062746> . 
+<http://id.loc.gov/authorities/subjects/sh85062746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062746> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huastec language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode835authoritiessubjectssh85084601 . 
+_:bnode835authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode835authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85084601> . 
+_:bnode835authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode835authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode835authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85084601> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode843authoritiessubjectssh85084601 . 
+_:bnode843authoritiessubjectssh85084601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode843authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85084601> . 
+_:bnode843authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode843authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#createdDate> "1995-04-12T13:22:25"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode843authoritiessubjectssh85084601 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,224 @@
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indians of South America--Ecuador"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85065603 . 
+_:bnode7authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85065540> . 
+_:bnode7authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85065540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85065540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065540> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indians of South America"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065540> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85065603 . 
+_:bnode12authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85065603 . 
+_:bnode12authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85065603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Indians of South America"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79068415> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n79068415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79068415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79068415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ecuador"@en . 
+<http://id.loc.gov/authorities/names/n79068415> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85065603 . 
+_:bnode20authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85065603 . 
+_:bnode20authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85065603 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ecuador"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027697> . 
+<http://id.loc.gov/authorities/subjects/sh85027697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cofán Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096025> . 
+<http://id.loc.gov/authorities/subjects/sh85096025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096025> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Otavalo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062735> . 
+<http://id.loc.gov/authorities/subjects/sh85062735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062735> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huancavilca Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004805> . 
+<http://id.loc.gov/authorities/subjects/sh90004805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004805> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Panzaleo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005700> . 
+<http://id.loc.gov/authorities/subjects/sh94005700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005700> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Guayacundo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85019586> . 
+<http://id.loc.gov/authorities/subjects/sh85019586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019586> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Canelo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062740> . 
+<http://id.loc.gov/authorities/subjects/sh85062740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062740> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huao Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082426> . 
+<http://id.loc.gov/authorities/subjects/sh85082426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082426> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mayna Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098557> . 
+<http://id.loc.gov/authorities/subjects/sh85098557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pasto Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85119430> . 
+<http://id.loc.gov/authorities/subjects/sh85119430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119430> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Secoya Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11949956z> . 
+<http://data.bnf.fr/ark:/12148/cb11949956z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11949956z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indiens d'Amérique -- Équateur"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021552> . 
+<http://id.loc.gov/authorities/subjects/sh85021552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cayapa Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002004817> . 
+<http://id.loc.gov/authorities/subjects/sh2002004817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002004817> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yumbo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85019475> . 
+<http://id.loc.gov/authorities/subjects/sh85019475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cañari Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86001799> . 
+<http://id.loc.gov/authorities/subjects/sh86001799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86001799> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tallán Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020043> . 
+<http://id.loc.gov/authorities/subjects/sh85020043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020043> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cara Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85070557> . 
+<http://id.loc.gov/authorities/subjects/sh85070557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Shuar Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002513> . 
+<http://id.loc.gov/authorities/subjects/sh85002513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002513> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aguaruna Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85069057> . 
+<http://id.loc.gov/authorities/subjects/sh85069057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069057> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Itene Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85062730> . 
+<http://id.loc.gov/authorities/subjects/sh85062730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062730> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huambisa Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028681> . 
+<http://id.loc.gov/authorities/subjects/sh85028681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028681> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Colorado Indians (Ecuador)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005006433> . 
+<http://id.loc.gov/authorities/subjects/sh2005006433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005006433> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zaparo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109851> . 
+<http://id.loc.gov/authorities/subjects/sh85109851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109851> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Quijo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93003309> . 
+<http://id.loc.gov/authorities/subjects/sh93003309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93003309> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Omagua Indians (Ecuador and Peru)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080639> . 
+<http://id.loc.gov/authorities/subjects/sh85080639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080639> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manta Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109219> . 
+<http://id.loc.gov/authorities/subjects/sh85109219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109219> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Puruha Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002911> . 
+<http://id.loc.gov/authorities/subjects/sh90002911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002911> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sioni Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2014001873> . 
+<http://id.loc.gov/authorities/subjects/sh2014001873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014001873> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saraguro Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87003699> . 
+<http://id.loc.gov/authorities/subjects/sh87003699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003699> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cuaiquer Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92002374> . 
+<http://id.loc.gov/authorities/subjects/sh92002374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92002374> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jivaran Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85065603" . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85065603> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85065603#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode151authoritiessubjectssh85065603 . 
+_:bnode151authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode151authoritiessubjectssh85065603 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode151authoritiessubjectssh85065603 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode151authoritiessubjectssh85065603 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indians of South America--Ecuador"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027697> . 
+<http://id.loc.gov/authorities/subjects/sh85027697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027697> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cofán Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096025> . 
+<http://id.loc.gov/authorities/subjects/sh85096025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096025> <http://www.w3.org/2004/02/skos/core#prefLabel> "Otavalo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062735> . 
+<http://id.loc.gov/authorities/subjects/sh85062735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062735> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huancavilca Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004805> . 
+<http://id.loc.gov/authorities/subjects/sh90004805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004805> <http://www.w3.org/2004/02/skos/core#prefLabel> "Panzaleo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005700> . 
+<http://id.loc.gov/authorities/subjects/sh94005700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005700> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guayacundo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85019586> . 
+<http://id.loc.gov/authorities/subjects/sh85019586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019586> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canelo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062740> . 
+<http://id.loc.gov/authorities/subjects/sh85062740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huao Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082426> . 
+<http://id.loc.gov/authorities/subjects/sh85082426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082426> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mayna Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098557> . 
+<http://id.loc.gov/authorities/subjects/sh85098557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pasto Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85119430> . 
+<http://id.loc.gov/authorities/subjects/sh85119430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119430> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secoya Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021552> . 
+<http://id.loc.gov/authorities/subjects/sh85021552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cayapa Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002004817> . 
+<http://id.loc.gov/authorities/subjects/sh2002004817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002004817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yumbo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85019475> . 
+<http://id.loc.gov/authorities/subjects/sh85019475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cañari Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86001799> . 
+<http://id.loc.gov/authorities/subjects/sh86001799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86001799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tallán Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020043> . 
+<http://id.loc.gov/authorities/subjects/sh85020043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cara Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85070557> . 
+<http://id.loc.gov/authorities/subjects/sh85070557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shuar Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002513> . 
+<http://id.loc.gov/authorities/subjects/sh85002513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002513> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aguaruna Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85069057> . 
+<http://id.loc.gov/authorities/subjects/sh85069057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069057> <http://www.w3.org/2004/02/skos/core#prefLabel> "Itene Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85062730> . 
+<http://id.loc.gov/authorities/subjects/sh85062730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062730> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huambisa Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028681> . 
+<http://id.loc.gov/authorities/subjects/sh85028681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028681> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colorado Indians (Ecuador)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005006433> . 
+<http://id.loc.gov/authorities/subjects/sh2005006433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005006433> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaparo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109851> . 
+<http://id.loc.gov/authorities/subjects/sh85109851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109851> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quijo Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93003309> . 
+<http://id.loc.gov/authorities/subjects/sh93003309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93003309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Omagua Indians (Ecuador and Peru)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080639> . 
+<http://id.loc.gov/authorities/subjects/sh85080639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080639> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manta Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109219> . 
+<http://id.loc.gov/authorities/subjects/sh85109219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109219> <http://www.w3.org/2004/02/skos/core#prefLabel> "Puruha Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002911> . 
+<http://id.loc.gov/authorities/subjects/sh90002911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002911> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sioni Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2014001873> . 
+<http://id.loc.gov/authorities/subjects/sh2014001873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014001873> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saraguro Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87003699> . 
+<http://id.loc.gov/authorities/subjects/sh87003699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003699> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuaiquer Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92002374> . 
+<http://id.loc.gov/authorities/subjects/sh92002374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92002374> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jivaran Indians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11949956z> . 
+<http://data.bnf.fr/ark:/12148/cb11949956z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11949956z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indiens d'Amérique -- Équateur"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85065603> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode312authoritiessubjectssh85065603 . 
+_:bnode312authoritiessubjectssh85065603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode312authoritiessubjectssh85065603 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85065603> . 
+_:bnode312authoritiessubjectssh85065603 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode312authoritiessubjectssh85065603 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode312authoritiessubjectssh85065603 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

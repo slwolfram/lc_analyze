@@ -1,0 +1,106 @@
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water consumption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85145546 . 
+_:bnode7authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85145546 . 
+_:bnode7authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85145546 <http://www.loc.gov/mads/rdf/v1#elementValue> "Water consumption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85145546 . 
+_:bnode11authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85145546 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Consumption of water"@en . 
+_:bnode11authoritiessubjectssh85145546 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85145546 . 
+_:bnode16authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85145546 . 
+_:bnode16authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85145546 <http://www.loc.gov/mads/rdf/v1#elementValue> "Consumption of water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85145648> . 
+<http://id.loc.gov/authorities/subjects/sh85145648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85145648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145648> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water-supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145648> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85145546 . 
+_:bnode25authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85145546 . 
+_:bnode25authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85145546 <http://www.loc.gov/mads/rdf/v1#elementValue> "Water-supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11958735d> . 
+<http://data.bnf.fr/ark:/12148/cb11958735d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11958735d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eau -- Consommation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4124440-0> . 
+<http://d-nb.info/gnd/4124440-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4124440-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wasserverbrauch"@de . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001008829> . 
+<http://id.loc.gov/authorities/subjects/sh2001008829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008829> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water efficiency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006006462> . 
+<http://id.loc.gov/authorities/subjects/sh2006006462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006006462> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Residential water consumption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh00006837> . 
+<http://id.loc.gov/authorities/subjects/sh00006837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006837> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Water demand management"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006837> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode50authoritiessubjectssh85145546 . 
+_:bnode50authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode51authoritiessubjectssh85145546 . 
+_:bnode50authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode51authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode51authoritiessubjectssh85145546 <http://www.loc.gov/mads/rdf/v1#elementValue> "Water demand management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on quantities of water used. Works on the various uses of water are entered under [Water use.]" . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Water use]" . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85145546" . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85145546> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85145546#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85145546 . 
+_:bnode66authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85145546 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85145546 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85145546 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85145546 . 
+_:bnode73authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85145546 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-09-12T07:57:25"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85145546 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85145546 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water consumption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode83authoritiessubjectssh85145546 . 
+_:bnode83authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode83authoritiessubjectssh85145546 <http://www.w3.org/2008/05/skos-xl#literalForm> "Consumption of water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#altLabel> "Consumption of water" . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85145648> . 
+<http://id.loc.gov/authorities/subjects/sh85145648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water-supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001008829> . 
+<http://id.loc.gov/authorities/subjects/sh2001008829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001008829> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water efficiency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006006462> . 
+<http://id.loc.gov/authorities/subjects/sh2006006462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006006462> <http://www.w3.org/2004/02/skos/core#prefLabel> "Residential water consumption"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh00006837> . 
+<http://id.loc.gov/authorities/subjects/sh00006837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Water demand management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11958735d> . 
+<http://data.bnf.fr/ark:/12148/cb11958735d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11958735d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eau -- Consommation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4124440-0> . 
+<http://d-nb.info/gnd/4124440-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4124440-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserverbrauch"@de . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on quantities of water used. Works on the various uses of water are entered under [Water use.]" . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#example> "Note under [Water use]" . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2008/05/skos-xl#altLabel> "Consumption of water"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh85145546 . 
+_:bnode127authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85145546> . 
+_:bnode127authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode127authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85145546> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode135authoritiessubjectssh85145546 . 
+_:bnode135authoritiessubjectssh85145546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode135authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85145546> . 
+_:bnode135authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode135authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#createdDate> "2009-09-12T07:57:25"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode135authoritiessubjectssh85145546 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,151 @@
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cereal products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85022067 . 
+_:bnode7authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85022067 . 
+_:bnode7authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85022067 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cereal products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85022067 . 
+_:bnode11authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85022067 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Grain products"@en . 
+_:bnode11authoritiessubjectssh85022067 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85022067 . 
+_:bnode16authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85022067 . 
+_:bnode16authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85022067 <http://www.loc.gov/mads/rdf/v1#elementValue> "Grain products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#classification> "TP434-TP435" . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001008489> . 
+<http://id.loc.gov/authorities/subjects/sh2001008489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008489> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rye products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016388> . 
+<http://id.loc.gov/authorities/subjects/sh85016388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016388> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bran"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4020794-8> . 
+<http://d-nb.info/gnd/4020794-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4020794-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Getreideprodukt"@de . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85119533> . 
+<http://id.loc.gov/authorities/subjects/sh85119533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85119533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119533> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seed products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119533> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode39authoritiessubjectssh85022067 . 
+_:bnode39authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85022067 . 
+_:bnode39authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode40authoritiessubjectssh85022067 <http://www.loc.gov/mads/rdf/v1#elementValue> "Seed products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/7339> . 
+<http://lod.nal.usda.gov/nalt/7339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/7339> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "grain products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082681> . 
+<http://id.loc.gov/authorities/subjects/sh85082681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082681> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Meal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90003238> . 
+<http://id.loc.gov/authorities/subjects/sh90003238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90003238> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cereal-soy blends"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85057396> . 
+<http://id.loc.gov/authorities/subjects/sh85057396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85057396> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Groats"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11959374f> . 
+<http://data.bnf.fr/ark:/12148/cb11959374f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11959374f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Produits céréaliers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008002847> . 
+<http://id.loc.gov/authorities/subjects/sh2008002847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008002847> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bran products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146389> . 
+<http://id.loc.gov/authorities/subjects/sh85146389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146389> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wheat products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94009561> . 
+<http://id.loc.gov/authorities/subjects/sh94009561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94009561> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rice products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88004632> . 
+<http://id.loc.gov/authorities/subjects/sh88004632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88004632> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alimentary paste products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022068> . 
+<http://id.loc.gov/authorities/subjects/sh85022068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022068> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enriched cereal products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022072> . 
+<http://id.loc.gov/authorities/subjects/sh85022072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022072> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cereals, Prepared"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85022067" . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85022067> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85022067#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh85022067 . 
+_:bnode95authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh85022067 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85022067 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh85022067 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode102authoritiessubjectssh85022067 . 
+_:bnode102authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode102authoritiessubjectssh85022067 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-07-16T14:16:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh85022067 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode102authoritiessubjectssh85022067 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cereal products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode112authoritiessubjectssh85022067 . 
+_:bnode112authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode112authoritiessubjectssh85022067 <http://www.w3.org/2008/05/skos-xl#literalForm> "Grain products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#altLabel> "Grain products" . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85119533> . 
+<http://id.loc.gov/authorities/subjects/sh85119533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seed products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001008489> . 
+<http://id.loc.gov/authorities/subjects/sh2001008489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001008489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rye products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016388> . 
+<http://id.loc.gov/authorities/subjects/sh85016388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016388> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bran"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082681> . 
+<http://id.loc.gov/authorities/subjects/sh85082681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082681> <http://www.w3.org/2004/02/skos/core#prefLabel> "Meal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90003238> . 
+<http://id.loc.gov/authorities/subjects/sh90003238> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90003238> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cereal-soy blends"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85057396> . 
+<http://id.loc.gov/authorities/subjects/sh85057396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85057396> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groats"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008002847> . 
+<http://id.loc.gov/authorities/subjects/sh2008002847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008002847> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bran products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146389> . 
+<http://id.loc.gov/authorities/subjects/sh85146389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146389> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wheat products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94009561> . 
+<http://id.loc.gov/authorities/subjects/sh94009561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94009561> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rice products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88004632> . 
+<http://id.loc.gov/authorities/subjects/sh88004632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88004632> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alimentary paste products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022068> . 
+<http://id.loc.gov/authorities/subjects/sh85022068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022068> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enriched cereal products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022072> . 
+<http://id.loc.gov/authorities/subjects/sh85022072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022072> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cereals, Prepared"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4020794-8> . 
+<http://d-nb.info/gnd/4020794-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4020794-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Getreideprodukt"@de . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/7339> . 
+<http://lod.nal.usda.gov/nalt/7339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/7339> <http://www.w3.org/2004/02/skos/core#prefLabel> "grain products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11959374f> . 
+<http://data.bnf.fr/ark:/12148/cb11959374f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11959374f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Produits céréaliers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2008/05/skos-xl#altLabel> "Grain products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode197authoritiessubjectssh85022067 . 
+_:bnode197authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode197authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85022067> . 
+_:bnode197authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode197authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode197authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85022067> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode205authoritiessubjectssh85022067 . 
+_:bnode205authoritiessubjectssh85022067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode205authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85022067> . 
+_:bnode205authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode205authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#createdDate> "1996-07-16T14:16:02"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode205authoritiessubjectssh85022067 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,104 @@
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85126990 . 
+_:bnode7authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85126990 . 
+_:bnode7authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85126990 <http://www.loc.gov/mads/rdf/v1#elementValue> "Spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85009331> . 
+<http://id.loc.gov/authorities/subjects/sh85009331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85009331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Atomization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009331> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85126990 . 
+_:bnode16authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85126990 . 
+_:bnode16authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85126990 <http://www.loc.gov/mads/rdf/v1#elementValue> "Atomization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126986> . 
+<http://id.loc.gov/authorities/subjects/sh85126986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spray drying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/11344> . 
+<http://lod.nal.usda.gov/nalt/11344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/11344> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12104865c> . 
+<http://data.bnf.fr/ark:/12148/cb12104865c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12104865c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulvérisation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85001403> . 
+<http://id.loc.gov/authorities/subjects/sh85001403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001403> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics in mosquito control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97000265> . 
+<http://id.loc.gov/authorities/subjects/sh97000265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97000265> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Spray combustion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85027503> . 
+<http://id.loc.gov/authorities/subjects/sh85027503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85027503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027503> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coating processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85027503> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85126990 . 
+_:bnode45authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85126990 . 
+_:bnode45authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85126990 <http://www.loc.gov/mads/rdf/v1#elementValue> "Coating processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4228872-1> . 
+<http://d-nb.info/gnd/4228872-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4228872-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pulverherstellung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/320> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#editorialNote> "individual spraying mixtures, e.g. [Bordeaux mixture]" . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85126990" . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85126990> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85126990#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh85126990 . 
+_:bnode64authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh85126990 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-02-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh85126990 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh85126990 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85126990 . 
+_:bnode71authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85126990 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-04-06T08:58:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85126990 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85126990 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85027503> . 
+<http://id.loc.gov/authorities/subjects/sh85027503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027503> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coating processes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126986> . 
+<http://id.loc.gov/authorities/subjects/sh85126986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spray drying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85001403> . 
+<http://id.loc.gov/authorities/subjects/sh85001403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001403> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics in mosquito control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97000265> . 
+<http://id.loc.gov/authorities/subjects/sh97000265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97000265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spray combustion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85009331> . 
+<http://id.loc.gov/authorities/subjects/sh85009331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atomization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/11344> . 
+<http://lod.nal.usda.gov/nalt/11344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/11344> <http://www.w3.org/2004/02/skos/core#prefLabel> "spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/320> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12104865c> . 
+<http://data.bnf.fr/ark:/12148/cb12104865c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12104865c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulvérisation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4228872-1> . 
+<http://d-nb.info/gnd/4228872-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4228872-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pulverherstellung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#editorial> "individual spraying mixtures, e.g. [Bordeaux mixture]" . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode125authoritiessubjectssh85126990 . 
+_:bnode125authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode125authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85126990> . 
+_:bnode125authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode125authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#createdDate> "2004-02-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode125authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85126990> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode133authoritiessubjectssh85126990 . 
+_:bnode133authoritiessubjectssh85126990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode133authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85126990> . 
+_:bnode133authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode133authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#createdDate> "2004-04-06T08:58:50"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode133authoritiessubjectssh85126990 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

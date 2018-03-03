@@ -1,0 +1,105 @@
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85082898 . 
+_:bnode7authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85082898 . 
+_:bnode7authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85082898 . 
+_:bnode11authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Medical schools"@en . 
+_:bnode11authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85082898 . 
+_:bnode16authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85082898 . 
+_:bnode16authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#classification> "R735-R832" . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100618> . 
+<http://id.loc.gov/authorities/subjects/sh85100618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100618> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pharmacy colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85059578> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Health occupations schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85082898 . 
+_:bnode31authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85082898 . 
+_:bnode31authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#elementValue> "Health occupations schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095973> . 
+<http://id.loc.gov/authorities/subjects/sh85095973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095973> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Osteopathic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh92006454> . 
+<http://id.loc.gov/authorities/subjects/sh92006454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh92006454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92006454> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Academic medical centers"@en . 
+<http://id.loc.gov/authorities/subjects/sh92006454> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85082898 . 
+_:bnode44authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85082898 . 
+_:bnode44authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#elementValue> "Academic medical centers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96006309> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006309> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Universities and colleges"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006309> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85082898 . 
+_:bnode53authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85082898 . 
+_:bnode53authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85082898 <http://www.loc.gov/mads/rdf/v1#elementValue> "Universities and colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://content.glin.gov/subjectTerm/1927> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85082898" . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85082898> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85082898#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85082898 . 
+_:bnode66authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85082898 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85082898 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85082898 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85082898 . 
+_:bnode73authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85082898 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-01-19T11:20:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85082898 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85082898 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode83authoritiessubjectssh85082898 . 
+_:bnode83authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode83authoritiessubjectssh85082898 <http://www.w3.org/2008/05/skos-xl#literalForm> "Medical schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#altLabel> "Medical schools" . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85059578> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85059578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Health occupations schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh92006454> . 
+<http://id.loc.gov/authorities/subjects/sh92006454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92006454> <http://www.w3.org/2004/02/skos/core#prefLabel> "Academic medical centers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96006309> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Universities and colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100618> . 
+<http://id.loc.gov/authorities/subjects/sh85100618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100618> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pharmacy colleges"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095973> . 
+<http://id.loc.gov/authorities/subjects/sh85095973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095973> <http://www.w3.org/2004/02/skos/core#prefLabel> "Osteopathic schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://content.glin.gov/subjectTerm/1927> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2008/05/skos-xl#altLabel> "Medical schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode119authoritiessubjectssh85082898 . 
+_:bnode119authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode119authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85082898> . 
+_:bnode119authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode119authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode119authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85082898> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode127authoritiessubjectssh85082898 . 
+_:bnode127authoritiessubjectssh85082898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode127authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85082898> . 
+_:bnode127authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode127authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#createdDate> "1993-01-19T11:20:03"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85082898 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

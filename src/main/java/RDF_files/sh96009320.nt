@@ -1,0 +1,58 @@
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homophobia in higher education"@en . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96009320 . 
+_:bnode7authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96009320 . 
+_:bnode7authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96009320 <http://www.loc.gov/mads/rdf/v1#elementValue> "Homophobia in higher education"@en . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#classification> "LC212.86-LC212.863" . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041065> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Education, Higher"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh96009320 . 
+_:bnode18authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh96009320 . 
+_:bnode18authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh96009320 <http://www.loc.gov/mads/rdf/v1#elementValue> "Education, Higher"@en . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96009320" . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96009320> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96009320#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode30authoritiessubjectssh96009320 . 
+_:bnode30authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode30authoritiessubjectssh96009320 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Poisoned ivy, 1997:" . 
+_:bnode30authoritiessubjectssh96009320 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP galley (Homophobia in higher education)"@en . 
+_:bnode30authoritiessubjectssh96009320 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode38authoritiessubjectssh96009320 . 
+_:bnode38authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode38authoritiessubjectssh96009320 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-09-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode38authoritiessubjectssh96009320 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode38authoritiessubjectssh96009320 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode45authoritiessubjectssh96009320 . 
+_:bnode45authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode45authoritiessubjectssh96009320 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-07-13T09:40:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode45authoritiessubjectssh96009320 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode45authoritiessubjectssh96009320 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homophobia in higher education"@en . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041065> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041065> <http://www.w3.org/2004/02/skos/core#prefLabel> "Education, Higher"@en . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode61authoritiessubjectssh96009320 . 
+_:bnode61authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode61authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96009320> . 
+_:bnode61authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode61authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#createdDate> "1996-09-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96009320> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode69authoritiessubjectssh96009320 . 
+_:bnode69authoritiessubjectssh96009320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode69authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96009320> . 
+_:bnode69authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode69authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#createdDate> "2006-07-13T09:40:18"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode69authoritiessubjectssh96009320 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

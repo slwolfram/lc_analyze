@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sermons--History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh2002012029 . 
+_:bnode7authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002012026> . 
+_:bnode7authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh2002012026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002012026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012026> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sermons"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012026> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh2002012029 . 
+_:bnode12authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh2002012029 . 
+_:bnode12authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh2002012029 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sermons"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99001187> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh2002012029 . 
+_:bnode20authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh2002012029 . 
+_:bnode20authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh2002012029 <http://www.loc.gov/mads/rdf/v1#elementValue> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12263279k> . 
+<http://data.bnf.fr/ark:/12148/cb12263279k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12263279k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sermons -- Histoire et critique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh99001187> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh2002012029 . 
+_:bnode33authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh2002012029 . 
+_:bnode33authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh2002012029 <http://www.loc.gov/mads/rdf/v1#elementValue> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1095> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1110> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1151.5> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1185> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1187> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1188> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1200> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under names of individual persons and under sects of individual religions, Christian denominations, types of educational institutions, uniform titles of sacred works, individual wars, and topical headings for works that critically evaluate the style and/or contents of individual or collections of sermons on those subjects." . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2002012029" . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2002012029> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2002012029#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh2002012029 . 
+_:bnode54authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-11-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode54authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh2002012029 . 
+_:bnode62authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-06-06T08:05:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode62authoritiessubjectssh2002012029 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sermons--History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh99001187> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99001187> <http://www.w3.org/2004/02/skos/core#prefLabel> "History and criticism"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12263279k> . 
+<http://data.bnf.fr/ark:/12148/cb12263279k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12263279k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sermons -- Histoire et critique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under names of individual persons and under sects of individual religions, Christian denominations, types of educational institutions, uniform titles of sacred works, individual wars, and topical headings for works that critically evaluate the style and/or contents of individual or collections of sermons on those subjects." . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh2002012029 . 
+_:bnode86authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002012029> . 
+_:bnode86authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode86authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#createdDate> "2002-11-07T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2002012029> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh2002012029 . 
+_:bnode94authoritiessubjectssh2002012029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002012029> . 
+_:bnode94authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode94authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#createdDate> "2006-06-06T08:05:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh2002012029 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

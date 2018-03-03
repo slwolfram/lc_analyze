@@ -1,0 +1,97 @@
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh00006095 . 
+_:bnode7authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh00006095 . 
+_:bnode7authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh00006095 <http://www.loc.gov/mads/rdf/v1#elementValue> "Morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97003564> . 
+<http://id.loc.gov/authorities/subjects/sh97003564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003564> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Symmorphosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00006944> . 
+<http://id.loc.gov/authorities/subjects/sh00006944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006944> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photomorphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13167567b> . 
+<http://data.bnf.fr/ark:/12148/cb13167567b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13167567b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organogenèse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11945799q> . 
+<http://data.bnf.fr/ark:/12148/cb11945799q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11945799q> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Morphogenèse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/17439> . 
+<http://lod.nal.usda.gov/nalt/17439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/17439> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88002553> . 
+<http://id.loc.gov/authorities/subjects/sh88002553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88002553> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Domestic animals--Morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003001315> . 
+<http://id.loc.gov/authorities/subjects/sh2003001315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003001315> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tissue remodeling"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102778> . 
+<http://id.loc.gov/authorities/subjects/sh85102778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102778> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_Subdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_TopicSubdivisions> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1147> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_PatternHeadingH1180> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#note> "Use as a topical subdivision under individual animals and groups of animals and individual plants and groups of plants." . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Reference under the headings [Morphogenesis; Plant morphogenesis]" . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 00006095" . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh00006095> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh00006095#concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh00006095 . 
+_:bnode58authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-05-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode58authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh00006095 . 
+_:bnode66authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-02-28T09:57:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode66authoritiessubjectssh00006095 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97003564> . 
+<http://id.loc.gov/authorities/subjects/sh97003564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003564> <http://www.w3.org/2004/02/skos/core#prefLabel> "Symmorphosis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00006944> . 
+<http://id.loc.gov/authorities/subjects/sh00006944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006944> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photomorphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88002553> . 
+<http://id.loc.gov/authorities/subjects/sh88002553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88002553> <http://www.w3.org/2004/02/skos/core#prefLabel> "Domestic animals--Morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003001315> . 
+<http://id.loc.gov/authorities/subjects/sh2003001315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003001315> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tissue remodeling"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102778> . 
+<http://id.loc.gov/authorities/subjects/sh85102778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102778> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/17439> . 
+<http://lod.nal.usda.gov/nalt/17439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/17439> <http://www.w3.org/2004/02/skos/core#prefLabel> "morphogenesis"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13167567b> . 
+<http://data.bnf.fr/ark:/12148/cb13167567b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13167567b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organogenèse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11945799q> . 
+<http://data.bnf.fr/ark:/12148/cb11945799q> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11945799q> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morphogenèse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#note> "Use as a topical subdivision under individual animals and groups of animals and individual plants and groups of plants." . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#example> "Reference under the headings [Morphogenesis; Plant morphogenesis]" . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode122authoritiessubjectssh00006095 . 
+_:bnode122authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode122authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00006095> . 
+_:bnode122authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode122authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#createdDate> "2000-05-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode122authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh00006095> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode130authoritiessubjectssh00006095 . 
+_:bnode130authoritiessubjectssh00006095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode130authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh00006095> . 
+_:bnode130authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/ien> . 
+_:bnode130authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#createdDate> "2006-02-28T09:57:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode130authoritiessubjectssh00006095 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

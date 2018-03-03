@@ -1,0 +1,89 @@
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Secretion--Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85119449 . 
+_:bnode7authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00007948> . 
+_:bnode7authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh00007948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00007948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00007948> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Secretion"@en . 
+<http://id.loc.gov/authorities/subjects/sh00007948> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85119449 . 
+_:bnode12authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85119449 . 
+_:bnode12authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85119449 <http://www.loc.gov/mads/rdf/v1#elementValue> "Secretion"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002007662> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85119449 . 
+_:bnode20authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85119449 . 
+_:bnode20authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85119449 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85119449 . 
+_:bnode24authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85119449 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Regulation of secretion"@en . 
+_:bnode24authoritiessubjectssh85119449 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85119449 . 
+_:bnode29authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85119449 . 
+_:bnode29authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85119449 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regulation of secretion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014173> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85119449 . 
+_:bnode38authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85119449 . 
+_:bnode38authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85119449 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121432341> . 
+<http://data.bnf.fr/ark:/12148/cb121432341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121432341> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sécrétion -- Régulation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Secretion--Regulation] under individual chemicals and groups of chemicals, e.g. [Copper--Secretion--Regulation]" . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85119449" . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85119449> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85119449#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh85119449 . 
+_:bnode55authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh85119449 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh85119449 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh85119449 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh85119449 . 
+_:bnode62authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh85119449 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-10-17T07:55:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh85119449 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh85119449 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#prefLabel> "Secretion--Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode72authoritiessubjectssh85119449 . 
+_:bnode72authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode72authoritiessubjectssh85119449 <http://www.w3.org/2008/05/skos-xl#literalForm> "Regulation of secretion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#altLabel> "Regulation of secretion" . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014173> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121432341> . 
+<http://data.bnf.fr/ark:/12148/cb121432341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121432341> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sécrétion -- Régulation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Secretion--Regulation] under individual chemicals and groups of chemicals, e.g. [Copper--Secretion--Regulation]" . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2008/05/skos-xl#altLabel> "Regulation of secretion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh85119449 . 
+_:bnode94authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85119449> . 
+_:bnode94authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode94authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85119449> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh85119449 . 
+_:bnode102authoritiessubjectssh85119449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85119449> . 
+_:bnode102authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode102authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#createdDate> "2007-10-17T07:55:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh85119449 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

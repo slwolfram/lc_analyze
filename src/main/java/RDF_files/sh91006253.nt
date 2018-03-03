@@ -1,0 +1,62 @@
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zydeco musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh91006253 . 
+_:bnode7authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh91006253 . 
+_:bnode7authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh91006253 <http://www.loc.gov/mads/rdf/v1#elementValue> "Zydeco musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12494222t> . 
+<http://data.bnf.fr/ark:/12148/cb12494222t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12494222t> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musiciens de zydeco"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85089027> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh91006253 . 
+_:bnode20authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh91006253 . 
+_:bnode20authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh91006253 <http://www.loc.gov/mads/rdf/v1#elementValue> "Musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 91006253" . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh91006253> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh91006253#concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh91006253 . 
+_:bnode32authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh91006253 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Gould, P. Musical portraits in Cajun and Zydeco, c1992." . 
+_:bnode32authoritiessubjectssh91006253 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode38authoritiessubjectssh91006253 . 
+_:bnode38authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode38authoritiessubjectssh91006253 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-12-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode38authoritiessubjectssh91006253 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode38authoritiessubjectssh91006253 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode45authoritiessubjectssh91006253 . 
+_:bnode45authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode45authoritiessubjectssh91006253 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1992-01-30T10:58:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode45authoritiessubjectssh91006253 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode45authoritiessubjectssh91006253 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zydeco musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85089027> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12494222t> . 
+<http://data.bnf.fr/ark:/12148/cb12494222t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12494222t> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musiciens de zydeco"@fr . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode66authoritiessubjectssh91006253 . 
+_:bnode66authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode66authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91006253> . 
+_:bnode66authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode66authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#createdDate> "1991-12-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh91006253> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode74authoritiessubjectssh91006253 . 
+_:bnode74authoritiessubjectssh91006253 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode74authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh91006253> . 
+_:bnode74authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode74authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#createdDate> "1992-01-30T10:58:40"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh91006253 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

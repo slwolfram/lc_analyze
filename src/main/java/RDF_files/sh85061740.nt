@@ -1,0 +1,96 @@
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homestead law--United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85061740 . 
+_:bnode7authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85061739> . 
+_:bnode7authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85061739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061739> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homestead law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061739> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85061740 . 
+_:bnode12authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85061740 . 
+_:bnode12authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementValue> "Homestead law"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n78095330> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "United States"@en . 
+<http://id.loc.gov/authorities/names/n78095330> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85061740 . 
+_:bnode20authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85061740 . 
+_:bnode20authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode21authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementValue> "United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85061740 . 
+_:bnode24authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Land scrip (United States)"@en . 
+_:bnode24authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85061740 . 
+_:bnode29authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85061740 . 
+_:bnode29authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementValue> "Land scrip (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85061740 . 
+_:bnode33authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Scrip, Land (United States)"@en . 
+_:bnode33authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85061740 . 
+_:bnode38authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85061740 . 
+_:bnode38authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementValue> "Scrip, Land (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12227275b> . 
+<http://data.bnf.fr/ark:/12148/cb12227275b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12227275b> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homestead"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106159> . 
+<http://id.loc.gov/authorities/subjects/sh85106159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106159> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pre-emption rights (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85108694> . 
+<http://id.loc.gov/authorities/subjects/sh85108694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108694> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public lands"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108694> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85061740 . 
+_:bnode55authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85061740 . 
+_:bnode55authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85061740 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public lands"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85061740" . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85061740> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85061740#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85061740 . 
+_:bnode66authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85061740 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85061740 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85061740 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homestead law--United States"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode76authoritiessubjectssh85061740 . 
+_:bnode76authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode76authoritiessubjectssh85061740 <http://www.w3.org/2008/05/skos-xl#literalForm> "Land scrip (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#altLabel> "Land scrip (United States)" . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode83authoritiessubjectssh85061740 . 
+_:bnode83authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode83authoritiessubjectssh85061740 <http://www.w3.org/2008/05/skos-xl#literalForm> "Scrip, Land (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#altLabel> "Scrip, Land (United States)" . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85108694> . 
+<http://id.loc.gov/authorities/subjects/sh85108694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108694> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public lands"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106159> . 
+<http://id.loc.gov/authorities/subjects/sh85106159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pre-emption rights (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12227275b> . 
+<http://data.bnf.fr/ark:/12148/cb12227275b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12227275b> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homestead"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2008/05/skos-xl#altLabel> "Land scrip (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2008/05/skos-xl#altLabel> "Scrip, Land (United States)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061740> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode110authoritiessubjectssh85061740 . 
+_:bnode110authoritiessubjectssh85061740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode110authoritiessubjectssh85061740 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061740> . 
+_:bnode110authoritiessubjectssh85061740 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode110authoritiessubjectssh85061740 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode110authoritiessubjectssh85061740 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

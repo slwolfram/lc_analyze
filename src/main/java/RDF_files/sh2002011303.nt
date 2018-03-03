@@ -1,0 +1,109 @@
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Raw milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2002011303 . 
+_:bnode7authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2002011303 . 
+_:bnode7authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Raw milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2002011303 . 
+_:bnode11authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Unpasteurized milk"@en . 
+_:bnode11authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2002011303 . 
+_:bnode16authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2002011303 . 
+_:bnode16authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Unpasteurized milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85085317> . 
+<http://id.loc.gov/authorities/subjects/sh85085317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85085317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085317> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh85085317> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2002011303 . 
+_:bnode25authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2002011303 . 
+_:bnode25authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#elementValue> "Milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/31637> . 
+<http://lod.nal.usda.gov/nalt/31637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/31637> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "raw milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2002011303" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2002011303> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2002011303#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh2002011303 . 
+_:bnode41authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Vachon, C. Pour l'amour du bon lait, 2002:" . 
+_:bnode41authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 21 (\"En effet, à la fin du XIXe siècle, les épidémilogistes affirmaient que la consommation de lait cru était contraire à la bonne santé.\")"@en . 
+_:bnode41authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh2002011303 . 
+_:bnode49authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3:" . 
+_:bnode49authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 1887 (raw milk: milk that has not been pasteurized)"@en . 
+_:bnode49authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh2002011303 . 
+_:bnode57authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "British Columbia Ministry of Health WWW site, Nov. 15, 2002" . 
+_:bnode57authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "(raw milk \"is unprocessed milk that is drunk just as it comes from the cow, goat or sheep\")"@en . 
+_:bnode57authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode65authoritiessubjectssh2002011303 . 
+_:bnode65authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode65authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "RawMilk.org WWW site, Nov. 15, 2002" . 
+_:bnode65authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "(raw milk)"@en . 
+_:bnode65authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode73authoritiessubjectssh2002011303 . 
+_:bnode73authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode73authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "Food Safety Network Canada WWW site, Nov. 15, 2002" . 
+_:bnode73authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "(raw (unpasteurized) milk)"@en . 
+_:bnode73authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode81authoritiessubjectssh2002011303 . 
+_:bnode81authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode81authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "iGourmet WWW site, Nov. 15, 2002" . 
+_:bnode81authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "(\"The Raw Milk Debate: Unpasteurized milk, also called raw milk, is simply milk that has not been pasteurized.\")"@en . 
+_:bnode81authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode89authoritiessubjectssh2002011303 . 
+_:bnode89authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode89authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-source> "NLC database, Nov. 15, 2002" . 
+_:bnode89authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-note> "(raw milk)"@en . 
+_:bnode89authoritiessubjectssh2002011303 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode97authoritiessubjectssh2002011303 . 
+_:bnode97authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode97authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-11-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode97authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/caoonl> . 
+_:bnode97authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh2002011303 . 
+_:bnode105authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-01-09T10:48:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/caoonl> . 
+_:bnode105authoritiessubjectssh2002011303 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Raw milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode116authoritiessubjectssh2002011303 . 
+_:bnode116authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode116authoritiessubjectssh2002011303 <http://www.w3.org/2008/05/skos-xl#literalForm> "Unpasteurized milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#altLabel> "Unpasteurized milk" . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85085317> . 
+<http://id.loc.gov/authorities/subjects/sh85085317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085317> <http://www.w3.org/2004/02/skos/core#prefLabel> "Milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/31637> . 
+<http://lod.nal.usda.gov/nalt/31637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/31637> <http://www.w3.org/2004/02/skos/core#prefLabel> "raw milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2008/05/skos-xl#altLabel> "Unpasteurized milk"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode136authoritiessubjectssh2002011303 . 
+_:bnode136authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode136authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002011303> . 
+_:bnode136authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/caoonl> . 
+_:bnode136authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#createdDate> "2002-11-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode136authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2002011303> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode144authoritiessubjectssh2002011303 . 
+_:bnode144authoritiessubjectssh2002011303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode144authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002011303> . 
+_:bnode144authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/caoonl> . 
+_:bnode144authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#createdDate> "2003-01-09T10:48:05"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode144authoritiessubjectssh2002011303 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

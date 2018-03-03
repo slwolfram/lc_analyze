@@ -1,0 +1,102 @@
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Legumes as food"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85075877 . 
+_:bnode7authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85075877 . 
+_:bnode7authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#elementValue> "Legumes as food"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85075877 . 
+_:bnode11authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Food legumes"@en . 
+_:bnode11authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85075877 . 
+_:bnode16authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85075877 . 
+_:bnode16authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#elementValue> "Food legumes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#classification> "TX558.L4" . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85105033> . 
+<http://id.loc.gov/authorities/subjects/sh85105033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105033> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Porridge"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4186268-5> . 
+<http://d-nb.info/gnd/4186268-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4186268-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Trockengemüse"@de . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119520878> . 
+<http://data.bnf.fr/ark:/12148/cb119520878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119520878> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Légumes secs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4020803-5> . 
+<http://d-nb.info/gnd/4020803-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4020803-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hülsenfrucht"@de . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/16205> . 
+<http://lod.nal.usda.gov/nalt/16205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/16205> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "legumes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85050184> . 
+<http://id.loc.gov/authorities/subjects/sh85050184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050184> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Food"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050184> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85075877 . 
+_:bnode47authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85075877 . 
+_:bnode47authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#elementValue> "Food"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85075877" . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85075877> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85075877#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode59authoritiessubjectssh85075877 . 
+_:bnode59authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode59authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 1/12/90" . 
+_:bnode59authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#citation-note> "(food legumes)"@en . 
+_:bnode59authoritiessubjectssh85075877 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode67authoritiessubjectssh85075877 . 
+_:bnode67authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode67authoritiessubjectssh85075877 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode67authoritiessubjectssh85075877 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode67authoritiessubjectssh85075877 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode74authoritiessubjectssh85075877 . 
+_:bnode74authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode74authoritiessubjectssh85075877 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-07-21T07:55:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode74authoritiessubjectssh85075877 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode74authoritiessubjectssh85075877 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legumes as food"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode84authoritiessubjectssh85075877 . 
+_:bnode84authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode84authoritiessubjectssh85075877 <http://www.w3.org/2008/05/skos-xl#literalForm> "Food legumes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#altLabel> "Food legumes" . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85050184> . 
+<http://id.loc.gov/authorities/subjects/sh85050184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050184> <http://www.w3.org/2004/02/skos/core#prefLabel> "Food"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85105033> . 
+<http://id.loc.gov/authorities/subjects/sh85105033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105033> <http://www.w3.org/2004/02/skos/core#prefLabel> "Porridge"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4186268-5> . 
+<http://d-nb.info/gnd/4186268-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4186268-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockengemüse"@de . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119520878> . 
+<http://data.bnf.fr/ark:/12148/cb119520878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119520878> <http://www.w3.org/2004/02/skos/core#prefLabel> "Légumes secs"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4020803-5> . 
+<http://d-nb.info/gnd/4020803-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4020803-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hülsenfrucht"@de . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/16205> . 
+<http://lod.nal.usda.gov/nalt/16205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/16205> <http://www.w3.org/2004/02/skos/core#prefLabel> "legumes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2008/05/skos-xl#altLabel> "Food legumes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode124authoritiessubjectssh85075877 . 
+_:bnode124authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode124authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85075877> . 
+_:bnode124authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode124authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode124authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85075877> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode132authoritiessubjectssh85075877 . 
+_:bnode132authoritiessubjectssh85075877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode132authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85075877> . 
+_:bnode132authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode132authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#createdDate> "2010-07-21T07:55:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode132authoritiessubjectssh85075877 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

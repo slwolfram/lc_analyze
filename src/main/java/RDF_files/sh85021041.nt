@@ -1,0 +1,71 @@
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85021041 . 
+_:bnode7authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85021041 . 
+_:bnode7authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85021041 <http://www.loc.gov/mads/rdf/v1#elementValue> "Catholic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004150289> . 
+<http://id.loc.gov/authorities/subjects/sh2004150289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004150289> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Catholic women authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11971145s> . 
+<http://data.bnf.fr/ark:/12148/cb11971145s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11971145s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Écrivains catholiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb121294489> . 
+<http://data.bnf.fr/ark:/12148/cb121294489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb121294489> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Auteurs catholiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85009793> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh85021041 . 
+_:bnode28authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh85021041 . 
+_:bnode28authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh85021041 <http://www.loc.gov/mads/rdf/v1#elementValue> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Catholic authors] under names of literatures, e.g. [American literature--Catholic authors]" . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85021041" . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85021041> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85021041#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh85021041 . 
+_:bnode41authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh85021041 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh85021041 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh85021041 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode48authoritiessubjectssh85021041 . 
+_:bnode48authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode48authoritiessubjectssh85021041 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2016-10-12T08:18:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode48authoritiessubjectssh85021041 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode48authoritiessubjectssh85021041 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catholic authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85009793> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004150289> . 
+<http://id.loc.gov/authorities/subjects/sh2004150289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004150289> <http://www.w3.org/2004/02/skos/core#prefLabel> "Catholic women authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11971145s> . 
+<http://data.bnf.fr/ark:/12148/cb11971145s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11971145s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Écrivains catholiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb121294489> . 
+<http://data.bnf.fr/ark:/12148/cb121294489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb121294489> <http://www.w3.org/2004/02/skos/core#prefLabel> "Auteurs catholiques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Catholic authors] under names of literatures, e.g. [American literature--Catholic authors]" . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode81authoritiessubjectssh85021041 . 
+_:bnode81authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode81authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85021041> . 
+_:bnode81authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode81authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85021041> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh85021041 . 
+_:bnode89authoritiessubjectssh85021041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85021041> . 
+_:bnode89authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode89authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#createdDate> "2016-10-12T08:18:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85021041 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

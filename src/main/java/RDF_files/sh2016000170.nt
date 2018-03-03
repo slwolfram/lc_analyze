@@ -1,0 +1,78 @@
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jicarilla art"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2016000170 . 
+_:bnode7authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2016000170 . 
+_:bnode7authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jicarilla art"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2016000170 . 
+_:bnode11authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Art, Jicarilla"@en . 
+_:bnode11authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2016000170 . 
+_:bnode16authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2016000170 . 
+_:bnode16authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Art, Jicarilla"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85007537> . 
+<http://id.loc.gov/authorities/subjects/sh85007537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85007537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85007537> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Art, American"@en . 
+<http://id.loc.gov/authorities/subjects/sh85007537> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2016000170 . 
+_:bnode25authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2016000170 . 
+_:bnode25authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#elementValue> "Art, American"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2016000170" . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2016000170> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2016000170#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh2016000170 . 
+_:bnode37authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat: Herold, Joyce. Jicarilla Apache artist-realists, 1932-1997, c1998" . 
+_:bnode37authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Surveys and illustrates the work of Jicarilla Apache artists working in the realistic tradition from the period of circa 1932 to the present, some of whom achieved a fair level of public recognition and others of whom are known primarily within their own community)"@en . 
+_:bnode37authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh2016000170 . 
+_:bnode45authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#citation-source> "Vicenti, Carson. The \"Apache basketmaker 2000\" series, 1998" . 
+_:bnode45authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#citation-note> "(featuring reproductions of paintings of Jicarilla Apache basket designs which the Jicarilla artist created from Dec. 1997-June 1998)"@en . 
+_:bnode45authoritiessubjectssh2016000170 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode53authoritiessubjectssh2016000170 . 
+_:bnode53authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode53authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2016-01-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode53authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode53authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode53authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh2016000170 . 
+_:bnode61authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2016-07-14T05:43:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode61authoritiessubjectssh2016000170 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jicarilla art"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode72authoritiessubjectssh2016000170 . 
+_:bnode72authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode72authoritiessubjectssh2016000170 <http://www.w3.org/2008/05/skos-xl#literalForm> "Art, Jicarilla"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2004/02/skos/core#altLabel> "Art, Jicarilla" . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85007537> . 
+<http://id.loc.gov/authorities/subjects/sh85007537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85007537> <http://www.w3.org/2004/02/skos/core#prefLabel> "Art, American"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2008/05/skos-xl#altLabel> "Art, Jicarilla"@en . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh2016000170 . 
+_:bnode87authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2016000170> . 
+_:bnode87authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode87authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#createdDate> "2016-01-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2016000170> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh2016000170 . 
+_:bnode95authoritiessubjectssh2016000170 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2016000170> . 
+_:bnode95authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/azphbjb> . 
+_:bnode95authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#createdDate> "2016-07-14T05:43:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh2016000170 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

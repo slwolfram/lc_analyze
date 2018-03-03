@@ -1,0 +1,122 @@
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85015963 . 
+_:bnode7authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85015963 . 
+_:bnode7authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#elementValue> "Botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85015963 . 
+_:bnode11authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Botanic gardens"@en . 
+_:bnode11authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85015963 . 
+_:bnode16authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85015963 . 
+_:bnode16authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#elementValue> "Botanic gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#classification> "QK71-QK73" . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85053101> . 
+<http://id.loc.gov/authorities/subjects/sh85053101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85053101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053101> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85053101> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85015963 . 
+_:bnode27authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85015963 . 
+_:bnode27authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/18781> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4146403-5> . 
+<http://d-nb.info/gnd/4146403-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4146403-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Botanischer Garten"@de . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/18781> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85006465> . 
+<http://id.loc.gov/authorities/subjects/sh85006465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85006465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006465> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Arboretums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85006465> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85015963 . 
+_:bnode48authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85015963 . 
+_:bnode48authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#elementValue> "Arboretums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11933871x> . 
+<http://data.bnf.fr/ark:/12148/cb11933871x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11933871x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jardins botaniques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85113043> . 
+<http://id.loc.gov/authorities/subjects/sh85113043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85113043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113043> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Research institutes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85113043> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85015963 . 
+_:bnode61authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85015963 . 
+_:bnode61authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#elementValue> "Research institutes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#editorialNote> "names of individual botanical gardens" . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85015963" . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85015963> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85015963#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode75authoritiessubjectssh85015963 . 
+_:bnode75authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode75authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode75authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#citation-note> "(botanical garden for the exhibition and scientific study of collected, growing plants, usually in association with greenhouses, herbariums, laboratories, etc. Also called botanic garden)"@en . 
+_:bnode75authoritiessubjectssh85015963 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85015963 . 
+_:bnode83authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85015963 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85015963 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85015963 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode90authoritiessubjectssh85015963 . 
+_:bnode90authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode90authoritiessubjectssh85015963 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-08-17T16:17:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh85015963 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode90authoritiessubjectssh85015963 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode100authoritiessubjectssh85015963 . 
+_:bnode100authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode100authoritiessubjectssh85015963 <http://www.w3.org/2008/05/skos-xl#literalForm> "Botanic gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#altLabel> "Botanic gardens" . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85053101> . 
+<http://id.loc.gov/authorities/subjects/sh85053101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053101> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85113043> . 
+<http://id.loc.gov/authorities/subjects/sh85113043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Research institutes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85006465> . 
+<http://id.loc.gov/authorities/subjects/sh85006465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arboretums"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/18781> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.w3.org/2004/02/skos/core#prefLabel> "botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4146403-5> . 
+<http://d-nb.info/gnd/4146403-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4146403-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botanischer Garten"@de . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/18781> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/18781> <http://www.w3.org/2004/02/skos/core#prefLabel> "botanical gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11933871x> . 
+<http://data.bnf.fr/ark:/12148/cb11933871x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11933871x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jardins botaniques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#editorial> "names of individual botanical gardens" . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2008/05/skos-xl#altLabel> "Botanic gardens"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode147authoritiessubjectssh85015963 . 
+_:bnode147authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode147authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85015963> . 
+_:bnode147authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode147authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85015963> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode155authoritiessubjectssh85015963 . 
+_:bnode155authoritiessubjectssh85015963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode155authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85015963> . 
+_:bnode155authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode155authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#createdDate> "1998-08-17T16:17:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode155authoritiessubjectssh85015963 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

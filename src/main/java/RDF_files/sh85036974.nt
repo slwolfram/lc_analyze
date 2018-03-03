@@ -1,0 +1,110 @@
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85036974 . 
+_:bnode7authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85036974 . 
+_:bnode7authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85036974 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#classification> "RK" . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4067303-0> . 
+<http://d-nb.info/gnd/4067303-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4067303-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Zahnarzt"@de . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099924> . 
+<http://id.loc.gov/authorities/subjects/sh85099924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099924> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Periodontists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85043077> . 
+<http://id.loc.gov/authorities/subjects/sh85043077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85043077> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Endodontists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85036910> . 
+<http://id.loc.gov/authorities/subjects/sh85036910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85036910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036910> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dental personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036910> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode30authoritiessubjectssh85036974 . 
+_:bnode30authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode31authoritiessubjectssh85036974 . 
+_:bnode30authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode31authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode31authoritiessubjectssh85036974 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dental personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11949285m> . 
+<http://data.bnf.fr/ark:/12148/cb11949285m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11949285m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dentistes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/32380> . 
+<http://lod.nal.usda.gov/nalt/32380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/32380> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004286> . 
+<http://id.loc.gov/authorities/subjects/sh90004286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004286> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stomatologists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147515> . 
+<http://id.loc.gov/authorities/subjects/sh85147515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147515> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095250> . 
+<http://id.loc.gov/authorities/subjects/sh85095250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095250> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oral surgeons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011001845> . 
+<http://id.loc.gov/authorities/subjects/sh2011001845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011001845> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Indian dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00005539> . 
+<http://id.loc.gov/authorities/subjects/sh00005539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005539> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85095776> . 
+<http://id.loc.gov/authorities/subjects/sh85095776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095776> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Orthodontists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/1769> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85036974" . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85036974> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85036974#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85036974 . 
+_:bnode75authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85036974 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85036974 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85036974 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85036910> . 
+<http://id.loc.gov/authorities/subjects/sh85036910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036910> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dental personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099924> . 
+<http://id.loc.gov/authorities/subjects/sh85099924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099924> <http://www.w3.org/2004/02/skos/core#prefLabel> "Periodontists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85043077> . 
+<http://id.loc.gov/authorities/subjects/sh85043077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85043077> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endodontists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004286> . 
+<http://id.loc.gov/authorities/subjects/sh90004286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004286> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stomatologists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147515> . 
+<http://id.loc.gov/authorities/subjects/sh85147515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147515> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095250> . 
+<http://id.loc.gov/authorities/subjects/sh85095250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oral surgeons"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011001845> . 
+<http://id.loc.gov/authorities/subjects/sh2011001845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011001845> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indian dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00005539> . 
+<http://id.loc.gov/authorities/subjects/sh00005539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005539> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85095776> . 
+<http://id.loc.gov/authorities/subjects/sh85095776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095776> <http://www.w3.org/2004/02/skos/core#prefLabel> "Orthodontists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/32380> . 
+<http://lod.nal.usda.gov/nalt/32380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/32380> <http://www.w3.org/2004/02/skos/core#prefLabel> "dentists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/1769> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4067303-0> . 
+<http://d-nb.info/gnd/4067303-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4067303-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zahnarzt"@de . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11949285m> . 
+<http://data.bnf.fr/ark:/12148/cb11949285m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11949285m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dentistes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85036974> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode147authoritiessubjectssh85036974 . 
+_:bnode147authoritiessubjectssh85036974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode147authoritiessubjectssh85036974 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85036974> . 
+_:bnode147authoritiessubjectssh85036974 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode147authoritiessubjectssh85036974 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85036974 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

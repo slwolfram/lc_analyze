@@ -1,0 +1,124 @@
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85077748 . 
+_:bnode7authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85077748 . 
+_:bnode7authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85077748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#classification> "QL867" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#classification> "QM351" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#classification> "QP185" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008193> . 
+<http://id.loc.gov/authorities/subjects/sh85008193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Artificial liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014021> . 
+<http://id.loc.gov/authorities/subjects/sh85014021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014021> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biliary tract"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014021> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode26authoritiessubjectssh85077748 . 
+_:bnode26authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode27authoritiessubjectssh85077748 . 
+_:bnode26authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode27authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode27authoritiessubjectssh85077748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biliary tract"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85024637> . 
+<http://id.loc.gov/authorities/subjects/sh85024637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85024637> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cholagogues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119338410> . 
+<http://data.bnf.fr/ark:/12148/cb119338410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119338410> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Foie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/9344> . 
+<http://lod.nal.usda.gov/nalt/9344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/9344> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/4110> . 
+<http://purl.org/bncf/tid/4110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/4110> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fegato"@it . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85000091> . 
+<http://id.loc.gov/authorities/subjects/sh85000091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85000091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000091> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Abdomen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000091> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85077748 . 
+_:bnode51authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85077748 . 
+_:bnode51authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85077748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Abdomen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4034933-0> . 
+<http://d-nb.info/gnd/4034933-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4034933-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Leber"@de . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077772> . 
+<http://id.loc.gov/authorities/subjects/sh85077772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077772> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Liver cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044082> . 
+<http://id.loc.gov/authorities/subjects/sh85044082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044082> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Enterohepatic circulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86002860> . 
+<http://id.loc.gov/authorities/subjects/sh86002860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86002860> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Foie gras"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Glands]" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#editorialNote> "headings beginning with the word [Hepatic]" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85077748" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85077748> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85077748#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode82authoritiessubjectssh85077748 . 
+_:bnode82authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode82authoritiessubjectssh85077748 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh85077748 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode82authoritiessubjectssh85077748 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode89authoritiessubjectssh85077748 . 
+_:bnode89authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode89authoritiessubjectssh85077748 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-06-12T07:57:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85077748 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode89authoritiessubjectssh85077748 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014021> . 
+<http://id.loc.gov/authorities/subjects/sh85014021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014021> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biliary tract"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85000091> . 
+<http://id.loc.gov/authorities/subjects/sh85000091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000091> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abdomen"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008193> . 
+<http://id.loc.gov/authorities/subjects/sh85008193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artificial liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85024637> . 
+<http://id.loc.gov/authorities/subjects/sh85024637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85024637> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cholagogues"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077772> . 
+<http://id.loc.gov/authorities/subjects/sh85077772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liver cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044082> . 
+<http://id.loc.gov/authorities/subjects/sh85044082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enterohepatic circulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86002860> . 
+<http://id.loc.gov/authorities/subjects/sh86002860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86002860> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foie gras"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/9344> . 
+<http://lod.nal.usda.gov/nalt/9344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/9344> <http://www.w3.org/2004/02/skos/core#prefLabel> "liver"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119338410> . 
+<http://data.bnf.fr/ark:/12148/cb119338410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119338410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Foie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/4110> . 
+<http://purl.org/bncf/tid/4110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/4110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fegato"@it . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4034933-0> . 
+<http://d-nb.info/gnd/4034933-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4034933-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leber"@de . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#editorial> "headings beginning with the word [Hepatic]" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#example> "Example under [Glands]" . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode159authoritiessubjectssh85077748 . 
+_:bnode159authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode159authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85077748> . 
+_:bnode159authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode159authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode159authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85077748> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode167authoritiessubjectssh85077748 . 
+_:bnode167authoritiessubjectssh85077748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode167authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85077748> . 
+_:bnode167authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode167authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#createdDate> "2010-06-12T07:57:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode167authoritiessubjectssh85077748 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

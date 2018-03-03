@@ -1,0 +1,92 @@
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cancer cells--Growth--Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85019551 . 
+_:bnode7authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85019549> . 
+_:bnode7authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85019549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85019549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cancer cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019549> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85019551 . 
+_:bnode12authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85019551 . 
+_:bnode12authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cancer cells"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005987> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode023 . 
+<http://id.loc.gov/authorities/subjects/sh00005987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005987> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005987> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85019551 . 
+_:bnode20authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85019551 . 
+_:bnode20authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementValue> "Growth"@en . 
+_:bnode023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002007662> . 
+_:bnode023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002007662> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh85019551 . 
+_:bnode28authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh85019551 . 
+_:bnode28authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode32authoritiessubjectssh85019551 . 
+_:bnode32authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode32authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode32authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Regulation of cancer cell growth"@en . 
+_:bnode32authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode37authoritiessubjectssh85019551 . 
+_:bnode37authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh85019551 . 
+_:bnode37authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode38authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regulation of cancer cell growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85014173> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode46authoritiessubjectssh85019551 . 
+_:bnode46authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh85019551 . 
+_:bnode46authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode47authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85021693> . 
+<http://id.loc.gov/authorities/subjects/sh85021693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021693> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cellular control mechanisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021693> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85019551 . 
+_:bnode55authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85019551 . 
+_:bnode55authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85019551 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cellular control mechanisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85019551" . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85019551> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85019551#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85019551 . 
+_:bnode66authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85019551 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85019551 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85019551 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cancer cells--Growth--Regulation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode76authoritiessubjectssh85019551 . 
+_:bnode76authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode76authoritiessubjectssh85019551 <http://www.w3.org/2008/05/skos-xl#literalForm> "Regulation of cancer cell growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2004/02/skos/core#altLabel> "Regulation of cancer cell growth" . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85014173> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biological control systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85021693> . 
+<http://id.loc.gov/authorities/subjects/sh85021693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021693> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cellular control mechanisms"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2008/05/skos-xl#altLabel> "Regulation of cancer cell growth"@en . 
+<http://id.loc.gov/authorities/subjects/sh85019551> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode96authoritiessubjectssh85019551 . 
+_:bnode96authoritiessubjectssh85019551 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode96authoritiessubjectssh85019551 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85019551> . 
+_:bnode96authoritiessubjectssh85019551 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode96authoritiessubjectssh85019551 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh85019551 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

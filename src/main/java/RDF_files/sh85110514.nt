@@ -1,0 +1,129 @@
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85110514 . 
+_:bnode7authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85110514 . 
+_:bnode7authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85110514 . 
+_:bnode11authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Radio broadcasting of news"@en . 
+_:bnode11authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85110514 . 
+_:bnode16authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85110514 . 
+_:bnode16authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio broadcasting of news"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85110514 . 
+_:bnode20authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Radio news"@en . 
+_:bnode20authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85110514 . 
+_:bnode25authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85110514 . 
+_:bnode25authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio news"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#classification> "PN4784.R2" . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13591993v> . 
+<http://data.bnf.fr/ark:/12148/cb13591993v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13591993v> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio -- Émissions de nouvelles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/48884> . 
+<http://purl.org/bncf/tid/48884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/48884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Giornalismo radiofonico"@it . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091569> . 
+<http://id.loc.gov/authorities/subjects/sh85091569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091569> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "News radio stations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101075> . 
+<http://id.loc.gov/authorities/subjects/sh85101075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101075> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Audiotapes in radio journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85110448> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Radio broadcasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85110514 . 
+_:bnode52authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85110514 . 
+_:bnode52authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementValue> "Radio broadcasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85017001> . 
+<http://id.loc.gov/authorities/subjects/sh85017001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85017001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017001> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Broadcast journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85017001> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85110514 . 
+_:bnode61authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85110514 . 
+_:bnode61authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85110514 <http://www.loc.gov/mads/rdf/v1#elementValue> "Broadcast journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091570> . 
+<http://id.loc.gov/authorities/subjects/sh85091570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091570> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "News recordings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4127995-5> . 
+<http://d-nb.info/gnd/4127995-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4127995-5> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nachrichtensendung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85110514" . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85110514> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85110514#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode81authoritiessubjectssh85110514 . 
+_:bnode81authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode81authoritiessubjectssh85110514 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode81authoritiessubjectssh85110514 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode81authoritiessubjectssh85110514 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh85110514 . 
+_:bnode88authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh85110514 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-02-20T07:56:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh85110514 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh85110514 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode98authoritiessubjectssh85110514 . 
+_:bnode98authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode98authoritiessubjectssh85110514 <http://www.w3.org/2008/05/skos-xl#literalForm> "Radio broadcasting of news"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#altLabel> "Radio broadcasting of news" . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode105authoritiessubjectssh85110514 . 
+_:bnode105authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode105authoritiessubjectssh85110514 <http://www.w3.org/2008/05/skos-xl#literalForm> "Radio news"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#altLabel> "Radio news" . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85110448> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110448> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio broadcasting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85017001> . 
+<http://id.loc.gov/authorities/subjects/sh85017001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017001> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broadcast journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091569> . 
+<http://id.loc.gov/authorities/subjects/sh85091569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091569> <http://www.w3.org/2004/02/skos/core#prefLabel> "News radio stations"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101075> . 
+<http://id.loc.gov/authorities/subjects/sh85101075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101075> <http://www.w3.org/2004/02/skos/core#prefLabel> "Audiotapes in radio journalism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091570> . 
+<http://id.loc.gov/authorities/subjects/sh85091570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091570> <http://www.w3.org/2004/02/skos/core#prefLabel> "News recordings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13591993v> . 
+<http://data.bnf.fr/ark:/12148/cb13591993v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13591993v> <http://www.w3.org/2004/02/skos/core#prefLabel> "Radio -- Émissions de nouvelles"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/48884> . 
+<http://purl.org/bncf/tid/48884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/48884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giornalismo radiofonico"@it . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4127995-5> . 
+<http://d-nb.info/gnd/4127995-5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4127995-5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nachrichtensendung"@de . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2008/05/skos-xl#altLabel> "Radio broadcasting of news"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2008/05/skos-xl#altLabel> "Radio news"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode157authoritiessubjectssh85110514 . 
+_:bnode157authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode157authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85110514> . 
+_:bnode157authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode157authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode157authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85110514> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode165authoritiessubjectssh85110514 . 
+_:bnode165authoritiessubjectssh85110514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode165authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85110514> . 
+_:bnode165authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode165authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#createdDate> "2010-02-20T07:56:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode165authoritiessubjectssh85110514 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

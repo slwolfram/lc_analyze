@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Molecular biotechnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2007006432 . 
+_:bnode7authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2007006432 . 
+_:bnode7authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#elementValue> "Molecular biotechnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00007765> . 
+<http://id.loc.gov/authorities/subjects/sh00007765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00007765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00007765> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Biotechnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh00007765> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2007006432 . 
+_:bnode16authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2007006432 . 
+_:bnode16authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#elementValue> "Biotechnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017003525> . 
+<http://id.loc.gov/authorities/subjects/sh2017003525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017003525> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Molecular machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2007006432" . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2007006432> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2007006432#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh2007006432 . 
+_:bnode32authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Biotechnology, 1990:" . 
+_:bnode32authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 117 (molecular techniques such as recombinant DNA technology may ultimately have their most important impact on agriculture)"@en . 
+_:bnode32authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh2007006432 . 
+_:bnode40authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-source> "Molecular biotechnology : principles and practices, c2007:" . 
+_:bnode40authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-note> "preface (two important aspects of molecular biotechnology science: first, principles of molecular biology, second, practices in molecular biology) p. 4 of cover (wide range of molecular technques in biotechnology)"@en . 
+_:bnode40authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh2007006432 . 
+_:bnode48authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-source> "Marine biotechnology I, 2005:" . 
+_:bnode48authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 17 (molecular techniques such as proteome analysis)"@en . 
+_:bnode48authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh2007006432 . 
+_:bnode56authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-source> "Molecular analysis of cancer, 2002:" . 
+_:bnode56authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-note> "p. 4 of cover (Molecular biotechnolgy has in recent years made significant advances in finding tumor markers; state-of-the-art molecular techniques)"@en . 
+_:bnode56authoritiessubjectssh2007006432 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh2007006432 . 
+_:bnode64authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2007-08-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/viu> . 
+_:bnode64authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh2007006432 . 
+_:bnode72authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-09-10T07:56:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/viu> . 
+_:bnode72authoritiessubjectssh2007006432 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molecular biotechnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00007765> . 
+<http://id.loc.gov/authorities/subjects/sh00007765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00007765> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biotechnology"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017003525> . 
+<http://id.loc.gov/authorities/subjects/sh2017003525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017003525> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molecular machinery"@en . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh2007006432 . 
+_:bnode94authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2007006432> . 
+_:bnode94authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/viu> . 
+_:bnode94authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#createdDate> "2007-08-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2007006432> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh2007006432 . 
+_:bnode102authoritiessubjectssh2007006432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2007006432> . 
+_:bnode102authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/viu> . 
+_:bnode102authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#createdDate> "2010-09-10T07:56:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh2007006432 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

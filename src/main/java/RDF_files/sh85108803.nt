@@ -1,0 +1,71 @@
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public schools--Business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85108803 . 
+_:bnode7authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85108801> . 
+_:bnode7authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85108801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108801> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108801> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85108803 . 
+_:bnode12authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85108803 . 
+_:bnode12authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85108803 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public schools"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002007918> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002007918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002007918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002007918> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002007918> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85108803 . 
+_:bnode20authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85108803 . 
+_:bnode20authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85108803 <http://www.loc.gov/mads/rdf/v1#elementValue> "Business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85108803 . 
+_:bnode24authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85108803 <http://www.loc.gov/mads/rdf/v1#variantLabel> "School business management"@en . 
+_:bnode24authoritiessubjectssh85108803 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85108803 . 
+_:bnode29authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85108803 . 
+_:bnode29authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85108803 <http://www.loc.gov/mads/rdf/v1#elementValue> "School business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#classification> "LB2823.5" . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85118362> . 
+<http://id.loc.gov/authorities/subjects/sh85118362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85118362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118362> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "School management and organization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85118362> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode40authoritiessubjectssh85108803 . 
+_:bnode40authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh85108803 . 
+_:bnode40authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode41authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode41authoritiessubjectssh85108803 <http://www.loc.gov/mads/rdf/v1#elementValue> "School management and organization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85108803" . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85108803> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85108803#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85108803 . 
+_:bnode51authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85108803 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85108803 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85108803 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public schools--Business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode61authoritiessubjectssh85108803 . 
+_:bnode61authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode61authoritiessubjectssh85108803 <http://www.w3.org/2008/05/skos-xl#literalForm> "School business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2004/02/skos/core#altLabel> "School business management" . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85118362> . 
+<http://id.loc.gov/authorities/subjects/sh85118362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118362> <http://www.w3.org/2004/02/skos/core#prefLabel> "School management and organization"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2008/05/skos-xl#altLabel> "School business management"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108803> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode76authoritiessubjectssh85108803 . 
+_:bnode76authoritiessubjectssh85108803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode76authoritiessubjectssh85108803 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85108803> . 
+_:bnode76authoritiessubjectssh85108803 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode76authoritiessubjectssh85108803 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode76authoritiessubjectssh85108803 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

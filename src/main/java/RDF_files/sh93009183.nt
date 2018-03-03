@@ -1,0 +1,125 @@
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh93009183 . 
+_:bnode7authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh93009183 . 
+_:bnode7authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nieuport aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012003130> . 
+<http://id.loc.gov/authorities/subjects/sh2012003130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012003130> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport 12 (Military aircraft)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091836> . 
+<http://id.loc.gov/authorities/subjects/sh85091836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091836> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport 11 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013003200> . 
+<http://id.loc.gov/authorities/subjects/sh2013003200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013003200> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport Nighthawk (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85002782> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode28authoritiessubjectssh93009183 . 
+_:bnode28authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode29authoritiessubjectssh93009183 . 
+_:bnode28authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode29authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode29authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#elementValue> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85091837> . 
+<http://id.loc.gov/authorities/subjects/sh85091837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85091837> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport 17 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb146090347> . 
+<http://data.bnf.fr/ark:/12148/cb146090347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb146090347> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport (avions)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013001556> . 
+<http://id.loc.gov/authorities/subjects/sh2013001556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013001556> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport 28 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012003128> . 
+<http://id.loc.gov/authorities/subjects/sh2012003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012003128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport 10 (Military aircraft)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb14534446k> . 
+<http://data.bnf.fr/ark:/12148/cb14534446k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb14534446k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport (avion de chasse)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh2011003594> . 
+<http://id.loc.gov/authorities/subjects/sh2011003594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2011003594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011003594> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nieuport-Delage aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh2011003594> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode57authoritiessubjectssh93009183 . 
+_:bnode57authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh93009183 . 
+_:bnode57authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode58authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nieuport-Delage aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 93009183" . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh93009183> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh93009183#concept> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode68authoritiessubjectssh93009183 . 
+_:bnode68authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode68authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 89139908: Bruce, J. Nieuport aircraft of World War One, 1988." . 
+_:bnode68authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode74authoritiessubjectssh93009183 . 
+_:bnode74authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode74authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-source> "Quick dict. weapons" . 
+_:bnode74authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-note> "(several individual models listed)"@en . 
+_:bnode74authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode82authoritiessubjectssh93009183 . 
+_:bnode82authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode82authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, July 19, 2011:" . 
+_:bnode82authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-note> "under Nieuport (Nieuport, later Nieuport-Delage, was a French aeroplane company that built racing aircraft before World War I and fighter aircraft during World War I and between the wars; by the end of 1918 ... becoming Nieuport-Delage, in honour of the work of the chief designer, Gustave Delage, who had been running the company throughout the war years)"@en . 
+_:bnode82authoritiessubjectssh93009183 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode90authoritiessubjectssh93009183 . 
+_:bnode90authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode90authoritiessubjectssh93009183 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-12-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh93009183 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode90authoritiessubjectssh93009183 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode97authoritiessubjectssh93009183 . 
+_:bnode97authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode97authoritiessubjectssh93009183 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2011-10-25T07:51:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh93009183 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode97authoritiessubjectssh93009183 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85002782> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002782> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airplanes"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012003130> . 
+<http://id.loc.gov/authorities/subjects/sh2012003130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012003130> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport 12 (Military aircraft)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091836> . 
+<http://id.loc.gov/authorities/subjects/sh85091836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091836> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport 11 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013003200> . 
+<http://id.loc.gov/authorities/subjects/sh2013003200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013003200> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport Nighthawk (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85091837> . 
+<http://id.loc.gov/authorities/subjects/sh85091837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85091837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport 17 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013001556> . 
+<http://id.loc.gov/authorities/subjects/sh2013001556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013001556> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport 28 (Fighter plane)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012003128> . 
+<http://id.loc.gov/authorities/subjects/sh2012003128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012003128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport 10 (Military aircraft)"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh2011003594> . 
+<http://id.loc.gov/authorities/subjects/sh2011003594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011003594> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport-Delage aircraft"@en . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb146090347> . 
+<http://data.bnf.fr/ark:/12148/cb146090347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb146090347> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport (avions)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb14534446k> . 
+<http://data.bnf.fr/ark:/12148/cb14534446k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb14534446k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nieuport (avion de chasse)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode158authoritiessubjectssh93009183 . 
+_:bnode158authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode158authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93009183> . 
+_:bnode158authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode158authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#createdDate> "1993-12-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode158authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh93009183> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode166authoritiessubjectssh93009183 . 
+_:bnode166authoritiessubjectssh93009183 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode166authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93009183> . 
+_:bnode166authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode166authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#createdDate> "2011-10-25T07:51:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh93009183 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

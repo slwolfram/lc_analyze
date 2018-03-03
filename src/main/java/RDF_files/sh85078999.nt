@@ -1,0 +1,121 @@
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutheran Church"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85078999 . 
+_:bnode7authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85078999 . 
+_:bnode7authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lutheran Church"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85078999 . 
+_:bnode11authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Lutheranism"@en . 
+_:bnode11authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85078999 . 
+_:bnode16authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85078999 . 
+_:bnode16authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lutheranism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#classification> "BX8001-BX8080" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85025193> . 
+<http://id.loc.gov/authorities/subjects/sh85025193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85025193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christian sects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85025193> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85078999 . 
+_:bnode27authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85078999 . 
+_:bnode27authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#elementValue> "Christian sects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147618> . 
+<http://id.loc.gov/authorities/subjects/sh85147618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147618> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women in the Lutheran Church"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4168345-6> . 
+<http://d-nb.info/gnd/4168345-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4168345-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutherische Gemeinde"@de . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4125794-7> . 
+<http://d-nb.info/gnd/4125794-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4125794-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lutherische Kirche"@de . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119522467> . 
+<http://data.bnf.fr/ark:/12148/cb119522467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119522467> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Église luthérienne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/18892> . 
+<http://purl.org/bncf/tid/18892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/18892> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Luteranesimo"@it . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on Lutheran denominations treated collectively and works for which the individual Lutheran denomination cannot be identified. Works on individual Lutheran denominations are entered under the name of the denomination." . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Example under [Christianity]" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85078999" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85078999> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85078999#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode63authoritiessubjectssh85078999 . 
+_:bnode63authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode63authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-source> "Britannica online, May 31, 2012" . 
+_:bnode63authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Lutheranism: the branch of Christianity that traces its interpretation of the Christian religion to the teachings of Martin Luther and the 16th-century movements that issued from his reforms. Along with Anglicanism, the Reformed and Presbyterian (Calvinist) churches, Methodism, and the Baptist churches, Lutheranism is one of the five major branches of Protestantism. Unlike the Roman Catholic Church, however, Lutheranism is not a single entity. It is organized in autonomous regional or national churches, such as the Church of Sweden or the Evangelical Lutheran Church of Mecklenburg, Ger. Globally, there are some 140 such Lutheran church bodies)"@en . 
+_:bnode63authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode71authoritiessubjectssh85078999 . 
+_:bnode71authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode71authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-source> "The Catholic encyclopedia, via WWW, May 31, 2012" . 
+_:bnode71authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Lutheranism. The religious belief held by the oldest and in Europe the most numerous of the Protestant sects, founded by the Wittenberg reformer, Martin Luther. The term Lutheran was first used by his opponents during the Leipzig Disputation in 1519, and afterwards became universally prevalent. Luther preferred the designation \"Evangelical\", and today the usual title of the sect is \"Evangelical Lutheran Church\". In Germany, where the Lutherans and the Reformed have united (since 1817), the name Lutheran has been abandoned, and the state Church is styled the Evangelical or the Evangelical United. In doctrine official Lutheranism is part of what is called orthodox Protestantism, since it agrees with the Catholic and the Greek Churches in accepting the authority of the Scriptures and of the three most ancient creeds (the Apostles' Creed, the Nicene Creed, and the Athanasian Creed). Besides these formulæ of belief, Lutheranism acknowledges six specific confessions which distinguish it from other churches: the unaltered Augsburg Confession (1530), the Apology of the Augsburg Confession (1531), Luther's Large Catechism (1529), Luther's Catechism for Children (1529), the Articles of Smalkald (1537), and the Form of Concord (1577).)"@en . 
+_:bnode71authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode79authoritiessubjectssh85078999 . 
+_:bnode79authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode79authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-source> "Theopedia : an encyclopedia of Christianity, via WWW, May 31, 2012" . 
+_:bnode79authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Lutheranism. Lutheranism is the name used to describe the movement following Martin Luther's call to reform the Roman Catholic Church in the 16th century. It also refers to the authoritative doctrines and practices in the Lutheran churches and can be used as a general term for Lutheran churches worldwide. Opponents of Martin Luther (1483-1546) first applied the term Lutheran to his followers in the early 1520s as a nickname to demonstrate the human origin of the movement.)"@en . 
+_:bnode79authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode87authoritiessubjectssh85078999 . 
+_:bnode87authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode87authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-source> "ReligionFacts website, May 31, 2012" . 
+_:bnode87authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Lutheranism is one of the largest Protestant denominations today. According to the Lutheran World Federation, there are nearly 66 million Lutherans worldwide; The Lutheran denomination is the oldest Protestant denomination; The two largest Lutheran church bodies in America are the Evangelical Lutheran Church in America (ELCA), with about 5 million members in 2003, and the Lutheran Church - Missouri Synod (LCMS), which had about 2.5 million members in 2003. 6 Other large Lutheran churches include the Wisconsin Evangelical Lutheran Synod (WELS) (413,839 members), the Association of Free Lutheran Congregations (36,400), and the Evangelical Lutheran Synod (ELS; 24,000))"@en . 
+_:bnode87authoritiessubjectssh85078999 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode95authoritiessubjectssh85078999 . 
+_:bnode95authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode95authoritiessubjectssh85078999 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2001-05-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85078999 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode95authoritiessubjectssh85078999 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode102authoritiessubjectssh85078999 . 
+_:bnode102authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode102authoritiessubjectssh85078999 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2012-09-13T07:54:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh85078999 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode102authoritiessubjectssh85078999 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutheran Church"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode112authoritiessubjectssh85078999 . 
+_:bnode112authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode112authoritiessubjectssh85078999 <http://www.w3.org/2008/05/skos-xl#literalForm> "Lutheranism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#altLabel> "Lutheranism" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85025193> . 
+<http://id.loc.gov/authorities/subjects/sh85025193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christian sects"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147618> . 
+<http://id.loc.gov/authorities/subjects/sh85147618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147618> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women in the Lutheran Church"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4168345-6> . 
+<http://d-nb.info/gnd/4168345-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4168345-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutherische Gemeinde"@de . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4125794-7> . 
+<http://d-nb.info/gnd/4125794-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4125794-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lutherische Kirche"@de . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119522467> . 
+<http://data.bnf.fr/ark:/12148/cb119522467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119522467> <http://www.w3.org/2004/02/skos/core#prefLabel> "Église luthérienne"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/18892> . 
+<http://purl.org/bncf/tid/18892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/18892> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luteranesimo"@it . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on Lutheran denominations treated collectively and works for which the individual Lutheran denomination cannot be identified. Works on individual Lutheran denominations are entered under the name of the denomination." . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#example> "Example under [Christianity]" . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2008/05/skos-xl#altLabel> "Lutheranism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode156authoritiessubjectssh85078999 . 
+_:bnode156authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode156authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85078999> . 
+_:bnode156authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode156authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#createdDate> "2001-05-02T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode156authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85078999> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode164authoritiessubjectssh85078999 . 
+_:bnode164authoritiessubjectssh85078999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode164authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85078999> . 
+_:bnode164authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode164authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#createdDate> "2012-09-13T07:54:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode164authoritiessubjectssh85078999 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

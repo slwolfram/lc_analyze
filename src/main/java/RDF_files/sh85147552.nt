@@ -1,0 +1,115 @@
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85147552 . 
+_:bnode7authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85147552 . 
+_:bnode7authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85147552 <http://www.loc.gov/mads/rdf/v1#elementValue> "Women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85147552 . 
+_:bnode11authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85147552 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Farm women"@en . 
+_:bnode11authoritiessubjectssh85147552 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85147552 . 
+_:bnode16authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85147552 . 
+_:bnode16authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85147552 <http://www.loc.gov/mads/rdf/v1#elementValue> "Farm women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#classification> "HD6077-HD6077.2" . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147422> . 
+<http://id.loc.gov/authorities/subjects/sh85147422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147422> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women agricultural laborers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147678> . 
+<http://id.loc.gov/authorities/subjects/sh85147678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women plantation owners"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147535> . 
+<http://id.loc.gov/authorities/subjects/sh85147535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147535> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women farmers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88008002> . 
+<http://id.loc.gov/authorities/subjects/sh88008002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88008002> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women agricultural extension workers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4140291-1> . 
+<http://d-nb.info/gnd/4140291-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4140291-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Landfrau"@de . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147423> . 
+<http://id.loc.gov/authorities/subjects/sh85147423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147423> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women agriculturists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119784230> . 
+<http://data.bnf.fr/ark:/12148/cb119784230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119784230> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Femmes en agriculture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/67389> . 
+<http://lod.nal.usda.gov/nalt/67389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/67389> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85002415> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode59authoritiessubjectssh85147552 . 
+_:bnode59authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode60authoritiessubjectssh85147552 . 
+_:bnode59authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode60authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode60authoritiessubjectssh85147552 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85147552" . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85147552> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85147552#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85147552 . 
+_:bnode71authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85147552 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85147552 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85147552 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode78authoritiessubjectssh85147552 . 
+_:bnode78authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode78authoritiessubjectssh85147552 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-04-05T10:37:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85147552 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode78authoritiessubjectssh85147552 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode88authoritiessubjectssh85147552 . 
+_:bnode88authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode88authoritiessubjectssh85147552 <http://www.w3.org/2008/05/skos-xl#literalForm> "Farm women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#altLabel> "Farm women" . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85002415> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147422> . 
+<http://id.loc.gov/authorities/subjects/sh85147422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147422> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women agricultural laborers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147678> . 
+<http://id.loc.gov/authorities/subjects/sh85147678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women plantation owners"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147535> . 
+<http://id.loc.gov/authorities/subjects/sh85147535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147535> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women farmers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88008002> . 
+<http://id.loc.gov/authorities/subjects/sh88008002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88008002> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women agricultural extension workers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147423> . 
+<http://id.loc.gov/authorities/subjects/sh85147423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147423> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women agriculturists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/67389> . 
+<http://lod.nal.usda.gov/nalt/67389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/67389> <http://www.w3.org/2004/02/skos/core#prefLabel> "women in agriculture"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4140291-1> . 
+<http://d-nb.info/gnd/4140291-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4140291-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Landfrau"@de . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119784230> . 
+<http://data.bnf.fr/ark:/12148/cb119784230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119784230> <http://www.w3.org/2004/02/skos/core#prefLabel> "Femmes en agriculture"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2008/05/skos-xl#altLabel> "Farm women"@en . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode143authoritiessubjectssh85147552 . 
+_:bnode143authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode143authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85147552> . 
+_:bnode143authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode143authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode143authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85147552> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode151authoritiessubjectssh85147552 . 
+_:bnode151authoritiessubjectssh85147552 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode151authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85147552> . 
+_:bnode151authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode151authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#createdDate> "1999-04-05T10:37:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode151authoritiessubjectssh85147552 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

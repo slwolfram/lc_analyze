@@ -1,0 +1,110 @@
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nuclear proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2008009187 . 
+_:bnode7authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2008009187 . 
+_:bnode7authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nuclear proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2008009187 . 
+_:bnode11authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Nucleolar proteins"@en . 
+_:bnode11authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2008009187 . 
+_:bnode16authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2008009187 . 
+_:bnode16authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nucleolar proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008008885> . 
+<http://id.loc.gov/authorities/subjects/sh2008008885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008008885> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bromodomain-containing protein 1"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85107666> . 
+<http://id.loc.gov/authorities/subjects/sh85107666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85107666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85107666> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh85107666> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh2008009187 . 
+_:bnode29authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh2008009187 . 
+_:bnode29authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#elementValue> "Proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://lod.nal.usda.gov/nalt/196599> . 
+<http://lod.nal.usda.gov/nalt/196599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/196599> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "nuclear proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017003086> . 
+<http://id.loc.gov/authorities/subjects/sh2017003086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017003086> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Proliferating cell nuclear antigen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4389511-6> . 
+<http://d-nb.info/gnd/4389511-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4389511-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kernproteine"@de . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered works on proteins found in the cell nucleus. Works on proteins conjugated with nucleic acids, that are not necessarily present in the nucleus, are entered under [Nucleoproteins.]" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Nucleoproteins]" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2008009187" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2008009187> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2008009187#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh2008009187 . 
+_:bnode56authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH browser, Nov. 14, 2008" . 
+_:bnode56authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Nuclear Proteins. UF Nuclear Protein, Nucleolar Proteins. Proteins found in the nucleus of a cell. Do not confuse with Nucleoproteins which are proteins conjugated with nucleic acids, that are not necessarily present in the nucleus.)"@en . 
+_:bnode56authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh2008009187 . 
+_:bnode64authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-source> "Nuclear protein database, via WWW, Nov. 14, 2008" . 
+_:bnode64authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-note> "(proteins that are localised to the nucleus of vertebrate cells)"@en . 
+_:bnode64authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode72authoritiessubjectssh2008009187 . 
+_:bnode72authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode72authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-source> "Köhler, M. Nuclear protein transport pathways, 1999, via WWW, Nov. 14, 2008:" . 
+_:bnode72authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-note> "abstr. (Nuclear proteins like transcription factors and ribosomal proteins are synthesized in the cytoplasm and have to be transported into the nucleus to fulfill their functions.)"@en . 
+_:bnode72authoritiessubjectssh2008009187 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh2008009187 . 
+_:bnode80authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-11-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode80authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode88authoritiessubjectssh2008009187 . 
+_:bnode88authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode88authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-12-25T07:53:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode88authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode88authoritiessubjectssh2008009187 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nuclear proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode99authoritiessubjectssh2008009187 . 
+_:bnode99authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode99authoritiessubjectssh2008009187 <http://www.w3.org/2008/05/skos-xl#literalForm> "Nucleolar proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#altLabel> "Nucleolar proteins" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85107666> . 
+<http://id.loc.gov/authorities/subjects/sh85107666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85107666> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008008885> . 
+<http://id.loc.gov/authorities/subjects/sh2008008885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008008885> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bromodomain-containing protein 1"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017003086> . 
+<http://id.loc.gov/authorities/subjects/sh2017003086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017003086> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proliferating cell nuclear antigen"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://lod.nal.usda.gov/nalt/196599> . 
+<http://lod.nal.usda.gov/nalt/196599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/196599> <http://www.w3.org/2004/02/skos/core#prefLabel> "nuclear proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4389511-6> . 
+<http://d-nb.info/gnd/4389511-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4389511-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kernproteine"@de . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#note> "Here are entered works on proteins found in the cell nucleus. Works on proteins conjugated with nucleic acids, that are not necessarily present in the nucleus, are entered under [Nucleoproteins.]" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#example> "Note under [Nucleoproteins]" . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2008/05/skos-xl#altLabel> "Nucleolar proteins"@en . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode138authoritiessubjectssh2008009187 . 
+_:bnode138authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode138authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2008009187> . 
+_:bnode138authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode138authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#createdDate> "2008-11-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode138authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2008009187> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode146authoritiessubjectssh2008009187 . 
+_:bnode146authoritiessubjectssh2008009187 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode146authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2008009187> . 
+_:bnode146authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/wau> . 
+_:bnode146authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#createdDate> "2008-12-25T07:53:06"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode146authoritiessubjectssh2008009187 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

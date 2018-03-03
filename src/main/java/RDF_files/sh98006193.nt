@@ -1,0 +1,82 @@
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wakeboarding"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98006193 . 
+_:bnode7authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98006193 . 
+_:bnode7authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wakeboarding"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh98006193 . 
+_:bnode11authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Wake boarding"@en . 
+_:bnode11authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh98006193 . 
+_:bnode16authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh98006193 . 
+_:bnode16authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#elementValue> "Wake boarding"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#classification> "GV840.W34" . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85006247> . 
+<http://id.loc.gov/authorities/subjects/sh85006247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85006247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006247> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aquatic sports"@en . 
+<http://id.loc.gov/authorities/subjects/sh85006247> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh98006193 . 
+_:bnode27authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh98006193 . 
+_:bnode27authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aquatic sports"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98006193" . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98006193> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98006193#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode39authoritiessubjectssh98006193 . 
+_:bnode39authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode39authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 98-45517: Extreme wakeboarding, 1999" . 
+_:bnode39authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Wakeboarding is riding a wakeboard while being towed by a power boat)"@en . 
+_:bnode39authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh98006193 . 
+_:bnode47authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-source> "ESPNET SportsZone, WWW, Sept. 21, 1998" . 
+_:bnode47authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Wakeboarding became legitimate in 1992 when World Sports & Marketing began staging professional wakeboarding events; wakeboarding became an event of the ESPN X-Games in 1996; World Wakeboard Association is the worldwide governing body of the sport)"@en . 
+_:bnode47authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh98006193 . 
+_:bnode55authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-source> "WWW, Sept. 28, 1998" . 
+_:bnode55authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-note> "(terminology used in documents retrieved by AltaVista search: wakeboarding; wake boarding)"@en . 
+_:bnode55authoritiessubjectssh98006193 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh98006193 . 
+_:bnode63authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh98006193 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-09-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh98006193 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh98006193 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh98006193 . 
+_:bnode70authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh98006193 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-11-02T16:17:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh98006193 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh98006193 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wakeboarding"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode80authoritiessubjectssh98006193 . 
+_:bnode80authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode80authoritiessubjectssh98006193 <http://www.w3.org/2008/05/skos-xl#literalForm> "Wake boarding"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2004/02/skos/core#altLabel> "Wake boarding" . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85006247> . 
+<http://id.loc.gov/authorities/subjects/sh85006247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquatic sports"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2008/05/skos-xl#altLabel> "Wake boarding"@en . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh98006193 . 
+_:bnode95authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98006193> . 
+_:bnode95authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode95authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#createdDate> "1998-09-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98006193> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode103authoritiessubjectssh98006193 . 
+_:bnode103authoritiessubjectssh98006193 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode103authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98006193> . 
+_:bnode103authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode103authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#createdDate> "1998-11-02T16:17:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh98006193 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,84 @@
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Football--Tournaments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh2014002743 . 
+_:bnode7authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96005539> . 
+_:bnode7authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005539> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Football"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005539> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh2014002743 . 
+_:bnode12authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh2014002743 . 
+_:bnode12authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Football"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/vocabulary/graphicMaterials/tgm010921> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm010921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm010921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm010921> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tournaments"@en . 
+<http://id.loc.gov/vocabulary/graphicMaterials/tgm010921> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh2014002743 . 
+_:bnode20authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh2014002743 . 
+_:bnode20authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tournaments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh98007138> . 
+<http://id.loc.gov/authorities/subjects/sh98007138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98007138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98007138> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sports tournaments"@en . 
+<http://id.loc.gov/authorities/subjects/sh98007138> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh2014002743 . 
+_:bnode29authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh2014002743 . 
+_:bnode29authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sports tournaments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2014002743" . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2014002743> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2014002743#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh2014002743 . 
+_:bnode41authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat: 2014466599: It's possible : realignment and playoffs, college football's opportunity, 2010." . 
+_:bnode41authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode47authoritiessubjectssh2014002743 . 
+_:bnode47authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode47authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, Mar. 10, 2015" . 
+_:bnode47authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-note> "(under The NCAA Division I Football Championship: an American college football tournament played each year to determine the champion of the NCAA Division I Football Championship Subdivision; under College Football Playoff: The College Football Playoff (CFP) is a postseason tournament in American college football for the NCAA Division I Football Bowl Subdivision)"@en . 
+_:bnode47authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode55authoritiessubjectssh2014002743 . 
+_:bnode55authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode55authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-source> "NCAA.com, Mar. 10, 2015" . 
+_:bnode55authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-note> "(football; tournament stats)"@en . 
+_:bnode55authoritiessubjectssh2014002743 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh2014002743 . 
+_:bnode63authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2014-11-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode63authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh2014002743 . 
+_:bnode71authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2015-06-09T05:37:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode71authoritiessubjectssh2014002743 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2004/02/skos/core#prefLabel> "Football--Tournaments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh98007138> . 
+<http://id.loc.gov/authorities/subjects/sh98007138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98007138> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sports tournaments"@en . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode88authoritiessubjectssh2014002743 . 
+_:bnode88authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode88authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2014002743> . 
+_:bnode88authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode88authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#createdDate> "2014-11-05T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode88authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2014002743> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode96authoritiessubjectssh2014002743 . 
+_:bnode96authoritiessubjectssh2014002743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode96authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2014002743> . 
+_:bnode96authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode96authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#createdDate> "2015-06-09T05:37:45"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode96authoritiessubjectssh2014002743 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

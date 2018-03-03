@@ -1,0 +1,177 @@
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85041798 . 
+_:bnode7authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85041798 . 
+_:bnode7authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#classification> "TF975" . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4304967-9> . 
+<http://d-nb.info/gnd/4304967-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4304967-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Elektrotriebwagen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042092> . 
+<http://id.loc.gov/authorities/subjects/sh85042092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042092> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electro-diesel locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86003187> . 
+<http://id.loc.gov/authorities/subjects/sh86003187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86003187> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VL 8 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85110955> . 
+<http://id.loc.gov/authorities/subjects/sh85110955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85110955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85110955> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Railroads--Electrification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85110955> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode30authoritiessubjectssh85041798 . 
+_:bnode30authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode31authoritiessubjectssh85041798 . 
+_:bnode30authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode038 . 
+_:bnode31authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode31authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode31authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Railroads"@en . 
+_:bnode31authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85041798 . 
+_:bnode35authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85041798 . 
+_:bnode35authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Railroads"@en . 
+_:bnode038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85041798 . 
+_:bnode038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode39authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode39authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electrification"@en . 
+_:bnode39authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85041798 . 
+_:bnode43authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85041798 . 
+_:bnode43authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electrification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85054752> . 
+<http://id.loc.gov/authorities/subjects/sh85054752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054752> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "GG 1 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85144047> . 
+<http://id.loc.gov/authorities/subjects/sh85144047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85144047> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VL 10 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4014286-3> . 
+<http://d-nb.info/gnd/4014286-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4014286-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Elektrolokomotive"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11953177g> . 
+<http://data.bnf.fr/ark:/12148/cb11953177g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11953177g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Locomotives électriques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012000930> . 
+<http://id.loc.gov/authorities/subjects/sh2012000930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012000930> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "E.326 (Electric locomotives)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012000931> . 
+<http://id.loc.gov/authorities/subjects/sh2012000931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012000931> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "E.428 (Electric locomotives)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041965> . 
+<http://id.loc.gov/authorities/subjects/sh85041965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85041965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041965> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric railroads--Rolling stock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041965> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode76authoritiessubjectssh85041798 . 
+_:bnode76authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode77authoritiessubjectssh85041798 . 
+_:bnode76authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode084 . 
+_:bnode77authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode77authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode77authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electric railroads"@en . 
+_:bnode77authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode81authoritiessubjectssh85041798 . 
+_:bnode81authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode82authoritiessubjectssh85041798 . 
+_:bnode81authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode82authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode82authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electric railroads"@en . 
+_:bnode084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode85authoritiessubjectssh85041798 . 
+_:bnode084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode85authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode85authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode85authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rolling stock"@en . 
+_:bnode85authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode89authoritiessubjectssh85041798 . 
+_:bnode89authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode90authoritiessubjectssh85041798 . 
+_:bnode89authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode90authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode90authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Rolling stock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85144048> . 
+<http://id.loc.gov/authorities/subjects/sh85144048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85144048> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "VL 80 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2012001019> . 
+<http://id.loc.gov/authorities/subjects/sh2012001019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2012001019> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "E.626 (Electric locomotives)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85077999> . 
+<http://id.loc.gov/authorities/subjects/sh85077999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85077999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077999> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077999> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode106authoritiessubjectssh85041798 . 
+_:bnode106authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode107authoritiessubjectssh85041798 . 
+_:bnode106authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode107authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode107authoritiessubjectssh85041798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Note under [Railroads--Electric equipment]" . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85041798" . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85041798> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85041798#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode120authoritiessubjectssh85041798 . 
+_:bnode120authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode120authoritiessubjectssh85041798 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh85041798 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode120authoritiessubjectssh85041798 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode127authoritiessubjectssh85041798 . 
+_:bnode127authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode127authoritiessubjectssh85041798 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-11-02T07:53:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode127authoritiessubjectssh85041798 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode127authoritiessubjectssh85041798 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041965> . 
+<http://id.loc.gov/authorities/subjects/sh85041965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041965> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electric railroads--Rolling stock"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85077999> . 
+<http://id.loc.gov/authorities/subjects/sh85077999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077999> <http://www.w3.org/2004/02/skos/core#prefLabel> "Locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042092> . 
+<http://id.loc.gov/authorities/subjects/sh85042092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042092> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electro-diesel locomotives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86003187> . 
+<http://id.loc.gov/authorities/subjects/sh86003187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86003187> <http://www.w3.org/2004/02/skos/core#prefLabel> "VL 8 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85054752> . 
+<http://id.loc.gov/authorities/subjects/sh85054752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85054752> <http://www.w3.org/2004/02/skos/core#prefLabel> "GG 1 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85144047> . 
+<http://id.loc.gov/authorities/subjects/sh85144047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85144047> <http://www.w3.org/2004/02/skos/core#prefLabel> "VL 10 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012000930> . 
+<http://id.loc.gov/authorities/subjects/sh2012000930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012000930> <http://www.w3.org/2004/02/skos/core#prefLabel> "E.326 (Electric locomotives)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012000931> . 
+<http://id.loc.gov/authorities/subjects/sh2012000931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012000931> <http://www.w3.org/2004/02/skos/core#prefLabel> "E.428 (Electric locomotives)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85144048> . 
+<http://id.loc.gov/authorities/subjects/sh85144048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85144048> <http://www.w3.org/2004/02/skos/core#prefLabel> "VL 80 (Electric locomotive)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2012001019> . 
+<http://id.loc.gov/authorities/subjects/sh2012001019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2012001019> <http://www.w3.org/2004/02/skos/core#prefLabel> "E.626 (Electric locomotives)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85110955> . 
+<http://id.loc.gov/authorities/subjects/sh85110955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85110955> <http://www.w3.org/2004/02/skos/core#prefLabel> "Railroads--Electrification"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4304967-9> . 
+<http://d-nb.info/gnd/4304967-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4304967-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektrotriebwagen"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4014286-3> . 
+<http://d-nb.info/gnd/4014286-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4014286-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elektrolokomotive"@de . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11953177g> . 
+<http://data.bnf.fr/ark:/12148/cb11953177g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11953177g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Locomotives électriques"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#example> "Note under [Railroads--Electric equipment]" . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode210authoritiessubjectssh85041798 . 
+_:bnode210authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode210authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85041798> . 
+_:bnode210authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode210authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode210authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85041798> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode218authoritiessubjectssh85041798 . 
+_:bnode218authoritiessubjectssh85041798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode218authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85041798> . 
+_:bnode218authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode218authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#createdDate> "2006-11-02T07:53:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode218authoritiessubjectssh85041798 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

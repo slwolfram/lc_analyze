@@ -22,12 +22,15 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -42,6 +45,7 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
+import org.eclipse.rdf4j.model.Resource;
 import org.eclipse.rdf4j.model.Statement;
 import org.eclipse.rdf4j.model.Value;
 import org.eclipse.rdf4j.model.ValueFactory;
@@ -84,7 +88,7 @@ public class LCAnalyze {
 	 * broader/narrower headings generated for each LCSubjectHeading within the
 	 * record set.
 	 */
-	public static final int maxDepth = 5;
+	public static final int maxDepth = 4;
 
 	/**
 	 * nameHeadingTrees - a list of all the LCHeading name trees. Used to model the
@@ -94,43 +98,110 @@ public class LCAnalyze {
 
 	public static void main(String[] args) throws URISyntaxException, IOException {
 
-		if (args.length == 0) {
-			System.out.println(
-					"Please specify an action using command line arguments. For a list of actions, use the 'h' command.");
-			System.exit(-1);
-		}
 		File f = new File("./src/main/java/MARC_files/");
 		File[] filesList = f.listFiles();
-
-		switch (args[0]) {
-		// analyzes the distribution of subject headings by constructing LCHeading trees
-		// from RDF data
-		// MUST already have dl'ed the RDF files for this to work!
-		case "a":
+		// load lcshList
+		File f2 = new File("./");
+		File[] filesList2 = f2.listFiles();
+		boolean save = false;
+		for (int i = 0; i < f2.listFiles().length; i++) {
+			if (filesList2[i].getName().equals("save")) {
+				try {
+					FileInputStream fis = new FileInputStream("save");
+					ObjectInputStream ois = new ObjectInputStream(fis);
+					lcshList = (ArrayList) ois.readObject();
+					ois.close();
+					fis.close();
+				} catch (IOException ioe) {
+					ioe.printStackTrace();
+					return;
+				} catch (ClassNotFoundException c) {
+					System.out.println("Class not found");
+					c.printStackTrace();
+					return;
+				}
+				save = true;
+			}
+		}
+		if (!save) {
 			genRDFModel(new File("./src/main/java/RDF_files/"));
 			for (File file : filesList) {
 				if (file.isFile() && !file.getName().startsWith("._") && file.getName().endsWith(".xml")) {
 					buildLCHeadings(file);
 				}
 			}
-
-			for (int i = 0; i < lcshList.size(); i++) {
-				if (lcshList.get(i).getCount() > 0) {
-					lcshList.get(i).print();
-				}
-			}
-			/*
-			 * for (int i = 0; i < nameHeadingTrees.size(); i++) {
-			 * nameHeadingTrees.get(i).print(); }
-			 */
-			System.exit(0);
-
-		case "h":
-		default:
-			System.out.println("The action you have specified - " + args[0]
-					+ " - is not valid. Use the 'h' command or consult the README for a list of valid actions.");
 		}
+		// save lcshList
+		try {
+			FileOutputStream fos = new FileOutputStream("save");
+			ObjectOutputStream oos = new ObjectOutputStream(fos);
+			oos.writeObject(lcshList);
+			oos.close();
+			fos.close();
+		} catch (IOException ioe) {
+			ioe.printStackTrace();
+		}
+		for (int i = 0; i < lcshList.size(); i++) {
+			if (lcshList.get(i).getCount() > 0) {
+				lcshList.get(i).print();
+			}
+		}
+		console();
+		/*
+		 * for (int i = 0; i < nameHeadingTrees.size(); i++) {
+		 * nameHeadingTrees.get(i).print(); }
+		 */
+		System.exit(0);
 
+	}
+
+	private static void console() {
+		System.out.println("Console started. For a list of commands, type 'h'");
+		Scanner reader = new Scanner(System.in); // Reading from System.in
+		boolean exit = false;
+		while (!exit) {
+			System.out.print("> ");
+			String input = reader.nextLine();
+			String[] result = input.split(" ");
+			switch (result[0]) {
+			case "ls":
+				if (result.length == 1) {
+					for (int i = 0; i < lcshList.size(); i++) {
+						if (lcshList.get(i).getCount() > 0) {
+							lcshList.get(i).print();
+						}
+					}
+				} else if (result[1].equals("*")) {
+					for (int i = 0; i < lcshList.size(); i++) {
+						lcshList.get(i).print();
+					}
+				} else if (StringUtils.isAlpha(result[1])) {
+					System.out.println("works");
+					System.out.println(result[1]);
+					System.out.println(result[1]);
+
+					for (int i = 0; i < lcshList.size(); i++) {
+						if (lcshList.get(i).getHeading().startsWith(result[1])) {
+							lcshList.get(i).print();
+						}
+					}
+				}
+				break;
+			case "cd":
+
+			case "exit":
+				exit = true;
+				break;
+			case "h":
+				System.out.println("Command list:\nls - list all headings w/ with >= 1 record");
+				System.out.println("exit - exit console");
+
+				// once finished
+
+			}
+		}
+		System.out.println("Exiting console");
+		reader.close();
 	}
 
 	/**
@@ -167,22 +238,29 @@ public class LCAnalyze {
 		MarcReader marcReader = new MarcXmlReader(MARCXMLHelper.getRecordElement(file));
 		while (marcReader.hasNext()) {
 			Record record = marcReader.next();
-			String oclc = MARCXMLHelper.extractOCLC(record);
-			if (oclc.isEmpty()) {
-				System.out.println("OCLC ERROR");
-				System.exit(0);
-			}
-
+			CatRecord catRecord = createCatRecord(record);
 			// extract URI & save to array
 			ArrayList<URI> uris = MARCXMLHelper.extractURIs(record);
 			// build subject heading string arrays from RDF, and add to headingTrees
 			for (int i = 0; i < uris.size(); i++) {
 				ArrayList<String> conceptString = buildConceptString(uris.get(i));
-				addConceptString(conceptString, uris.get(i), oclc, 1, 0, 0);
+				addConceptString(conceptString, uris.get(i), catRecord, 1, 0);
 			}
 		}
 	}
-
+	private static CatRecord createCatRecord(Record record) {
+		String title = MARCXMLHelper.extractTitle(record);
+		String author = MARCXMLHelper.extractAuthor(record);
+		String placeOfPublication = MARCXMLHelper.extractPlaceOfPublication(record);
+		String publisher = MARCXMLHelper.extractPublisher(record);
+		String dateOfPublication = MARCXMLHelper.extractDateOfPublication(record);
+		String oclc = MARCXMLHelper.extractOCLC(record);
+		String description = MARCXMLHelper.extractDescription(record);
+		String contentType = MARCXMLHelper.extractContentType(record);
+		String mediaType = MARCXMLHelper.extractMediaType(record);
+		String carrierType = MARCXMLHelper.extractCarrierType(record);
+		return new CatRecord(title, author, placeOfPublication, publisher, dateOfPublication, oclc, description, contentType, mediaType, carrierType);
+	}
 	/**
 	 * Method name: addConceptString
 	 * 
@@ -191,38 +269,211 @@ public class LCAnalyze {
 	 * the value 1 in the count parameter. (Headings which are not counted are,
 	 * e.g., those that are added as broader/narrow terms for an existing heading)
 	 */
-	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, String oclc, int count,
-			int narrowerDepth, int broaderDepth) throws FileNotFoundException {
+	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, CatRecord catRecord, int count,
+			int depth) throws FileNotFoundException {
 
 		System.out.println("starting addConceptString...");
 		System.out.println(conceptString.get(0) + " " + uri.toString() + " " + count);
 		LCSubjectHeading lcsh = null;
-		for (int i = 0; i < lcshList.size(); i++) {
-			System.out.println(lcshList.get(i).getHeading());
-		}
+		
 		System.out.println("finished");
+		System.out.println("DEPTH: " + depth);
 
 		if (uri.toString().contains("subject")) {
 			for (int i = 0; i < lcshList.size(); i++) {
 				if (lcshList.get(i).getHeading().equals(conceptString.get(0))) {
-					lcshList.get(i).addSubdivisions(conceptString, uri, oclc, count);
-					return null;
+					lcshList.get(i).addSubdivisions(conceptString, uri, catRecord, count);
+					return lcshList.get(i);
 				}
 			}
 			// need to make sure new root concepts have an associated uri. This happens when
 			// a string has > 1 element, since the uri applies to the complex object.
 			if (conceptString.size() > 1) {
 				URI rootURI = getRootURI(conceptString.get(0));
-				lcsh = new LCSubjectHeading(conceptString, rootURI, uri, oclc, conceptString.size(), count);
+				lcsh = new LCSubjectHeading(conceptString, rootURI, uri, catRecord, conceptString.size(), count);
 			} else {
-				lcsh = new LCSubjectHeading(conceptString, uri, oclc, count);
+				lcsh = new LCSubjectHeading(conceptString, uri, catRecord, count);
 			}
 			lcshList.add(lcsh);
-			lcsh.addNarrowerHeadings(getNarrowerHeadings(lcsh, narrowerDepth));
-			lcsh.addBroaderHeadings(getBroaderHeadings(lcsh, broaderDepth));
-
+			int narrowerDepth = depth + 1;
+			int broaderDepth = depth + 1;
+			int relatedDepth = depth + 1;
+			lcsh.setVariantTerms(getVariantTerms(lcsh));
+			if (narrowerDepth <= maxDepth)
+				lcsh.setNarrowerHeadings(getNarrowerHeadings(lcsh, narrowerDepth));
+			else
+				lcsh.setNarrowerHeadings(new ArrayList<LCSubjectHeading>());
+			if (broaderDepth <= maxDepth)
+				lcsh.setBroaderHeadings(getBroaderHeadings(lcsh, broaderDepth));
+			else
+				lcsh.setBroaderHeadings(new ArrayList<LCSubjectHeading>());
+			if (relatedDepth <= maxDepth)
+				lcsh.setRelatedHeadings(getRelatedHeadings(lcsh, relatedDepth));
+			else
+				lcsh.setRelatedHeadings(new ArrayList<LCSubjectHeading>());
 		}
 		return lcsh;
+	}
+
+	private static ArrayList<String> getVariantTerms(LCSubjectHeading heading) {
+		ArrayList<String> variantTerms = new ArrayList<String>();
+		if (heading.getURI() != null) {
+			String v = "";
+			ValueFactory vf = SimpleValueFactory.getInstance();
+			IRI iri = vf.createIRI(heading.getURI().toString());
+			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasVariant");
+			v = rdfModel.filter(iri, auth, null).toString();
+			System.out.println(v);
+			if (!v.contentEquals("[]")) {
+				ArrayList<String> bnodeList = new ArrayList<String>();
+				System.out.println(v);
+				// extract all the heading uris from the string ..
+				Pattern p = Pattern.compile(Pattern.quote("hasVariant, ") + "(.*?)" + Pattern.quote(")"));
+				Matcher m = p.matcher(v);
+				while (m.find()) {
+					if (!m.group(1).equals("[]")) {
+						bnodeList.add(m.group(1));						
+					}
+				}
+				for (int i = 0; i < bnodeList.size(); i++) {
+					IRI auth2 = vf.createIRI("http://www.loc.gov/mads/rdf/v1#variantLabel");
+					System.out.println(bnodeList.get(i));
+					Resource bnode = vf.createBNode(StringUtils.substringAfter(bnodeList.get(i), "_:"));
+					String v2 = rdfModel.filter(bnode, auth2, null).toString();
+					System.out.println(v2);
+					variantTerms.add(StringUtils.substringBetween(v2, "variantLabel, \"", "\"@en"));
+					System.out.println(variantTerms.toString());
+				}				
+			}
+		}
+		return variantTerms;
+	}
+
+	private static ArrayList<LCSubjectHeading> getRelatedHeadings(LCSubjectHeading heading, int depth) throws FileNotFoundException {
+		ArrayList<LCSubjectHeading> relatedHeadings = new ArrayList<LCSubjectHeading>();
+		if (heading.getURI() != null) {
+			String b = "";
+			ValueFactory vf = SimpleValueFactory.getInstance();
+			IRI iri = vf.createIRI(heading.getURI().toString());
+			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority");
+			b = rdfModel.filter(iri, auth, null).toString();
+			if (!b.contentEquals("[]")) {
+				ArrayList<String> uriList = new ArrayList<String>();
+				System.out.println(b);
+				// extract all the heading uris from the string ..
+				Pattern p = Pattern.compile(Pattern.quote("hasReciprocalAuthority, ") + "(.*?)" + Pattern.quote(")"));
+				Matcher m = p.matcher(b);
+				while (m.find()) {
+					if (!m.group(1).equals("[]")) {
+						uriList.add(m.group(1));
+					}
+				}
+				System.out.println(uriList.toString());
+				// first see if the related headings already exist in lcshList!
+				for (int i = 0; i < lcshList.size(); i++) {
+					for (int j = 0; j < uriList.size(); j++) {
+						if (lcshList.get(i).getURI().toString().equals(uriList.get(j))) {
+							uriList.remove(j);
+							relatedHeadings.add(lcshList.get(i));
+						}
+					}
+					if (uriList.isEmpty())
+						return relatedHeadings;
+				}
+
+				if (depth <= maxDepth) {
+					System.out.println("DEPTH: " + depth);
+					for (int i = 0; i < uriList.size(); i++) {
+						String filepath = DlRDF.download(uriList.get(i));
+						InputStream input = new FileInputStream(filepath);
+						try {
+							rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+						} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+							e.printStackTrace();
+						}
+						// construct concepts from uri
+						ArrayList<String> relatedHeadingString = new ArrayList<String>();
+						try {
+							relatedHeadingString = buildConceptString(new URI(uriList.get(i)));
+							LCSubjectHeading relatedHeading = addConceptString(relatedHeadingString,
+									new URI(uriList.get(i)), null, 0, depth);
+							if (relatedHeading != null)
+								relatedHeadings.add(relatedHeading);
+
+						} catch (URISyntaxException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+				}
+			}
+		}
+
+		return relatedHeadings;
+	}
+
+	private static ArrayList<LCSubjectHeading> getBroaderHeadings(LCSubjectHeading heading, int depth)
+			throws FileNotFoundException {
+		ArrayList<LCSubjectHeading> broaderHeadings = new ArrayList<LCSubjectHeading>();
+		if (heading.getURI() != null) {
+			String b = null;
+			ValueFactory vf = SimpleValueFactory.getInstance();
+			IRI iri = vf.createIRI(heading.getURI().toString());
+			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority");
+			b = rdfModel.filter(iri, auth, null).toString();
+			if (!b.contentEquals("[]")) {
+				ArrayList<String> uriList = new ArrayList<String>();
+				System.out.println(b);
+				// extract all the heading uris from the string ..
+				Pattern p = Pattern.compile(Pattern.quote("hasBroaderAuthority, ") + "(.*?)" + Pattern.quote(")"));
+				Matcher m = p.matcher(b);
+				while (m.find()) {
+					if (!m.group(1).equals("[]")) {
+						uriList.add(m.group(1));
+					}
+				}
+				System.out.println(uriList.toString());
+				// first see if the narrower headings already exist in lcshList!
+				for (int i = 0; i < lcshList.size(); i++) {
+					for (int j = 0; j < uriList.size(); j++) {
+						if (lcshList.get(i).getURI().toString().equals(uriList.get(j))) {
+							uriList.remove(j);
+							broaderHeadings.add(lcshList.get(i));
+						}
+					}
+					if (uriList.isEmpty())
+						return broaderHeadings;
+				}
+
+				if (depth <= maxDepth) {
+					System.out.println("DEPTH: " + depth);
+					for (int i = 0; i < uriList.size(); i++) {
+						String filepath = DlRDF.download(uriList.get(i));
+						InputStream input = new FileInputStream(filepath);
+						try {
+							rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
+						} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
+							e.printStackTrace();
+						}
+						// construct concepts from uri
+						ArrayList<String> broaderHeadingString = new ArrayList<String>();
+						try {
+							broaderHeadingString = buildConceptString(new URI(uriList.get(i)));
+							LCSubjectHeading broaderHeading = addConceptString(broaderHeadingString,
+									new URI(uriList.get(i)), null, 0, depth);
+							if (broaderHeading != null)
+								broaderHeadings.add(broaderHeading);
+
+						} catch (URISyntaxException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
+					}
+				}
+			}
+		}
+
+		return broaderHeadings;
 	}
 
 	private static ArrayList<LCSubjectHeading> getNarrowerHeadings(LCSubjectHeading heading, int depth)
@@ -257,8 +508,8 @@ public class LCAnalyze {
 					if (uriList.isEmpty())
 						return narrowerHeadings;
 				}
-				depth++;
-				if (depth != maxDepth) {
+
+				if (depth <= maxDepth) {
 					for (int i = 0; i < uriList.size(); i++) {
 						String filepath = DlRDF.download(uriList.get(i));
 						InputStream input = new FileInputStream(filepath);
@@ -271,8 +522,10 @@ public class LCAnalyze {
 						ArrayList<String> narrowerHeadingString = new ArrayList<String>();
 						try {
 							narrowerHeadingString = buildConceptString(new URI(uriList.get(i)));
-							narrowerHeadings.add(addConceptString(narrowerHeadingString, new URI(uriList.get(i)), null,
-									0, depth, depth));
+							LCSubjectHeading narrowerHeading = addConceptString(narrowerHeadingString,
+									new URI(uriList.get(i)), null, 0, depth);
+							if (narrowerHeading != null)
+								narrowerHeadings.add(narrowerHeading);
 
 						} catch (URISyntaxException e) {
 							// TODO Auto-generated catch block
@@ -332,81 +585,17 @@ public class LCAnalyze {
 		authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth, null).toString(), "Label, \"", "\"@");
 
 		if (uri.toString().contains("subjects")) {
-			String[] s = authorityLabel.split("--");
-			for (int i = 0; i < s.length; i++) {
-				conceptString.add(s[i]);
-				System.out.println(conceptString.get(i));
+			while (authorityLabel.contains("--")) {
+				conceptString.add(authorityLabel);
+				authorityLabel = StringUtils.substringBeforeLast(authorityLabel, "--");
 			}
+			conceptString.add(authorityLabel);
+			Collections.reverse(conceptString);
+			System.out.println(conceptString.toString());
 		} else {
-			String[] s = authorityLabel.split("--");
-			for (int i = 0; i < s.length; i++) {
-				conceptString.add(s[i]);
-				System.out.println(conceptString.get(i));
-			}
+			conceptString.add("authorityLabel");
 		}
-
 		return conceptString;
-	}
-
-	private static ArrayList<LCSubjectHeading> getBroaderHeadings(LCSubjectHeading heading, int depth)
-			throws FileNotFoundException {
-		ArrayList<LCSubjectHeading> broaderHeadings = new ArrayList<LCSubjectHeading>();
-		if (heading.getURI() != null) {
-			String b = null;
-			ValueFactory vf = SimpleValueFactory.getInstance();
-			IRI iri = vf.createIRI(heading.getURI().toString());
-			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority");
-			b = rdfModel.filter(iri, auth, null).toString();
-			if (!b.contentEquals("[]")) {
-				ArrayList<String> uriList = new ArrayList<String>();
-				System.out.println(b);
-				// extract all the heading uris from the string ..
-				Pattern p = Pattern.compile(Pattern.quote("hasBroaderAuthority, ") + "(.*?)" + Pattern.quote(")"));
-				Matcher m = p.matcher(b);
-				while (m.find()) {
-					if (!m.group(1).equals("[]")) {
-						uriList.add(m.group(1));
-					}
-				}
-				System.out.println(uriList.toString());
-				// first see if the narrower headings already exist in lcshList!
-				for (int i = 0; i < lcshList.size(); i++) {
-					for (int j = 0; j < uriList.size(); j++) {
-						if (lcshList.get(i).getURI().toString().equals(uriList.get(j))) {
-							uriList.remove(j);
-							broaderHeadings.add(lcshList.get(i));
-						}
-					}
-					if (uriList.isEmpty())
-						return broaderHeadings;
-				}
-				depth++;
-				if (depth != maxDepth) {
-					for (int i = 0; i < uriList.size(); i++) {
-						String filepath = DlRDF.download(uriList.get(i));
-						InputStream input = new FileInputStream(filepath);
-						try {
-							rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
-						} catch (RDFParseException | UnsupportedRDFormatException | IOException e) {
-							e.printStackTrace();
-						}
-						// construct concepts from uri
-						ArrayList<String> broaderHeadingString = new ArrayList<String>();
-						try {
-							broaderHeadingString = buildConceptString(new URI(uriList.get(i)));
-							broaderHeadings.add(addConceptString(broaderHeadingString, new URI(uriList.get(i)), null, 0,
-									depth, depth));
-
-						} catch (URISyntaxException e) {
-							// TODO Auto-generated catch block
-							e.printStackTrace();
-						}
-					}
-				}
-			}
-		}
-
-		return broaderHeadings;
 	}
 
 	/**

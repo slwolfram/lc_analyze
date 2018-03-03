@@ -1,0 +1,353 @@
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vegetable oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh94004802 . 
+_:bnode7authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh94004802 . 
+_:bnode7authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vegetable oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh94004802 . 
+_:bnode11authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Plant oils"@en . 
+_:bnode11authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh94004802 . 
+_:bnode16authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh94004802 . 
+_:bnode16authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#classification> "TP680-TP684" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044920> . 
+<http://id.loc.gov/authorities/subjects/sh85044920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044920> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Essences and essential oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130540> . 
+<http://id.loc.gov/authorities/subjects/sh85130540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130540> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sunflower seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147884> . 
+<http://id.loc.gov/authorities/subjects/sh85147884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wood oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077150> . 
+<http://id.loc.gov/authorities/subjects/sh85077150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077150> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Linden oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85133081> . 
+<http://id.loc.gov/authorities/subjects/sh85133081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133081> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teaseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/14235> . 
+<http://lod.nal.usda.gov/nalt/14235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/14235> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "plant fats and oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85094407> . 
+<http://id.loc.gov/authorities/subjects/sh85094407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85094407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094407> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oils and fats"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094407> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh94004802 . 
+_:bnode51authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh94004802 . 
+_:bnode51authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#elementValue> "Oils and fats"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146386> . 
+<http://id.loc.gov/authorities/subjects/sh85146386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146386> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wheat germ oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094431> . 
+<http://id.loc.gov/authorities/subjects/sh85094431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094431> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oiticica oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027628> . 
+<http://id.loc.gov/authorities/subjects/sh85027628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027628> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Coconut oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022786> . 
+<http://id.loc.gov/authorities/subjects/sh85022786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022786> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chaulmugra oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020591> . 
+<http://id.loc.gov/authorities/subjects/sh85020591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cashew oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode80authoritiessubjectssh94004802 . 
+_:bnode80authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode81authoritiessubjectssh94004802 . 
+_:bnode80authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode81authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode81authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034318> . 
+<http://id.loc.gov/authorities/subjects/sh85034318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034318> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Croton oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4219392-8> . 
+<http://d-nb.info/gnd/4219392-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4219392-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pflanzenölgewinnung"@de . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098998> . 
+<http://id.loc.gov/authorities/subjects/sh85098998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098998> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Peanut oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068331> . 
+<http://id.loc.gov/authorities/subjects/sh85068331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Isano oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85094619> . 
+<http://id.loc.gov/authorities/subjects/sh85094619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094619> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Olive oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097227> . 
+<http://id.loc.gov/authorities/subjects/sh85097227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097227> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Palm oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012376> . 
+<http://id.loc.gov/authorities/subjects/sh85012376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012376> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bati oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85125897> . 
+<http://id.loc.gov/authorities/subjects/sh85125897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125897> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soy oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010009133> . 
+<http://id.loc.gov/authorities/subjects/sh2010009133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010009133> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hemp seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132107> . 
+<http://id.loc.gov/authorities/subjects/sh85132107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132107> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tall oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85138600> . 
+<http://id.loc.gov/authorities/subjects/sh85138600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85138600> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tung oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85099870> . 
+<http://id.loc.gov/authorities/subjects/sh85099870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85099870> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Perilla oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102768> . 
+<http://id.loc.gov/authorities/subjects/sh85102768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102768> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant lipids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102768> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode137authoritiessubjectssh94004802 . 
+_:bnode137authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode138authoritiessubjectssh94004802 . 
+_:bnode137authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode138authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode138authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant lipids"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb125128993> . 
+<http://data.bnf.fr/ark:/12148/cb125128993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb125128993> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Huiles végétales"@fr . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006607> . 
+<http://id.loc.gov/authorities/subjects/sh88006607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006607> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Safflower oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000911> . 
+<http://id.loc.gov/authorities/subjects/sh98000911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000911> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pumpkinseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060563> . 
+<http://id.loc.gov/authorities/subjects/sh85060563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060563> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hevea seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85113900> . 
+<http://id.loc.gov/authorities/subjects/sh85113900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113900> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rice oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85111414> . 
+<http://id.loc.gov/authorities/subjects/sh85111414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85111414> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rape oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4174068-3> . 
+<http://d-nb.info/gnd/4174068-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4174068-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pflanzenöl"@de . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077257> . 
+<http://id.loc.gov/authorities/subjects/sh85077257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077257> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Linseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006608> . 
+<http://id.loc.gov/authorities/subjects/sh88006608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sesame oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85032777> . 
+<http://id.loc.gov/authorities/subjects/sh85032777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85032777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Corn oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020747> . 
+<http://id.loc.gov/authorities/subjects/sh85020747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020747> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Castor oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85115457> . 
+<http://id.loc.gov/authorities/subjects/sh85115457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85115457> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rosin oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85033369> . 
+<http://id.loc.gov/authorities/subjects/sh85033369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85033369> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cottonseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000425> . 
+<http://id.loc.gov/authorities/subjects/sh87000425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000425> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sal seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007003021> . 
+<http://id.loc.gov/authorities/subjects/sh2007003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007003021> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Neem oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 94004802" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh94004802> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh94004802#concept> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode209authoritiessubjectssh94004802 . 
+_:bnode209authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode209authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 94-29090: Vegetable oils and agrichemicals, 1994." . 
+_:bnode209authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode215authoritiessubjectssh94004802 . 
+_:bnode215authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode215authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "MESH" . 
+_:bnode215authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Plant oils x Vegetable oils)"@en . 
+_:bnode215authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode223authoritiessubjectssh94004802 . 
+_:bnode223authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode223authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "CAB thes." . 
+_:bnode223authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Plant oils UF Vegetable oils)"@en . 
+_:bnode223authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode231authoritiessubjectssh94004802 . 
+_:bnode231authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode231authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "Biol. and agr. index" . 
+_:bnode231authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Vegetable oils and fats)"@en . 
+_:bnode231authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode239authoritiessubjectssh94004802 . 
+_:bnode239authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode239authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "NIH thes." . 
+_:bnode239authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Lipids, Oils, Vegetable oils)"@en . 
+_:bnode239authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode247authoritiessubjectssh94004802 . 
+_:bnode247authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode247authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "TEST" . 
+_:bnode247authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Vegetable oils)"@en . 
+_:bnode247authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode255authoritiessubjectssh94004802 . 
+_:bnode255authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode255authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3" . 
+_:bnode255authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Vegetable oil)"@en . 
+_:bnode255authoritiessubjectssh94004802 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode263authoritiessubjectssh94004802 . 
+_:bnode263authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode263authoritiessubjectssh94004802 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-06-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode263authoritiessubjectssh94004802 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode263authoritiessubjectssh94004802 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode270authoritiessubjectssh94004802 . 
+_:bnode270authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode270authoritiessubjectssh94004802 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-08-08T12:41:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode270authoritiessubjectssh94004802 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode270authoritiessubjectssh94004802 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vegetable oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode280authoritiessubjectssh94004802 . 
+_:bnode280authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode280authoritiessubjectssh94004802 <http://www.w3.org/2008/05/skos-xl#literalForm> "Plant oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#altLabel> "Plant oils" . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85094407> . 
+<http://id.loc.gov/authorities/subjects/sh85094407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094407> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oils and fats"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102800> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102800> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant products"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102768> . 
+<http://id.loc.gov/authorities/subjects/sh85102768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102768> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant lipids"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044920> . 
+<http://id.loc.gov/authorities/subjects/sh85044920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Essences and essential oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130540> . 
+<http://id.loc.gov/authorities/subjects/sh85130540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130540> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sunflower seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147884> . 
+<http://id.loc.gov/authorities/subjects/sh85147884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wood oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077150> . 
+<http://id.loc.gov/authorities/subjects/sh85077150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077150> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linden oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85133081> . 
+<http://id.loc.gov/authorities/subjects/sh85133081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133081> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teaseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146386> . 
+<http://id.loc.gov/authorities/subjects/sh85146386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146386> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wheat germ oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094431> . 
+<http://id.loc.gov/authorities/subjects/sh85094431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oiticica oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027628> . 
+<http://id.loc.gov/authorities/subjects/sh85027628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Coconut oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022786> . 
+<http://id.loc.gov/authorities/subjects/sh85022786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022786> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chaulmugra oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020591> . 
+<http://id.loc.gov/authorities/subjects/sh85020591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cashew oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034318> . 
+<http://id.loc.gov/authorities/subjects/sh85034318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Croton oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098998> . 
+<http://id.loc.gov/authorities/subjects/sh85098998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098998> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peanut oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068331> . 
+<http://id.loc.gov/authorities/subjects/sh85068331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isano oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85094619> . 
+<http://id.loc.gov/authorities/subjects/sh85094619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094619> <http://www.w3.org/2004/02/skos/core#prefLabel> "Olive oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097227> . 
+<http://id.loc.gov/authorities/subjects/sh85097227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097227> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palm oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012376> . 
+<http://id.loc.gov/authorities/subjects/sh85012376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012376> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bati oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85125897> . 
+<http://id.loc.gov/authorities/subjects/sh85125897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soy oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010009133> . 
+<http://id.loc.gov/authorities/subjects/sh2010009133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010009133> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hemp seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132107> . 
+<http://id.loc.gov/authorities/subjects/sh85132107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132107> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tall oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85138600> . 
+<http://id.loc.gov/authorities/subjects/sh85138600> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85138600> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tung oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85099870> . 
+<http://id.loc.gov/authorities/subjects/sh85099870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85099870> <http://www.w3.org/2004/02/skos/core#prefLabel> "Perilla oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006607> . 
+<http://id.loc.gov/authorities/subjects/sh88006607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Safflower oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000911> . 
+<http://id.loc.gov/authorities/subjects/sh98000911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000911> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pumpkinseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060563> . 
+<http://id.loc.gov/authorities/subjects/sh85060563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060563> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hevea seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85113900> . 
+<http://id.loc.gov/authorities/subjects/sh85113900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113900> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rice oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85111414> . 
+<http://id.loc.gov/authorities/subjects/sh85111414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85111414> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rape oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077257> . 
+<http://id.loc.gov/authorities/subjects/sh85077257> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077257> <http://www.w3.org/2004/02/skos/core#prefLabel> "Linseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006608> . 
+<http://id.loc.gov/authorities/subjects/sh88006608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sesame oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85032777> . 
+<http://id.loc.gov/authorities/subjects/sh85032777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85032777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corn oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020747> . 
+<http://id.loc.gov/authorities/subjects/sh85020747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020747> <http://www.w3.org/2004/02/skos/core#prefLabel> "Castor oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85115457> . 
+<http://id.loc.gov/authorities/subjects/sh85115457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85115457> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rosin oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85033369> . 
+<http://id.loc.gov/authorities/subjects/sh85033369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85033369> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cottonseed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000425> . 
+<http://id.loc.gov/authorities/subjects/sh87000425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000425> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sal seed oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007003021> . 
+<http://id.loc.gov/authorities/subjects/sh2007003021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007003021> <http://www.w3.org/2004/02/skos/core#prefLabel> "Neem oil"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/14235> . 
+<http://lod.nal.usda.gov/nalt/14235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/14235> <http://www.w3.org/2004/02/skos/core#prefLabel> "plant fats and oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4219392-8> . 
+<http://d-nb.info/gnd/4219392-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4219392-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzenölgewinnung"@de . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb125128993> . 
+<http://data.bnf.fr/ark:/12148/cb125128993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb125128993> <http://www.w3.org/2004/02/skos/core#prefLabel> "Huiles végétales"@fr . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4174068-3> . 
+<http://d-nb.info/gnd/4174068-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4174068-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzenöl"@de . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2008/05/skos-xl#altLabel> "Plant oils"@en . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode495authoritiessubjectssh94004802 . 
+_:bnode495authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode495authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94004802> . 
+_:bnode495authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode495authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#createdDate> "1994-06-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode495authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh94004802> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode503authoritiessubjectssh94004802 . 
+_:bnode503authoritiessubjectssh94004802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode503authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94004802> . 
+_:bnode503authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode503authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#createdDate> "1994-08-08T12:41:31"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode503authoritiessubjectssh94004802 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

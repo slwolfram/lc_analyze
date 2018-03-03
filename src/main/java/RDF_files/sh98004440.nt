@@ -1,0 +1,55 @@
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gender identity in music"@en . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98004440 . 
+_:bnode7authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98004440 . 
+_:bnode7authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98004440 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gender identity in music"@en . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85088762> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh98004440 . 
+_:bnode16authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh98004440 . 
+_:bnode16authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh98004440 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98004440" . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98004440> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98004440#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode27authoritiessubjectssh98004440 . 
+_:bnode27authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode27authoritiessubjectssh98004440 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 97-19846: Franz Schubert, 1998." . 
+_:bnode27authoritiessubjectssh98004440 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode33authoritiessubjectssh98004440 . 
+_:bnode33authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode33authoritiessubjectssh98004440 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-07-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode33authoritiessubjectssh98004440 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode33authoritiessubjectssh98004440 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode40authoritiessubjectssh98004440 . 
+_:bnode40authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode40authoritiessubjectssh98004440 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2004-11-30T08:22:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode40authoritiessubjectssh98004440 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode40authoritiessubjectssh98004440 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gender identity in music"@en . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85088762> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode56authoritiessubjectssh98004440 . 
+_:bnode56authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode56authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98004440> . 
+_:bnode56authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode56authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#createdDate> "1998-07-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98004440> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode64authoritiessubjectssh98004440 . 
+_:bnode64authoritiessubjectssh98004440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode64authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98004440> . 
+_:bnode64authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode64authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#createdDate> "2004-11-30T08:22:49"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh98004440 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

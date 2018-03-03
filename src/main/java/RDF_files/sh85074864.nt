@@ -1,0 +1,62 @@
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lathes--Numerical control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85074864 . 
+_:bnode7authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85074860> . 
+_:bnode7authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85074860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85074860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074860> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lathes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074860> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85074864 . 
+_:bnode12authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85074864 . 
+_:bnode12authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85074864 <http://www.loc.gov/mads/rdf/v1#elementValue> "Lathes"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85074864 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85074864 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Numerical control"@en . 
+_:bnode16authoritiessubjectssh85074864 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85074864 . 
+_:bnode20authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85074864 . 
+_:bnode20authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85074864 <http://www.loc.gov/mads/rdf/v1#elementValue> "Numerical control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083452> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MELTS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85010089> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automatic control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85074864 . 
+_:bnode33authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85074864 . 
+_:bnode33authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85074864 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automatic control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85074864" . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85074864> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85074864#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiessubjectssh85074864 . 
+_:bnode44authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiessubjectssh85074864 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiessubjectssh85074864 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiessubjectssh85074864 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lathes--Numerical control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85010089> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010089> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automatic control"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083452> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083452> <http://www.w3.org/2004/02/skos/core#prefLabel> "MELTS (Computer system)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85074864> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode65authoritiessubjectssh85074864 . 
+_:bnode65authoritiessubjectssh85074864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode65authoritiessubjectssh85074864 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85074864> . 
+_:bnode65authoritiessubjectssh85074864 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode65authoritiessubjectssh85074864 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh85074864 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

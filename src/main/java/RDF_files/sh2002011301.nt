@@ -1,0 +1,118 @@
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soundscapes (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2002011301 . 
+_:bnode7authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2002011301 . 
+_:bnode7authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#elementValue> "Soundscapes (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh2002011301 . 
+_:bnode11authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Environmental sound compositions"@en . 
+_:bnode11authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2002011301 . 
+_:bnode16authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2002011301 . 
+_:bnode16authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#elementValue> "Environmental sound compositions"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85125411> . 
+<http://id.loc.gov/authorities/subjects/sh85125411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85125411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125411> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sounds"@en . 
+<http://id.loc.gov/authorities/subjects/sh85125411> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh2002011301 . 
+_:bnode25authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh2002011301 . 
+_:bnode25authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sounds"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb166350047> . 
+<http://data.bnf.fr/ark:/12148/cb166350047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb166350047> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paysage sonore (musique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4430771-8> . 
+<http://d-nb.info/gnd/4430771-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4430771-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Klangkunst"@de . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85088762> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh2002011301 . 
+_:bnode42authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh2002011301 . 
+_:bnode42authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#elementValue> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered musical compositions that consist of natural or synthetic sounds from specific locations, sometimes manipulated electronically." . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2002011301" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2002011301> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2002011301#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh2002011301 . 
+_:bnode56authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Quin, D. Forests [SR] p1997:" . 
+_:bnode56authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-note> "container (Soundscape)"@en . 
+_:bnode56authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh2002011301 . 
+_:bnode64authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-source> "Schafer, R.M. The tuning of the world, 1977:" . 
+_:bnode64authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-note> "glossary (Soundscape: the sonic environment; the term may refer to actual environments, or to abstract constructions such as musical compositions and tape montages, particularly when considered as an environment)"@en . 
+_:bnode64authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode72authoritiessubjectssh2002011301 . 
+_:bnode72authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode72authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-source> "New Grove dict. of mus. online, June 18, 2003:" . 
+_:bnode72authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-note> "under Schafer, R. Murray ([undertook] research into acoustic ecology, a field that he virtually invented, combining such disciplines as acoustics, geography, psychology, urbanology and aesthetics; led to his book The Tuning of the World (Toronto, 1977) and the founding of the World Soundscape Project (now the World Forum for Acoustic Ecology))"@en . 
+_:bnode72authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode80authoritiessubjectssh2002011301 . 
+_:bnode80authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode80authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-source> "http://arts.sunydutchess.edu/soundscapes/ June 27, 2003:" . 
+_:bnode80authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-note> "Soundscapes and acoustic ecology (Much of the current interest in soundscapes is an outgrowth of the work of the World Soundscape Project established in the early 1970s by the Canadian scholar, R. Murray Schafer; now a large world-wide community of artists, scholars and activists who are concerned with the sounds of our environment; awareness of sound as a part of everyday life, and creating artistic compositions which use sounds from various environments)"@en . 
+_:bnode80authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode88authoritiessubjectssh2002011301 . 
+_:bnode88authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode88authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-source> "New Grove 2nd ed." . 
+_:bnode88authoritiessubjectssh2002011301 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode94authoritiessubjectssh2002011301 . 
+_:bnode94authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode94authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-11-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode94authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/vtmimmu> . 
+_:bnode94authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode102authoritiessubjectssh2002011301 . 
+_:bnode102authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode102authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2003-07-15T14:03:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode102authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/vtmimmu> . 
+_:bnode102authoritiessubjectssh2002011301 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soundscapes (Music)"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode113authoritiessubjectssh2002011301 . 
+_:bnode113authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode113authoritiessubjectssh2002011301 <http://www.w3.org/2008/05/skos-xl#literalForm> "Environmental sound compositions"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#altLabel> "Environmental sound compositions" . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85125411> . 
+<http://id.loc.gov/authorities/subjects/sh85125411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125411> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sounds"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85088762> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088762> <http://www.w3.org/2004/02/skos/core#prefLabel> "Music"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb166350047> . 
+<http://data.bnf.fr/ark:/12148/cb166350047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb166350047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paysage sonore (musique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4430771-8> . 
+<http://d-nb.info/gnd/4430771-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4430771-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klangkunst"@de . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#note> "Here are entered musical compositions that consist of natural or synthetic sounds from specific locations, sometimes manipulated electronically." . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2008/05/skos-xl#altLabel> "Environmental sound compositions"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode145authoritiessubjectssh2002011301 . 
+_:bnode145authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode145authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002011301> . 
+_:bnode145authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/vtmimmu> . 
+_:bnode145authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#createdDate> "2002-11-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode145authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2002011301> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode153authoritiessubjectssh2002011301 . 
+_:bnode153authoritiessubjectssh2002011301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode153authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2002011301> . 
+_:bnode153authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/vtmimmu> . 
+_:bnode153authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#createdDate> "2003-07-15T14:03:30"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode153authoritiessubjectssh2002011301 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

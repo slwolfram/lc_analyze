@@ -1,0 +1,56 @@
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Income--Regional disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85064761 . 
+_:bnode7authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85064759> . 
+_:bnode7authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85064759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85064759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064759> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Income"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064759> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85064761 . 
+_:bnode12authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85064761 . 
+_:bnode12authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85064761 <http://www.loc.gov/mads/rdf/v1#elementValue> "Income"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh88002094> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh88002094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88002094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88002094> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regional disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh88002094> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85064761 . 
+_:bnode20authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85064761 . 
+_:bnode20authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85064761 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regional disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85112361> . 
+<http://id.loc.gov/authorities/subjects/sh85112361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85112361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112361> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Regional economic disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85112361> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85064761 . 
+_:bnode29authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85064761 . 
+_:bnode29authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85064761 <http://www.loc.gov/mads/rdf/v1#elementValue> "Regional economic disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85064761" . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85064761> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85064761#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode40authoritiessubjectssh85064761 . 
+_:bnode40authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode40authoritiessubjectssh85064761 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode40authoritiessubjectssh85064761 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode40authoritiessubjectssh85064761 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/2004/02/skos/core#prefLabel> "Income--Regional disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85112361> . 
+<http://id.loc.gov/authorities/subjects/sh85112361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regional economic disparities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85064761> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode56authoritiessubjectssh85064761 . 
+_:bnode56authoritiessubjectssh85064761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode56authoritiessubjectssh85064761 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85064761> . 
+_:bnode56authoritiessubjectssh85064761 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode56authoritiessubjectssh85064761 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85064761 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

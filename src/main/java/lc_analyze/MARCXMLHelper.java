@@ -117,4 +117,138 @@ public class MARCXMLHelper {
 		return new FileInputStream(tmp);
 	}
 
+	public static String extractTitle(Record record) {
+		String title = "";
+		if (record.getVariableField("245") != null) {
+			title = record.getVariableField("245").toString();
+			// remove subheading tags
+			title = StringUtils.substringAfter(title, "$a");
+			title.replaceAll("\\$.", "");
+			System.out.print(title);
+		} else {
+			title = "[Not given]";
+		}
+		return title;
+	}
+
+	public static String extractAuthor(Record record) {
+		String author = "";
+		System.out.println(record.toString());
+		if (record.getVariableField("100") != null) {
+			author = record.getVariableField("100").toString();
+			// remove subheading tags
+			author = StringUtils.substringAfter(author, "$a");
+			author = StringUtils.substringBefore(author, "$2");
+			author = author.replaceAll("\\$.", "");
+			System.out.print(author);
+		} else {
+			author = "[Not given]";
+		}
+		return author;
+	}
+
+	public static String extractPlaceOfPublication(Record record) {
+
+		String placeOfPublication = "";
+		System.out.println(record.toString());
+		if (record.getVariableField("264") != null) {
+			placeOfPublication = record.getVariableField("264").toString();
+			// remove subheading tags
+			placeOfPublication = StringUtils.substringBetween(placeOfPublication, "$a", "$b");
+			System.out.print(placeOfPublication);
+		} else if (record.getVariableField("260") != null) {
+			placeOfPublication = record.getVariableField("260").toString();
+			// remove subheading tags
+			placeOfPublication = StringUtils.substringBetween(placeOfPublication, "$a", "$b");
+			System.out.print(placeOfPublication);
+		} else {
+			placeOfPublication = "[Not given]";
+		}
+		return placeOfPublication;
+	}
+
+	public static String extractDescription(Record record) {
+		String description = "";
+		System.out.println(record.toString());
+		if (record.getVariableField("520") != null) {
+			description = record.getVariableField("520").toString();
+			// remove subheading tags
+			description = StringUtils.substringAfter(description, "$a");
+			System.out.println(description);
+		} else if (record.getVariableField("500") != null) {
+			description = record.getVariableField("500").toString();
+			// remove subheading tags
+			description = StringUtils.substringAfter(description, "$a");
+			System.out.println(description);
+		} else {
+			description = "[Not given]";
+		}
+		return description;
+	}
+
+	public static String extractContentType(Record record) {
+		String contentType = "";
+		if (record.getVariableField("336") != null) {
+			contentType = record.getVariableField("336").toString();
+			contentType = StringUtils.substringBetween(contentType, "$a", "$b");
+		}
+		return contentType;
+	}
+
+	public static String extractMediaType(Record record) {
+		String mediaType = "";
+		if (record.getVariableField("337") != null) {
+			mediaType = record.getVariableField("337").toString();
+			mediaType = StringUtils.substringBetween(mediaType, "$a", "$b");
+		}
+		return mediaType;
+	}
+
+	public static String extractDateOfPublication(Record record) {
+		String dateOfPublication = "";
+		System.out.println(record.toString());
+		if (record.getVariableField("264") != null) {
+			dateOfPublication = record.getVariableField("264").toString();
+			// remove subheading tags
+			dateOfPublication = StringUtils.substringAfter(dateOfPublication, "$c");
+			System.out.println(dateOfPublication);
+		} else if (record.getVariableField("260") != null) {
+			dateOfPublication = record.getVariableField("260").toString();
+			// remove subheading tags
+			dateOfPublication = StringUtils.substringAfter(dateOfPublication, "$c");
+			System.out.println(dateOfPublication);
+		} else {
+			dateOfPublication = "[Not given]";
+		}
+		return dateOfPublication;
+	}
+
+	public static String extractPublisher(Record record) {
+		String publisher = "";
+		System.out.println(record.toString());
+		if (record.getVariableField("264") != null) {
+			publisher = record.getVariableField("264").toString();
+			// remove subheading tags
+			publisher = StringUtils.substringBetween(publisher, "$b", "$c");
+			System.out.println(publisher);
+		} else if (record.getVariableField("260") != null) {
+			publisher = record.getVariableField("260").toString();
+			// remove subheading tags
+			publisher = StringUtils.substringBetween(publisher, "$b", "$c");
+			System.out.println(publisher);
+		} else {
+			publisher = "[Not given]";
+		}
+		return publisher;
+	}
+
+	public static String extractCarrierType(Record record) {
+		String carrierType = "";
+		if (record.getVariableField("338") != null) {
+			carrierType = record.getVariableField("338").toString();
+			carrierType = StringUtils.substringBetween(carrierType, "$a", "$b");
+		}
+		return carrierType;
+	}
+
 }

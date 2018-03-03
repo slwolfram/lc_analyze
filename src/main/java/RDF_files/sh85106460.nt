@@ -1,0 +1,145 @@
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presidents--Election"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85106460 . 
+_:bnode7authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/childrensSubjects/sj96006321> . 
+_:bnode7authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006321> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presidents"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006321> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85106460 . 
+_:bnode12authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85106460 . 
+_:bnode12authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementValue> "Presidents"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85106460 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Election"@en . 
+_:bnode16authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85106460 . 
+_:bnode20authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85106460 . 
+_:bnode20authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementValue> "Election"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85106460 . 
+_:bnode24authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Campaigns, Presidential"@en . 
+_:bnode24authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85106460 . 
+_:bnode29authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85106460 . 
+_:bnode29authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementValue> "Campaigns, Presidential"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85106460 . 
+_:bnode33authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Presidential campaigns"@en . 
+_:bnode33authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85106460 . 
+_:bnode38authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85106460 . 
+_:bnode38authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementValue> "Presidential campaigns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode42authoritiessubjectssh85106460 . 
+_:bnode42authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode42authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode42authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Presidential elections"@en . 
+_:bnode42authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85106460 . 
+_:bnode47authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85106460 . 
+_:bnode47authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementValue> "Presidential elections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#classification> "JF285" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4047020-9> . 
+<http://d-nb.info/gnd/4047020-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4047020-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Präsidentenwahl"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85041557> . 
+<http://id.loc.gov/authorities/subjects/sh85041557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85041557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85041557> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Elections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85041557> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode62authoritiessubjectssh85106460 . 
+_:bnode62authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode63authoritiessubjectssh85106460 . 
+_:bnode62authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode63authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode63authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#elementValue> "Elections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106475> . 
+<http://id.loc.gov/authorities/subjects/sh85106475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presidents--United States--Election"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11948207k> . 
+<http://data.bnf.fr/ark:/12148/cb11948207k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11948207k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Présidents -- Élection"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106456> . 
+<http://id.loc.gov/authorities/subjects/sh85106456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106456> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Presidential candidates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#note> "Subdivided by date, if appropriate." . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85106460" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85106460> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85106460#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode87authoritiessubjectssh85106460 . 
+_:bnode87authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode87authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#citation-source> "Atlas of U.S. presidential elections, 1997." . 
+_:bnode87authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode93authoritiessubjectssh85106460 . 
+_:bnode93authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode93authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC database, 22SEP97" . 
+_:bnode93authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Presidential elections)"@en . 
+_:bnode93authoritiessubjectssh85106460 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode101authoritiessubjectssh85106460 . 
+_:bnode101authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode101authoritiessubjectssh85106460 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-05-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode101authoritiessubjectssh85106460 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode101authoritiessubjectssh85106460 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode108authoritiessubjectssh85106460 . 
+_:bnode108authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode108authoritiessubjectssh85106460 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-05-26T13:22:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh85106460 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode108authoritiessubjectssh85106460 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presidents--Election"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode118authoritiessubjectssh85106460 . 
+_:bnode118authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode118authoritiessubjectssh85106460 <http://www.w3.org/2008/05/skos-xl#literalForm> "Campaigns, Presidential"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#altLabel> "Campaigns, Presidential" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode125authoritiessubjectssh85106460 . 
+_:bnode125authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode125authoritiessubjectssh85106460 <http://www.w3.org/2008/05/skos-xl#literalForm> "Presidential campaigns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#altLabel> "Presidential campaigns" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode132authoritiessubjectssh85106460 . 
+_:bnode132authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode132authoritiessubjectssh85106460 <http://www.w3.org/2008/05/skos-xl#literalForm> "Presidential elections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#altLabel> "Presidential elections" . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85041557> . 
+<http://id.loc.gov/authorities/subjects/sh85041557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85041557> <http://www.w3.org/2004/02/skos/core#prefLabel> "Elections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106475> . 
+<http://id.loc.gov/authorities/subjects/sh85106475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presidents--United States--Election"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106456> . 
+<http://id.loc.gov/authorities/subjects/sh85106456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106456> <http://www.w3.org/2004/02/skos/core#prefLabel> "Presidential candidates"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4047020-9> . 
+<http://d-nb.info/gnd/4047020-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4047020-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Präsidentenwahl"@de . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11948207k> . 
+<http://data.bnf.fr/ark:/12148/cb11948207k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11948207k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Présidents -- Élection"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#note> "Subdivided by date, if appropriate." . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2008/05/skos-xl#altLabel> "Campaigns, Presidential"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2008/05/skos-xl#altLabel> "Presidential campaigns"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2008/05/skos-xl#altLabel> "Presidential elections"@en . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode173authoritiessubjectssh85106460 . 
+_:bnode173authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode173authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85106460> . 
+_:bnode173authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode173authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#createdDate> "2000-05-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode173authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85106460> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode181authoritiessubjectssh85106460 . 
+_:bnode181authoritiessubjectssh85106460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode181authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85106460> . 
+_:bnode181authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode181authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#createdDate> "2000-05-26T13:22:10"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode181authoritiessubjectssh85106460 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

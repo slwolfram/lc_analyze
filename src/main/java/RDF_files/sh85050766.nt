@@ -1,0 +1,194 @@
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85050766 . 
+_:bnode7authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85050766 . 
+_:bnode7authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85050766 . 
+_:bnode11authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Drop-forging"@en . 
+_:bnode11authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85050766 . 
+_:bnode16authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85050766 . 
+_:bnode16authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Drop-forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#classification> "TS225" . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#classification> "TT215-TT240" . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4052911-3> . 
+<http://d-nb.info/gnd/4052911-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4052911-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schmiedekunst"@de . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060668> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "High energy forming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85050752> . 
+<http://id.loc.gov/authorities/subjects/sh85050752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050752> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forge shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb131629735> . 
+<http://data.bnf.fr/ark:/12148/cb131629735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb131629735> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forgeage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4052913-7> . 
+<http://d-nb.info/gnd/4052913-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4052913-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Schmieden"@de . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135632> . 
+<http://id.loc.gov/authorities/subjects/sh85135632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135632> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Titanium forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85037808> . 
+<http://id.loc.gov/authorities/subjects/sh85037808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037808> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dies (Metal-working)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85068246> . 
+<http://id.loc.gov/authorities/subjects/sh85068246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85068246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068246> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ironwork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85068246> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode57authoritiessubjectssh85050766 . 
+_:bnode57authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh85050766 . 
+_:bnode57authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode58authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ironwork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004010> . 
+<http://id.loc.gov/authorities/subjects/sh85004010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004010> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aluminum forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85084093> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metal-work"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode70authoritiessubjectssh85050766 . 
+_:bnode70authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode71authoritiessubjectssh85050766 . 
+_:bnode70authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode71authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode71authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Metal-work"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039468> . 
+<http://id.loc.gov/authorities/subjects/sh85039468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039468> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Drawing (Metal-work)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85084085> . 
+<http://id.loc.gov/authorities/subjects/sh85084085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85084085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85084085> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Metal stamping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85084085> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode83authoritiessubjectssh85050766 . 
+_:bnode83authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode84authoritiessubjectssh85050766 . 
+_:bnode83authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode84authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode84authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Metal stamping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85014710> . 
+<http://id.loc.gov/authorities/subjects/sh85014710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85014710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014710> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Blacksmithing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85014710> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode92authoritiessubjectssh85050766 . 
+_:bnode92authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode93authoritiessubjectssh85050766 . 
+_:bnode92authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode93authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode93authoritiessubjectssh85050766 <http://www.loc.gov/mads/rdf/v1#elementValue> "Blacksmithing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85114891> . 
+<http://id.loc.gov/authorities/subjects/sh85114891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85114891> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rolling (Metal-work)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85127821> . 
+<http://id.loc.gov/authorities/subjects/sh85127821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127821> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Steel forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85146012> . 
+<http://id.loc.gov/authorities/subjects/sh85146012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85146012> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Welding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85046687> . 
+<http://id.loc.gov/authorities/subjects/sh85046687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046687> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eye-bars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85141250> . 
+<http://id.loc.gov/authorities/subjects/sh85141250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85141250> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Upset forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016442> . 
+<http://id.loc.gov/authorities/subjects/sh85016442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016442> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Brass forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85050766" . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85050766> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85050766#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode128authoritiessubjectssh85050766 . 
+_:bnode128authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode128authoritiessubjectssh85050766 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh85050766 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode128authoritiessubjectssh85050766 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode135authoritiessubjectssh85050766 . 
+_:bnode135authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode135authoritiessubjectssh85050766 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-03-11T15:02:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode135authoritiessubjectssh85050766 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode135authoritiessubjectssh85050766 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode145authoritiessubjectssh85050766 . 
+_:bnode145authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode145authoritiessubjectssh85050766 <http://www.w3.org/2008/05/skos-xl#literalForm> "Drop-forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#altLabel> "Drop-forging" . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85084093> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084093> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metal-work"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060668> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060668> <http://www.w3.org/2004/02/skos/core#prefLabel> "High energy forming"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85050752> . 
+<http://id.loc.gov/authorities/subjects/sh85050752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050752> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forge shops"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135632> . 
+<http://id.loc.gov/authorities/subjects/sh85135632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135632> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titanium forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85037808> . 
+<http://id.loc.gov/authorities/subjects/sh85037808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037808> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dies (Metal-working)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004010> . 
+<http://id.loc.gov/authorities/subjects/sh85004010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aluminum forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039468> . 
+<http://id.loc.gov/authorities/subjects/sh85039468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039468> <http://www.w3.org/2004/02/skos/core#prefLabel> "Drawing (Metal-work)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85114891> . 
+<http://id.loc.gov/authorities/subjects/sh85114891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85114891> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rolling (Metal-work)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85127821> . 
+<http://id.loc.gov/authorities/subjects/sh85127821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127821> <http://www.w3.org/2004/02/skos/core#prefLabel> "Steel forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85146012> . 
+<http://id.loc.gov/authorities/subjects/sh85146012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85146012> <http://www.w3.org/2004/02/skos/core#prefLabel> "Welding"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85046687> . 
+<http://id.loc.gov/authorities/subjects/sh85046687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046687> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eye-bars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85141250> . 
+<http://id.loc.gov/authorities/subjects/sh85141250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85141250> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upset forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016442> . 
+<http://id.loc.gov/authorities/subjects/sh85016442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016442> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brass forgings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85068246> . 
+<http://id.loc.gov/authorities/subjects/sh85068246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068246> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ironwork"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85084085> . 
+<http://id.loc.gov/authorities/subjects/sh85084085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85084085> <http://www.w3.org/2004/02/skos/core#prefLabel> "Metal stamping"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85014710> . 
+<http://id.loc.gov/authorities/subjects/sh85014710> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014710> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blacksmithing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4052911-3> . 
+<http://d-nb.info/gnd/4052911-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4052911-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schmiedekunst"@de . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb131629735> . 
+<http://data.bnf.fr/ark:/12148/cb131629735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb131629735> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forgeage"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4052913-7> . 
+<http://d-nb.info/gnd/4052913-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4052913-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schmieden"@de . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2008/05/skos-xl#altLabel> "Drop-forging"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode250authoritiessubjectssh85050766 . 
+_:bnode250authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode250authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85050766> . 
+_:bnode250authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode250authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode250authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85050766> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode258authoritiessubjectssh85050766 . 
+_:bnode258authoritiessubjectssh85050766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode258authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85050766> . 
+_:bnode258authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode258authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#createdDate> "1999-03-11T15:02:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode258authoritiessubjectssh85050766 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

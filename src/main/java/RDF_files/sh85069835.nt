@@ -1,0 +1,76 @@
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85069835 . 
+_:bnode7authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85069835 . 
+_:bnode7authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85069835 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147633> . 
+<http://id.loc.gov/authorities/subjects/sh85147633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147633> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4028535-2> . 
+<http://d-nb.info/gnd/4028535-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4028535-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jazzmusiker"@de . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85089027> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode24authoritiessubjectssh85069835 . 
+_:bnode24authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode25authoritiessubjectssh85069835 . 
+_:bnode24authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode25authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode25authoritiessubjectssh85069835 <http://www.loc.gov/mads/rdf/v1#elementValue> "Musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12647588m> . 
+<http://data.bnf.fr/ark:/12148/cb12647588m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12647588m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musiciens de jazz"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2016000637> . 
+<http://id.loc.gov/authorities/subjects/sh2016000637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2016000637> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85069835" . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85069835> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85069835#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiessubjectssh85069835 . 
+_:bnode44authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiessubjectssh85069835 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiessubjectssh85069835 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiessubjectssh85069835 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh85069835 . 
+_:bnode51authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh85069835 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2011-06-04T08:07:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh85069835 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh85069835 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85089027> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85089027> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147633> . 
+<http://id.loc.gov/authorities/subjects/sh85147633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147633> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2016000637> . 
+<http://id.loc.gov/authorities/subjects/sh2016000637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2016000637> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish jazz musicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4028535-2> . 
+<http://d-nb.info/gnd/4028535-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4028535-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jazzmusiker"@de . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12647588m> . 
+<http://data.bnf.fr/ark:/12148/cb12647588m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12647588m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musiciens de jazz"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh85069835 . 
+_:bnode87authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85069835> . 
+_:bnode87authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode87authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85069835> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode95authoritiessubjectssh85069835 . 
+_:bnode95authoritiessubjectssh85069835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode95authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85069835> . 
+_:bnode95authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode95authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#createdDate> "2011-06-04T08:07:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode95authoritiessubjectssh85069835 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

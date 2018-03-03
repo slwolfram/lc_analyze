@@ -1,0 +1,152 @@
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical personnel--Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85082989 . 
+_:bnode7authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005771> . 
+_:bnode7authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh00005771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005771> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005771> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85082989 . 
+_:bnode12authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85082989 . 
+_:bnode12authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical personnel"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85080191> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85082989 . 
+_:bnode20authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85082989 . 
+_:bnode20authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85082989 . 
+_:bnode24authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Medical malpractice"@en . 
+_:bnode24authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85082989 . 
+_:bnode29authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85082989 . 
+_:bnode29authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode33authoritiessubjectssh85082989 . 
+_:bnode33authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode33authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode33authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Medical negligence"@en . 
+_:bnode33authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85082989 . 
+_:bnode38authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85082989 . 
+_:bnode38authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical negligence"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode42authoritiessubjectssh85082989 . 
+_:bnode42authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode42authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode42authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Tort liability of medical personnel"@en . 
+_:bnode42authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85082989 . 
+_:bnode47authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85082989 . 
+_:bnode47authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Tort liability of medical personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85080191> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85082989 . 
+_:bnode56authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85082989 . 
+_:bnode56authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082964> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical laws and legislation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode65authoritiessubjectssh85082989 . 
+_:bnode65authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode66authoritiessubjectssh85082989 . 
+_:bnode65authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode66authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode66authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical laws and legislation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85082928> . 
+<http://id.loc.gov/authorities/subjects/sh85082928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85082928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082928> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082928> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode74authoritiessubjectssh85082989 . 
+_:bnode74authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode75authoritiessubjectssh85082989 . 
+_:bnode74authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode75authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode75authoritiessubjectssh85082989 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb133192439> . 
+<http://data.bnf.fr/ark:/12148/cb133192439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb133192439> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Personnel médical -- Responsabilité professionnelle"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85066306> . 
+<http://id.loc.gov/authorities/subjects/sh85066306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066306> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Informed consent (Medical law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89004366> . 
+<http://id.loc.gov/authorities/subjects/sh89004366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004366> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wrongful life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85082989" . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85082989> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85082989#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode98authoritiessubjectssh85082989 . 
+_:bnode98authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode98authoritiessubjectssh85082989 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh85082989 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode98authoritiessubjectssh85082989 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode105authoritiessubjectssh85082989 . 
+_:bnode105authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode105authoritiessubjectssh85082989 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-02-17T13:34:25"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh85082989 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode105authoritiessubjectssh85082989 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical personnel--Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode115authoritiessubjectssh85082989 . 
+_:bnode115authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode115authoritiessubjectssh85082989 <http://www.w3.org/2008/05/skos-xl#literalForm> "Medical malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#altLabel> "Medical malpractice" . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode122authoritiessubjectssh85082989 . 
+_:bnode122authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode122authoritiessubjectssh85082989 <http://www.w3.org/2008/05/skos-xl#literalForm> "Medical negligence"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#altLabel> "Medical negligence" . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode129authoritiessubjectssh85082989 . 
+_:bnode129authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode129authoritiessubjectssh85082989 <http://www.w3.org/2008/05/skos-xl#literalForm> "Tort liability of medical personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#altLabel> "Tort liability of medical personnel" . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85080191> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080191> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082964> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical laws and legislation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85082928> . 
+<http://id.loc.gov/authorities/subjects/sh85082928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082928> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical errors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85066306> . 
+<http://id.loc.gov/authorities/subjects/sh85066306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066306> <http://www.w3.org/2004/02/skos/core#prefLabel> "Informed consent (Medical law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89004366> . 
+<http://id.loc.gov/authorities/subjects/sh89004366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004366> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wrongful life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb133192439> . 
+<http://data.bnf.fr/ark:/12148/cb133192439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb133192439> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personnel médical -- Responsabilité professionnelle"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2008/05/skos-xl#altLabel> "Medical malpractice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2008/05/skos-xl#altLabel> "Medical negligence"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2008/05/skos-xl#altLabel> "Tort liability of medical personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode173authoritiessubjectssh85082989 . 
+_:bnode173authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode173authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85082989> . 
+_:bnode173authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode173authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode173authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85082989> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode181authoritiessubjectssh85082989 . 
+_:bnode181authoritiessubjectssh85082989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode181authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85082989> . 
+_:bnode181authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode181authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#createdDate> "1999-02-17T13:34:25"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode181authoritiessubjectssh85082989 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

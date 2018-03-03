@@ -1,0 +1,140 @@
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma jets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85103076 . 
+_:bnode7authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85103076 . 
+_:bnode7authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasma jets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85103076 . 
+_:bnode11authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Jets, Plasma"@en . 
+_:bnode11authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85103076 . 
+_:bnode16authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85103076 . 
+_:bnode16authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jets, Plasma"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85103076 . 
+_:bnode20authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Plasma torch"@en . 
+_:bnode20authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85103076 . 
+_:bnode25authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85103076 . 
+_:bnode25authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasma torch"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4206366-8> . 
+<http://d-nb.info/gnd/4206366-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4206366-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasmastrahl"@de . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103084> . 
+<http://id.loc.gov/authorities/subjects/sh85103084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103084> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85103081> . 
+<http://id.loc.gov/authorities/subjects/sh85103081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103081> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma rockets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103081> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85103076 . 
+_:bnode42authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85103076 . 
+_:bnode42authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasma rockets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85103050> . 
+<http://id.loc.gov/authorities/subjects/sh85103050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103050> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma (Ionized gases)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103050> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85103076 . 
+_:bnode51authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85103076 . 
+_:bnode51authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasma (Ionized gases)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11973049c> . 
+<http://data.bnf.fr/ark:/12148/cb11973049c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11973049c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jets de plasma"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85103072> . 
+<http://id.loc.gov/authorities/subjects/sh85103072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103072> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85103053> . 
+<http://id.loc.gov/authorities/subjects/sh85103053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103053> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma accelerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103053> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode68authoritiessubjectssh85103076 . 
+_:bnode68authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode69authoritiessubjectssh85103076 . 
+_:bnode68authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode69authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode69authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasma accelerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85070178> . 
+<http://id.loc.gov/authorities/subjects/sh85070178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85070178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85070178> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85070178> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode77authoritiessubjectssh85103076 . 
+_:bnode77authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode78authoritiessubjectssh85103076 . 
+_:bnode77authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode78authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode78authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Jets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85103064> . 
+<http://id.loc.gov/authorities/subjects/sh85103064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85103064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85103064> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plasma devices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103064> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode86authoritiessubjectssh85103076 . 
+_:bnode86authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode87authoritiessubjectssh85103076 . 
+_:bnode86authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode87authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode87authoritiessubjectssh85103076 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plasma devices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85103076" . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85103076> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85103076#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode97authoritiessubjectssh85103076 . 
+_:bnode97authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode97authoritiessubjectssh85103076 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh85103076 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode97authoritiessubjectssh85103076 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma jets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode107authoritiessubjectssh85103076 . 
+_:bnode107authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode107authoritiessubjectssh85103076 <http://www.w3.org/2008/05/skos-xl#literalForm> "Jets, Plasma"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#altLabel> "Jets, Plasma" . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode114authoritiessubjectssh85103076 . 
+_:bnode114authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode114authoritiessubjectssh85103076 <http://www.w3.org/2008/05/skos-xl#literalForm> "Plasma torch"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#altLabel> "Plasma torch" . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85103081> . 
+<http://id.loc.gov/authorities/subjects/sh85103081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103081> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma rockets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85103050> . 
+<http://id.loc.gov/authorities/subjects/sh85103050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma (Ionized gases)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85070178> . 
+<http://id.loc.gov/authorities/subjects/sh85070178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85070178> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85103064> . 
+<http://id.loc.gov/authorities/subjects/sh85103064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103064> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma devices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103084> . 
+<http://id.loc.gov/authorities/subjects/sh85103084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103084> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma spraying"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85103072> . 
+<http://id.loc.gov/authorities/subjects/sh85103072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103072> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma generators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85103053> . 
+<http://id.loc.gov/authorities/subjects/sh85103053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85103053> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasma accelerators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4206366-8> . 
+<http://d-nb.info/gnd/4206366-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4206366-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plasmastrahl"@de . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11973049c> . 
+<http://data.bnf.fr/ark:/12148/cb11973049c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11973049c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jets de plasma"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2008/05/skos-xl#altLabel> "Jets, Plasma"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2008/05/skos-xl#altLabel> "Plasma torch"@en . 
+<http://id.loc.gov/authorities/subjects/sh85103076> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode171authoritiessubjectssh85103076 . 
+_:bnode171authoritiessubjectssh85103076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode171authoritiessubjectssh85103076 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85103076> . 
+_:bnode171authoritiessubjectssh85103076 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode171authoritiessubjectssh85103076 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode171authoritiessubjectssh85103076 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

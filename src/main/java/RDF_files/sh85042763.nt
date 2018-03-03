@@ -1,0 +1,108 @@
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Emergency vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85042763 . 
+_:bnode7authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85042763 . 
+_:bnode7authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85042763 <http://www.loc.gov/mads/rdf/v1#elementValue> "Emergency vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85042763 . 
+_:bnode11authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85042763 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Vehicles, Emergency"@en . 
+_:bnode11authoritiessubjectssh85042763 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85042763 . 
+_:bnode16authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85042763 . 
+_:bnode16authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85042763 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vehicles, Emergency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85130879> . 
+<http://id.loc.gov/authorities/subjects/sh85130879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85130879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130879> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Survival and emergency equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85130879> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85042763 . 
+_:bnode25authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85042763 . 
+_:bnode25authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85042763 <http://www.loc.gov/mads/rdf/v1#elementValue> "Survival and emergency equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85104258> . 
+<http://id.loc.gov/authorities/subjects/sh85104258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104258> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Police vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048481> . 
+<http://id.loc.gov/authorities/subjects/sh85048481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048481> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fire engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11980598f> . 
+<http://data.bnf.fr/ark:/12148/cb11980598f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11980598f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Véhicules prioritaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85004178> . 
+<http://id.loc.gov/authorities/subjects/sh85004178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85004178> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ambulances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85087597> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode50authoritiessubjectssh85042763 . 
+_:bnode50authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode51authoritiessubjectssh85042763 . 
+_:bnode50authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode51authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode51authoritiessubjectssh85042763 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4284558-0> . 
+<http://d-nb.info/gnd/4284558-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4284558-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Einsatzfahrzeug"@de . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85042763" . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85042763> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85042763#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85042763 . 
+_:bnode66authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85042763 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85042763 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85042763 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85042763 . 
+_:bnode73authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85042763 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-01-07T16:36:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85042763 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85042763 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emergency vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode83authoritiessubjectssh85042763 . 
+_:bnode83authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode83authoritiessubjectssh85042763 <http://www.w3.org/2008/05/skos-xl#literalForm> "Vehicles, Emergency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#altLabel> "Vehicles, Emergency" . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85130879> . 
+<http://id.loc.gov/authorities/subjects/sh85130879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130879> <http://www.w3.org/2004/02/skos/core#prefLabel> "Survival and emergency equipment"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85087597> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85104258> . 
+<http://id.loc.gov/authorities/subjects/sh85104258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104258> <http://www.w3.org/2004/02/skos/core#prefLabel> "Police vehicles"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048481> . 
+<http://id.loc.gov/authorities/subjects/sh85048481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048481> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fire engines"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85004178> . 
+<http://id.loc.gov/authorities/subjects/sh85004178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85004178> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ambulances"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11980598f> . 
+<http://data.bnf.fr/ark:/12148/cb11980598f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11980598f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Véhicules prioritaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4284558-0> . 
+<http://d-nb.info/gnd/4284558-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4284558-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einsatzfahrzeug"@de . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2008/05/skos-xl#altLabel> "Vehicles, Emergency"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode128authoritiessubjectssh85042763 . 
+_:bnode128authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode128authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042763> . 
+_:bnode128authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode128authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode128authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85042763> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode136authoritiessubjectssh85042763 . 
+_:bnode136authoritiessubjectssh85042763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode136authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042763> . 
+_:bnode136authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode136authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#createdDate> "1998-01-07T16:36:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode136authoritiessubjectssh85042763 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

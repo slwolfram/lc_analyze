@@ -1,0 +1,88 @@
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ukraine--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh87003718 . 
+_:bnode7authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n81017756> . 
+_:bnode7authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n81017756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n81017756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n81017756> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ukraine"@en . 
+<http://id.loc.gov/authorities/names/n81017756> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh87003718 . 
+_:bnode12authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh87003718 . 
+_:bnode12authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh87003718 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ukraine"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh87003718 . 
+_:bnode20authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh87003718 . 
+_:bnode20authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh87003718 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85034019> . 
+<http://id.loc.gov/authorities/subjects/sh85034019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85034019> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Crimean Tatar language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2005003817> . 
+<http://id.loc.gov/authorities/subjects/sh2005003817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2005003817> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Krimchak language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071587> . 
+<http://id.loc.gov/authorities/subjects/sh85071587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071587> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Karaim language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017004988> . 
+<http://id.loc.gov/authorities/subjects/sh2017004988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017004988> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ukrainian Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89006817> . 
+<http://id.loc.gov/authorities/subjects/sh89006817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89006817> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Armeno-Kipchak language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh87003718> . 
+<http://id.loc.gov/rwo/agents/sh87003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh87003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87003718" . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87003718> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87003718#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh87003718 . 
+_:bnode54authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh87003718 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-06-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh87003718 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh87003718 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh87003718 . 
+_:bnode61authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh87003718 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-04-28T15:51:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh87003718 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh87003718 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukraine--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85034019> . 
+<http://id.loc.gov/authorities/subjects/sh85034019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85034019> <http://www.w3.org/2004/02/skos/core#prefLabel> "Crimean Tatar language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2005003817> . 
+<http://id.loc.gov/authorities/subjects/sh2005003817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2005003817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krimchak language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071587> . 
+<http://id.loc.gov/authorities/subjects/sh85071587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071587> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karaim language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017004988> . 
+<http://id.loc.gov/authorities/subjects/sh2017004988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017004988> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukrainian Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89006817> . 
+<http://id.loc.gov/authorities/subjects/sh89006817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89006817> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armeno-Kipchak language"@en . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh87003718 . 
+_:bnode97authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87003718> . 
+_:bnode97authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#createdDate> "1987-06-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87003718> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode105authoritiessubjectssh87003718 . 
+_:bnode105authoritiessubjectssh87003718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode105authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87003718> . 
+_:bnode105authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode105authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#createdDate> "1995-04-28T15:51:51"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode105authoritiessubjectssh87003718 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

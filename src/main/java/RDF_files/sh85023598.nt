@@ -1,0 +1,156 @@
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85023598 . 
+_:bnode7authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85023598 . 
+_:bnode7authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#elementValue> "Children's literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85023598 . 
+_:bnode11authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Juvenile literature"@en . 
+_:bnode11authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85023598 . 
+_:bnode16authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85023598 . 
+_:bnode16authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#elementValue> "Juvenile literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#classification> "PZ5-PZ90" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023697> . 
+<http://id.loc.gov/authorities/subjects/sh85023697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023697> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's plays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4073409-2> . 
+<http://d-nb.info/gnd/4073409-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4073409-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kinderliteratur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023589> . 
+<http://id.loc.gov/authorities/subjects/sh85023589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023589> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's encyclopedias and dictionaries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85077507> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode39authoritiessubjectssh85023598 . 
+_:bnode39authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85023598 . 
+_:bnode39authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode40authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#elementValue> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85025129> . 
+<http://id.loc.gov/authorities/subjects/sh85025129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025129> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christian literature for children"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/9469> . 
+<http://purl.org/bncf/tid/9469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/9469> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Letteratura per ragazzi"@it . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023676> . 
+<http://id.loc.gov/authorities/subjects/sh85023676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023676> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's literature in series"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12042408m> . 
+<http://data.bnf.fr/ark:/12148/cb12042408m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12042408m> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ouvrages pour la jeunesse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023721> . 
+<http://id.loc.gov/authorities/subjects/sh85023721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023721> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85020835> . 
+<http://id.loc.gov/authorities/subjects/sh85020835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85020835> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cataloging of children's literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11932269g> . 
+<http://data.bnf.fr/ark:/12148/cb11932269g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11932269g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Littérature pour la jeunesse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005988> . 
+<http://id.loc.gov/authorities/subjects/sh94005988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005988> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Personalized children's books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132101> . 
+<http://id.loc.gov/authorities/subjects/sh85132101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132101> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Talking books for children"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85023780> . 
+<http://id.loc.gov/authorities/subjects/sh85023780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85023780> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Children's stories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932269g> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered collections of works published for children, including literary works, nonliterary works, or both. Works on books for children considered as physical objects are entered under [Children's books.] Works on the reading interests of children or books recommended for children, are entered under [Children--Books and reading.] Collections of literary works or individual literary works written by children under 15 years of age are entered under [Children's writings.] Works on child authors as a class of persons are entered under [Child authors.]" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#exampleNote> "Notes under [Child authors; Children--Books and reading; Children's books; Children's writings]" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#editorialNote> "subdivision [Juvenile literature] under subjects, e.g. [Astronomy--Juvenile literature]" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85023598" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85023598> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85023598#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode97authoritiessubjectssh85023598 . 
+_:bnode97authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode97authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#citation-source> "97122054: Subject guide to Australian children's books in print, 1995." . 
+_:bnode97authoritiessubjectssh85023598 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode103authoritiessubjectssh85023598 . 
+_:bnode103authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode103authoritiessubjectssh85023598 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode103authoritiessubjectssh85023598 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode103authoritiessubjectssh85023598 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode110authoritiessubjectssh85023598 . 
+_:bnode110authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode110authoritiessubjectssh85023598 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2009-04-02T07:58:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode110authoritiessubjectssh85023598 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode110authoritiessubjectssh85023598 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode120authoritiessubjectssh85023598 . 
+_:bnode120authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode120authoritiessubjectssh85023598 <http://www.w3.org/2008/05/skos-xl#literalForm> "Juvenile literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#altLabel> "Juvenile literature" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85077507> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023697> . 
+<http://id.loc.gov/authorities/subjects/sh85023697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023697> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's plays"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023589> . 
+<http://id.loc.gov/authorities/subjects/sh85023589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023589> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's encyclopedias and dictionaries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85025129> . 
+<http://id.loc.gov/authorities/subjects/sh85025129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025129> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christian literature for children"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023676> . 
+<http://id.loc.gov/authorities/subjects/sh85023676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023676> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's literature in series"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023721> . 
+<http://id.loc.gov/authorities/subjects/sh85023721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023721> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's poetry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85020835> . 
+<http://id.loc.gov/authorities/subjects/sh85020835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85020835> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cataloging of children's literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005988> . 
+<http://id.loc.gov/authorities/subjects/sh94005988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005988> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personalized children's books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132101> . 
+<http://id.loc.gov/authorities/subjects/sh85132101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132101> <http://www.w3.org/2004/02/skos/core#prefLabel> "Talking books for children"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85023780> . 
+<http://id.loc.gov/authorities/subjects/sh85023780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85023780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Children's stories"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11932269g> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4073409-2> . 
+<http://d-nb.info/gnd/4073409-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4073409-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinderliteratur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/9469> . 
+<http://purl.org/bncf/tid/9469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/9469> <http://www.w3.org/2004/02/skos/core#prefLabel> "Letteratura per ragazzi"@it . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12042408m> . 
+<http://data.bnf.fr/ark:/12148/cb12042408m> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12042408m> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ouvrages pour la jeunesse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11932269g> . 
+<http://data.bnf.fr/ark:/12148/cb11932269g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11932269g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Littérature pour la jeunesse"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#note> "Here are entered collections of works published for children, including literary works, nonliterary works, or both. Works on books for children considered as physical objects are entered under [Children's books.] Works on the reading interests of children or books recommended for children, are entered under [Children--Books and reading.] Collections of literary works or individual literary works written by children under 15 years of age are entered under [Children's writings.] Works on child authors as a class of persons are entered under [Child authors.]" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#editorial> "subdivision [Juvenile literature] under subjects, e.g. [Astronomy--Juvenile literature]" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#example> "Notes under [Child authors; Children--Books and reading; Children's books; Children's writings]" . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2008/05/skos-xl#altLabel> "Juvenile literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode207authoritiessubjectssh85023598 . 
+_:bnode207authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode207authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85023598> . 
+_:bnode207authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode207authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode207authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85023598> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode215authoritiessubjectssh85023598 . 
+_:bnode215authoritiessubjectssh85023598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode215authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85023598> . 
+_:bnode215authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode215authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#createdDate> "2009-04-02T07:58:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode215authoritiessubjectssh85023598 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

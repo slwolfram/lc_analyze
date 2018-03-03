@@ -1,0 +1,135 @@
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Futures market"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh88001654 . 
+_:bnode7authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh88001654 . 
+_:bnode7authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#elementValue> "Futures market"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh88001654 . 
+_:bnode11authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Futures exchanges"@en . 
+_:bnode11authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh88001654 . 
+_:bnode16authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh88001654 . 
+_:bnode16authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#elementValue> "Futures exchanges"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh88001654 . 
+_:bnode20authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Market, Futures"@en . 
+_:bnode20authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh88001654 . 
+_:bnode25authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh88001654 . 
+_:bnode25authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#elementValue> "Market, Futures"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#classification> "HG6024" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12142553w> . 
+<http://data.bnf.fr/ark:/12148/cb12142553w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12142553w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Marchés à terme"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85028977> . 
+<http://id.loc.gov/authorities/subjects/sh85028977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028977> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commodity exchanges"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4184759-3> . 
+<http://d-nb.info/gnd/4184759-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4184759-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Terminmarkt"@de . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85081355> . 
+<http://id.loc.gov/authorities/subjects/sh85081355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85081355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081355> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Markets"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081355> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh88001654 . 
+_:bnode48authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh88001654 . 
+_:bnode48authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#elementValue> "Markets"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4232759-3> . 
+<http://d-nb.info/gnd/4232759-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4232759-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Terminbörse"@de . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88001654" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88001654> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88001654#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh88001654 . 
+_:bnode64authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Chance, D.M. An introduction to options and futures, c1988." . 
+_:bnode64authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode70authoritiessubjectssh88001654 . 
+_:bnode70authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode70authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "Barron's finance and investment handbook." . 
+_:bnode70authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode76authoritiessubjectssh88001654 . 
+_:bnode76authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode76authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "Erickson. The language of commodities." . 
+_:bnode76authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode82authoritiessubjectssh88001654 . 
+_:bnode82authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode82authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "Richards. Dict. of financial planning." . 
+_:bnode82authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode88authoritiessubjectssh88001654 . 
+_:bnode88authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode88authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "Rosenberg. Dict. of banking and financial services." . 
+_:bnode88authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode94authoritiessubjectssh88001654 . 
+_:bnode94authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode94authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "IAC" . 
+_:bnode94authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Futures exchanges)"@en . 
+_:bnode94authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode102authoritiessubjectssh88001654 . 
+_:bnode102authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode102authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode102authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Futures market)"@en . 
+_:bnode102authoritiessubjectssh88001654 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode110authoritiessubjectssh88001654 . 
+_:bnode110authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode110authoritiessubjectssh88001654 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-03-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode110authoritiessubjectssh88001654 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode110authoritiessubjectssh88001654 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode117authoritiessubjectssh88001654 . 
+_:bnode117authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode117authoritiessubjectssh88001654 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-08-09T14:33:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode117authoritiessubjectssh88001654 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode117authoritiessubjectssh88001654 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#prefLabel> "Futures market"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode127authoritiessubjectssh88001654 . 
+_:bnode127authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode127authoritiessubjectssh88001654 <http://www.w3.org/2008/05/skos-xl#literalForm> "Futures exchanges"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#altLabel> "Futures exchanges" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode134authoritiessubjectssh88001654 . 
+_:bnode134authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode134authoritiessubjectssh88001654 <http://www.w3.org/2008/05/skos-xl#literalForm> "Market, Futures"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#altLabel> "Market, Futures" . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85081355> . 
+<http://id.loc.gov/authorities/subjects/sh85081355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081355> <http://www.w3.org/2004/02/skos/core#prefLabel> "Markets"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85028977> . 
+<http://id.loc.gov/authorities/subjects/sh85028977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028977> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commodity exchanges"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12142553w> . 
+<http://data.bnf.fr/ark:/12148/cb12142553w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12142553w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marchés à terme"@fr . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4184759-3> . 
+<http://d-nb.info/gnd/4184759-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4184759-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terminmarkt"@de . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4232759-3> . 
+<http://d-nb.info/gnd/4232759-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4232759-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Terminbörse"@de . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2008/05/skos-xl#altLabel> "Futures exchanges"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2008/05/skos-xl#altLabel> "Market, Futures"@en . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode171authoritiessubjectssh88001654 . 
+_:bnode171authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode171authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88001654> . 
+_:bnode171authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode171authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#createdDate> "1988-03-23T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode171authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88001654> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode179authoritiessubjectssh88001654 . 
+_:bnode179authoritiessubjectssh88001654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode179authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88001654> . 
+_:bnode179authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode179authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#createdDate> "1995-08-09T14:33:36"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode179authoritiessubjectssh88001654 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

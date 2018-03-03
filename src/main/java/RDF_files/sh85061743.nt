@@ -1,0 +1,195 @@
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85061743 . 
+_:bnode7authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85061743 . 
+_:bnode7authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85061743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85061743 . 
+_:bnode11authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85061743 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Femicide"@en . 
+_:bnode11authoritiessubjectssh85061743 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85061743 . 
+_:bnode16authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85061743 . 
+_:bnode16authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85061743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Femicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#classification> "HV6499-HV6542" . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85088613> . 
+<http://id.loc.gov/authorities/subjects/sh85088613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088613> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Murder"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106929> . 
+<http://id.loc.gov/authorities/subjects/sh85106929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106929> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prison homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011002213> . 
+<http://id.loc.gov/authorities/subjects/sh2011002213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011002213> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Targeted killing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85137358> . 
+<http://id.loc.gov/authorities/subjects/sh85137358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137358> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Trials (Homicide)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13318866c> . 
+<http://data.bnf.fr/ark:/12148/cb13318866c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13318866c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homicide"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85066012> . 
+<http://id.loc.gov/authorities/subjects/sh85066012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066012> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Infanticide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85036105> . 
+<http://id.loc.gov/authorities/subjects/sh85036105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85036105> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wrongful death"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11961815k> . 
+<http://data.bnf.fr/ark:/12148/cb11961815k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11961815k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Homicide (droit grec)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013001813> . 
+<http://id.loc.gov/authorities/subjects/sh2013001813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013001813> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tyrannicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85045906> . 
+<http://id.loc.gov/authorities/subjects/sh85045906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85045906> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Euthanasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85051618> . 
+<http://id.loc.gov/authorities/subjects/sh85051618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85051618> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fratricide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071146> . 
+<http://id.loc.gov/authorities/subjects/sh85071146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071146> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justifiable homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb16654044n> . 
+<http://data.bnf.fr/ark:/12148/cb16654044n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb16654044n> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Féminicide"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00003157> . 
+<http://id.loc.gov/authorities/subjects/sh00003157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00003157> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manslaughter"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003003469> . 
+<http://id.loc.gov/authorities/subjects/sh2003003469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003003469> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Honor killings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85143538> . 
+<http://id.loc.gov/authorities/subjects/sh85143538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85143538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85143538> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Violent deaths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85143538> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode87authoritiessubjectssh85061743 . 
+_:bnode87authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode88authoritiessubjectssh85061743 . 
+_:bnode87authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode88authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode88authoritiessubjectssh85061743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Violent deaths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85048206> . 
+<http://id.loc.gov/authorities/subjects/sh85048206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048206> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Filicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85094155> . 
+<http://id.loc.gov/authorities/subjects/sh85094155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85094155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85094155> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Offenses against the person"@en . 
+<http://id.loc.gov/authorities/subjects/sh85094155> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode100authoritiessubjectssh85061743 . 
+_:bnode100authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode101authoritiessubjectssh85061743 . 
+_:bnode100authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode101authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode101authoritiessubjectssh85061743 <http://www.loc.gov/mads/rdf/v1#elementValue> "Offenses against the person"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85079157> . 
+<http://id.loc.gov/authorities/subjects/sh85079157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079157> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lynching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85098299> . 
+<http://id.loc.gov/authorities/subjects/sh85098299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85098299> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Parricide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005839> . 
+<http://id.loc.gov/authorities/subjects/sh88005839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005839> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Juvenile homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://content.glin.gov/subjectTerm/1669> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85061743" . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85061743> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85061743#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode125authoritiessubjectssh85061743 . 
+_:bnode125authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode125authoritiessubjectssh85061743 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-07-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode125authoritiessubjectssh85061743 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode125authoritiessubjectssh85061743 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode132authoritiessubjectssh85061743 . 
+_:bnode132authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode132authoritiessubjectssh85061743 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-12-18T07:54:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode132authoritiessubjectssh85061743 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode132authoritiessubjectssh85061743 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode142authoritiessubjectssh85061743 . 
+_:bnode142authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode142authoritiessubjectssh85061743 <http://www.w3.org/2008/05/skos-xl#literalForm> "Femicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#altLabel> "Femicide" . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85143538> . 
+<http://id.loc.gov/authorities/subjects/sh85143538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85143538> <http://www.w3.org/2004/02/skos/core#prefLabel> "Violent deaths"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85094155> . 
+<http://id.loc.gov/authorities/subjects/sh85094155> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85094155> <http://www.w3.org/2004/02/skos/core#prefLabel> "Offenses against the person"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85088613> . 
+<http://id.loc.gov/authorities/subjects/sh85088613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088613> <http://www.w3.org/2004/02/skos/core#prefLabel> "Murder"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106929> . 
+<http://id.loc.gov/authorities/subjects/sh85106929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106929> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prison homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011002213> . 
+<http://id.loc.gov/authorities/subjects/sh2011002213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011002213> <http://www.w3.org/2004/02/skos/core#prefLabel> "Targeted killing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85137358> . 
+<http://id.loc.gov/authorities/subjects/sh85137358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137358> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trials (Homicide)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85066012> . 
+<http://id.loc.gov/authorities/subjects/sh85066012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066012> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infanticide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85036105> . 
+<http://id.loc.gov/authorities/subjects/sh85036105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85036105> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wrongful death"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013001813> . 
+<http://id.loc.gov/authorities/subjects/sh2013001813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013001813> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tyrannicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85045906> . 
+<http://id.loc.gov/authorities/subjects/sh85045906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85045906> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euthanasia"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85051618> . 
+<http://id.loc.gov/authorities/subjects/sh85051618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85051618> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fratricide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071146> . 
+<http://id.loc.gov/authorities/subjects/sh85071146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071146> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justifiable homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00003157> . 
+<http://id.loc.gov/authorities/subjects/sh00003157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00003157> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manslaughter"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003003469> . 
+<http://id.loc.gov/authorities/subjects/sh2003003469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003003469> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honor killings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85048206> . 
+<http://id.loc.gov/authorities/subjects/sh85048206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Filicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85079157> . 
+<http://id.loc.gov/authorities/subjects/sh85079157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079157> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lynching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85098299> . 
+<http://id.loc.gov/authorities/subjects/sh85098299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85098299> <http://www.w3.org/2004/02/skos/core#prefLabel> "Parricide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005839> . 
+<http://id.loc.gov/authorities/subjects/sh88005839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Juvenile homicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://content.glin.gov/subjectTerm/1669> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13318866c> . 
+<http://data.bnf.fr/ark:/12148/cb13318866c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13318866c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homicide"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11961815k> . 
+<http://data.bnf.fr/ark:/12148/cb11961815k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11961815k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Homicide (droit grec)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb16654044n> . 
+<http://data.bnf.fr/ark:/12148/cb16654044n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb16654044n> <http://www.w3.org/2004/02/skos/core#prefLabel> "Féminicide"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2008/05/skos-xl#altLabel> "Femicide"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode258authoritiessubjectssh85061743 . 
+_:bnode258authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode258authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061743> . 
+_:bnode258authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode258authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#createdDate> "2000-07-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode258authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85061743> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode266authoritiessubjectssh85061743 . 
+_:bnode266authoritiessubjectssh85061743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode266authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061743> . 
+_:bnode266authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode266authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#createdDate> "2010-12-18T07:54:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode266authoritiessubjectssh85061743 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

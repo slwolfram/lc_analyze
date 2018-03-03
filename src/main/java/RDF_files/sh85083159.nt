@@ -1,0 +1,117 @@
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine, Physical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85083159 . 
+_:bnode7authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85083159 . 
+_:bnode7authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine, Physical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85083159 . 
+_:bnode11authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Physiatrics"@en . 
+_:bnode11authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85083159 . 
+_:bnode16authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85083159 . 
+_:bnode16authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physiatrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85083159 . 
+_:bnode20authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Physical medicine"@en . 
+_:bnode20authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85083159 . 
+_:bnode25authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85083159 . 
+_:bnode25authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physical medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#classification> "RM695-RM951" . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4138724-7> . 
+<http://d-nb.info/gnd/4138724-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4138724-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physikalische Medizin"@de . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101511> . 
+<http://id.loc.gov/authorities/subjects/sh85101511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101511> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physiatrists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00006614> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85083159 . 
+_:bnode44authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85083159 . 
+_:bnode44authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13318358c> . 
+<http://data.bnf.fr/ark:/12148/cb13318358c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13318358c> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Médecine physique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85101568> . 
+<http://id.loc.gov/authorities/subjects/sh85101568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101568> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physical therapy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh91000759> . 
+<http://id.loc.gov/authorities/subjects/sh91000759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh91000759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000759> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical rehabilitation"@en . 
+<http://id.loc.gov/authorities/subjects/sh91000759> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85083159 . 
+_:bnode61authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85083159 . 
+_:bnode61authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85083159 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medical rehabilitation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85083159" . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85083159> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85083159#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85083159 . 
+_:bnode73authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85083159 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85083159 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85083159 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh85083159 . 
+_:bnode80authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh85083159 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-04-03T11:23:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85083159 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh85083159 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine, Physical"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode90authoritiessubjectssh85083159 . 
+_:bnode90authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode90authoritiessubjectssh85083159 <http://www.w3.org/2008/05/skos-xl#literalForm> "Physiatrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#altLabel> "Physiatrics" . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode97authoritiessubjectssh85083159 . 
+_:bnode97authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode97authoritiessubjectssh85083159 <http://www.w3.org/2008/05/skos-xl#literalForm> "Physical medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#altLabel> "Physical medicine" . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00006614> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006614> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101511> . 
+<http://id.loc.gov/authorities/subjects/sh85101511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101511> <http://www.w3.org/2004/02/skos/core#prefLabel> "Physiatrists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85101568> . 
+<http://id.loc.gov/authorities/subjects/sh85101568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101568> <http://www.w3.org/2004/02/skos/core#prefLabel> "Physical therapy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh91000759> . 
+<http://id.loc.gov/authorities/subjects/sh91000759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000759> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical rehabilitation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4138724-7> . 
+<http://d-nb.info/gnd/4138724-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4138724-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Physikalische Medizin"@de . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13318358c> . 
+<http://data.bnf.fr/ark:/12148/cb13318358c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13318358c> <http://www.w3.org/2004/02/skos/core#prefLabel> "Médecine physique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2008/05/skos-xl#altLabel> "Physiatrics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2008/05/skos-xl#altLabel> "Physical medicine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode139authoritiessubjectssh85083159 . 
+_:bnode139authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode139authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083159> . 
+_:bnode139authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode139authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode139authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85083159> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode147authoritiessubjectssh85083159 . 
+_:bnode147authoritiessubjectssh85083159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode147authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85083159> . 
+_:bnode147authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode147authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#createdDate> "1991-04-03T11:23:57"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85083159 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

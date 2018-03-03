@@ -1,0 +1,78 @@
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychiatric hospital patients--Seclusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85108354 . 
+_:bnode7authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85108352> . 
+_:bnode7authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85108352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108352> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychiatric hospital patients"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108352> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85108354 . 
+_:bnode12authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85108354 . 
+_:bnode12authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#elementValue> "Psychiatric hospital patients"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode16authoritiessubjectssh85108354 . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode16authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode16authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode16authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Seclusion"@en . 
+_:bnode16authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85108354 . 
+_:bnode20authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85108354 . 
+_:bnode20authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#elementValue> "Seclusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85108354 . 
+_:bnode24authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Seclusion of psychiatric hospital patients"@en . 
+_:bnode24authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85108354 . 
+_:bnode29authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85108354 . 
+_:bnode29authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#elementValue> "Seclusion of psychiatric hospital patients"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85108351> . 
+<http://id.loc.gov/authorities/subjects/sh85108351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108351> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Psychiatric hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108351> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85108354 . 
+_:bnode38authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85108354 . 
+_:bnode38authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85108354 <http://www.loc.gov/mads/rdf/v1#elementValue> "Psychiatric hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb133364933> . 
+<http://data.bnf.fr/ark:/12148/cb133364933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb133364933> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Patients dans les hôpitaux psychiatriques -- Isolement"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb133364933> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85108354" . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85108354> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85108354#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85108354 . 
+_:bnode54authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85108354 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85108354 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85108354 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychiatric hospital patients--Seclusion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode64authoritiessubjectssh85108354 . 
+_:bnode64authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode64authoritiessubjectssh85108354 <http://www.w3.org/2008/05/skos-xl#literalForm> "Seclusion of psychiatric hospital patients"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#altLabel> "Seclusion of psychiatric hospital patients" . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85108351> . 
+<http://id.loc.gov/authorities/subjects/sh85108351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108351> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychiatric hospital care"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb133364933> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb133364933> . 
+<http://data.bnf.fr/ark:/12148/cb133364933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb133364933> <http://www.w3.org/2004/02/skos/core#prefLabel> "Patients dans les hôpitaux psychiatriques -- Isolement"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2008/05/skos-xl#altLabel> "Seclusion of psychiatric hospital patients"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108354> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode85authoritiessubjectssh85108354 . 
+_:bnode85authoritiessubjectssh85108354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode85authoritiessubjectssh85108354 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85108354> . 
+_:bnode85authoritiessubjectssh85108354 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode85authoritiessubjectssh85108354 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh85108354 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

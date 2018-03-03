@@ -1,0 +1,796 @@
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Philippines--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85100795 . 
+_:bnode7authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/names/n79058386> . 
+_:bnode7authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/names/n79058386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/names/n79058386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/names/n79058386> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Philippines"@en . 
+<http://id.loc.gov/authorities/names/n79058386> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85100795 . 
+_:bnode12authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85100795 . 
+_:bnode12authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85100795 <http://www.loc.gov/mads/rdf/v1#elementValue> "Philippines"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002006384> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002006384> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85100795 . 
+_:bnode20authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85100795 . 
+_:bnode20authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85100795 <http://www.loc.gov/mads/rdf/v1#elementValue> "Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97000390> . 
+<http://id.loc.gov/authorities/subjects/sh97000390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97000390> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Batak language (Philippines)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000318> . 
+<http://id.loc.gov/authorities/subjects/sh87000318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000318> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bolinao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002823> . 
+<http://id.loc.gov/authorities/subjects/sh90002823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002823> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Filipino language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006898> . 
+<http://id.loc.gov/authorities/subjects/sh88006898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006898> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tuwali dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91002728> . 
+<http://id.loc.gov/authorities/subjects/sh91002728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91002728> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pangutaran Sama language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080533> . 
+<http://id.loc.gov/authorities/subjects/sh85080533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080533> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mangyan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85116985> . 
+<http://id.loc.gov/authorities/subjects/sh85116985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116985> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sama languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87002384> . 
+<http://id.loc.gov/authorities/subjects/sh87002384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87002384> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ayangan Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007673> . 
+<http://id.loc.gov/authorities/subjects/sh88007673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007673> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "MatigSalug language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006810> . 
+<http://id.loc.gov/authorities/subjects/sh88006810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006810> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eastern Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117264> . 
+<http://id.loc.gov/authorities/subjects/sh85117264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117264> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sangil language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85063904> . 
+<http://id.loc.gov/authorities/subjects/sh85063904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063904> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ibanag language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064432> . 
+<http://id.loc.gov/authorities/subjects/sh85064432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064432> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ilongot language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080630> . 
+<http://id.loc.gov/authorities/subjects/sh85080630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080630> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mansaka language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117010> . 
+<http://id.loc.gov/authorities/subjects/sh85117010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117010> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sambali language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009375> . 
+<http://id.loc.gov/authorities/subjects/sh85009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009375> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Atta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85079631> . 
+<http://id.loc.gov/authorities/subjects/sh85079631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85079631> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Magindanao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117005> . 
+<http://id.loc.gov/authorities/subjects/sh85117005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117005> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Waray language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000533> . 
+<http://id.loc.gov/authorities/subjects/sh91000533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000533> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Amganad Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2017004917> . 
+<http://id.loc.gov/authorities/subjects/sh2017004917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2017004917> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ati language (Philippines)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85015595> . 
+<http://id.loc.gov/authorities/subjects/sh85015595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015595> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bontoc language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097283> . 
+<http://id.loc.gov/authorities/subjects/sh85097283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097283> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pampanga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131901> . 
+<http://id.loc.gov/authorities/subjects/sh85131901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131901> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tagalog language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080247> . 
+<http://id.loc.gov/authorities/subjects/sh85080247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080247> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mamanwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85035020> . 
+<http://id.loc.gov/authorities/subjects/sh85035020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85035020> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cuyunon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064216> . 
+<http://id.loc.gov/authorities/subjects/sh85064216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064216> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Central Cordilleran languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005217> . 
+<http://id.loc.gov/authorities/subjects/sh94005217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005217> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Karao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86007780> . 
+<http://id.loc.gov/authorities/subjects/sh86007780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86007780> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Central Subanen dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85069303> . 
+<http://id.loc.gov/authorities/subjects/sh85069303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069303> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jama Mapun language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85058781> . 
+<http://id.loc.gov/authorities/subjects/sh85058781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85058781> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hanunóo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006899> . 
+<http://id.loc.gov/authorities/subjects/sh88006899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006899> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kiangan Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85000043> . 
+<http://id.loc.gov/authorities/subjects/sh85000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000043> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Abaknon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100756> . 
+<http://id.loc.gov/authorities/subjects/sh85100756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100756> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Philippine languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000812> . 
+<http://id.loc.gov/authorities/subjects/sh98000812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000812> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Central Sama language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85021584> . 
+<http://id.loc.gov/authorities/subjects/sh85021584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021584> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cebuano language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135578> . 
+<http://id.loc.gov/authorities/subjects/sh85135578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135578> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tiruray language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000522> . 
+<http://id.loc.gov/authorities/subjects/sh87000522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000522> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kinaray-a language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000059> . 
+<http://id.loc.gov/authorities/subjects/sh98000059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000059> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tagabawa Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85069053> . 
+<http://id.loc.gov/authorities/subjects/sh85069053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85069053> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Itawis language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005176> . 
+<http://id.loc.gov/authorities/subjects/sh88005176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005176> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Eastern Bontoc dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068375> . 
+<http://id.loc.gov/authorities/subjects/sh85068375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068375> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Isinay language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007675> . 
+<http://id.loc.gov/authorities/subjects/sh88007675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Western Bukidnon Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85074275> . 
+<http://id.loc.gov/authorities/subjects/sh85074275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85074275> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lanao Moro dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096987> . 
+<http://id.loc.gov/authorities/subjects/sh85096987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096987> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Palawano language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007669> . 
+<http://id.loc.gov/authorities/subjects/sh88007669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007669> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agusan Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039941> . 
+<http://id.loc.gov/authorities/subjects/sh85039941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039941> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dumagat language (Casiguran)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013000866> . 
+<http://id.loc.gov/authorities/subjects/sh2013000866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013000866> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Northern Subanen dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85129402> . 
+<http://id.loc.gov/authorities/subjects/sh85129402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85129402> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Subanun language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00005128> . 
+<http://id.loc.gov/authorities/subjects/sh00005128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Koronadal Blaan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007671> . 
+<http://id.loc.gov/authorities/subjects/sh88007671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007671> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cotabato Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060811> . 
+<http://id.loc.gov/authorities/subjects/sh85060811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060811> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hiligaynon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97008886> . 
+<http://id.loc.gov/authorities/subjects/sh97008886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97008886> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Keley-i Kallahan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85052677> . 
+<http://id.loc.gov/authorities/subjects/sh85052677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85052677> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gaddang language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85002509> . 
+<http://id.loc.gov/authorities/subjects/sh85002509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002509> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85081792> . 
+<http://id.loc.gov/authorities/subjects/sh85081792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081792> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Masbateno language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080606> . 
+<http://id.loc.gov/authorities/subjects/sh85080606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080606> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manobo languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064193> . 
+<http://id.loc.gov/authorities/subjects/sh85064193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064193> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ifugao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92004591> . 
+<http://id.loc.gov/authorities/subjects/sh92004591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92004591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paranan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071346> . 
+<http://id.loc.gov/authorities/subjects/sh85071346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071346> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kalinga languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017827> . 
+<http://id.loc.gov/authorities/subjects/sh85017827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017827> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Binukid Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85039942> . 
+<http://id.loc.gov/authorities/subjects/sh85039942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85039942> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dumagat language (Umirey)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068628> . 
+<http://id.loc.gov/authorities/subjects/sh85068628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068628> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Isneg language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85135520> . 
+<http://id.loc.gov/authorities/subjects/sh85135520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85135520> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tinggian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85003134> . 
+<http://id.loc.gov/authorities/subjects/sh85003134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85003134> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Alangan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007672> . 
+<http://id.loc.gov/authorities/subjects/sh88007672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007672> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ilianen Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000920> . 
+<http://id.loc.gov/authorities/subjects/sh91000920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000920> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Higaonon dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004794> . 
+<http://id.loc.gov/authorities/subjects/sh90004794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004794> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kalagan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005083> . 
+<http://id.loc.gov/authorities/subjects/sh92005083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005083> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ayta Anchi Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh88005110> . 
+<http://id.loc.gov/authorities/subjects/sh88005110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005110> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Southern Bontoc dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85019040> . 
+<http://id.loc.gov/authorities/subjects/sh85019040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85019040> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Caluyanun language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071475> . 
+<http://id.loc.gov/authorities/subjects/sh85071475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kankanay language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000093> . 
+<http://id.loc.gov/authorities/subjects/sh87000093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000093> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sulod language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005094> . 
+<http://id.loc.gov/authorities/subjects/sh88005094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005094> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Central Bontoc dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98000082> . 
+<http://id.loc.gov/authorities/subjects/sh98000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98000082> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aklanon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012314> . 
+<http://id.loc.gov/authorities/subjects/sh85012314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012314> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ivatan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097431> . 
+<http://id.loc.gov/authorities/subjects/sh85097431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097431> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pangasinan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91001597> . 
+<http://id.loc.gov/authorities/subjects/sh91001597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91001597> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Northern Kankanay dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010969> . 
+<http://id.loc.gov/authorities/subjects/sh85010969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010969> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bagobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85089475> . 
+<http://id.loc.gov/authorities/subjects/sh85089475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85089475> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ibaloi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022232> . 
+<http://id.loc.gov/authorities/subjects/sh85022232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022232> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chabacano language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2006004074> . 
+<http://id.loc.gov/authorities/subjects/sh2006004074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006004074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Philippine Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071327> . 
+<http://id.loc.gov/authorities/subjects/sh85071327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071327> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Calamian Tagbanwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007674> . 
+<http://id.loc.gov/authorities/subjects/sh88007674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007674> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sarangani Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88006271> . 
+<http://id.loc.gov/authorities/subjects/sh88006271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88006271> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Southern Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92004590> . 
+<http://id.loc.gov/authorities/subjects/sh92004590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92004590> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mayoyao Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98005406> . 
+<http://id.loc.gov/authorities/subjects/sh98005406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98005406> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ayta Mag Indi dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001009653> . 
+<http://id.loc.gov/authorities/subjects/sh2001009653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001009653> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dupaninan Agta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131896> . 
+<http://id.loc.gov/authorities/subjects/sh85131896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131896> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tagakaolo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86006784> . 
+<http://id.loc.gov/authorities/subjects/sh86006784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86006784> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sama Sibutu language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000507> . 
+<http://id.loc.gov/authorities/subjects/sh87000507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000507> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Botolan Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97008884> . 
+<http://id.loc.gov/authorities/subjects/sh97008884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97008884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kayapa Kallahan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh96004790> . 
+<http://id.loc.gov/authorities/subjects/sh96004790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96004790> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kakilingan Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86007782> . 
+<http://id.loc.gov/authorities/subjects/sh86007782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86007782> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Western Subanon dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2013001154> . 
+<http://id.loc.gov/authorities/subjects/sh2013001154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2013001154> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kalamian languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85013996> . 
+<http://id.loc.gov/authorities/subjects/sh85013996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85013996> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bikol language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97008084> . 
+<http://id.loc.gov/authorities/subjects/sh97008084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97008084> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Itbayat dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083406> . 
+<http://id.loc.gov/authorities/subjects/sh85083406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083406> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Melebuganon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096986> . 
+<http://id.loc.gov/authorities/subjects/sh85096986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Palawanic languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85064428> . 
+<http://id.loc.gov/authorities/subjects/sh85064428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064428> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Iloko language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85131908> . 
+<http://id.loc.gov/authorities/subjects/sh85131908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85131908> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tagbanua language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85148918> . 
+<http://id.loc.gov/authorities/subjects/sh85148918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85148918> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yakan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000954> . 
+<http://id.loc.gov/authorities/subjects/sh87000954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000954> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Batad Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86007781> . 
+<http://id.loc.gov/authorities/subjects/sh86007781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86007781> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Southern Subanen dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85130400> . 
+<http://id.loc.gov/authorities/subjects/sh85130400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85130400> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sulu language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97002646> . 
+<http://id.loc.gov/authorities/subjects/sh97002646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97002646> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Obo Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88000623> . 
+<http://id.loc.gov/authorities/subjects/sh88000623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88000623> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Banton language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97008872> . 
+<http://id.loc.gov/authorities/subjects/sh97008872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97008872> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Yogad language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85037644> . 
+<http://id.loc.gov/authorities/subjects/sh85037644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037644> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dibabawon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85080783> . 
+<http://id.loc.gov/authorities/subjects/sh85080783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85080783> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Manuvu language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90002897> . 
+<http://id.loc.gov/authorities/subjects/sh90002897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90002897> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sangir language (Indonesia and Philippines)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88005503> . 
+<http://id.loc.gov/authorities/subjects/sh88005503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88005503> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tina Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008028014> . 
+<http://id.loc.gov/authorities/subjects/sh2008028014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008028014> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Romblomanon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011134> . 
+<http://id.loc.gov/authorities/subjects/sh85011134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011134> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Balangao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132794> . 
+<http://id.loc.gov/authorities/subjects/sh85132794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132794> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Tausug language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87000399> . 
+<http://id.loc.gov/authorities/subjects/sh87000399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87000399> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Balangingì dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh88007670> . 
+<http://id.loc.gov/authorities/subjects/sh88007670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007670> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ata Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001007851> . 
+<http://id.loc.gov/authorities/subjects/sh2001007851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001007851> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Upper Tanudan Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014001> . 
+<http://id.loc.gov/authorities/subjects/sh85014001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014001> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bilaan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071265> . 
+<http://id.loc.gov/authorities/subjects/sh85071265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071265> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kagayanen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015002403> . 
+<http://id.loc.gov/authorities/subjects/sh2015002403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015002403> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lubuagan Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014404> . 
+<http://id.loc.gov/authorities/subjects/sh85014404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014404> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bisayan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91000530> . 
+<http://id.loc.gov/authorities/subjects/sh91000530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91000530> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Lower Tanudan Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005054> . 
+<http://id.loc.gov/authorities/subjects/sh92005054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005054> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agutaynen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85100795> . 
+<http://id.loc.gov/rwo/agents/sh85100795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85100795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85100795" . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85100795> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85100795#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode526authoritiessubjectssh85100795 . 
+_:bnode526authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode526authoritiessubjectssh85100795 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode526authoritiessubjectssh85100795 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode526authoritiessubjectssh85100795 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode533authoritiessubjectssh85100795 . 
+_:bnode533authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode533authoritiessubjectssh85100795 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-05-01T15:31:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode533authoritiessubjectssh85100795 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode533authoritiessubjectssh85100795 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippines--Languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97000390> . 
+<http://id.loc.gov/authorities/subjects/sh97000390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97000390> <http://www.w3.org/2004/02/skos/core#prefLabel> "Batak language (Philippines)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000318> . 
+<http://id.loc.gov/authorities/subjects/sh87000318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000318> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bolinao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002823> . 
+<http://id.loc.gov/authorities/subjects/sh90002823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002823> <http://www.w3.org/2004/02/skos/core#prefLabel> "Filipino language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006898> . 
+<http://id.loc.gov/authorities/subjects/sh88006898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006898> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tuwali dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91002728> . 
+<http://id.loc.gov/authorities/subjects/sh91002728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91002728> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pangutaran Sama language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080533> . 
+<http://id.loc.gov/authorities/subjects/sh85080533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mangyan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85116985> . 
+<http://id.loc.gov/authorities/subjects/sh85116985> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116985> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sama languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87002384> . 
+<http://id.loc.gov/authorities/subjects/sh87002384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87002384> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ayangan Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007673> . 
+<http://id.loc.gov/authorities/subjects/sh88007673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007673> <http://www.w3.org/2004/02/skos/core#prefLabel> "MatigSalug language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006810> . 
+<http://id.loc.gov/authorities/subjects/sh88006810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006810> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117264> . 
+<http://id.loc.gov/authorities/subjects/sh85117264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117264> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sangil language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85063904> . 
+<http://id.loc.gov/authorities/subjects/sh85063904> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063904> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ibanag language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064432> . 
+<http://id.loc.gov/authorities/subjects/sh85064432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064432> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilongot language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080630> . 
+<http://id.loc.gov/authorities/subjects/sh85080630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mansaka language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117010> . 
+<http://id.loc.gov/authorities/subjects/sh85117010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117010> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sambali language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009375> . 
+<http://id.loc.gov/authorities/subjects/sh85009375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85079631> . 
+<http://id.loc.gov/authorities/subjects/sh85079631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85079631> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magindanao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117005> . 
+<http://id.loc.gov/authorities/subjects/sh85117005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117005> <http://www.w3.org/2004/02/skos/core#prefLabel> "Waray language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000533> . 
+<http://id.loc.gov/authorities/subjects/sh91000533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000533> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amganad Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2017004917> . 
+<http://id.loc.gov/authorities/subjects/sh2017004917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2017004917> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ati language (Philippines)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85015595> . 
+<http://id.loc.gov/authorities/subjects/sh85015595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bontoc language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097283> . 
+<http://id.loc.gov/authorities/subjects/sh85097283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097283> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pampanga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131901> . 
+<http://id.loc.gov/authorities/subjects/sh85131901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tagalog language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080247> . 
+<http://id.loc.gov/authorities/subjects/sh85080247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080247> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mamanwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85035020> . 
+<http://id.loc.gov/authorities/subjects/sh85035020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85035020> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuyunon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064216> . 
+<http://id.loc.gov/authorities/subjects/sh85064216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central Cordilleran languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005217> . 
+<http://id.loc.gov/authorities/subjects/sh94005217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005217> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86007780> . 
+<http://id.loc.gov/authorities/subjects/sh86007780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86007780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central Subanen dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85069303> . 
+<http://id.loc.gov/authorities/subjects/sh85069303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069303> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jama Mapun language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85058781> . 
+<http://id.loc.gov/authorities/subjects/sh85058781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85058781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hanunóo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006899> . 
+<http://id.loc.gov/authorities/subjects/sh88006899> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006899> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kiangan Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85000043> . 
+<http://id.loc.gov/authorities/subjects/sh85000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Abaknon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100756> . 
+<http://id.loc.gov/authorities/subjects/sh85100756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100756> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippine languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000812> . 
+<http://id.loc.gov/authorities/subjects/sh98000812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000812> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central Sama language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85021584> . 
+<http://id.loc.gov/authorities/subjects/sh85021584> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021584> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cebuano language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135578> . 
+<http://id.loc.gov/authorities/subjects/sh85135578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135578> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tiruray language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000522> . 
+<http://id.loc.gov/authorities/subjects/sh87000522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kinaray-a language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000059> . 
+<http://id.loc.gov/authorities/subjects/sh98000059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000059> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tagabawa Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85069053> . 
+<http://id.loc.gov/authorities/subjects/sh85069053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85069053> <http://www.w3.org/2004/02/skos/core#prefLabel> "Itawis language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005176> . 
+<http://id.loc.gov/authorities/subjects/sh88005176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005176> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Bontoc dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068375> . 
+<http://id.loc.gov/authorities/subjects/sh85068375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068375> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isinay language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007675> . 
+<http://id.loc.gov/authorities/subjects/sh88007675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Bukidnon Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85074275> . 
+<http://id.loc.gov/authorities/subjects/sh85074275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85074275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lanao Moro dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096987> . 
+<http://id.loc.gov/authorities/subjects/sh85096987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096987> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palawano language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007669> . 
+<http://id.loc.gov/authorities/subjects/sh88007669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007669> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agusan Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039941> . 
+<http://id.loc.gov/authorities/subjects/sh85039941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039941> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dumagat language (Casiguran)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013000866> . 
+<http://id.loc.gov/authorities/subjects/sh2013000866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013000866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Subanen dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85129402> . 
+<http://id.loc.gov/authorities/subjects/sh85129402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85129402> <http://www.w3.org/2004/02/skos/core#prefLabel> "Subanun language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00005128> . 
+<http://id.loc.gov/authorities/subjects/sh00005128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00005128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Koronadal Blaan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007671> . 
+<http://id.loc.gov/authorities/subjects/sh88007671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007671> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cotabato Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060811> . 
+<http://id.loc.gov/authorities/subjects/sh85060811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060811> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hiligaynon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97008886> . 
+<http://id.loc.gov/authorities/subjects/sh97008886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97008886> <http://www.w3.org/2004/02/skos/core#prefLabel> "Keley-i Kallahan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85052677> . 
+<http://id.loc.gov/authorities/subjects/sh85052677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85052677> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaddang language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85002509> . 
+<http://id.loc.gov/authorities/subjects/sh85002509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002509> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85081792> . 
+<http://id.loc.gov/authorities/subjects/sh85081792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081792> <http://www.w3.org/2004/02/skos/core#prefLabel> "Masbateno language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080606> . 
+<http://id.loc.gov/authorities/subjects/sh85080606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080606> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manobo languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064193> . 
+<http://id.loc.gov/authorities/subjects/sh85064193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064193> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ifugao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92004591> . 
+<http://id.loc.gov/authorities/subjects/sh92004591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paranan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071346> . 
+<http://id.loc.gov/authorities/subjects/sh85071346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071346> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalinga languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017827> . 
+<http://id.loc.gov/authorities/subjects/sh85017827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017827> <http://www.w3.org/2004/02/skos/core#prefLabel> "Binukid Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85039942> . 
+<http://id.loc.gov/authorities/subjects/sh85039942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85039942> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dumagat language (Umirey)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068628> . 
+<http://id.loc.gov/authorities/subjects/sh85068628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068628> <http://www.w3.org/2004/02/skos/core#prefLabel> "Isneg language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85135520> . 
+<http://id.loc.gov/authorities/subjects/sh85135520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85135520> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tinggian language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85003134> . 
+<http://id.loc.gov/authorities/subjects/sh85003134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85003134> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alangan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007672> . 
+<http://id.loc.gov/authorities/subjects/sh88007672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007672> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ilianen Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000920> . 
+<http://id.loc.gov/authorities/subjects/sh91000920> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000920> <http://www.w3.org/2004/02/skos/core#prefLabel> "Higaonon dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004794> . 
+<http://id.loc.gov/authorities/subjects/sh90004794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalagan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005083> . 
+<http://id.loc.gov/authorities/subjects/sh92005083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005083> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ayta Anchi Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85019040> . 
+<http://id.loc.gov/authorities/subjects/sh85019040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85019040> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caluyanun language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071475> . 
+<http://id.loc.gov/authorities/subjects/sh85071475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kankanay language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000093> . 
+<http://id.loc.gov/authorities/subjects/sh87000093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000093> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulod language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005094> . 
+<http://id.loc.gov/authorities/subjects/sh88005094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005094> <http://www.w3.org/2004/02/skos/core#prefLabel> "Central Bontoc dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98000082> . 
+<http://id.loc.gov/authorities/subjects/sh98000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98000082> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aklanon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012314> . 
+<http://id.loc.gov/authorities/subjects/sh85012314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012314> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ivatan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097431> . 
+<http://id.loc.gov/authorities/subjects/sh85097431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097431> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pangasinan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91001597> . 
+<http://id.loc.gov/authorities/subjects/sh91001597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91001597> <http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Kankanay dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010969> . 
+<http://id.loc.gov/authorities/subjects/sh85010969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010969> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bagobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85089475> . 
+<http://id.loc.gov/authorities/subjects/sh85089475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85089475> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ibaloi language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022232> . 
+<http://id.loc.gov/authorities/subjects/sh85022232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022232> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chabacano language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2006004074> . 
+<http://id.loc.gov/authorities/subjects/sh2006004074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006004074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippine Sign Language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071327> . 
+<http://id.loc.gov/authorities/subjects/sh85071327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071327> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calamian Tagbanwa language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007674> . 
+<http://id.loc.gov/authorities/subjects/sh88007674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007674> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sarangani Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88006271> . 
+<http://id.loc.gov/authorities/subjects/sh88006271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88006271> <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92004590> . 
+<http://id.loc.gov/authorities/subjects/sh92004590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92004590> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mayoyao Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98005406> . 
+<http://id.loc.gov/authorities/subjects/sh98005406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98005406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ayta Mag Indi dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001009653> . 
+<http://id.loc.gov/authorities/subjects/sh2001009653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001009653> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dupaninan Agta language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131896> . 
+<http://id.loc.gov/authorities/subjects/sh85131896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131896> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tagakaolo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86006784> . 
+<http://id.loc.gov/authorities/subjects/sh86006784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86006784> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sama Sibutu language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000507> . 
+<http://id.loc.gov/authorities/subjects/sh87000507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000507> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botolan Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97008884> . 
+<http://id.loc.gov/authorities/subjects/sh97008884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97008884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kayapa Kallahan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh96004790> . 
+<http://id.loc.gov/authorities/subjects/sh96004790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96004790> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kakilingan Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86007782> . 
+<http://id.loc.gov/authorities/subjects/sh86007782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86007782> <http://www.w3.org/2004/02/skos/core#prefLabel> "Western Subanon dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2013001154> . 
+<http://id.loc.gov/authorities/subjects/sh2013001154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2013001154> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalamian languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85013996> . 
+<http://id.loc.gov/authorities/subjects/sh85013996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85013996> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bikol language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97008084> . 
+<http://id.loc.gov/authorities/subjects/sh97008084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97008084> <http://www.w3.org/2004/02/skos/core#prefLabel> "Itbayat dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083406> . 
+<http://id.loc.gov/authorities/subjects/sh85083406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083406> <http://www.w3.org/2004/02/skos/core#prefLabel> "Melebuganon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096986> . 
+<http://id.loc.gov/authorities/subjects/sh85096986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Palawanic languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85064428> . 
+<http://id.loc.gov/authorities/subjects/sh85064428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064428> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iloko language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85131908> . 
+<http://id.loc.gov/authorities/subjects/sh85131908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85131908> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tagbanua language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85148918> . 
+<http://id.loc.gov/authorities/subjects/sh85148918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85148918> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yakan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000954> . 
+<http://id.loc.gov/authorities/subjects/sh87000954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000954> <http://www.w3.org/2004/02/skos/core#prefLabel> "Batad Ifugao dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86007781> . 
+<http://id.loc.gov/authorities/subjects/sh86007781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86007781> <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Subanen dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85130400> . 
+<http://id.loc.gov/authorities/subjects/sh85130400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85130400> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulu language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97002646> . 
+<http://id.loc.gov/authorities/subjects/sh97002646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97002646> <http://www.w3.org/2004/02/skos/core#prefLabel> "Obo Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88000623> . 
+<http://id.loc.gov/authorities/subjects/sh88000623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88000623> <http://www.w3.org/2004/02/skos/core#prefLabel> "Banton language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97008872> . 
+<http://id.loc.gov/authorities/subjects/sh97008872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97008872> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yogad language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85037644> . 
+<http://id.loc.gov/authorities/subjects/sh85037644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037644> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dibabawon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85080783> . 
+<http://id.loc.gov/authorities/subjects/sh85080783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85080783> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manuvu language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90002897> . 
+<http://id.loc.gov/authorities/subjects/sh90002897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90002897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sangir language (Indonesia and Philippines)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88005503> . 
+<http://id.loc.gov/authorities/subjects/sh88005503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005503> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tina Sambal dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008028014> . 
+<http://id.loc.gov/authorities/subjects/sh2008028014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008028014> <http://www.w3.org/2004/02/skos/core#prefLabel> "Romblomanon language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011134> . 
+<http://id.loc.gov/authorities/subjects/sh85011134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011134> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balangao language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132794> . 
+<http://id.loc.gov/authorities/subjects/sh85132794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132794> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tausug language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87000399> . 
+<http://id.loc.gov/authorities/subjects/sh87000399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87000399> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balangingì dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh88007670> . 
+<http://id.loc.gov/authorities/subjects/sh88007670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007670> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ata Manobo language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001007851> . 
+<http://id.loc.gov/authorities/subjects/sh2001007851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001007851> <http://www.w3.org/2004/02/skos/core#prefLabel> "Upper Tanudan Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014001> . 
+<http://id.loc.gov/authorities/subjects/sh85014001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014001> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bilaan language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071265> . 
+<http://id.loc.gov/authorities/subjects/sh85071265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071265> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kagayanen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015002403> . 
+<http://id.loc.gov/authorities/subjects/sh2015002403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015002403> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lubuagan Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014404> . 
+<http://id.loc.gov/authorities/subjects/sh85014404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014404> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bisayan languages"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91000530> . 
+<http://id.loc.gov/authorities/subjects/sh91000530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91000530> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lower Tanudan Kalinga language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005054> . 
+<http://id.loc.gov/authorities/subjects/sh92005054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agutaynen language"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh88005110> . 
+<http://id.loc.gov/authorities/subjects/sh88005110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88005110> <http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Bontoc dialect"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode1159authoritiessubjectssh85100795 . 
+_:bnode1159authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode1159authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100795> . 
+_:bnode1159authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode1159authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode1159authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85100795> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode1167authoritiessubjectssh85100795 . 
+_:bnode1167authoritiessubjectssh85100795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode1167authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100795> . 
+_:bnode1167authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode1167authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#createdDate> "1995-05-01T15:31:37"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode1167authoritiessubjectssh85100795 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

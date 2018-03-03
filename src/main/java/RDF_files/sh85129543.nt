@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Substitute physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85129543 . 
+_:bnode7authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85129543 . 
+_:bnode7authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementValue> "Substitute physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85129543 . 
+_:bnode11authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Locum tenens (Medicine)"@en . 
+_:bnode11authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85129543 . 
+_:bnode16authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85129543 . 
+_:bnode16authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementValue> "Locum tenens (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85101610> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85129543 . 
+_:bnode25authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85129543 . 
+_:bnode25authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementValue> "Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85083088> . 
+<http://id.loc.gov/authorities/subjects/sh85083088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85083088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083088> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine--Practice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083088> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode34authoritiessubjectssh85129543 . 
+_:bnode34authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode35authoritiessubjectssh85129543 . 
+_:bnode34authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode042 . 
+_:bnode35authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode35authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode35authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medicine"@en . 
+_:bnode35authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode39authoritiessubjectssh85129543 . 
+_:bnode39authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85129543 . 
+_:bnode39authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode40authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementValue> "Medicine"@en . 
+_:bnode042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85129543 . 
+_:bnode042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode43authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode43authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Practice"@en . 
+_:bnode43authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85129543 . 
+_:bnode47authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85129543 . 
+_:bnode47authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85129543 <http://www.loc.gov/mads/rdf/v1#elementValue> "Practice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85129543" . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85129543> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85129543#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode59authoritiessubjectssh85129543 . 
+_:bnode59authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode59authoritiessubjectssh85129543 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode59authoritiessubjectssh85129543 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode59authoritiessubjectssh85129543 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2004/02/skos/core#prefLabel> "Substitute physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode69authoritiessubjectssh85129543 . 
+_:bnode69authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode69authoritiessubjectssh85129543 <http://www.w3.org/2008/05/skos-xl#literalForm> "Locum tenens (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2004/02/skos/core#altLabel> "Locum tenens (Medicine)" . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85101610> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85101610> <http://www.w3.org/2004/02/skos/core#prefLabel> "Physicians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85083088> . 
+<http://id.loc.gov/authorities/subjects/sh85083088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083088> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medicine--Practice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2008/05/skos-xl#altLabel> "Locum tenens (Medicine)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85129543> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode89authoritiessubjectssh85129543 . 
+_:bnode89authoritiessubjectssh85129543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode89authoritiessubjectssh85129543 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85129543> . 
+_:bnode89authoritiessubjectssh85129543 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode89authoritiessubjectssh85129543 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode89authoritiessubjectssh85129543 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

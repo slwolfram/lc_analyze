@@ -1,0 +1,75 @@
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85116826 . 
+_:bnode7authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85116826 . 
+_:bnode7authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85116826 <http://www.loc.gov/mads/rdf/v1#elementValue> "Salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#classification> "SH684-SH686.7" . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85009206> . 
+<http://id.loc.gov/authorities/subjects/sh85009206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009206> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Atlantic salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/authorities/childrensSubjects/sj96006078> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006078> <http://www.w3.org/2000/01/rdf-schema#label> "sj96006078" . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11967403x> . 
+<http://data.bnf.fr/ark:/12148/cb11967403x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11967403x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Saumons -- Pêche sportive"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85096488> . 
+<http://id.loc.gov/authorities/subjects/sh85096488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85096488> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pacific salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96005480> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fishing"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode35authoritiessubjectssh85116826 . 
+_:bnode35authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode36authoritiessubjectssh85116826 . 
+_:bnode35authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode36authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode36authoritiessubjectssh85116826 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85116826" . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85116826> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85116826#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode47authoritiessubjectssh85116826 . 
+_:bnode47authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode47authoritiessubjectssh85116826 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode47authoritiessubjectssh85116826 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode47authoritiessubjectssh85116826 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh85116826 . 
+_:bnode54authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh85116826 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2000-10-06T08:21:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh85116826 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh85116826 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#prefLabel> "Salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96005480> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005480> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85009206> . 
+<http://id.loc.gov/authorities/subjects/sh85009206> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009206> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atlantic salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85096488> . 
+<http://id.loc.gov/authorities/subjects/sh85096488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85096488> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pacific salmon fishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11967403x> . 
+<http://data.bnf.fr/ark:/12148/cb11967403x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11967403x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saumons -- Pêche sportive"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode85authoritiessubjectssh85116826 . 
+_:bnode85authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode85authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85116826> . 
+_:bnode85authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode85authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode85authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85116826> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode93authoritiessubjectssh85116826 . 
+_:bnode93authoritiessubjectssh85116826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode93authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85116826> . 
+_:bnode93authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode93authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#createdDate> "2000-10-06T08:21:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh85116826 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

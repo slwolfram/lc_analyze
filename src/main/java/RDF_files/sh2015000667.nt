@@ -1,0 +1,71 @@
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Nurse educators"@en . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2015000667 . 
+_:bnode7authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2015000667 . 
+_:bnode7authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#elementValue> "Nurse educators"@en . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85132964> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh2015000667 . 
+_:bnode16authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh2015000667 . 
+_:bnode16authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#elementValue> "Teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2015000667" . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2015000667> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2015000667#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh2015000667 . 
+_:bnode28authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat: Schneider, A. The development of nursing agency in the context of oppression : a study of the experiences of nurse educators, 2015." . 
+_:bnode28authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode34authoritiessubjectssh2015000667 . 
+_:bnode34authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode34authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, accessed March 16, 2015:" . 
+_:bnode34authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-note> "(A nurse educator is a nurse who teaches and prepares licensed practical nurses (LPN) and registered nurses (RN) for entry into practice positions)"@en . 
+_:bnode34authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode42authoritiessubjectssh2015000667 . 
+_:bnode42authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode42authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-source> "Zorn, C. Becoming a nurse educator : dialogue for an engaging career, 2010." . 
+_:bnode42authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh2015000667 . 
+_:bnode48authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-source> "Fitzpatrick, J. Career success strategies for nurse educators, 2006." . 
+_:bnode48authoritiessubjectssh2015000667 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh2015000667 . 
+_:bnode54authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2015-03-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode54authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh2015000667 . 
+_:bnode62authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2015-06-09T05:39:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode62authoritiessubjectssh2015000667 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nurse educators"@en . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85132964> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132964> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teachers"@en . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode79authoritiessubjectssh2015000667 . 
+_:bnode79authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode79authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2015000667> . 
+_:bnode79authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode79authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#createdDate> "2015-03-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode79authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh2015000667> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode87authoritiessubjectssh2015000667 . 
+_:bnode87authoritiessubjectssh2015000667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode87authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2015000667> . 
+_:bnode87authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/orcs> . 
+_:bnode87authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#createdDate> "2015-06-09T05:39:11"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode87authoritiessubjectssh2015000667 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
