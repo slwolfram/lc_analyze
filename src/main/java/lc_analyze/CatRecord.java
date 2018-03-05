@@ -99,4 +99,15 @@ public class CatRecord implements Serializable{
 	public void setCarrierType(String carrierType) {
 		this.carrierType = carrierType;
 	}
+	public void print() {
+		System.out.println("Title: " + this.getTitle());
+		System.out.println("Author: " + this.getAuthor());
+		System.out.println("Place of Publication: " + this.getPlaceOfPublication());
+		System.out.println("Publication date: " + this.getPublicationDate());
+		System.out.println("OCLC number: " + this.getOclc());
+		System.out.println("Description: " + this.getDescription());
+		System.out.println("Content type: " + this.getContentType());
+		System.out.println("Media type: " + this.getMediaType());
+		System.out.println("Carrier type: " + this.getCarrierType());
+	}
 }

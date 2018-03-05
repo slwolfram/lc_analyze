@@ -1,0 +1,206 @@
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commercial agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85028909 . 
+_:bnode7authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85028909 . 
+_:bnode7authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementValue> "Commercial agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85028909 . 
+_:bnode11authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Agents, Commercial"@en . 
+_:bnode11authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85028909 . 
+_:bnode16authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85028909 . 
+_:bnode16authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agents, Commercial"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85028909 . 
+_:bnode20authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Business agents"@en . 
+_:bnode20authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85028909 . 
+_:bnode25authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85028909 . 
+_:bnode25authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementValue> "Business agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85106512> . 
+<http://id.loc.gov/authorities/subjects/sh85106512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85106512> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Press agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4120845-6> . 
+<http://d-nb.info/gnd/4120845-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4120845-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agenturgeschäft"@de . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85002173> . 
+<http://id.loc.gov/authorities/subjects/sh85002173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85002173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002173> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agency (Law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002173> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85028909 . 
+_:bnode42authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85028909 . 
+_:bnode42authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode43authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementValue> "Agency (Law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85137157> . 
+<http://id.loc.gov/authorities/subjects/sh85137157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85137157> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Travel agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4159007-7> . 
+<http://d-nb.info/gnd/4159007-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4159007-7> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Handelsmakler"@de . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11934024f> . 
+<http://data.bnf.fr/ark:/12148/cb11934024f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11934024f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agents commerciaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92001803> . 
+<http://id.loc.gov/authorities/subjects/sh92001803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001803> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photographers' representatives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/14825> . 
+<http://purl.org/bncf/tid/14825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/14825> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agenti di commercio"@it . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85027991> . 
+<http://id.loc.gov/authorities/subjects/sh85027991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85027991> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Collection agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029626> . 
+<http://id.loc.gov/authorities/subjects/sh85029626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029626> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Concert agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85065876> . 
+<http://id.loc.gov/authorities/subjects/sh85065876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065876> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrial equipment industry agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85109165> . 
+<http://id.loc.gov/authorities/subjects/sh85109165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85109165> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Purchasing agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85116732> . 
+<http://id.loc.gov/authorities/subjects/sh85116732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85116732> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sales personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077484> . 
+<http://id.loc.gov/authorities/subjects/sh85077484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077484> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literary agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85028967> . 
+<http://id.loc.gov/authorities/subjects/sh85028967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85028967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028967> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Commission merchants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028967> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode95authoritiessubjectssh85028909 . 
+_:bnode95authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode96authoritiessubjectssh85028909 . 
+_:bnode95authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode96authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode96authoritiessubjectssh85028909 <http://www.loc.gov/mads/rdf/v1#elementValue> "Commission merchants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4023260-8> . 
+<http://d-nb.info/gnd/4023260-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4023260-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Handelsvertreter"@de . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85066805> . 
+<http://id.loc.gov/authorities/subjects/sh85066805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066805> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Insurance agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85126911> . 
+<http://id.loc.gov/authorities/subjects/sh85126911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85126911> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sports agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85134607> . 
+<http://id.loc.gov/authorities/subjects/sh85134607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85134607> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Theatrical agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85029420> . 
+<http://id.loc.gov/authorities/subjects/sh85029420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85029420> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Compradors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92001770> . 
+<http://id.loc.gov/authorities/subjects/sh92001770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001770> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Artists' representatives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85028909" . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85028909> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85028909#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode131authoritiessubjectssh85028909 . 
+_:bnode131authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode131authoritiessubjectssh85028909 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode131authoritiessubjectssh85028909 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode131authoritiessubjectssh85028909 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode138authoritiessubjectssh85028909 . 
+_:bnode138authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode138authoritiessubjectssh85028909 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1989-08-26T14:58:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode138authoritiessubjectssh85028909 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode138authoritiessubjectssh85028909 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commercial agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode148authoritiessubjectssh85028909 . 
+_:bnode148authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode148authoritiessubjectssh85028909 <http://www.w3.org/2008/05/skos-xl#literalForm> "Agents, Commercial"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#altLabel> "Agents, Commercial" . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode155authoritiessubjectssh85028909 . 
+_:bnode155authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode155authoritiessubjectssh85028909 <http://www.w3.org/2008/05/skos-xl#literalForm> "Business agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#altLabel> "Business agents" . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85106512> . 
+<http://id.loc.gov/authorities/subjects/sh85106512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85106512> <http://www.w3.org/2004/02/skos/core#prefLabel> "Press agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85137157> . 
+<http://id.loc.gov/authorities/subjects/sh85137157> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85137157> <http://www.w3.org/2004/02/skos/core#prefLabel> "Travel agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92001803> . 
+<http://id.loc.gov/authorities/subjects/sh92001803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001803> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photographers' representatives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85027991> . 
+<http://id.loc.gov/authorities/subjects/sh85027991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85027991> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collection agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029626> . 
+<http://id.loc.gov/authorities/subjects/sh85029626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029626> <http://www.w3.org/2004/02/skos/core#prefLabel> "Concert agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85065876> . 
+<http://id.loc.gov/authorities/subjects/sh85065876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrial equipment industry agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85109165> . 
+<http://id.loc.gov/authorities/subjects/sh85109165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85109165> <http://www.w3.org/2004/02/skos/core#prefLabel> "Purchasing agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85116732> . 
+<http://id.loc.gov/authorities/subjects/sh85116732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85116732> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sales personnel"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077484> . 
+<http://id.loc.gov/authorities/subjects/sh85077484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077484> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literary agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85066805> . 
+<http://id.loc.gov/authorities/subjects/sh85066805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066805> <http://www.w3.org/2004/02/skos/core#prefLabel> "Insurance agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85126911> . 
+<http://id.loc.gov/authorities/subjects/sh85126911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85126911> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sports agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85134607> . 
+<http://id.loc.gov/authorities/subjects/sh85134607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85134607> <http://www.w3.org/2004/02/skos/core#prefLabel> "Theatrical agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85029420> . 
+<http://id.loc.gov/authorities/subjects/sh85029420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85029420> <http://www.w3.org/2004/02/skos/core#prefLabel> "Compradors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92001770> . 
+<http://id.loc.gov/authorities/subjects/sh92001770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001770> <http://www.w3.org/2004/02/skos/core#prefLabel> "Artists' representatives"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85002173> . 
+<http://id.loc.gov/authorities/subjects/sh85002173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002173> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agency (Law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85028967> . 
+<http://id.loc.gov/authorities/subjects/sh85028967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Commission merchants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4120845-6> . 
+<http://d-nb.info/gnd/4120845-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4120845-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenturgeschäft"@de . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4159007-7> . 
+<http://d-nb.info/gnd/4159007-7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4159007-7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsmakler"@de . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11934024f> . 
+<http://data.bnf.fr/ark:/12148/cb11934024f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11934024f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agents commerciaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/14825> . 
+<http://purl.org/bncf/tid/14825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/14825> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agenti di commercio"@it . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4023260-8> . 
+<http://d-nb.info/gnd/4023260-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4023260-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Handelsvertreter"@de . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2008/05/skos-xl#altLabel> "Agents, Commercial"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2008/05/skos-xl#altLabel> "Business agents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode272authoritiessubjectssh85028909 . 
+_:bnode272authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode272authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85028909> . 
+_:bnode272authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode272authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode272authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85028909> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode280authoritiessubjectssh85028909 . 
+_:bnode280authoritiessubjectssh85028909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode280authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85028909> . 
+_:bnode280authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode280authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#createdDate> "1989-08-26T14:58:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode280authoritiessubjectssh85028909 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

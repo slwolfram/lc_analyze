@@ -24,29 +24,19 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.List;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.commons.lang.StringUtils;
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.HttpUriRequest;
-import org.apache.http.client.methods.RequestBuilder;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClientBuilder;
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Model;
 import org.eclipse.rdf4j.model.Resource;
-import org.eclipse.rdf4j.model.Statement;
 import org.eclipse.rdf4j.model.Value;
 import org.eclipse.rdf4j.model.ValueFactory;
 import org.eclipse.rdf4j.model.impl.SimpleValueFactory;
@@ -57,9 +47,7 @@ import org.eclipse.rdf4j.rio.Rio;
 import org.eclipse.rdf4j.rio.UnsupportedRDFormatException;
 import org.marc4j.MarcReader;
 import org.marc4j.MarcXmlReader;
-import org.marc4j.marc.DataField;
 import org.marc4j.marc.Record;
-import org.marc4j.marc.VariableField;
 
 public class LCAnalyze {
 
@@ -96,6 +84,7 @@ public class LCAnalyze {
 	 */
 	public static ArrayList<LCSubjectHeading> nameHeadingTrees = new ArrayList<LCSubjectHeading>();
 
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws URISyntaxException, IOException {
 
 		File f = new File("./src/main/java/MARC_files/");
@@ -109,7 +98,7 @@ public class LCAnalyze {
 				try {
 					FileInputStream fis = new FileInputStream("save");
 					ObjectInputStream ois = new ObjectInputStream(fis);
-					lcshList = (ArrayList) ois.readObject();
+					lcshList = (ArrayList<LCSubjectHeading>) ois.readObject();
 					ois.close();
 					fis.close();
 				} catch (IOException ioe) {
@@ -156,10 +145,10 @@ public class LCAnalyze {
 	}
 
 	private static void console() {
-		System.out.println("Console started. For a list of commands, type 'h'");
 		Scanner reader = new Scanner(System.in); // Reading from System.in
 		boolean exit = false;
 		while (!exit) {
+			System.out.println("Console started. For a list of commands, type 'h'");
 			System.out.print("> ");
 			String input = reader.nextLine();
 			String[] result = input.split(" ");
@@ -176,7 +165,7 @@ public class LCAnalyze {
 						lcshList.get(i).print();
 					}
 				} else if (StringUtils.isAlpha(result[1])) {
-					System.out.println("works");
+
 					System.out.println(result[1]);
 					System.out.println(result[1]);
 
@@ -187,8 +176,81 @@ public class LCAnalyze {
 					}
 				}
 				break;
-			case "cd":
+			case "search":
+				ArrayList<String> query = new ArrayList<String>();
+				if (result.length == 1) {
+					System.out.print("Enter search keyword: ");
+					String[] q = reader.nextLine().split("\\s+");
+					for (int i = 0; i < q.length; i++) {
+						query.add(q[i]);
+					}
+				} else {
+					for (int i = 1; i < result.length; i++) {
+						query.add(result[i]);
+					}
+				}
 
+				ArrayList<SearchResult> resultsList = new ArrayList<SearchResult>();
+				boolean match = true;
+				for (int i = 0; i < lcshList.size(); i++) {
+					for (int j = 0; j < query.size(); j++) {
+						if (lcshList.get(i).getHeading().toLowerCase().contains(query.get(j).toLowerCase()) || lcshList
+								.get(i).getURI().toString().toLowerCase().contains(query.get(j).toLowerCase())) {
+							match = true;
+						} else {
+							match = false;
+							break;
+						}
+					}
+					String note = "";
+					if (match == false) {
+						for (int j = 0; j < lcshList.get(i).getVariantTerms().size(); j++) {
+							for (int k = 0; k < query.size(); k++) {
+								if (lcshList.get(i).getVariantTerms().get(j).toLowerCase()
+										.contains(query.get(k).toLowerCase())) {
+									match = true;
+								} else {
+									match = false;
+								}
+							}
+							if (match == true) {
+								note = lcshList.get(i).getVariantTerms().get(j);
+							}
+						}
+					}
+					if (match) {
+						String queryString = query.get(0);
+						for (int j = 1; j < query.size(); j++) {
+							queryString += " " + query.get(j);
+						}
+						if (queryString.equals(lcshList.get(i).getHeading()) || queryString.equals(note)) {
+							resultsList.add(0, new SearchResult(lcshList.get(i), 1, note));
+						} else {
+							resultsList.add(new SearchResult(lcshList.get(i), 2, note));
+						}
+					}
+				}
+				for (int i = 0; i < resultsList.size(); i++) {
+					System.out.println("(" + (i + 1) + ") " + resultsList.get(i).getSubjectHeading().getHeading() + " ("
+							+ resultsList.get(i).getSubjectHeading().getCount() + " records)");
+					if (resultsList.get(i).getNote().length() > 1) {
+						System.out.println("----Variant Term: " + resultsList.get(i).getNote());
+					}
+				}
+				System.out.println("\n (Enter heading number or 'exit' to return)");
+				boolean e = false;
+				while (!e) {
+					System.out.print("> ");
+					String input2 = reader.nextLine();
+					if (input2.equalsIgnoreCase("exit")) {
+						e = true;
+					} else if (StringUtils.isNumeric(input2) && Integer.parseInt(input2) > 0
+							&& Integer.parseInt(input2) <= resultsList.size()) {
+						headingNavigator(resultsList.get(Integer.parseInt(input2) - 1).getSubjectHeading(), reader);
+						e = true;
+					}
+				}
+				break;
 			case "exit":
 				exit = true;
 				break;
@@ -204,6 +266,73 @@ public class LCAnalyze {
 		reader.close();
 	}
 
+	private static void headingNavigator(LCSubjectHeading lcsh, Scanner reader) {
+		boolean exit = false;
+		while (!exit) {
+			System.out.println(lcsh.getHeading() + " (" + lcsh.getCount() + " records)");
+			System.out.println("URI: " + lcsh.getURI());
+
+			if (!lcsh.getBroaderTerms().isEmpty()) {
+				System.out.println("Broader terms:");
+				for (int i = 0; i < lcsh.getBroaderTerms().size(); i++) {
+					System.out.println("(" + (i + 1) + ") " + lcsh.getBroaderTerms().get(i).getHeading() + " ("
+							+ lcsh.getBroaderTerms().get(i).getCount() + " records)");
+				}
+			}
+			if (!lcsh.getNarrowerTerms().isEmpty()) {
+				System.out.println("Narrower terms:");
+				for (int i = 0; i < lcsh.getNarrowerTerms().size(); i++) {
+					System.out.println("(" + (i + lcsh.getBroaderTerms().size() + 1) + ") "
+							+ lcsh.getNarrowerTerms().get(i).getHeading() + " ("
+							+ lcsh.getNarrowerTerms().get(i).getCount() + " records)");
+				}
+			}
+			if (!lcsh.getRelatedTerms().isEmpty()) {
+				System.out.println("Related terms:");
+				for (int i = 0; i < lcsh.getRelatedTerms().size(); i++) {
+					System.out.println("(" + (i + lcsh.getBroaderTerms().size() + lcsh.getNarrowerTerms().size() + 1)
+							+ ") " + lcsh.getRelatedTerms().get(i).getHeading() + " ("
+							+ lcsh.getRelatedTerms().get(i).getCount() + " records)");
+				}
+			}
+			System.out.println("\nEnter heading number / 'r' - view item records / 'exit' - return");
+			System.out.print("> ");
+			String input = reader.nextLine();
+			int maxInt = lcsh.getBroaderTerms().size() + lcsh.getNarrowerTerms().size() + lcsh.getRelatedTerms().size();
+
+			if (input.equalsIgnoreCase("r")) {
+				System.out.println("Record titles:");
+				for (int i = 0; i < lcsh.getRecords().size(); i++) {
+					System.out.println("(" + (i + 1) + ") " + lcsh.getRecords().get(i).getTitle());
+				}
+				System.out.println("\nEnter record number / 'exit' - return");
+				System.out.print("> ");
+				input = reader.nextLine();
+				if (StringUtils.isNumeric(input) && Integer.parseInt(input) > 0
+						&& Integer.parseInt(input) <= lcsh.getRecords().size()) {
+					lcsh.getRecords().get(Integer.parseInt(input)-1).print();
+					System.out.println("\nPress any key to continue:");
+					System.out.print("> ");
+					input = reader.nextLine();
+				}
+			} else if (input.equalsIgnoreCase("exit")) {
+				exit = true;
+			} else if (StringUtils.isNumeric(input) && Integer.parseInt(input) > 0
+					&& Integer.parseInt(input) <= maxInt) {
+				if (Integer.parseInt(input) <= lcsh.getBroaderTerms().size()) {
+					lcsh = lcsh.getBroaderTerms().get(Integer.parseInt(input) - 1);
+				} else if (Integer
+						.parseInt(input) <= (lcsh.getBroaderTerms().size() + lcsh.getNarrowerTerms().size())) {
+					lcsh = lcsh.getNarrowerTerms().get(Integer.parseInt(input) - lcsh.getBroaderTerms().size() - 1);
+				} else {
+					lcsh = lcsh.getRelatedTerms().get(Integer.parseInt(input) - lcsh.getBroaderTerms().size()
+							- lcsh.getNarrowerTerms().size() - 1);
+				}
+			}
+		}
+
+	}
+
 	/**
 	 * Method name: genRDFModel
 	 * 
@@ -216,7 +345,6 @@ public class LCAnalyze {
 		File[] filesList = file.listFiles();
 		for (File f : filesList) {
 			if (f.isFile() && f.getName().endsWith(".nt")) {
-				System.out.println(f.getPath());
 				InputStream input = new FileInputStream(f.getPath());
 				try {
 					rdfModel.addAll(Rio.parse(input, "", RDFFormat.NTRIPLES));
@@ -248,6 +376,7 @@ public class LCAnalyze {
 			}
 		}
 	}
+
 	private static CatRecord createCatRecord(Record record) {
 		String title = MARCXMLHelper.extractTitle(record);
 		String author = MARCXMLHelper.extractAuthor(record);
@@ -259,8 +388,10 @@ public class LCAnalyze {
 		String contentType = MARCXMLHelper.extractContentType(record);
 		String mediaType = MARCXMLHelper.extractMediaType(record);
 		String carrierType = MARCXMLHelper.extractCarrierType(record);
-		return new CatRecord(title, author, placeOfPublication, publisher, dateOfPublication, oclc, description, contentType, mediaType, carrierType);
+		return new CatRecord(title, author, placeOfPublication, publisher, dateOfPublication, oclc, description,
+				contentType, mediaType, carrierType);
 	}
+
 	/**
 	 * Method name: addConceptString
 	 * 
@@ -269,14 +400,10 @@ public class LCAnalyze {
 	 * the value 1 in the count parameter. (Headings which are not counted are,
 	 * e.g., those that are added as broader/narrow terms for an existing heading)
 	 */
-	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, CatRecord catRecord, int count,
-			int depth) throws FileNotFoundException {
+	private static LCSubjectHeading addConceptString(ArrayList<String> conceptString, URI uri, CatRecord catRecord,
+			int count, int depth) throws FileNotFoundException {
 
-		System.out.println("starting addConceptString...");
-		System.out.println(conceptString.get(0) + " " + uri.toString() + " " + count);
 		LCSubjectHeading lcsh = null;
-		
-		System.out.println("finished");
 		System.out.println("DEPTH: " + depth);
 
 		if (uri.toString().contains("subject")) {
@@ -323,33 +450,32 @@ public class LCAnalyze {
 			IRI iri = vf.createIRI(heading.getURI().toString());
 			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#hasVariant");
 			v = rdfModel.filter(iri, auth, null).toString();
-			System.out.println(v);
 			if (!v.contentEquals("[]")) {
 				ArrayList<String> bnodeList = new ArrayList<String>();
-				System.out.println(v);
+
 				// extract all the heading uris from the string ..
 				Pattern p = Pattern.compile(Pattern.quote("hasVariant, ") + "(.*?)" + Pattern.quote(")"));
 				Matcher m = p.matcher(v);
 				while (m.find()) {
 					if (!m.group(1).equals("[]")) {
-						bnodeList.add(m.group(1));						
+						bnodeList.add(m.group(1));
 					}
 				}
 				for (int i = 0; i < bnodeList.size(); i++) {
 					IRI auth2 = vf.createIRI("http://www.loc.gov/mads/rdf/v1#variantLabel");
-					System.out.println(bnodeList.get(i));
 					Resource bnode = vf.createBNode(StringUtils.substringAfter(bnodeList.get(i), "_:"));
 					String v2 = rdfModel.filter(bnode, auth2, null).toString();
-					System.out.println(v2);
+
 					variantTerms.add(StringUtils.substringBetween(v2, "variantLabel, \"", "\"@en"));
-					System.out.println(variantTerms.toString());
-				}				
+
+				}
 			}
 		}
 		return variantTerms;
 	}
 
-	private static ArrayList<LCSubjectHeading> getRelatedHeadings(LCSubjectHeading heading, int depth) throws FileNotFoundException {
+	private static ArrayList<LCSubjectHeading> getRelatedHeadings(LCSubjectHeading heading, int depth)
+			throws FileNotFoundException {
 		ArrayList<LCSubjectHeading> relatedHeadings = new ArrayList<LCSubjectHeading>();
 		if (heading.getURI() != null) {
 			String b = "";
@@ -359,7 +485,7 @@ public class LCAnalyze {
 			b = rdfModel.filter(iri, auth, null).toString();
 			if (!b.contentEquals("[]")) {
 				ArrayList<String> uriList = new ArrayList<String>();
-				System.out.println(b);
+
 				// extract all the heading uris from the string ..
 				Pattern p = Pattern.compile(Pattern.quote("hasReciprocalAuthority, ") + "(.*?)" + Pattern.quote(")"));
 				Matcher m = p.matcher(b);
@@ -368,7 +494,7 @@ public class LCAnalyze {
 						uriList.add(m.group(1));
 					}
 				}
-				System.out.println(uriList.toString());
+
 				// first see if the related headings already exist in lcshList!
 				for (int i = 0; i < lcshList.size(); i++) {
 					for (int j = 0; j < uriList.size(); j++) {
@@ -423,7 +549,7 @@ public class LCAnalyze {
 			b = rdfModel.filter(iri, auth, null).toString();
 			if (!b.contentEquals("[]")) {
 				ArrayList<String> uriList = new ArrayList<String>();
-				System.out.println(b);
+
 				// extract all the heading uris from the string ..
 				Pattern p = Pattern.compile(Pattern.quote("hasBroaderAuthority, ") + "(.*?)" + Pattern.quote(")"));
 				Matcher m = p.matcher(b);
@@ -432,7 +558,7 @@ public class LCAnalyze {
 						uriList.add(m.group(1));
 					}
 				}
-				System.out.println(uriList.toString());
+
 				// first see if the narrower headings already exist in lcshList!
 				for (int i = 0; i < lcshList.size(); i++) {
 					for (int j = 0; j < uriList.size(); j++) {
@@ -487,7 +613,7 @@ public class LCAnalyze {
 			b = rdfModel.filter(iri, auth, null).toString();
 			if (!b.contentEquals("[]")) {
 				ArrayList<String> uriList = new ArrayList<String>();
-				System.out.println(b);
+
 				// extract all the heading uris from the string ..
 				Pattern p = Pattern.compile(Pattern.quote("hasNarrowerAuthority, ") + "(.*?)" + Pattern.quote(")"));
 				Matcher m = p.matcher(b);
@@ -496,7 +622,7 @@ public class LCAnalyze {
 						uriList.add(m.group(1));
 					}
 				}
-				System.out.println(uriList.toString());
+
 				// first see if the narrower headings already exist in lcshList!
 				for (int i = 0; i < lcshList.size(); i++) {
 					for (int j = 0; j < uriList.size(); j++) {
@@ -551,8 +677,7 @@ public class LCAnalyze {
 		ValueFactory vf = SimpleValueFactory.getInstance();
 		IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
 		Value topic = vf.createLiteral(rootConcept, "en");
-		System.out.println("\"" + rootConcept + "\"@en");
-		System.out.println(rdfModel.filter(null, auth, topic).toString());
+
 		try {
 			// I am embarrassed by how messy this is, but it works ...
 			uri = new URI("http://id.loc.gov/authorities/subjects/" + StringUtils.substringBetween(
@@ -561,7 +686,7 @@ public class LCAnalyze {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println(uri.toString());
+
 		DlRDF.download(uri.toString());
 		return uri;
 	}
@@ -580,7 +705,7 @@ public class LCAnalyze {
 		ValueFactory vf = SimpleValueFactory.getInstance();
 		IRI iri = vf.createIRI(uri.toString());
 		IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
-		System.out.println(rdfModel.filter(iri, auth, null).toString());
+
 		// gets the subject heading part of the RDF statement
 		authorityLabel = StringUtils.substringBetween(rdfModel.filter(iri, auth, null).toString(), "Label, \"", "\"@");
 
@@ -591,7 +716,7 @@ public class LCAnalyze {
 			}
 			conceptString.add(authorityLabel);
 			Collections.reverse(conceptString);
-			System.out.println(conceptString.toString());
+
 		} else {
 			conceptString.add("authorityLabel");
 		}
@@ -617,10 +742,10 @@ public class LCAnalyze {
 			IRI auth = vf.createIRI("http://www.loc.gov/mads/rdf/v1#authoritativeLabel");
 			headingTriples.addAll(rdfModel.filter(iri, auth, null));
 		}
-		System.out.println("printing heading triples...");
-		for (Statement statement : headingTriples) {
-			System.out.println(statement);
-		}
+		/*
+		 * System.out.println("printing heading triples..."); for (Statement statement :
+		 * headingTriples) { System.out.println(statement); }
+		 */
 		return headingTriples;
 	}
 

@@ -1,0 +1,151 @@
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85100445 . 
+_:bnode7authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85100445 . 
+_:bnode7authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementValue> "Petroleum products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85100445 . 
+_:bnode11authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Mazut"@en . 
+_:bnode11authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85100445 . 
+_:bnode16authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85100445 . 
+_:bnode16authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mazut"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#classification> "TP690-TP692.5" . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/48699> . 
+<http://purl.org/bncf/tid/48699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/48699> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Derivati del petrolio"@it . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90001517> . 
+<http://id.loc.gov/authorities/subjects/sh90001517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90001517> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paraffin wax"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85072068> . 
+<http://id.loc.gov/authorities/subjects/sh85072068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85072068> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kerosene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119326478> . 
+<http://data.bnf.fr/ark:/12148/cb119326478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119326478> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Produits pétroliers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85063315> . 
+<http://id.loc.gov/authorities/subjects/sh85063315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85063315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85063315> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hydraulic fluids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85063315> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode43authoritiessubjectssh85100445 . 
+_:bnode43authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode44authoritiessubjectssh85100445 . 
+_:bnode43authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode44authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode44authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hydraulic fluids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85100419> . 
+<http://id.loc.gov/authorities/subjects/sh85100419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100419> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum chemicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85097593> . 
+<http://id.loc.gov/authorities/subjects/sh85097593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097593> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Paper, Plastic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053418> . 
+<http://id.loc.gov/authorities/subjects/sh85053418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053418> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gasoline"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85100361> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85100445 . 
+_:bnode64authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85100445 . 
+_:bnode64authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementValue> "Petroleum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85100383> . 
+<http://id.loc.gov/authorities/subjects/sh85100383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85100383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85100383> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum--Refining"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100383> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode73authoritiessubjectssh85100445 . 
+_:bnode73authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode74authoritiessubjectssh85100445 . 
+_:bnode73authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode081 . 
+_:bnode74authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode74authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode74authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Petroleum"@en . 
+_:bnode74authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode78authoritiessubjectssh85100445 . 
+_:bnode78authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode79authoritiessubjectssh85100445 . 
+_:bnode78authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode79authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode79authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementValue> "Petroleum"@en . 
+_:bnode081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode82authoritiessubjectssh85100445 . 
+_:bnode081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode82authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode82authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode82authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Refining"@en . 
+_:bnode82authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode86authoritiessubjectssh85100445 . 
+_:bnode86authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode87authoritiessubjectssh85100445 . 
+_:bnode86authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode87authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode87authoritiessubjectssh85100445 <http://www.loc.gov/mads/rdf/v1#elementValue> "Refining"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#editorialNote> "names of individual products, e.g. [Naphtha]" . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85100445" . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85100445> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85100445#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode100authoritiessubjectssh85100445 . 
+_:bnode100authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode100authoritiessubjectssh85100445 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh85100445 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode100authoritiessubjectssh85100445 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode107authoritiessubjectssh85100445 . 
+_:bnode107authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode107authoritiessubjectssh85100445 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-08-04T14:28:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85100445 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode107authoritiessubjectssh85100445 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum products"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode117authoritiessubjectssh85100445 . 
+_:bnode117authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode117authoritiessubjectssh85100445 <http://www.w3.org/2008/05/skos-xl#literalForm> "Mazut"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#altLabel> "Mazut" . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85100361> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100361> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90001517> . 
+<http://id.loc.gov/authorities/subjects/sh90001517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90001517> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paraffin wax"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85072068> . 
+<http://id.loc.gov/authorities/subjects/sh85072068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85072068> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kerosene"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85100419> . 
+<http://id.loc.gov/authorities/subjects/sh85100419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100419> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum chemicals"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85097593> . 
+<http://id.loc.gov/authorities/subjects/sh85097593> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097593> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paper, Plastic"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053418> . 
+<http://id.loc.gov/authorities/subjects/sh85053418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053418> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gasoline"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85063315> . 
+<http://id.loc.gov/authorities/subjects/sh85063315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85063315> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydraulic fluids"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85100383> . 
+<http://id.loc.gov/authorities/subjects/sh85100383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85100383> <http://www.w3.org/2004/02/skos/core#prefLabel> "Petroleum--Refining"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/48699> . 
+<http://purl.org/bncf/tid/48699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/48699> <http://www.w3.org/2004/02/skos/core#prefLabel> "Derivati del petrolio"@it . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119326478> . 
+<http://data.bnf.fr/ark:/12148/cb119326478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119326478> <http://www.w3.org/2004/02/skos/core#prefLabel> "Produits pétroliers"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#editorial> "names of individual products, e.g. [Naphtha]" . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2008/05/skos-xl#altLabel> "Mazut"@en . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode179authoritiessubjectssh85100445 . 
+_:bnode179authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode179authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100445> . 
+_:bnode179authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode179authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode179authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85100445> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode187authoritiessubjectssh85100445 . 
+_:bnode187authoritiessubjectssh85100445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode187authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85100445> . 
+_:bnode187authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode187authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#createdDate> "2006-08-04T14:28:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode187authoritiessubjectssh85100445 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

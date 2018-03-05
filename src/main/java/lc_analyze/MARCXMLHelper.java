@@ -123,7 +123,10 @@ public class MARCXMLHelper {
 			title = record.getVariableField("245").toString();
 			// remove subheading tags
 			title = StringUtils.substringAfter(title, "$a");
-			title.replaceAll("\\$.", "");
+			if (title.contains("$c")) {
+				title = StringUtils.substringBefore(title, "$c");
+			}
+			title = title.replaceAll("\\$.", "");
 			System.out.print(title);
 		} else {
 			title = "[Not given]";

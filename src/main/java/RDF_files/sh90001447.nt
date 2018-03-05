@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Portable databases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh90001447 . 
+_:bnode7authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh90001447 . 
+_:bnode7authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#elementValue> "Portable databases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh86007767> . 
+<http://id.loc.gov/authorities/subjects/sh86007767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh86007767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86007767> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Databases"@en . 
+<http://id.loc.gov/authorities/subjects/sh86007767> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh90001447 . 
+_:bnode16authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh90001447 . 
+_:bnode16authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#elementValue> "Databases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#hasEarlierEstablishedForm> _:bnode20authoritiessubjectssh90001447 . 
+_:bnode20authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Portable data bases"@en . 
+_:bnode20authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh90001447 . 
+_:bnode25authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh90001447 . 
+_:bnode25authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#elementValue> "Portable data bases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12286636j> . 
+<http://data.bnf.fr/ark:/12148/cb12286636j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12286636j> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bases de données transférables"@fr . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 90001447" . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh90001447> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh90001447#concept> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh90001447 . 
+_:bnode41authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Directory of portable databases, c1990" . 
+_:bnode41authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Data bases available on CD-ROM, diskettes, or magnetic tape)"@en . 
+_:bnode41authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh90001447 . 
+_:bnode49authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#citation-source> "ASTI;Computer dict.;IEEE standard glossary of software engineering terminology;McGraw-Hill dict. sci. tech.;Standard glossary of computer terminology" . 
+_:bnode49authoritiessubjectssh90001447 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode55authoritiessubjectssh90001447 . 
+_:bnode55authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode55authoritiessubjectssh90001447 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-03-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode55authoritiessubjectssh90001447 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode55authoritiessubjectssh90001447 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode62authoritiessubjectssh90001447 . 
+_:bnode62authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode62authoritiessubjectssh90001447 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-12-23T09:32:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode62authoritiessubjectssh90001447 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode62authoritiessubjectssh90001447 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portable databases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh86007767> . 
+<http://id.loc.gov/authorities/subjects/sh86007767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86007767> <http://www.w3.org/2004/02/skos/core#prefLabel> "Databases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2000/01/rdf-schema#seeAlso> _:bnode77authoritiessubjectssh90001447 . 
+_:bnode77authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode77authoritiessubjectssh90001447 <http://www.w3.org/2008/05/skos-xl#literalForm> "Portable data bases"@en . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#altLabel> "Portable data bases" . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12286636j> . 
+<http://data.bnf.fr/ark:/12148/cb12286636j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12286636j> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bases de données transférables"@fr . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh90001447 . 
+_:bnode90authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh90001447> . 
+_:bnode90authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#createdDate> "1990-03-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh90001447> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh90001447 . 
+_:bnode98authoritiessubjectssh90001447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh90001447> . 
+_:bnode98authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#createdDate> "1993-12-23T09:32:47"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh90001447 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

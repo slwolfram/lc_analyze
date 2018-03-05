@@ -1,0 +1,223 @@
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85071118 . 
+_:bnode7authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85071118 . 
+_:bnode7authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementValue> "Justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85071118 . 
+_:bnode11authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Injustice"@en . 
+_:bnode11authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85071118 . 
+_:bnode16authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85071118 . 
+_:bnode16authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementValue> "Injustice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#classification> "GN493" . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#classification> "JC578" . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95006409> . 
+<http://id.loc.gov/authorities/subjects/sh95006409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95006409> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "National socialism and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12653329s> . 
+<http://data.bnf.fr/ark:/12148/cb12653329s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12653329s> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice -- Administration -- Informatique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4020310-4> . 
+<http://d-nb.info/gnd/4020310-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4020310-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gerechtigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00002032> . 
+<http://id.loc.gov/authorities/subjects/sh00002032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00002032> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Organizational justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh87001903> . 
+<http://id.loc.gov/authorities/subjects/sh87001903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87001903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87001903> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Common good"@en . 
+<http://id.loc.gov/authorities/subjects/sh87001903> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85071118 . 
+_:bnode45authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85071118 . 
+_:bnode45authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementValue> "Common good"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85044505> . 
+<http://id.loc.gov/authorities/subjects/sh85044505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044505> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equality before the law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb161447497> . 
+<http://data.bnf.fr/ark:/12148/cb161447497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb161447497> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Télécommunications en justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85123969> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb133184141> . 
+<http://data.bnf.fr/ark:/12148/cb133184141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb133184141> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb125590502> . 
+<http://data.bnf.fr/ark:/12148/cb125590502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb125590502> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice -- Administration -- Logiciels"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13757676d> . 
+<http://data.bnf.fr/ark:/12148/cb13757676d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13757676d> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maître de Justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85025245> . 
+<http://id.loc.gov/authorities/subjects/sh85025245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025245> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christianity and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb125047575> . 
+<http://data.bnf.fr/ark:/12148/cb125047575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb125047575> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice -- Administration -- France (Ancien Régime)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/childrensSubjects/sj96005146> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005146> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Conduct of life"@en . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005146> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode86authoritiessubjectssh85071118 . 
+_:bnode86authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode87authoritiessubjectssh85071118 . 
+_:bnode86authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode87authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode87authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementValue> "Conduct of life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85046908> . 
+<http://id.loc.gov/authorities/subjects/sh85046908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046908> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fairness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046908> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode95authoritiessubjectssh85071118 . 
+_:bnode95authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode96authoritiessubjectssh85071118 . 
+_:bnode95authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode96authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode96authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fairness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb124994170> . 
+<http://data.bnf.fr/ark:/12148/cb124994170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb124994170> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice (droit européen) -- Administration"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038551> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Distributive justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85068415> . 
+<http://id.loc.gov/authorities/subjects/sh85068415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85068415> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Islam and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85075119> . 
+<http://id.loc.gov/authorities/subjects/sh85075119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85075119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85075119> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85075119> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode116authoritiessubjectssh85071118 . 
+_:bnode116authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode117authoritiessubjectssh85071118 . 
+_:bnode116authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode117authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode117authoritiessubjectssh85071118 <http://www.loc.gov/mads/rdf/v1#elementValue> "Law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112570> . 
+<http://id.loc.gov/authorities/subjects/sh85112570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112570> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Religion and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh98008197> . 
+<http://id.loc.gov/authorities/subjects/sh98008197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98008197> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prayers for justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008008884> . 
+<http://id.loc.gov/authorities/subjects/sh2008008884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008008884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Transitional justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4061729-4> . 
+<http://d-nb.info/gnd/4061729-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4061729-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ungerechtigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13568635x> . 
+<http://data.bnf.fr/ark:/12148/cb13568635x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13568635x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Responsabilité du fait de la justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85071118" . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85071118> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85071118#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode147authoritiessubjectssh85071118 . 
+_:bnode147authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode147authoritiessubjectssh85071118 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85071118 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode147authoritiessubjectssh85071118 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode154authoritiessubjectssh85071118 . 
+_:bnode154authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode154authoritiessubjectssh85071118 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-08-03T11:16:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode154authoritiessubjectssh85071118 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode154authoritiessubjectssh85071118 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode164authoritiessubjectssh85071118 . 
+_:bnode164authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode164authoritiessubjectssh85071118 <http://www.w3.org/2008/05/skos-xl#literalForm> "Injustice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#altLabel> "Injustice" . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/childrensSubjects/sj96005146> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96005146> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conduct of life"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85075119> . 
+<http://id.loc.gov/authorities/subjects/sh85075119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85075119> <http://www.w3.org/2004/02/skos/core#prefLabel> "Law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95006409> . 
+<http://id.loc.gov/authorities/subjects/sh95006409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95006409> <http://www.w3.org/2004/02/skos/core#prefLabel> "National socialism and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00002032> . 
+<http://id.loc.gov/authorities/subjects/sh00002032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00002032> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizational justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85044505> . 
+<http://id.loc.gov/authorities/subjects/sh85044505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equality before the law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85123969> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85025245> . 
+<http://id.loc.gov/authorities/subjects/sh85025245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025245> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christianity and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038551> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distributive justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85068415> . 
+<http://id.loc.gov/authorities/subjects/sh85068415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85068415> <http://www.w3.org/2004/02/skos/core#prefLabel> "Islam and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112570> . 
+<http://id.loc.gov/authorities/subjects/sh85112570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112570> <http://www.w3.org/2004/02/skos/core#prefLabel> "Religion and justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh98008197> . 
+<http://id.loc.gov/authorities/subjects/sh98008197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98008197> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prayers for justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008008884> . 
+<http://id.loc.gov/authorities/subjects/sh2008008884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008008884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Transitional justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh87001903> . 
+<http://id.loc.gov/authorities/subjects/sh87001903> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87001903> <http://www.w3.org/2004/02/skos/core#prefLabel> "Common good"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85046908> . 
+<http://id.loc.gov/authorities/subjects/sh85046908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85046908> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fairness"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12653329s> . 
+<http://data.bnf.fr/ark:/12148/cb12653329s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12653329s> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice -- Administration -- Informatique"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4020310-4> . 
+<http://d-nb.info/gnd/4020310-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4020310-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gerechtigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb161447497> . 
+<http://data.bnf.fr/ark:/12148/cb161447497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb161447497> <http://www.w3.org/2004/02/skos/core#prefLabel> "Télécommunications en justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb133184141> . 
+<http://data.bnf.fr/ark:/12148/cb133184141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb133184141> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb125590502> . 
+<http://data.bnf.fr/ark:/12148/cb125590502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb125590502> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice -- Administration -- Logiciels"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13757676d> . 
+<http://data.bnf.fr/ark:/12148/cb13757676d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13757676d> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maître de Justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb125047575> . 
+<http://data.bnf.fr/ark:/12148/cb125047575> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb125047575> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice -- Administration -- France (Ancien Régime)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb124994170> . 
+<http://data.bnf.fr/ark:/12148/cb124994170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb124994170> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice (droit européen) -- Administration"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4061729-4> . 
+<http://d-nb.info/gnd/4061729-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4061729-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ungerechtigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13568635x> . 
+<http://data.bnf.fr/ark:/12148/cb13568635x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13568635x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Responsabilité du fait de la justice"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2008/05/skos-xl#altLabel> "Injustice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode294authoritiessubjectssh85071118 . 
+_:bnode294authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode294authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85071118> . 
+_:bnode294authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode294authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode294authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode302authoritiessubjectssh85071118 . 
+_:bnode302authoritiessubjectssh85071118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode302authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85071118> . 
+_:bnode302authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode302authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#createdDate> "1998-08-03T11:16:34"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode302authoritiessubjectssh85071118 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

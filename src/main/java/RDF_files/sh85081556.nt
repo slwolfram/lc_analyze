@@ -1,0 +1,139 @@
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mars (Planet)--Geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85081556 . 
+_:bnode7authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85081548> . 
+_:bnode7authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85081548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85081548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081548> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mars (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081548> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85081556 . 
+_:bnode12authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85081556 . 
+_:bnode12authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode13authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mars (Planet)"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85054037> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85054037> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85081556 . 
+_:bnode20authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85081556 . 
+_:bnode20authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85081556 . 
+_:bnode24authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+_:bnode24authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Geology--Mars (Planet)"@en . 
+_:bnode24authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode29authoritiessubjectssh85081556 . 
+_:bnode29authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85081556 . 
+_:bnode29authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode037 . 
+_:bnode30authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode30authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode30authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Geology"@en . 
+_:bnode30authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode34authoritiessubjectssh85081556 . 
+_:bnode34authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode35authoritiessubjectssh85081556 . 
+_:bnode34authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode35authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode35authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Geology"@en . 
+_:bnode037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh85081556 . 
+_:bnode037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Geographic> . 
+_:bnode38authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode38authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Mars (Planet)"@en . 
+_:bnode38authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode42authoritiessubjectssh85081556 . 
+_:bnode42authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode43authoritiessubjectssh85081556 . 
+_:bnode42authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode43authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#GeographicElement> . 
+_:bnode43authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Mars (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode46authoritiessubjectssh85081556 . 
+_:bnode46authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode46authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode46authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Martian geology"@en . 
+_:bnode46authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85081556 . 
+_:bnode51authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85081556 . 
+_:bnode51authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Martian geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#classification> "QB643.G46" . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001008957> . 
+<http://id.loc.gov/authorities/subjects/sh2001008957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008957> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mars surface samples"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb125159722> . 
+<http://data.bnf.fr/ark:/12148/cb125159722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb125159722> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mars (planète) -- Géologie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00003834> . 
+<http://id.loc.gov/authorities/subjects/sh00003834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00003834> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mars (Planet)--Volcanism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004007495> . 
+<http://id.loc.gov/authorities/subjects/sh2004007495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004007495> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mars (Planet)--Wind erosion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh88000316> . 
+<http://id.loc.gov/authorities/subjects/sh88000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh88000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88000316> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Astrogeology"@en . 
+<http://id.loc.gov/authorities/subjects/sh88000316> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode78authoritiessubjectssh85081556 . 
+_:bnode78authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode79authoritiessubjectssh85081556 . 
+_:bnode78authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode79authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode79authoritiessubjectssh85081556 <http://www.loc.gov/mads/rdf/v1#elementValue> "Astrogeology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#identifiesRWO> <http://id.loc.gov/rwo/agents/sh85081556> . 
+<http://id.loc.gov/rwo/agents/sh85081556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#RWO> . 
+<http://id.loc.gov/rwo/agents/sh85081556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/standards/mads/rdf/v1#Geographic> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85081556" . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85081556> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85081556#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode92authoritiessubjectssh85081556 . 
+_:bnode92authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode92authoritiessubjectssh85081556 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode92authoritiessubjectssh85081556 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode92authoritiessubjectssh85081556 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode99authoritiessubjectssh85081556 . 
+_:bnode99authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode99authoritiessubjectssh85081556 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2010-10-19T07:54:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh85081556 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode99authoritiessubjectssh85081556 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mars (Planet)--Geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode109authoritiessubjectssh85081556 . 
+_:bnode109authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode109authoritiessubjectssh85081556 <http://www.w3.org/2008/05/skos-xl#literalForm> "Geology--Mars (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#altLabel> "Geology--Mars (Planet)" . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode116authoritiessubjectssh85081556 . 
+_:bnode116authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode116authoritiessubjectssh85081556 <http://www.w3.org/2008/05/skos-xl#literalForm> "Martian geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#altLabel> "Martian geology" . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh88000316> . 
+<http://id.loc.gov/authorities/subjects/sh88000316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88000316> <http://www.w3.org/2004/02/skos/core#prefLabel> "Astrogeology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001008957> . 
+<http://id.loc.gov/authorities/subjects/sh2001008957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001008957> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mars surface samples"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00003834> . 
+<http://id.loc.gov/authorities/subjects/sh00003834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00003834> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mars (Planet)--Volcanism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004007495> . 
+<http://id.loc.gov/authorities/subjects/sh2004007495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004007495> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mars (Planet)--Wind erosion"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb125159722> . 
+<http://data.bnf.fr/ark:/12148/cb125159722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb125159722> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mars (planète) -- Géologie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2008/05/skos-xl#altLabel> "Geology--Mars (Planet)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2008/05/skos-xl#altLabel> "Martian geology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode153authoritiessubjectssh85081556 . 
+_:bnode153authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode153authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85081556> . 
+_:bnode153authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode153authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode153authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85081556> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode161authoritiessubjectssh85081556 . 
+_:bnode161authoritiessubjectssh85081556 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode161authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85081556> . 
+_:bnode161authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode161authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#createdDate> "2010-10-19T07:54:16"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode161authoritiessubjectssh85081556 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

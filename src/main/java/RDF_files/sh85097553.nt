@@ -1,0 +1,111 @@
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Papal documents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85097553 . 
+_:bnode7authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85097553 . 
+_:bnode7authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85097553 <http://www.loc.gov/mads/rdf/v1#elementValue> "Papal documents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85097553 . 
+_:bnode11authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85097553 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Documents, Papal"@en . 
+_:bnode11authoritiessubjectssh85097553 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85097553 . 
+_:bnode16authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85097553 . 
+_:bnode16authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85097553 <http://www.loc.gov/mads/rdf/v1#elementValue> "Documents, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85017972> . 
+<http://id.loc.gov/authorities/subjects/sh85017972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85017972> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bulls, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85113015> . 
+<http://id.loc.gov/authorities/subjects/sh85113015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85113015> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rescripts, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4044562-8> . 
+<http://d-nb.info/gnd/4044562-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4044562-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Papsturkunde"@de . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11948550j> . 
+<http://data.bnf.fr/ark:/12148/cb11948550j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11948550j> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Documents pontificaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85042996> . 
+<http://id.loc.gov/authorities/subjects/sh85042996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042996> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Encyclicals, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85025107> . 
+<http://id.loc.gov/authorities/subjects/sh85025107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85025107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025107> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christian literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85025107> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85097553 . 
+_:bnode45authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85097553 . 
+_:bnode45authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85097553 <http://www.loc.gov/mads/rdf/v1#elementValue> "Christian literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85076241> . 
+<http://id.loc.gov/authorities/subjects/sh85076241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85076241> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Letters, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016908> . 
+<http://id.loc.gov/authorities/subjects/sh85016908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016908> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Briefs, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#note> "Here are entered general collections of documents and other papal pronouncements since the fifteenth century. Earlier collections are entered under [Bulls, Papal.] Collections limited to a specific topic are entered under the topic with subdivision [Papal documents,] e.g. [Mary, Blessed Virgin, Saint--Papal documents.]" . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#note> "Works on the documents of a particular Pope are entered under [Catholic Church--Doctrines] or [[subject]--Papal documents,] if limited as to subject matter." . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85097553" . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85097553> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85097553#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode68authoritiessubjectssh85097553 . 
+_:bnode68authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode68authoritiessubjectssh85097553 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode68authoritiessubjectssh85097553 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode68authoritiessubjectssh85097553 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85097553 . 
+_:bnode75authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85097553 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-06-21T12:16:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85097553 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85097553 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papal documents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode85authoritiessubjectssh85097553 . 
+_:bnode85authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode85authoritiessubjectssh85097553 <http://www.w3.org/2008/05/skos-xl#literalForm> "Documents, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#altLabel> "Documents, Papal" . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85025107> . 
+<http://id.loc.gov/authorities/subjects/sh85025107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025107> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christian literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85017972> . 
+<http://id.loc.gov/authorities/subjects/sh85017972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85017972> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bulls, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85113015> . 
+<http://id.loc.gov/authorities/subjects/sh85113015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85113015> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rescripts, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85042996> . 
+<http://id.loc.gov/authorities/subjects/sh85042996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042996> <http://www.w3.org/2004/02/skos/core#prefLabel> "Encyclicals, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85076241> . 
+<http://id.loc.gov/authorities/subjects/sh85076241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85076241> <http://www.w3.org/2004/02/skos/core#prefLabel> "Letters, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016908> . 
+<http://id.loc.gov/authorities/subjects/sh85016908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016908> <http://www.w3.org/2004/02/skos/core#prefLabel> "Briefs, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4044562-8> . 
+<http://d-nb.info/gnd/4044562-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4044562-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papsturkunde"@de . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11948550j> . 
+<http://data.bnf.fr/ark:/12148/cb11948550j> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11948550j> <http://www.w3.org/2004/02/skos/core#prefLabel> "Documents pontificaux"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#note> "Here are entered general collections of documents and other papal pronouncements since the fifteenth century. Earlier collections are entered under [Bulls, Papal.] Collections limited to a specific topic are entered under the topic with subdivision [Papal documents,] e.g. [Mary, Blessed Virgin, Saint--Papal documents.]" . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#note> "Works on the documents of a particular Pope are entered under [Catholic Church--Doctrines] or [[subject]--Papal documents,] if limited as to subject matter." . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2008/05/skos-xl#altLabel> "Documents, Papal"@en . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode139authoritiessubjectssh85097553 . 
+_:bnode139authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode139authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85097553> . 
+_:bnode139authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode139authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode139authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85097553> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode147authoritiessubjectssh85097553 . 
+_:bnode147authoritiessubjectssh85097553 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode147authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85097553> . 
+_:bnode147authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode147authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#createdDate> "1988-06-21T12:16:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85097553 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

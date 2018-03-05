@@ -1,0 +1,116 @@
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books--Sizes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85015753 . 
+_:bnode7authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85015738> . 
+_:bnode7authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015738> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85015753 . 
+_:bnode12authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85015753 . 
+_:bnode12authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2001008771> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2001008771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2001008771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001008771> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sizes"@en . 
+<http://id.loc.gov/authorities/subjects/sh2001008771> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85015753 . 
+_:bnode20authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85015753 . 
+_:bnode20authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sizes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85015753 . 
+_:bnode24authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Sizes of books"@en . 
+_:bnode24authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85015753 . 
+_:bnode29authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85015753 . 
+_:bnode29authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Sizes of books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85085643> . 
+<http://id.loc.gov/authorities/subjects/sh85085643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85085643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85085643> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Miniature books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85085643> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85015753 . 
+_:bnode38authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85015753 . 
+_:bnode38authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Miniature books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86007675> . 
+<http://id.loc.gov/authorities/subjects/sh86007675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86007675> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Oversize books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85015743> . 
+<http://id.loc.gov/authorities/subjects/sh85015743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85015743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85015743> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books--Format"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015743> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode51authoritiessubjectssh85015753 . 
+_:bnode51authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85015753 . 
+_:bnode51authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode059 . 
+_:bnode52authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode52authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode52authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Books"@en . 
+_:bnode52authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode56authoritiessubjectssh85015753 . 
+_:bnode56authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode57authoritiessubjectssh85015753 . 
+_:bnode56authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode57authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode57authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Books"@en . 
+_:bnode059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode60authoritiessubjectssh85015753 . 
+_:bnode059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode60authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode60authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode60authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Format"@en . 
+_:bnode60authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85015753 . 
+_:bnode64authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85015753 . 
+_:bnode64authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85015753 <http://www.loc.gov/mads/rdf/v1#elementValue> "Format"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85015753" . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85015753> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85015753#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode76authoritiessubjectssh85015753 . 
+_:bnode76authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode76authoritiessubjectssh85015753 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode76authoritiessubjectssh85015753 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode76authoritiessubjectssh85015753 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode83authoritiessubjectssh85015753 . 
+_:bnode83authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode83authoritiessubjectssh85015753 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-02-15T14:23:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode83authoritiessubjectssh85015753 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode83authoritiessubjectssh85015753 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#prefLabel> "Books--Sizes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode93authoritiessubjectssh85015753 . 
+_:bnode93authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode93authoritiessubjectssh85015753 <http://www.w3.org/2008/05/skos-xl#literalForm> "Sizes of books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#altLabel> "Sizes of books" . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85015743> . 
+<http://id.loc.gov/authorities/subjects/sh85015743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85015743> <http://www.w3.org/2004/02/skos/core#prefLabel> "Books--Format"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86007675> . 
+<http://id.loc.gov/authorities/subjects/sh86007675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86007675> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oversize books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85085643> . 
+<http://id.loc.gov/authorities/subjects/sh85085643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85085643> <http://www.w3.org/2004/02/skos/core#prefLabel> "Miniature books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2008/05/skos-xl#altLabel> "Sizes of books"@en . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode118authoritiessubjectssh85015753 . 
+_:bnode118authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode118authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85015753> . 
+_:bnode118authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode118authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode118authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85015753> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode126authoritiessubjectssh85015753 . 
+_:bnode126authoritiessubjectssh85015753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode126authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85015753> . 
+_:bnode126authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode126authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#createdDate> "1995-02-15T14:23:33"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode126authoritiessubjectssh85015753 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

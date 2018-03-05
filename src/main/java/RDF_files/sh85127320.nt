@@ -1,0 +1,59 @@
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Standing army"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85127320 . 
+_:bnode7authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85127320 . 
+_:bnode7authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85127320 <http://www.loc.gov/mads/rdf/v1#elementValue> "Standing army"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85007309> . 
+<http://id.loc.gov/authorities/subjects/sh85007309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85007309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85007309> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Armies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85007309> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85127320 . 
+_:bnode16authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85127320 . 
+_:bnode16authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85127320 <http://www.loc.gov/mads/rdf/v1#elementValue> "Armies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12211812f> . 
+<http://data.bnf.fr/ark:/12148/cb12211812f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12211812f> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Armée de métier"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#editorialNote> "names of individual standing armies, e.g. [United States.  Army]" . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85127320" . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85127320> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85127320#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode33authoritiessubjectssh85127320 . 
+_:bnode33authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode33authoritiessubjectssh85127320 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode33authoritiessubjectssh85127320 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode33authoritiessubjectssh85127320 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode40authoritiessubjectssh85127320 . 
+_:bnode40authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode40authoritiessubjectssh85127320 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-04-24T17:37:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode40authoritiessubjectssh85127320 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode40authoritiessubjectssh85127320 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standing army"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85007309> . 
+<http://id.loc.gov/authorities/subjects/sh85007309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85007309> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12211812f> . 
+<http://data.bnf.fr/ark:/12148/cb12211812f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12211812f> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armée de métier"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#editorial> "names of individual standing armies, e.g. [United States. Army]" . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode63authoritiessubjectssh85127320 . 
+_:bnode63authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode63authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85127320> . 
+_:bnode63authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode63authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85127320> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode71authoritiessubjectssh85127320 . 
+_:bnode71authoritiessubjectssh85127320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode71authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85127320> . 
+_:bnode71authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode71authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#createdDate> "1990-04-24T17:37:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85127320 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

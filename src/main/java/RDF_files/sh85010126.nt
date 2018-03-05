@@ -1,0 +1,133 @@
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85010126 . 
+_:bnode7authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85010126 . 
+_:bnode7authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85010126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85010126 . 
+_:bnode11authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85010126 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Drivers, Automobile"@en . 
+_:bnode11authoritiessubjectssh85010126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85010126 . 
+_:bnode16authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85010126 . 
+_:bnode16authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85010126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Drivers, Automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#classification> "TL152.3" . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85071162> . 
+<http://id.loc.gov/authorities/subjects/sh85071162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071162> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Teenage automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85132885> . 
+<http://id.loc.gov/authorities/subjects/sh85132885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85132885> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Taxicab drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4032656-1> . 
+<http://d-nb.info/gnd/4032656-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4032656-1> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Kraftfahrer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh87002918> . 
+<http://id.loc.gov/authorities/subjects/sh87002918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87002918> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Older automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119803141> . 
+<http://data.bnf.fr/ark:/12148/cb119803141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119803141> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobilistes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85022780> . 
+<http://id.loc.gov/authorities/subjects/sh85022780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85022780> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chauffeurs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85087591> . 
+<http://id.loc.gov/authorities/subjects/sh85087591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85087591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85087591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Motor vehicle drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85087591> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode51authoritiessubjectssh85010126 . 
+_:bnode51authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode52authoritiessubjectssh85010126 . 
+_:bnode51authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode52authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode52authoritiessubjectssh85010126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Motor vehicle drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85010184> . 
+<http://id.loc.gov/authorities/subjects/sh85010184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85010184> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobile racing drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061259> . 
+<http://id.loc.gov/authorities/subjects/sh85061259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061259> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hit-and-run drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh2006005471> . 
+<http://id.loc.gov/authorities/subjects/sh2006005471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2006005471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006005471> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Automobile occupants"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006005471> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode68authoritiessubjectssh85010126 . 
+_:bnode68authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode69authoritiessubjectssh85010126 . 
+_:bnode68authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode69authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode69authoritiessubjectssh85010126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Automobile occupants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147480> . 
+<http://id.loc.gov/authorities/subjects/sh85147480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147480> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85010126" . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85010126> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85010126#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85010126 . 
+_:bnode84authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85010126 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85010126 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85010126 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode91authoritiessubjectssh85010126 . 
+_:bnode91authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode91authoritiessubjectssh85010126 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2008-09-09T07:31:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode91authoritiessubjectssh85010126 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode91authoritiessubjectssh85010126 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode101authoritiessubjectssh85010126 . 
+_:bnode101authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode101authoritiessubjectssh85010126 <http://www.w3.org/2008/05/skos-xl#literalForm> "Drivers, Automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#altLabel> "Drivers, Automobile" . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85087591> . 
+<http://id.loc.gov/authorities/subjects/sh85087591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85087591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Motor vehicle drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh2006005471> . 
+<http://id.loc.gov/authorities/subjects/sh2006005471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006005471> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobile occupants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85071162> . 
+<http://id.loc.gov/authorities/subjects/sh85071162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071162> <http://www.w3.org/2004/02/skos/core#prefLabel> "Teenage automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85132885> . 
+<http://id.loc.gov/authorities/subjects/sh85132885> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85132885> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taxicab drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh87002918> . 
+<http://id.loc.gov/authorities/subjects/sh87002918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87002918> <http://www.w3.org/2004/02/skos/core#prefLabel> "Older automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85022780> . 
+<http://id.loc.gov/authorities/subjects/sh85022780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85022780> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chauffeurs"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85010184> . 
+<http://id.loc.gov/authorities/subjects/sh85010184> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85010184> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobile racing drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061259> . 
+<http://id.loc.gov/authorities/subjects/sh85061259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061259> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hit-and-run drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147480> . 
+<http://id.loc.gov/authorities/subjects/sh85147480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147480> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women automobile drivers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4032656-1> . 
+<http://d-nb.info/gnd/4032656-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4032656-1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kraftfahrer"@de . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119803141> . 
+<http://data.bnf.fr/ark:/12148/cb119803141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119803141> <http://www.w3.org/2004/02/skos/core#prefLabel> "Automobilistes"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2008/05/skos-xl#altLabel> "Drivers, Automobile"@en . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode166authoritiessubjectssh85010126 . 
+_:bnode166authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode166authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010126> . 
+_:bnode166authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode166authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode166authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85010126> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode174authoritiessubjectssh85010126 . 
+_:bnode174authoritiessubjectssh85010126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode174authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85010126> . 
+_:bnode174authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode174authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#createdDate> "2008-09-09T07:31:08"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode174authoritiessubjectssh85010126 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

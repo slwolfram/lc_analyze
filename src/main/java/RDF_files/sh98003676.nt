@@ -1,0 +1,83 @@
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Stripes"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh98003676 . 
+_:bnode7authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh98003676 . 
+_:bnode7authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Stripes"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85037197> . 
+<http://id.loc.gov/authorities/subjects/sh85037197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85037197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85037197> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Design"@en . 
+<http://id.loc.gov/authorities/subjects/sh85037197> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh98003676 . 
+_:bnode16authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh98003676 . 
+_:bnode16authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Design"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13748562g> . 
+<http://data.bnf.fr/ark:/12148/cb13748562g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13748562g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Rayures"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#useFor> <http://id.loc.gov/authorities/childrensSubjects/sj96006207> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#DeprecatedAuthority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/childrensSubjects/sj96006207> <http://www.w3.org/2000/01/rdf-schema#label> "sj96006207" . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2008000630> . 
+<http://id.loc.gov/authorities/subjects/sh2008000630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2008000630> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Pinstripes (Decorative arts)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 98003676" . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh98003676> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh98003676#concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode41authoritiessubjectssh98003676 . 
+_:bnode41authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode41authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 97-80487: Skinner, T. Stripes : a survey of fabric designs, c1998" . 
+_:bnode41authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-note> "(back cover: textile stripes)"@en . 
+_:bnode41authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh98003676 . 
+_:bnode49authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-source> "ATT" . 
+_:bnode49authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Stripes: UF stripped pattern)"@en . 
+_:bnode49authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode57authoritiessubjectssh98003676 . 
+_:bnode57authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode57authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-source> "Random House" . 
+_:bnode57authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Stripe: a relatively long, narrow band of a different color, weave, material from the rest of a surface)"@en . 
+_:bnode57authoritiessubjectssh98003676 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh98003676 . 
+_:bnode65authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh98003676 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-06-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh98003676 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh98003676 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh98003676 . 
+_:bnode72authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh98003676 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1998-11-04T07:01:04"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh98003676 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh98003676 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stripes"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85037197> . 
+<http://id.loc.gov/authorities/subjects/sh85037197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85037197> <http://www.w3.org/2004/02/skos/core#prefLabel> "Design"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2008000630> . 
+<http://id.loc.gov/authorities/subjects/sh2008000630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2008000630> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pinstripes (Decorative arts)"@en . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13748562g> . 
+<http://data.bnf.fr/ark:/12148/cb13748562g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13748562g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rayures"@fr . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh98003676 . 
+_:bnode98authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003676> . 
+_:bnode98authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#createdDate> "1998-06-16T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh98003676> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode106authoritiessubjectssh98003676 . 
+_:bnode106authoritiessubjectssh98003676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode106authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh98003676> . 
+_:bnode106authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode106authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#createdDate> "1998-11-04T07:01:04"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode106authoritiessubjectssh98003676 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

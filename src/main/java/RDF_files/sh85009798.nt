@@ -1,0 +1,62 @@
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Authors--Political and social views"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85009798 . 
+_:bnode7authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85009793> . 
+_:bnode7authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Authors"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009793> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85009798 . 
+_:bnode12authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85009798 . 
+_:bnode12authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85009798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Authors"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh2002011435> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh2002011435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2002011435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002011435> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Political and social views"@en . 
+<http://id.loc.gov/authorities/subjects/sh2002011435> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85009798 . 
+_:bnode20authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85009798 . 
+_:bnode20authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85009798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Political and social views"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4152247-3> . 
+<http://d-nb.info/gnd/4152247-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4152247-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Engagierte Literatur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85104470> . 
+<http://id.loc.gov/authorities/subjects/sh85104470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85104470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85104470> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Politics and literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85104470> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode33authoritiessubjectssh85009798 . 
+_:bnode33authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode34authoritiessubjectssh85009798 . 
+_:bnode33authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode34authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode34authoritiessubjectssh85009798 <http://www.loc.gov/mads/rdf/v1#elementValue> "Politics and literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85009798" . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85009798> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85009798#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode44authoritiessubjectssh85009798 . 
+_:bnode44authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode44authoritiessubjectssh85009798 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode44authoritiessubjectssh85009798 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode44authoritiessubjectssh85009798 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2004/02/skos/core#prefLabel> "Authors--Political and social views"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85104470> . 
+<http://id.loc.gov/authorities/subjects/sh85104470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85104470> <http://www.w3.org/2004/02/skos/core#prefLabel> "Politics and literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4152247-3> . 
+<http://d-nb.info/gnd/4152247-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4152247-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Engagierte Literatur"@de . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85009798> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode65authoritiessubjectssh85009798 . 
+_:bnode65authoritiessubjectssh85009798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode65authoritiessubjectssh85009798 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85009798> . 
+_:bnode65authoritiessubjectssh85009798 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode65authoritiessubjectssh85009798 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh85009798 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

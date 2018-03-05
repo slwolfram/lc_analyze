@@ -1,0 +1,94 @@
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industries--Power supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85065970 . 
+_:bnode7authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85065960> . 
+_:bnode7authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85065960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85065960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85065960> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065960> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85065970 . 
+_:bnode12authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85065970 . 
+_:bnode12authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85065970 <http://www.loc.gov/mads/rdf/v1#elementValue> "Industries"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00006955> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00006955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006955> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Power supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006955> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85065970 . 
+_:bnode20authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85065970 . 
+_:bnode20authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85065970 <http://www.loc.gov/mads/rdf/v1#elementValue> "Power supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85065970 . 
+_:bnode24authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85065970 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Energy sources for industries"@en . 
+_:bnode24authoritiessubjectssh85065970 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85065970 . 
+_:bnode29authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85065970 . 
+_:bnode29authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85065970 <http://www.loc.gov/mads/rdf/v1#elementValue> "Energy sources for industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb124322552> . 
+<http://data.bnf.fr/ark:/12148/cb124322552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb124322552> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Industrie -- Alimentation en énergie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4124833-8> . 
+<http://d-nb.info/gnd/4124833-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4124833-8> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Energiemanagement"@de . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85105992> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Power resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode46authoritiessubjectssh85065970 . 
+_:bnode46authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh85065970 . 
+_:bnode46authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode47authoritiessubjectssh85065970 <http://www.loc.gov/mads/rdf/v1#elementValue> "Power resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85065970" . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85065970> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85065970#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh85065970 . 
+_:bnode58authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh85065970 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh85065970 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh85065970 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh85065970 . 
+_:bnode65authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh85065970 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-06-10T11:52:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh85065970 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh85065970 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industries--Power supply"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode75authoritiessubjectssh85065970 . 
+_:bnode75authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode75authoritiessubjectssh85065970 <http://www.w3.org/2008/05/skos-xl#literalForm> "Energy sources for industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#altLabel> "Energy sources for industries" . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85105992> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85105992> <http://www.w3.org/2004/02/skos/core#prefLabel> "Power resources"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb124322552> . 
+<http://data.bnf.fr/ark:/12148/cb124322552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb124322552> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrie -- Alimentation en énergie"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4124833-8> . 
+<http://d-nb.info/gnd/4124833-8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4124833-8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Energiemanagement"@de . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2008/05/skos-xl#altLabel> "Energy sources for industries"@en . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode100authoritiessubjectssh85065970 . 
+_:bnode100authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode100authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85065970> . 
+_:bnode100authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode100authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode100authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85065970> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode108authoritiessubjectssh85065970 . 
+_:bnode108authoritiessubjectssh85065970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode108authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85065970> . 
+_:bnode108authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode108authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#createdDate> "1994-06-10T11:52:41"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh85065970 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

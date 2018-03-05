@@ -1,0 +1,102 @@
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flights around the world"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85049128 . 
+_:bnode7authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85049128 . 
+_:bnode7authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementValue> "Flights around the world"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85049128 . 
+_:bnode11authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#variantLabel> "World flights"@en . 
+_:bnode11authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85049128 . 
+_:bnode16authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85049128 . 
+_:bnode16authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementValue> "World flights"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#classification> "G445" . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11978564v> . 
+<http://data.bnf.fr/ark:/12148/cb11978564v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11978564v> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vols autour du monde"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85001336> . 
+<http://id.loc.gov/authorities/subjects/sh85001336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85001336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001336> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics--Flights"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001336> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode31authoritiessubjectssh85049128 . 
+_:bnode31authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85049128 . 
+_:bnode31authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode039 . 
+_:bnode32authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode32authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode32authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics"@en . 
+_:bnode32authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode36authoritiessubjectssh85049128 . 
+_:bnode36authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode37authoritiessubjectssh85049128 . 
+_:bnode36authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode37authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode37authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aeronautics"@en . 
+_:bnode039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode40authoritiessubjectssh85049128 . 
+_:bnode039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode40authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode40authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode40authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flights"@en . 
+_:bnode40authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh85049128 . 
+_:bnode44authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh85049128 . 
+_:bnode44authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementValue> "Flights"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85144447> . 
+<http://id.loc.gov/authorities/subjects/sh85144447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85144447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85144447> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Voyages around the world"@en . 
+<http://id.loc.gov/authorities/subjects/sh85144447> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode53authoritiessubjectssh85049128 . 
+_:bnode53authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode54authoritiessubjectssh85049128 . 
+_:bnode53authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode54authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode54authoritiessubjectssh85049128 <http://www.loc.gov/mads/rdf/v1#elementValue> "Voyages around the world"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#hasExactExternalAuthority> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11978564v> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85049128" . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85049128> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85049128#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh85049128 . 
+_:bnode65authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh85049128 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh85049128 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh85049128 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85049128 . 
+_:bnode72authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85049128 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1991-04-17T14:37:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85049128 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85049128 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flights around the world"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode82authoritiessubjectssh85049128 . 
+_:bnode82authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode82authoritiessubjectssh85049128 <http://www.w3.org/2008/05/skos-xl#literalForm> "World flights"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#altLabel> "World flights" . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85001336> . 
+<http://id.loc.gov/authorities/subjects/sh85001336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001336> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics--Flights"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85144447> . 
+<http://id.loc.gov/authorities/subjects/sh85144447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85144447> <http://www.w3.org/2004/02/skos/core#prefLabel> "Voyages around the world"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://stitch.cs.vu.nl/vocabularies/rameau/ark:/12148/cb11978564v> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11978564v> . 
+<http://data.bnf.fr/ark:/12148/cb11978564v> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11978564v> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vols autour du monde"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2008/05/skos-xl#altLabel> "World flights"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode108authoritiessubjectssh85049128 . 
+_:bnode108authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode108authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85049128> . 
+_:bnode108authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode108authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85049128> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode116authoritiessubjectssh85049128 . 
+_:bnode116authoritiessubjectssh85049128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode116authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85049128> . 
+_:bnode116authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode116authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#createdDate> "1991-04-17T14:37:56"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode116authoritiessubjectssh85049128 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,117 @@
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant diseases--Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85102733 . 
+_:bnode7authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85102732> . 
+_:bnode7authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85102732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102732> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102732> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85102733 . 
+_:bnode12authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85102733 . 
+_:bnode12authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant diseases"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85044370> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85102733 . 
+_:bnode20authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85102733 . 
+_:bnode20authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode24authoritiessubjectssh85102733 . 
+_:bnode24authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode24authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode24authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Epiphytotic diseases"@en . 
+_:bnode24authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh85102733 . 
+_:bnode29authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh85102733 . 
+_:bnode29authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epiphytotic diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85044370> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85102733 . 
+_:bnode38authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85102733 . 
+_:bnode38authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102734> . 
+<http://id.loc.gov/authorities/subjects/sh85102734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85102734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102734> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant diseases--Epidemiology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102734> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode47authoritiessubjectssh85102733 . 
+_:bnode47authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85102733 . 
+_:bnode47authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode055 . 
+_:bnode48authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode48authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode48authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant diseases"@en . 
+_:bnode48authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode52authoritiessubjectssh85102733 . 
+_:bnode52authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85102733 . 
+_:bnode52authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode53authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode53authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant diseases"@en . 
+_:bnode055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85102733 . 
+_:bnode055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode56authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode56authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Epidemiology"@en . 
+_:bnode56authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode60authoritiessubjectssh85102733 . 
+_:bnode60authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85102733 . 
+_:bnode60authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode61authoritiessubjectssh85102733 <http://www.loc.gov/mads/rdf/v1#elementValue> "Epidemiology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12245607w> . 
+<http://data.bnf.fr/ark:/12148/cb12245607w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12245607w> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plantes -- Maladies -- Épidémies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#editorialNote> "individual plant diseases, e.g. [Chestnut blight, Dutch elm disease]" . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85102733" . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85102733> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85102733#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh85102733 . 
+_:bnode77authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh85102733 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh85102733 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh85102733 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode84authoritiessubjectssh85102733 . 
+_:bnode84authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode84authoritiessubjectssh85102733 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-04-02T12:31:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode84authoritiessubjectssh85102733 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode84authoritiessubjectssh85102733 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant diseases--Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode94authoritiessubjectssh85102733 . 
+_:bnode94authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode94authoritiessubjectssh85102733 <http://www.w3.org/2008/05/skos-xl#literalForm> "Epiphytotic diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#altLabel> "Epiphytotic diseases" . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85044370> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044370> <http://www.w3.org/2004/02/skos/core#prefLabel> "Epidemics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102734> . 
+<http://id.loc.gov/authorities/subjects/sh85102734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102734> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant diseases--Epidemiology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12245607w> . 
+<http://data.bnf.fr/ark:/12148/cb12245607w> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12245607w> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plantes -- Maladies -- Épidémies"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#editorial> "individual plant diseases, e.g. [Chestnut blight, Dutch elm disease]" . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2008/05/skos-xl#altLabel> "Epiphytotic diseases"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode121authoritiessubjectssh85102733 . 
+_:bnode121authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode121authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102733> . 
+_:bnode121authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode121authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode121authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85102733> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode129authoritiessubjectssh85102733 . 
+_:bnode129authoritiessubjectssh85102733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode129authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85102733> . 
+_:bnode129authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode129authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#createdDate> "1987-04-02T12:31:52"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode129authoritiessubjectssh85102733 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

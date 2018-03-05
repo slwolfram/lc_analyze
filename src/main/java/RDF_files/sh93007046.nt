@@ -1,0 +1,80 @@
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CD-ROM books"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh93007046 . 
+_:bnode7authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh93007046 . 
+_:bnode7authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#elementValue> "CD-ROM books"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#classification> "Z1033.E43" . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh93007047> . 
+<http://id.loc.gov/authorities/subjects/sh93007047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93007047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93007047> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electronic books"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007047> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode18authoritiessubjectssh93007046 . 
+_:bnode18authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode19authoritiessubjectssh93007046 . 
+_:bnode18authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode19authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode19authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electronic books"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12558465z> . 
+<http://data.bnf.fr/ark:/12148/cb12558465z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12558465z> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Livres sur cédérom"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh87007661> . 
+<http://id.loc.gov/authorities/subjects/sh87007661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87007661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87007661> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "CD-ROM publishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh87007661> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh93007046 . 
+_:bnode31authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh93007046 . 
+_:bnode31authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#elementValue> "CD-ROM publishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 93007046" . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh93007046> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh93007046#concept> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode43authoritiessubjectssh93007046 . 
+_:bnode43authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode43authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 93-29299: CD-ROM book index, 1993." . 
+_:bnode43authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode49authoritiessubjectssh93007046 . 
+_:bnode49authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode49authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#citation-source> "MAGS3, 9/15/93:" . 
+_:bnode49authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#citation-note> "under Databases--Evaluation, CD-ROM; (Type of book)--Evaluation (7 reviews of electronic books, many on CD-ROM)"@en . 
+_:bnode49authoritiessubjectssh93007046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh93007046 . 
+_:bnode57authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh93007046 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-09-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh93007046 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh93007046 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh93007046 . 
+_:bnode64authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh93007046 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-11-02T11:51:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh93007046 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh93007046 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#prefLabel> "CD-ROM books"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh93007047> . 
+<http://id.loc.gov/authorities/subjects/sh93007047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93007047> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronic books"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh87007661> . 
+<http://id.loc.gov/authorities/subjects/sh87007661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87007661> <http://www.w3.org/2004/02/skos/core#prefLabel> "CD-ROM publishing"@en . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12558465z> . 
+<http://data.bnf.fr/ark:/12148/cb12558465z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12558465z> <http://www.w3.org/2004/02/skos/core#prefLabel> "Livres sur cédérom"@fr . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh93007046 . 
+_:bnode90authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93007046> . 
+_:bnode90authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#createdDate> "1993-09-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh93007046> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh93007046 . 
+_:bnode98authoritiessubjectssh93007046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93007046> . 
+_:bnode98authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#createdDate> "1993-11-02T11:51:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh93007046 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

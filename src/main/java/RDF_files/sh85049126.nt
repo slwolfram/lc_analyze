@@ -1,0 +1,161 @@
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flight training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85049126 . 
+_:bnode7authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85049126 . 
+_:bnode7authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Flight training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85049126 . 
+_:bnode11authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Flight instruction"@en . 
+_:bnode11authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85049126 . 
+_:bnode16authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85049126 . 
+_:bnode16authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Flight instruction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85049126 . 
+_:bnode20authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Flying classes"@en . 
+_:bnode20authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85049126 . 
+_:bnode25authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85049126 . 
+_:bnode25authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Flying classes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#classification> "TL710-TL713" . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119833331> . 
+<http://data.bnf.fr/ark:/12148/cb119833331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119833331> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vol -- Instruction"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85136837> . 
+<http://id.loc.gov/authorities/subjects/sh85136837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85136837> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Training planes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85049125> . 
+<http://id.loc.gov/authorities/subjects/sh85049125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85049125> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flight simulators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85125933> . 
+<http://id.loc.gov/authorities/subjects/sh85125933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85125933> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Space flight training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85001357> . 
+<http://id.loc.gov/authorities/subjects/sh85001357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85001357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85001357> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85001357> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode52authoritiessubjectssh85049126 . 
+_:bnode52authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode53authoritiessubjectssh85049126 . 
+_:bnode52authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode060 . 
+_:bnode53authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode53authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode53authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Aeronautics"@en . 
+_:bnode53authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode57authoritiessubjectssh85049126 . 
+_:bnode57authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode58authoritiessubjectssh85049126 . 
+_:bnode57authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode58authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode58authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Aeronautics"@en . 
+_:bnode060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode61authoritiessubjectssh85049126 . 
+_:bnode060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode61authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode61authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode61authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Study and teaching"@en . 
+_:bnode61authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode65authoritiessubjectssh85049126 . 
+_:bnode65authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode66authoritiessubjectssh85049126 . 
+_:bnode65authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode66authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode66authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85002876> . 
+<http://id.loc.gov/authorities/subjects/sh85002876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85002876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85002876> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes--Piloting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85002876> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode74authoritiessubjectssh85049126 . 
+_:bnode74authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode75authoritiessubjectssh85049126 . 
+_:bnode74authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode082 . 
+_:bnode75authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode75authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode75authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Airplanes"@en . 
+_:bnode75authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode79authoritiessubjectssh85049126 . 
+_:bnode79authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode80authoritiessubjectssh85049126 . 
+_:bnode79authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode80authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode80authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Airplanes"@en . 
+_:bnode082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode83authoritiessubjectssh85049126 . 
+_:bnode082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode83authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode83authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+_:bnode83authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Piloting"@en . 
+_:bnode83authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode87authoritiessubjectssh85049126 . 
+_:bnode87authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode88authoritiessubjectssh85049126 . 
+_:bnode87authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode88authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode88authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Piloting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh96012139> . 
+<http://id.loc.gov/authorities/subjects/sh96012139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96012139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96012139> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Flight schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh96012139> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode96authoritiessubjectssh85049126 . 
+_:bnode96authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode97authoritiessubjectssh85049126 . 
+_:bnode96authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode97authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode97authoritiessubjectssh85049126 <http://www.loc.gov/mads/rdf/v1#elementValue> "Flight schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85049126" . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85049126> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85049126#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode108authoritiessubjectssh85049126 . 
+_:bnode108authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode108authoritiessubjectssh85049126 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode108authoritiessubjectssh85049126 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode108authoritiessubjectssh85049126 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode115authoritiessubjectssh85049126 . 
+_:bnode115authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode115authoritiessubjectssh85049126 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1997-02-03T11:07:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode115authoritiessubjectssh85049126 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode115authoritiessubjectssh85049126 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flight training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode125authoritiessubjectssh85049126 . 
+_:bnode125authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode125authoritiessubjectssh85049126 <http://www.w3.org/2008/05/skos-xl#literalForm> "Flight instruction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#altLabel> "Flight instruction" . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode132authoritiessubjectssh85049126 . 
+_:bnode132authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode132authoritiessubjectssh85049126 <http://www.w3.org/2008/05/skos-xl#literalForm> "Flying classes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#altLabel> "Flying classes" . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85001357> . 
+<http://id.loc.gov/authorities/subjects/sh85001357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85001357> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aeronautics--Study and teaching"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85136837> . 
+<http://id.loc.gov/authorities/subjects/sh85136837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85136837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Training planes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85049125> . 
+<http://id.loc.gov/authorities/subjects/sh85049125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85049125> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flight simulators"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85125933> . 
+<http://id.loc.gov/authorities/subjects/sh85125933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85125933> <http://www.w3.org/2004/02/skos/core#prefLabel> "Space flight training"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85002876> . 
+<http://id.loc.gov/authorities/subjects/sh85002876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85002876> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airplanes--Piloting"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh96012139> . 
+<http://id.loc.gov/authorities/subjects/sh96012139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96012139> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flight schools"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119833331> . 
+<http://data.bnf.fr/ark:/12148/cb119833331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119833331> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vol -- Instruction"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2008/05/skos-xl#altLabel> "Flight instruction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2008/05/skos-xl#altLabel> "Flying classes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode179authoritiessubjectssh85049126 . 
+_:bnode179authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode179authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85049126> . 
+_:bnode179authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode179authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode179authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85049126> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode187authoritiessubjectssh85049126 . 
+_:bnode187authoritiessubjectssh85049126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode187authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85049126> . 
+_:bnode187authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode187authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#createdDate> "1997-02-03T11:07:28"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode187authoritiessubjectssh85049126 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

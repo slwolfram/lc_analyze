@@ -1,0 +1,77 @@
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gas separation membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh87007243 . 
+_:bnode7authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh87007243 . 
+_:bnode7authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#elementValue> "Gas separation membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85083476> . 
+<http://id.loc.gov/authorities/subjects/sh85083476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083476> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Membranes (Technology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083476> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh87007243 . 
+_:bnode16authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh87007243 . 
+_:bnode16authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#elementValue> "Membranes (Technology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb12361746p> . 
+<http://data.bnf.fr/ark:/12148/cb12361746p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb12361746p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Membranes de séparation des gaz"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4352375-4> . 
+<http://d-nb.info/gnd/4352375-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4352375-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Gaspermeation"@de . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87007243" . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87007243> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87007243#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode35authoritiessubjectssh87007243 . 
+_:bnode35authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode35authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Crull, A.W. New trends in gas separations, 1986" . 
+_:bnode35authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-note> "(gas separation membranes)"@en . 
+_:bnode35authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode43authoritiessubjectssh87007243 . 
+_:bnode43authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode43authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-source> "ASTI" . 
+_:bnode43authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Titles under Gases--Separation)"@en . 
+_:bnode43authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh87007243 . 
+_:bnode51authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3;Engr. index;ERDA energy information data base;McGraw-Hill dict. sci. tech." . 
+_:bnode51authoritiessubjectssh87007243 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode57authoritiessubjectssh87007243 . 
+_:bnode57authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode57authoritiessubjectssh87007243 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode57authoritiessubjectssh87007243 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode57authoritiessubjectssh87007243 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode64authoritiessubjectssh87007243 . 
+_:bnode64authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode64authoritiessubjectssh87007243 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1987-12-29T09:17:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh87007243 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode64authoritiessubjectssh87007243 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gas separation membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85083476> . 
+<http://id.loc.gov/authorities/subjects/sh85083476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083476> <http://www.w3.org/2004/02/skos/core#prefLabel> "Membranes (Technology)"@en . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb12361746p> . 
+<http://data.bnf.fr/ark:/12148/cb12361746p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb12361746p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Membranes de séparation des gaz"@fr . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4352375-4> . 
+<http://d-nb.info/gnd/4352375-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4352375-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaspermeation"@de . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh87007243 . 
+_:bnode90authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87007243> . 
+_:bnode90authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#createdDate> "1987-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87007243> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode98authoritiessubjectssh87007243 . 
+_:bnode98authoritiessubjectssh87007243 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode98authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87007243> . 
+_:bnode98authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode98authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#createdDate> "1987-12-29T09:17:19"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode98authoritiessubjectssh87007243 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

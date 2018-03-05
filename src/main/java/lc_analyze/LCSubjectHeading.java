@@ -9,6 +9,9 @@ package lc_analyze;
 import java.io.Serializable;
 import java.net.URI;
 import java.util.ArrayList;
+import java.util.Collection;
+
+import org.eclipse.rdf4j.model.Statement;
 
 /**
  * This class is used to represent LC Subject headings.
@@ -296,5 +299,20 @@ public class LCSubjectHeading implements Serializable {
 	public void setVariantTerms(ArrayList<String> variantTerms) {
 		this.variantTerms = variantTerms;
 		
+	}
+	public ArrayList<String> getVariantTerms() {
+		return this.variantTerms;
+	}
+	public ArrayList<LCSubjectHeading> getBroaderTerms() {
+		return this.broaderHeadings;
+	}
+	public ArrayList<LCSubjectHeading> getNarrowerTerms() {
+		return this.narrowerHeadings;
+	}
+	public ArrayList<LCSubjectHeading> getRelatedTerms() {
+		return this.relatedHeadings;
+	}
+	public ArrayList<CatRecord> getRecords() {
+		return this.catRecords;
 	}
 }

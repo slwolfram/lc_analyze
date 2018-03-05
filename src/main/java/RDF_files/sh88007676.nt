@@ -1,0 +1,68 @@
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Executive departments--Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh88007676 . 
+_:bnode7authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85046283> . 
+_:bnode7authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85046283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85046283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85046283> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Executive departments"@en . 
+<http://id.loc.gov/authorities/subjects/sh85046283> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh88007676 . 
+_:bnode12authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh88007676 . 
+_:bnode12authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh88007676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Executive departments"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85108732> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh88007676 . 
+_:bnode20authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh88007676 . 
+_:bnode20authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh88007676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85108732> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode29authoritiessubjectssh88007676 . 
+_:bnode29authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode30authoritiessubjectssh88007676 . 
+_:bnode29authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode30authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode30authoritiessubjectssh88007676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 88007676" . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh88007676> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh88007676#concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh88007676 . 
+_:bnode41authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh88007676 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-12-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh88007676 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh88007676 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode48authoritiessubjectssh88007676 . 
+_:bnode48authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode48authoritiessubjectssh88007676 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-05-16T11:52:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode48authoritiessubjectssh88007676 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode48authoritiessubjectssh88007676 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2004/02/skos/core#prefLabel> "Executive departments--Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85108732> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108732> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public meetings"@en . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode64authoritiessubjectssh88007676 . 
+_:bnode64authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode64authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88007676> . 
+_:bnode64authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode64authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#createdDate> "1988-12-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode64authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh88007676> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode72authoritiessubjectssh88007676 . 
+_:bnode72authoritiessubjectssh88007676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode72authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh88007676> . 
+_:bnode72authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode72authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#createdDate> "1994-05-16T11:52:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh88007676 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

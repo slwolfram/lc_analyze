@@ -1,0 +1,61 @@
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prairie planting"@en . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh96001849 . 
+_:bnode7authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh96001849 . 
+_:bnode7authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#elementValue> "Prairie planting"@en . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102837> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Planting (Plant culture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh96001849 . 
+_:bnode16authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh96001849 . 
+_:bnode16authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#elementValue> "Planting (Plant culture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 96001849" . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh96001849> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh96001849#concept> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode28authoritiessubjectssh96001849 . 
+_:bnode28authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode28authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Henderson, R.A. Plant species composition of Wisconsin prairies : an aid to selecting species for plantings and restorations ... 1995:" . 
+_:bnode28authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#citation-note> "abstr. (prairie plantings) p. 16 (\"In general the easiest and most cost effective way to plant prairie is with seed.\")"@en . 
+_:bnode28authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode36authoritiessubjectssh96001849 . 
+_:bnode36authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode36authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#citation-source> "Implantation des prairies, 1989." . 
+_:bnode36authoritiessubjectssh96001849 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode42authoritiessubjectssh96001849 . 
+_:bnode42authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode42authoritiessubjectssh96001849 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-02-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode42authoritiessubjectssh96001849 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode42authoritiessubjectssh96001849 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode49authoritiessubjectssh96001849 . 
+_:bnode49authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode49authoritiessubjectssh96001849 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1996-03-29T13:22:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode49authoritiessubjectssh96001849 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode49authoritiessubjectssh96001849 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prairie planting"@en . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102837> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102837> <http://www.w3.org/2004/02/skos/core#prefLabel> "Planting (Plant culture)"@en . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode65authoritiessubjectssh96001849 . 
+_:bnode65authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode65authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96001849> . 
+_:bnode65authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+_:bnode65authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#createdDate> "1996-02-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh96001849> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode73authoritiessubjectssh96001849 . 
+_:bnode73authoritiessubjectssh96001849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode73authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh96001849> . 
+_:bnode73authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/csfa> . 
+_:bnode73authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#createdDate> "1996-03-29T13:22:29"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh96001849 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

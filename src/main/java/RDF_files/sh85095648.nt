@@ -1,0 +1,63 @@
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Originality in literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85095648 . 
+_:bnode7authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85095648 . 
+_:bnode7authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85095648 <http://www.loc.gov/mads/rdf/v1#elementValue> "Originality in literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85064503> . 
+<http://id.loc.gov/authorities/subjects/sh85064503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85064503> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Imitation in literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85066122> . 
+<http://id.loc.gov/authorities/subjects/sh85066122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85066122> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Influence (Literary, artistic, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11963366k> . 
+<http://data.bnf.fr/ark:/12148/cb11963366k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11963366k> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Originalité (esthétique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85102580> . 
+<http://id.loc.gov/authorities/subjects/sh85102580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102580> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plagiarism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85095648" . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85095648> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85095648#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode34authoritiessubjectssh85095648 . 
+_:bnode34authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode34authoritiessubjectssh85095648 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode34authoritiessubjectssh85095648 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode34authoritiessubjectssh85095648 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode41authoritiessubjectssh85095648 . 
+_:bnode41authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode41authoritiessubjectssh85095648 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-11-21T09:47:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode41authoritiessubjectssh85095648 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode41authoritiessubjectssh85095648 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#prefLabel> "Originality in literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85064503> . 
+<http://id.loc.gov/authorities/subjects/sh85064503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85064503> <http://www.w3.org/2004/02/skos/core#prefLabel> "Imitation in literature"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85066122> . 
+<http://id.loc.gov/authorities/subjects/sh85066122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85066122> <http://www.w3.org/2004/02/skos/core#prefLabel> "Influence (Literary, artistic, etc.)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85102580> . 
+<http://id.loc.gov/authorities/subjects/sh85102580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102580> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plagiarism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11963366k> . 
+<http://data.bnf.fr/ark:/12148/cb11963366k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11963366k> <http://www.w3.org/2004/02/skos/core#prefLabel> "Originalité (esthétique)"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode72authoritiessubjectssh85095648 . 
+_:bnode72authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode72authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85095648> . 
+_:bnode72authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode72authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85095648> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode80authoritiessubjectssh85095648 . 
+_:bnode80authoritiessubjectssh85095648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode80authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85095648> . 
+_:bnode80authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode80authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#createdDate> "1994-11-21T09:47:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85095648 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

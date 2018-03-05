@@ -1,0 +1,331 @@
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85061091 . 
+_:bnode7authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85061091 . 
+_:bnode7authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85061091 <http://www.loc.gov/mads/rdf/v1#elementValue> "Historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85061091 . 
+_:bnode11authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85061091 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Historiographers"@en . 
+_:bnode11authoritiessubjectssh85061091 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85061091 . 
+_:bnode16authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85061091 . 
+_:bnode16authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85061091 <http://www.loc.gov/mads/rdf/v1#elementValue> "Historiographers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#classification> "D14-D15" . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85083204> . 
+<http://id.loc.gov/authorities/subjects/sh85083204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083204> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medievalists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2015002499> . 
+<http://id.loc.gov/authorities/subjects/sh2015002499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2015002499> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forensic historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061093> . 
+<http://id.loc.gov/authorities/subjects/sh85061093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061093> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Jewish historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003003465> . 
+<http://id.loc.gov/authorities/subjects/sh2003003465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003003465> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Economics historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4025098-2> . 
+<http://d-nb.info/gnd/4025098-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4025098-2> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historiker"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85061094> . 
+<http://id.loc.gov/authorities/subjects/sh85061094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85061094> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historians of science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh99001341> . 
+<http://id.loc.gov/authorities/subjects/sh99001341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99001341> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Film historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85060321> . 
+<http://id.loc.gov/authorities/subjects/sh85060321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85060321> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Heraldists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85118236> . 
+<http://id.loc.gov/authorities/subjects/sh85118236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85118236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85118236> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Scholars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85118236> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode59authoritiessubjectssh85061091 . 
+_:bnode59authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode60authoritiessubjectssh85061091 . 
+_:bnode59authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode60authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode60authoritiessubjectssh85061091 <http://www.loc.gov/mads/rdf/v1#elementValue> "Scholars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2002012276> . 
+<http://id.loc.gov/authorities/subjects/sh2002012276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2002012276> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003435> . 
+<http://id.loc.gov/authorities/subjects/sh92003435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003435> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muslim historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92001249> . 
+<http://id.loc.gov/authorities/subjects/sh92001249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92001249> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Military historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2003001054> . 
+<http://id.loc.gov/authorities/subjects/sh2003001054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2003001054> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cartographic historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2010010702> . 
+<http://id.loc.gov/authorities/subjects/sh2010010702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2010010702> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Christian historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91005986> . 
+<http://id.loc.gov/authorities/subjects/sh91005986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91005986> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Naval historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082942> . 
+<http://id.loc.gov/authorities/subjects/sh85082942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082942> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Medical historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4528560-3> . 
+<http://d-nb.info/gnd/4528560-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4528560-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chronist"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85108671> . 
+<http://id.loc.gov/authorities/subjects/sh85108671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108671> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97003256> . 
+<http://id.loc.gov/authorities/subjects/sh97003256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97003256> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Legal historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/14367> . 
+<http://purl.org/bncf/tid/14367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/14367> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Storici"@it . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94000884> . 
+<http://id.loc.gov/authorities/subjects/sh94000884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94000884> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Library historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85077491> . 
+<http://id.loc.gov/authorities/subjects/sh85077491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85077491> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Literary historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85005742> . 
+<http://id.loc.gov/authorities/subjects/sh85005742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85005742> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Antiquarians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh95000901> . 
+<http://id.loc.gov/authorities/subjects/sh95000901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95000901> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Griots"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94007242> . 
+<http://id.loc.gov/authorities/subjects/sh94007242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94007242> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historians of technology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053074> . 
+<http://id.loc.gov/authorities/subjects/sh85053074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Garden historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008001> . 
+<http://id.loc.gov/authorities/subjects/sh85008001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008001> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Art historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007010410> . 
+<http://id.loc.gov/authorities/subjects/sh2007010410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007010410> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Theater historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85082183> . 
+<http://id.loc.gov/authorities/subjects/sh85082183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85082183> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Mathematics historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94005405> . 
+<http://id.loc.gov/authorities/subjects/sh94005405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005405> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historical consultants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85025618> . 
+<http://id.loc.gov/authorities/subjects/sh85025618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85025618> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Church historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85011288> . 
+<http://id.loc.gov/authorities/subjects/sh85011288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85011288> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ballet historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2001007793> . 
+<http://id.loc.gov/authorities/subjects/sh2001007793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2001007793> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Prehistorians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85147547> . 
+<http://id.loc.gov/authorities/subjects/sh85147547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85147547> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Women historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85112591> . 
+<http://id.loc.gov/authorities/subjects/sh85112591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85112591> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Religion historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4155430-9> . 
+<http://d-nb.info/gnd/4155430-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4155430-9> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Geschichtsschreiber"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85053741> . 
+<http://id.loc.gov/authorities/subjects/sh85053741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85053741> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Genealogists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85006505> . 
+<http://id.loc.gov/authorities/subjects/sh85006505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006505> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Archaeologists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004002816> . 
+<http://id.loc.gov/authorities/subjects/sh2004002816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004002816> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Baseball historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh94000391> . 
+<http://id.loc.gov/authorities/subjects/sh94000391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94000391> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Business historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85006595> . 
+<http://id.loc.gov/authorities/subjects/sh85006595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85006595> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Architectural historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb119342240> . 
+<http://data.bnf.fr/ark:/12148/cb119342240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb119342240> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historiens"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93001967> . 
+<http://id.loc.gov/authorities/subjects/sh93001967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93001967> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Historians of philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93000201> . 
+<http://id.loc.gov/authorities/subjects/sh93000201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93000201> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Agricultural historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005867> . 
+<http://id.loc.gov/authorities/subjects/sh92005867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005867> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Photographic historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85061091" . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85061091> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85061091#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode215authoritiessubjectssh85061091 . 
+_:bnode215authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode215authoritiessubjectssh85061091 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode215authoritiessubjectssh85061091 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode215authoritiessubjectssh85061091 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode222authoritiessubjectssh85061091 . 
+_:bnode222authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode222authoritiessubjectssh85061091 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1988-09-15T09:02:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode222authoritiessubjectssh85061091 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode222authoritiessubjectssh85061091 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode232authoritiessubjectssh85061091 . 
+_:bnode232authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode232authoritiessubjectssh85061091 <http://www.w3.org/2008/05/skos-xl#literalForm> "Historiographers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#altLabel> "Historiographers" . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85118236> . 
+<http://id.loc.gov/authorities/subjects/sh85118236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85118236> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scholars"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85083204> . 
+<http://id.loc.gov/authorities/subjects/sh85083204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083204> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medievalists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2015002499> . 
+<http://id.loc.gov/authorities/subjects/sh2015002499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2015002499> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forensic historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061093> . 
+<http://id.loc.gov/authorities/subjects/sh85061093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061093> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jewish historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003003465> . 
+<http://id.loc.gov/authorities/subjects/sh2003003465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003003465> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economics historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85061094> . 
+<http://id.loc.gov/authorities/subjects/sh85061094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85061094> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historians of science"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh99001341> . 
+<http://id.loc.gov/authorities/subjects/sh99001341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh99001341> <http://www.w3.org/2004/02/skos/core#prefLabel> "Film historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85060321> . 
+<http://id.loc.gov/authorities/subjects/sh85060321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85060321> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heraldists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2002012276> . 
+<http://id.loc.gov/authorities/subjects/sh2002012276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2002012276> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003435> . 
+<http://id.loc.gov/authorities/subjects/sh92003435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003435> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muslim historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92001249> . 
+<http://id.loc.gov/authorities/subjects/sh92001249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92001249> <http://www.w3.org/2004/02/skos/core#prefLabel> "Military historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2003001054> . 
+<http://id.loc.gov/authorities/subjects/sh2003001054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2003001054> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cartographic historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2010010702> . 
+<http://id.loc.gov/authorities/subjects/sh2010010702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2010010702> <http://www.w3.org/2004/02/skos/core#prefLabel> "Christian historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91005986> . 
+<http://id.loc.gov/authorities/subjects/sh91005986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91005986> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naval historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082942> . 
+<http://id.loc.gov/authorities/subjects/sh85082942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082942> <http://www.w3.org/2004/02/skos/core#prefLabel> "Medical historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85108671> . 
+<http://id.loc.gov/authorities/subjects/sh85108671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108671> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97003256> . 
+<http://id.loc.gov/authorities/subjects/sh97003256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97003256> <http://www.w3.org/2004/02/skos/core#prefLabel> "Legal historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94000884> . 
+<http://id.loc.gov/authorities/subjects/sh94000884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94000884> <http://www.w3.org/2004/02/skos/core#prefLabel> "Library historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85077491> . 
+<http://id.loc.gov/authorities/subjects/sh85077491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85077491> <http://www.w3.org/2004/02/skos/core#prefLabel> "Literary historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85005742> . 
+<http://id.loc.gov/authorities/subjects/sh85005742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85005742> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antiquarians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh95000901> . 
+<http://id.loc.gov/authorities/subjects/sh95000901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95000901> <http://www.w3.org/2004/02/skos/core#prefLabel> "Griots"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94007242> . 
+<http://id.loc.gov/authorities/subjects/sh94007242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94007242> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historians of technology"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053074> . 
+<http://id.loc.gov/authorities/subjects/sh85053074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Garden historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008001> . 
+<http://id.loc.gov/authorities/subjects/sh85008001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008001> <http://www.w3.org/2004/02/skos/core#prefLabel> "Art historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007010410> . 
+<http://id.loc.gov/authorities/subjects/sh2007010410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007010410> <http://www.w3.org/2004/02/skos/core#prefLabel> "Theater historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85082183> . 
+<http://id.loc.gov/authorities/subjects/sh85082183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85082183> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mathematics historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94005405> . 
+<http://id.loc.gov/authorities/subjects/sh94005405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005405> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historical consultants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85025618> . 
+<http://id.loc.gov/authorities/subjects/sh85025618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85025618> <http://www.w3.org/2004/02/skos/core#prefLabel> "Church historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85011288> . 
+<http://id.loc.gov/authorities/subjects/sh85011288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85011288> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ballet historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2001007793> . 
+<http://id.loc.gov/authorities/subjects/sh2001007793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2001007793> <http://www.w3.org/2004/02/skos/core#prefLabel> "Prehistorians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85147547> . 
+<http://id.loc.gov/authorities/subjects/sh85147547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85147547> <http://www.w3.org/2004/02/skos/core#prefLabel> "Women historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85112591> . 
+<http://id.loc.gov/authorities/subjects/sh85112591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85112591> <http://www.w3.org/2004/02/skos/core#prefLabel> "Religion historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85053741> . 
+<http://id.loc.gov/authorities/subjects/sh85053741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85053741> <http://www.w3.org/2004/02/skos/core#prefLabel> "Genealogists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85006505> . 
+<http://id.loc.gov/authorities/subjects/sh85006505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006505> <http://www.w3.org/2004/02/skos/core#prefLabel> "Archaeologists"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004002816> . 
+<http://id.loc.gov/authorities/subjects/sh2004002816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004002816> <http://www.w3.org/2004/02/skos/core#prefLabel> "Baseball historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh94000391> . 
+<http://id.loc.gov/authorities/subjects/sh94000391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94000391> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85006595> . 
+<http://id.loc.gov/authorities/subjects/sh85006595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85006595> <http://www.w3.org/2004/02/skos/core#prefLabel> "Architectural historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93001967> . 
+<http://id.loc.gov/authorities/subjects/sh93001967> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93001967> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historians of philosophy"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93000201> . 
+<http://id.loc.gov/authorities/subjects/sh93000201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93000201> <http://www.w3.org/2004/02/skos/core#prefLabel> "Agricultural historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005867> . 
+<http://id.loc.gov/authorities/subjects/sh92005867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005867> <http://www.w3.org/2004/02/skos/core#prefLabel> "Photographic historians"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4025098-2> . 
+<http://d-nb.info/gnd/4025098-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4025098-2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historiker"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4528560-3> . 
+<http://d-nb.info/gnd/4528560-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4528560-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chronist"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/14367> . 
+<http://purl.org/bncf/tid/14367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/14367> <http://www.w3.org/2004/02/skos/core#prefLabel> "Storici"@it . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4155430-9> . 
+<http://d-nb.info/gnd/4155430-9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4155430-9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Geschichtsschreiber"@de . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb119342240> . 
+<http://data.bnf.fr/ark:/12148/cb119342240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb119342240> <http://www.w3.org/2004/02/skos/core#prefLabel> "Historiens"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2008/05/skos-xl#altLabel> "Historiographers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode467authoritiessubjectssh85061091 . 
+_:bnode467authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode467authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061091> . 
+_:bnode467authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode467authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode467authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85061091> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode475authoritiessubjectssh85061091 . 
+_:bnode475authoritiessubjectssh85061091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode475authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85061091> . 
+_:bnode475authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode475authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#createdDate> "1988-09-15T09:02:53"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode475authoritiessubjectssh85061091 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,75 @@
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chick lit"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh2006003046 . 
+_:bnode7authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh2006003046 . 
+_:bnode7authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#elementValue> "Chick lit"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb16226976x> . 
+<http://data.bnf.fr/ark:/12148/cb16226976x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb16226976x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Chick lit"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85048050> . 
+<http://id.loc.gov/authorities/subjects/sh85048050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85048050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85048050> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fiction"@en . 
+<http://id.loc.gov/authorities/subjects/sh85048050> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh2006003046 . 
+_:bnode20authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh2006003046 . 
+_:bnode20authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fiction"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh2006003046" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh2006003046> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh2006003046#concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode31authoritiessubjectssh2006003046 . 
+_:bnode31authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode31authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 2006012227: This is Chick-lit, 2006." . 
+_:bnode31authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode37authoritiessubjectssh2006003046 . 
+_:bnode37authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode37authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-source> "2006045206: This is not Chick lit, 2006:" . 
+_:bnode37authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-note> "CIP introduction (Chick lit 's form and content are, more or less, formulaic: white girls in the big city searches for Prince Charming, all the while shopping, alternately cheating on or adhering to her diet, dodging her boss ... Details about race and class are almost always absent, except ... for the protagonist's relentless pursuit of money, a makeover, and Mr. Right)"@en . 
+_:bnode37authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode45authoritiessubjectssh2006003046 . 
+_:bnode45authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode45authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-source> "200501394: Chick lit : the new woman's fiction, 2006)" . 
+_:bnode45authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode51authoritiessubjectssh2006003046 . 
+_:bnode51authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode51authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-source> "Wikipedia, Apr. 18, 2006" . 
+_:bnode51authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Chick lit is a term used to denote a genre of popular fiction written for and marketed to young women, especially single, working women in their twenties or early thirties. It usually features hip, stylish female protagonists in urban settings, and follows their love lives and struggles in business (often the publishing or advertising industries). The books usually feature an irreverent tone and frank sexual themes)"@en . 
+_:bnode51authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode59authoritiessubjectssh2006003046 . 
+_:bnode59authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode59authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-source> "Chicklitbooks.com, Apr. 18, 2006" . 
+_:bnode59authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-note> "(Chick lit is a genre comprised of books that are mainly written by women for women. The books range from having main characters in their early 20's to their late 60's. There is usually a personal, light, and humorous tone to the books. The plots usually consist of women experiencing usual life issues, such as love, marriage, dating, relationships, friendships, roommates, corporate environments, weight issues, addiction, etc.)"@en . 
+_:bnode59authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode67authoritiessubjectssh2006003046 . 
+_:bnode67authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode67authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-source> "WWW.deannacarlyle.com, Apr. 18, 2006" . 
+_:bnode67authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-note> "(US Chick lit publishers: Avon Trade, Downtown Press, Red Dress Ink, Washington Square Press, Atria Books, Midnight Ink, etc.)"@en . 
+_:bnode67authoritiessubjectssh2006003046 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh2006003046 . 
+_:bnode75authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh2006003046 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2006-05-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh2006003046 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh2006003046 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode75authoritiessubjectssh2006003046 <http://id.loc.gov/ontologies/RecordInfo#languageOfCataloging> <http://id.loc.gov/vocabulary/iso639-2/eng> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chick lit"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85048050> . 
+<http://id.loc.gov/authorities/subjects/sh85048050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85048050> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiction"@en . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb16226976x> . 
+<http://data.bnf.fr/ark:/12148/cb16226976x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb16226976x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chick lit"@fr . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh2006003046> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode97authoritiessubjectssh2006003046 . 
+_:bnode97authoritiessubjectssh2006003046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode97authoritiessubjectssh2006003046 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh2006003046> . 
+_:bnode97authoritiessubjectssh2006003046 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode97authoritiessubjectssh2006003046 <http://purl.org/vocab/changeset/schema#createdDate> "2006-05-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode97authoritiessubjectssh2006003046 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,104 @@
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "College museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh95007233 . 
+_:bnode7authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh95007233 . 
+_:bnode7authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#elementValue> "College museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh95007233 . 
+_:bnode11authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#variantLabel> "University museums"@en . 
+_:bnode11authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh95007233 . 
+_:bnode16authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh95007233 . 
+_:bnode16authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#elementValue> "University museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85028297> . 
+<http://id.loc.gov/authorities/subjects/sh85028297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85028297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85028297> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "College facilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85028297> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh95007233 . 
+_:bnode25authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh95007233 . 
+_:bnode25authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#elementValue> "College facilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85008029> . 
+<http://id.loc.gov/authorities/subjects/sh85008029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85008029> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "College art museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh00004937> . 
+<http://id.loc.gov/authorities/subjects/sh00004937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00004937> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "College science museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb137716662> . 
+<http://data.bnf.fr/ark:/12148/cb137716662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb137716662> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Musées universitaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh00006830> . 
+<http://id.loc.gov/authorities/subjects/sh00006830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00006830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00006830> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh00006830> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode46authoritiessubjectssh95007233 . 
+_:bnode46authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh95007233 . 
+_:bnode46authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode47authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#elementValue> "Museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 95007233" . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh95007233> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh95007233#concept> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode58authoritiessubjectssh95007233 . 
+_:bnode58authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode58authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 95-20544: Danilov, V.J. University and college museums ... 1996." . 
+_:bnode58authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode64authoritiessubjectssh95007233 . 
+_:bnode64authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode64authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#citation-source> "Association of College and University Museums and Galleries." . 
+_:bnode64authoritiessubjectssh95007233 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode70authoritiessubjectssh95007233 . 
+_:bnode70authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode70authoritiessubjectssh95007233 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-08-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode70authoritiessubjectssh95007233 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode70authoritiessubjectssh95007233 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode77authoritiessubjectssh95007233 . 
+_:bnode77authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode77authoritiessubjectssh95007233 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1995-10-11T10:57:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode77authoritiessubjectssh95007233 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode77authoritiessubjectssh95007233 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#prefLabel> "College museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode87authoritiessubjectssh95007233 . 
+_:bnode87authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode87authoritiessubjectssh95007233 <http://www.w3.org/2008/05/skos-xl#literalForm> "University museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#altLabel> "University museums" . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85028297> . 
+<http://id.loc.gov/authorities/subjects/sh85028297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85028297> <http://www.w3.org/2004/02/skos/core#prefLabel> "College facilities"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh00006830> . 
+<http://id.loc.gov/authorities/subjects/sh00006830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00006830> <http://www.w3.org/2004/02/skos/core#prefLabel> "Museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85008029> . 
+<http://id.loc.gov/authorities/subjects/sh85008029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85008029> <http://www.w3.org/2004/02/skos/core#prefLabel> "College art museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh00004937> . 
+<http://id.loc.gov/authorities/subjects/sh00004937> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh00004937> <http://www.w3.org/2004/02/skos/core#prefLabel> "College science museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb137716662> . 
+<http://data.bnf.fr/ark:/12148/cb137716662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb137716662> <http://www.w3.org/2004/02/skos/core#prefLabel> "Musées universitaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2008/05/skos-xl#altLabel> "University museums"@en . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode122authoritiessubjectssh95007233 . 
+_:bnode122authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode122authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh95007233> . 
+_:bnode122authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode122authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#createdDate> "1995-08-24T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode122authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh95007233> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode130authoritiessubjectssh95007233 . 
+_:bnode130authoritiessubjectssh95007233 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode130authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh95007233> . 
+_:bnode130authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode130authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#createdDate> "1995-10-11T10:57:13"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode130authoritiessubjectssh95007233 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

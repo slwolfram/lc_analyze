@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Weddings--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh94005945 . 
+_:bnode7authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85145906> . 
+_:bnode7authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85145906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85145906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145906> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Weddings"@en . 
+<http://id.loc.gov/authorities/subjects/sh85145906> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh94005945 . 
+_:bnode12authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh94005945 . 
+_:bnode12authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh94005945 <http://www.loc.gov/mads/rdf/v1#elementValue> "Weddings"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh94005945 . 
+_:bnode20authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh94005945 . 
+_:bnode20authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh94005945 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh86005698> . 
+<http://id.loc.gov/authorities/subjects/sh86005698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh86005698> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wedding decorations"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93003772> . 
+<http://id.loc.gov/authorities/subjects/sh93003772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93003772> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wedding stationery"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85145897> . 
+<http://id.loc.gov/authorities/subjects/sh85145897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85145897> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wedding costume"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh91003007> . 
+<http://id.loc.gov/authorities/subjects/sh91003007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh91003007> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Wedding cakes"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85016811> . 
+<http://id.loc.gov/authorities/subjects/sh85016811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85016811> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bridal books"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 94005945" . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh94005945> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh94005945#concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode51authoritiessubjectssh94005945 . 
+_:bnode51authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode51authoritiessubjectssh94005945 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-08-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode51authoritiessubjectssh94005945 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode51authoritiessubjectssh94005945 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh94005945 . 
+_:bnode58authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh94005945 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1994-08-25T15:37:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh94005945 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh94005945 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#prefLabel> "Weddings--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh86005698> . 
+<http://id.loc.gov/authorities/subjects/sh86005698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh86005698> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wedding decorations"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93003772> . 
+<http://id.loc.gov/authorities/subjects/sh93003772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93003772> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wedding stationery"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85145897> . 
+<http://id.loc.gov/authorities/subjects/sh85145897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85145897> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wedding costume"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh91003007> . 
+<http://id.loc.gov/authorities/subjects/sh91003007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh91003007> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wedding cakes"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85016811> . 
+<http://id.loc.gov/authorities/subjects/sh85016811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85016811> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bridal books"@en . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh94005945 . 
+_:bnode94authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94005945> . 
+_:bnode94authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode94authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#createdDate> "1994-08-18T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh94005945> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode102authoritiessubjectssh94005945 . 
+_:bnode102authoritiessubjectssh94005945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode102authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh94005945> . 
+_:bnode102authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode102authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#createdDate> "1994-08-25T15:37:20"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode102authoritiessubjectssh94005945 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

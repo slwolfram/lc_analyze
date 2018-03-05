@@ -1,0 +1,113 @@
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Software documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh90003145 . 
+_:bnode7authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh90003145 . 
+_:bnode7authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Software documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh90003145 . 
+_:bnode11authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Computer software documentation"@en . 
+_:bnode11authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh90003145 . 
+_:bnode16authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh90003145 . 
+_:bnode16authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Computer software documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh90003145 . 
+_:bnode20authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Documentation, Software"@en . 
+_:bnode20authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh90003145 . 
+_:bnode25authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh90003145 . 
+_:bnode25authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Documentation, Software"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#classification> "QA76.76.D63" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2011004686> . 
+<http://id.loc.gov/authorities/subjects/sh2011004686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2011004686> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Help systems (Software)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13567932g> . 
+<http://data.bnf.fr/ark:/12148/cb13567932g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13567932g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Logiciels -- Documentation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042311> . 
+<http://id.loc.gov/authorities/subjects/sh85042311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042311> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Electronic data processing documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042311> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode44authoritiessubjectssh90003145 . 
+_:bnode44authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode45authoritiessubjectssh90003145 . 
+_:bnode44authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode45authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode45authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#elementValue> "Electronic data processing documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 90003145" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh90003145> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh90003145#concept> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode56authoritiessubjectssh90003145 . 
+_:bnode56authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode56authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Perspectives on software documentation, c1991." . 
+_:bnode56authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode62authoritiessubjectssh90003145 . 
+_:bnode62authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode62authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-source> "Computer dict." . 
+_:bnode62authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode68authoritiessubjectssh90003145 . 
+_:bnode68authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode68authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-source> "IEEE Standard glossary of software engineering terminology." . 
+_:bnode68authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode74authoritiessubjectssh90003145 . 
+_:bnode74authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode74authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-source> "Stand. glossary of computer terminology." . 
+_:bnode74authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode80authoritiessubjectssh90003145 . 
+_:bnode80authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode80authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-source> "Hennepin;IAC" . 
+_:bnode80authoritiessubjectssh90003145 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode86authoritiessubjectssh90003145 . 
+_:bnode86authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode86authoritiessubjectssh90003145 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-06-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh90003145 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode86authoritiessubjectssh90003145 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode93authoritiessubjectssh90003145 . 
+_:bnode93authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode93authoritiessubjectssh90003145 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1990-09-10T07:44:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode93authoritiessubjectssh90003145 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode93authoritiessubjectssh90003145 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#prefLabel> "Software documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode103authoritiessubjectssh90003145 . 
+_:bnode103authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode103authoritiessubjectssh90003145 <http://www.w3.org/2008/05/skos-xl#literalForm> "Computer software documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#altLabel> "Computer software documentation" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode110authoritiessubjectssh90003145 . 
+_:bnode110authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode110authoritiessubjectssh90003145 <http://www.w3.org/2008/05/skos-xl#literalForm> "Documentation, Software"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#altLabel> "Documentation, Software" . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042311> . 
+<http://id.loc.gov/authorities/subjects/sh85042311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042311> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electronic data processing documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2011004686> . 
+<http://id.loc.gov/authorities/subjects/sh2011004686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2011004686> <http://www.w3.org/2004/02/skos/core#prefLabel> "Help systems (Software)"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13567932g> . 
+<http://data.bnf.fr/ark:/12148/cb13567932g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13567932g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Logiciels -- Documentation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2008/05/skos-xl#altLabel> "Computer software documentation"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2008/05/skos-xl#altLabel> "Documentation, Software"@en . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode137authoritiessubjectssh90003145 . 
+_:bnode137authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode137authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh90003145> . 
+_:bnode137authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode137authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#createdDate> "1990-06-27T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode137authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh90003145> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode145authoritiessubjectssh90003145 . 
+_:bnode145authoritiessubjectssh90003145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode145authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh90003145> . 
+_:bnode145authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode145authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#createdDate> "1990-09-10T07:44:26"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode145authoritiessubjectssh90003145 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

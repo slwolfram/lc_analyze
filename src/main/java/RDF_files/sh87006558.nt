@@ -1,0 +1,85 @@
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forests and forestry--Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh87006558 . 
+_:bnode7authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85050707> . 
+_:bnode7authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forests and forestry"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050707> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh87006558 . 
+_:bnode12authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh87006558 . 
+_:bnode12authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh87006558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Forests and forestry"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh87006560> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh87006558 . 
+_:bnode20authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh87006558 . 
+_:bnode20authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh87006558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#classification> "SD390.7.S56" . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85050617> . 
+<http://id.loc.gov/authorities/subjects/sh85050617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85050617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85050617> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forest protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh85050617> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh87006558 . 
+_:bnode31authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh87006558 . 
+_:bnode31authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh87006558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Forest protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh87006560> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode40authoritiessubjectssh87006558 . 
+_:bnode40authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode41authoritiessubjectssh87006558 . 
+_:bnode40authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode41authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode41authoritiessubjectssh87006558 <http://www.loc.gov/mads/rdf/v1#elementValue> "Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 87006558" . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh87006558> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh87006558#concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode52authoritiessubjectssh87006558 . 
+_:bnode52authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode52authoritiessubjectssh87006558 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: Ammer, U. Technische Massnahmen gegen Schneebewegungen zum Schutz von Aufforstungen und Naturverjüngungen in Gebirgslagen, 1986." . 
+_:bnode52authoritiessubjectssh87006558 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode58authoritiessubjectssh87006558 . 
+_:bnode58authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode58authoritiessubjectssh87006558 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-09-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode58authoritiessubjectssh87006558 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode58authoritiessubjectssh87006558 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode65authoritiessubjectssh87006558 . 
+_:bnode65authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode65authoritiessubjectssh87006558 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "2002-10-25T12:29:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode65authoritiessubjectssh87006558 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode65authoritiessubjectssh87006558 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forests and forestry--Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85050617> . 
+<http://id.loc.gov/authorities/subjects/sh85050617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85050617> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forest protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh87006560> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh87006560> <http://www.w3.org/2004/02/skos/core#prefLabel> "Snow protection"@en . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode86authoritiessubjectssh87006558 . 
+_:bnode86authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode86authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87006558> . 
+_:bnode86authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode86authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#createdDate> "2002-09-17T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode86authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh87006558> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode94authoritiessubjectssh87006558 . 
+_:bnode94authoritiessubjectssh87006558 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode94authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh87006558> . 
+_:bnode94authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode94authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#createdDate> "2002-10-25T12:29:39"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode94authoritiessubjectssh87006558 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

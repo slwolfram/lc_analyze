@@ -1,0 +1,91 @@
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deep diving--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85038601 . 
+_:bnode7authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85038599> . 
+_:bnode7authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85038599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85038599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038599> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Deep diving"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038599> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85038601 . 
+_:bnode12authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85038601 . 
+_:bnode12authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85038601 <http://www.loc.gov/mads/rdf/v1#elementValue> "Deep diving"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh00005850> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh00005850> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85038601 . 
+_:bnode20authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85038601 . 
+_:bnode20authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85038601 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038608> . 
+<http://id.loc.gov/authorities/subjects/sh85038608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038608> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Diving suits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97008483> . 
+<http://id.loc.gov/authorities/subjects/sh97008483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97008483> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Underwater breathing apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85012373> . 
+<http://id.loc.gov/authorities/subjects/sh85012373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85012373> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bathyscaphe"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92005385> . 
+<http://id.loc.gov/authorities/subjects/sh92005385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92005385> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dive computers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85093888> . 
+<http://id.loc.gov/authorities/subjects/sh85093888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85093888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85093888> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ocean engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85093888> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode45authoritiessubjectssh85038601 . 
+_:bnode45authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode46authoritiessubjectssh85038601 . 
+_:bnode45authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode46authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode46authoritiessubjectssh85038601 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ocean engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85038601" . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85038601> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85038601#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode56authoritiessubjectssh85038601 . 
+_:bnode56authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode56authoritiessubjectssh85038601 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode56authoritiessubjectssh85038601 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode56authoritiessubjectssh85038601 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode63authoritiessubjectssh85038601 . 
+_:bnode63authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode63authoritiessubjectssh85038601 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-10-22T11:29:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode63authoritiessubjectssh85038601 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode63authoritiessubjectssh85038601 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deep diving--Equipment and supplies"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85093888> . 
+<http://id.loc.gov/authorities/subjects/sh85093888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85093888> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ocean engineering"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038608> . 
+<http://id.loc.gov/authorities/subjects/sh85038608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038608> <http://www.w3.org/2004/02/skos/core#prefLabel> "Diving suits"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97008483> . 
+<http://id.loc.gov/authorities/subjects/sh97008483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97008483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Underwater breathing apparatus"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85012373> . 
+<http://id.loc.gov/authorities/subjects/sh85012373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85012373> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bathyscaphe"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92005385> . 
+<http://id.loc.gov/authorities/subjects/sh92005385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92005385> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dive computers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode99authoritiessubjectssh85038601 . 
+_:bnode99authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode99authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85038601> . 
+_:bnode99authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode99authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode99authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85038601> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode107authoritiessubjectssh85038601 . 
+_:bnode107authoritiessubjectssh85038601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode107authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85038601> . 
+_:bnode107authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode107authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#createdDate> "1993-10-22T11:29:35"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode107authoritiessubjectssh85038601 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

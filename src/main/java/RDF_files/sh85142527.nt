@@ -1,0 +1,115 @@
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vegetation dynamics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85142527 . 
+_:bnode7authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85142527 . 
+_:bnode7authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vegetation dynamics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85142527 . 
+_:bnode11authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Dynamics of vegetation"@en . 
+_:bnode11authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85142527 . 
+_:bnode16authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85142527 . 
+_:bnode16authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#elementValue> "Dynamics of vegetation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#classification> "QK910" . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85000378> . 
+<http://id.loc.gov/authorities/subjects/sh85000378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85000378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85000378> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Acclimatization (Plants)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85000378> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode27authoritiessubjectssh85142527 . 
+_:bnode27authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode28authoritiessubjectssh85142527 . 
+_:bnode27authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode28authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode28authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#elementValue> "Acclimatization (Plants)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102815> . 
+<http://id.loc.gov/authorities/subjects/sh85102815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102815> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant succession"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh89004574> . 
+<http://id.loc.gov/authorities/subjects/sh89004574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh89004574> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Forest dynamics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11958303p> . 
+<http://data.bnf.fr/ark:/12148/cb11958303p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11958303p> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Dynamique de la végétation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102717> . 
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plant communities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode48authoritiessubjectssh85142527 . 
+_:bnode48authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode49authoritiessubjectssh85142527 . 
+_:bnode48authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode49authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode49authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plant communities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85102866> . 
+<http://id.loc.gov/authorities/subjects/sh85102866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102866> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants--Migration"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85142524> . 
+<http://id.loc.gov/authorities/subjects/sh85142524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85142524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85142524> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Vegetation and climate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142524> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode61authoritiessubjectssh85142527 . 
+_:bnode61authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode62authoritiessubjectssh85142527 . 
+_:bnode61authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode62authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode62authoritiessubjectssh85142527 <http://www.loc.gov/mads/rdf/v1#elementValue> "Vegetation and climate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85142527" . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85142527> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85142527#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode73authoritiessubjectssh85142527 . 
+_:bnode73authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode73authoritiessubjectssh85142527 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode73authoritiessubjectssh85142527 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode73authoritiessubjectssh85142527 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode80authoritiessubjectssh85142527 . 
+_:bnode80authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode80authoritiessubjectssh85142527 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-03-02T16:33:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode80authoritiessubjectssh85142527 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode80authoritiessubjectssh85142527 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vegetation dynamics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode90authoritiessubjectssh85142527 . 
+_:bnode90authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode90authoritiessubjectssh85142527 <http://www.w3.org/2008/05/skos-xl#literalForm> "Dynamics of vegetation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#altLabel> "Dynamics of vegetation" . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85000378> . 
+<http://id.loc.gov/authorities/subjects/sh85000378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85000378> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acclimatization (Plants)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102717> . 
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102717> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant communities"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85142524> . 
+<http://id.loc.gov/authorities/subjects/sh85142524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85142524> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vegetation and climate"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102815> . 
+<http://id.loc.gov/authorities/subjects/sh85102815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102815> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plant succession"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh89004574> . 
+<http://id.loc.gov/authorities/subjects/sh89004574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh89004574> <http://www.w3.org/2004/02/skos/core#prefLabel> "Forest dynamics"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85102866> . 
+<http://id.loc.gov/authorities/subjects/sh85102866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102866> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants--Migration"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11958303p> . 
+<http://data.bnf.fr/ark:/12148/cb11958303p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11958303p> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dynamique de la végétation"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2008/05/skos-xl#altLabel> "Dynamics of vegetation"@en . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode135authoritiessubjectssh85142527 . 
+_:bnode135authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode135authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85142527> . 
+_:bnode135authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode135authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode135authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85142527> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode143authoritiessubjectssh85142527 . 
+_:bnode143authoritiessubjectssh85142527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode143authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85142527> . 
+_:bnode143authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode143authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#createdDate> "1999-03-02T16:33:07"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode143authoritiessubjectssh85142527 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

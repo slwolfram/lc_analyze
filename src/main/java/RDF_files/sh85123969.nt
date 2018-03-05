@@ -1,0 +1,113 @@
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Social justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85123969 . 
+_:bnode7authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85123969 . 
+_:bnode7authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85123969 <http://www.loc.gov/mads/rdf/v1#elementValue> "Social justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#classification> "HM671" . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh97002483> . 
+<http://id.loc.gov/authorities/subjects/sh97002483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh97002483> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Environmental justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85071118> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode22authoritiessubjectssh85123969 . 
+_:bnode22authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode23authoritiessubjectssh85123969 . 
+_:bnode22authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode23authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode23authoritiessubjectssh85123969 <http://www.loc.gov/mads/rdf/v1#elementValue> "Justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85044503> . 
+<http://id.loc.gov/authorities/subjects/sh85044503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85044503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85044503> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Equality"@en . 
+<http://id.loc.gov/authorities/subjects/sh85044503> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode31authoritiessubjectssh85123969 . 
+_:bnode31authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode32authoritiessubjectssh85123969 . 
+_:bnode31authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode32authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode32authoritiessubjectssh85123969 <http://www.loc.gov/mads/rdf/v1#elementValue> "Equality"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85038551> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Distributive justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4236433-4> . 
+<http://d-nb.info/gnd/4236433-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4236433-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Soziale Gerechtigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/20115> . 
+<http://purl.org/bncf/tid/20115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/20115> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Giustizia sociale"@it . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2004003395> . 
+<http://id.loc.gov/authorities/subjects/sh2004003395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2004003395> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Reparations for historical injustices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4151082-3> . 
+<http://d-nb.info/gnd/4151082-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4151082-3> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Egalitarismus"@de . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh2007000043> . 
+<http://id.loc.gov/authorities/subjects/sh2007000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh2007000043> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Anti-racism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11956289g> . 
+<http://data.bnf.fr/ark:/12148/cb11956289g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11956289g> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Justice sociale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85123969" . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85123969> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85123969#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode71authoritiessubjectssh85123969 . 
+_:bnode71authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode71authoritiessubjectssh85123969 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode71authoritiessubjectssh85123969 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode71authoritiessubjectssh85123969 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode78authoritiessubjectssh85123969 . 
+_:bnode78authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode78authoritiessubjectssh85123969 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1999-04-27T16:49:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode78authoritiessubjectssh85123969 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode78authoritiessubjectssh85123969 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#prefLabel> "Social justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85071118> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85071118> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85044503> . 
+<http://id.loc.gov/authorities/subjects/sh85044503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85044503> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equality"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh97002483> . 
+<http://id.loc.gov/authorities/subjects/sh97002483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh97002483> <http://www.w3.org/2004/02/skos/core#prefLabel> "Environmental justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85038551> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85038551> <http://www.w3.org/2004/02/skos/core#prefLabel> "Distributive justice"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2004003395> . 
+<http://id.loc.gov/authorities/subjects/sh2004003395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2004003395> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reparations for historical injustices"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh2007000043> . 
+<http://id.loc.gov/authorities/subjects/sh2007000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh2007000043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anti-racism"@en . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4236433-4> . 
+<http://d-nb.info/gnd/4236433-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4236433-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soziale Gerechtigkeit"@de . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/20115> . 
+<http://purl.org/bncf/tid/20115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/20115> <http://www.w3.org/2004/02/skos/core#prefLabel> "Giustizia sociale"@it . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4151082-3> . 
+<http://d-nb.info/gnd/4151082-3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4151082-3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Egalitarismus"@de . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11956289g> . 
+<http://data.bnf.fr/ark:/12148/cb11956289g> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11956289g> <http://www.w3.org/2004/02/skos/core#prefLabel> "Justice sociale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode139authoritiessubjectssh85123969 . 
+_:bnode139authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode139authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85123969> . 
+_:bnode139authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode139authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode139authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh85123969> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode147authoritiessubjectssh85123969 . 
+_:bnode147authoritiessubjectssh85123969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode147authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85123969> . 
+_:bnode147authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode147authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#createdDate> "1999-04-27T16:49:48"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode147authoritiessubjectssh85123969 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

@@ -1,0 +1,104 @@
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#ComplexSubject> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Emergency medical services--Communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#componentList> _:bnode7authoritiessubjectssh85042748 . 
+_:bnode7authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh85042747> . 
+_:bnode7authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:bnode015 . 
+<http://id.loc.gov/authorities/subjects/sh85042747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042747> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Emergency medical services"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042747> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode12authoritiessubjectssh85042748 . 
+_:bnode12authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode13authoritiessubjectssh85042748 . 
+_:bnode12authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode13authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode13authoritiessubjectssh85042748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Emergency medical services"@en . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://id.loc.gov/authorities/subjects/sh99002304> . 
+_:bnode015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+<http://id.loc.gov/authorities/subjects/sh99002304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh99002304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh99002304> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh99002304> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh85042748 . 
+_:bnode20authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh85042748 . 
+_:bnode20authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh85042748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb13333542r> . 
+<http://data.bnf.fr/ark:/12148/cb13333542r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb13333542r> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Régulation médicale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh92003777> . 
+<http://id.loc.gov/authorities/subjects/sh92003777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh92003777> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Personal emergency response systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#hasReciprocalAuthority> <http://id.loc.gov/authorities/subjects/sh85062508> . 
+<http://id.loc.gov/authorities/subjects/sh85062508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85062508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85062508> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Hotlines (Counseling)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85062508> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode37authoritiessubjectssh85042748 . 
+_:bnode37authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode38authoritiessubjectssh85042748 . 
+_:bnode37authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode38authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode38authoritiessubjectssh85042748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Hotlines (Counseling)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85042738> . 
+<http://id.loc.gov/authorities/subjects/sh85042738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85042738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85042738> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Emergency communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042738> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode46authoritiessubjectssh85042748 . 
+_:bnode46authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode47authoritiessubjectssh85042748 . 
+_:bnode46authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode47authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode47authoritiessubjectssh85042748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Emergency communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85133301> . 
+<http://id.loc.gov/authorities/subjects/sh85133301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85133301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85133301> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Telecommunication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85133301> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode55authoritiessubjectssh85042748 . 
+_:bnode55authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode56authoritiessubjectssh85042748 . 
+_:bnode55authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode56authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode56authoritiessubjectssh85042748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Telecommunication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85108799> . 
+<http://id.loc.gov/authorities/subjects/sh85108799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85108799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85108799> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Public safety radio service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85108799> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode64authoritiessubjectssh85042748 . 
+_:bnode64authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode65authoritiessubjectssh85042748 . 
+_:bnode64authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode65authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode65authoritiessubjectssh85042748 <http://www.loc.gov/mads/rdf/v1#elementValue> "Public safety radio service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85042748" . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85042748> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85042748#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode75authoritiessubjectssh85042748 . 
+_:bnode75authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode75authoritiessubjectssh85042748 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode75authoritiessubjectssh85042748 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode75authoritiessubjectssh85042748 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emergency medical services--Communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85042738> . 
+<http://id.loc.gov/authorities/subjects/sh85042738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85042738> <http://www.w3.org/2004/02/skos/core#prefLabel> "Emergency communication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85133301> . 
+<http://id.loc.gov/authorities/subjects/sh85133301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85133301> <http://www.w3.org/2004/02/skos/core#prefLabel> "Telecommunication systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85108799> . 
+<http://id.loc.gov/authorities/subjects/sh85108799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85108799> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public safety radio service"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh92003777> . 
+<http://id.loc.gov/authorities/subjects/sh92003777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh92003777> <http://www.w3.org/2004/02/skos/core#prefLabel> "Personal emergency response systems"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#related> <http://id.loc.gov/authorities/subjects/sh85062508> . 
+<http://id.loc.gov/authorities/subjects/sh85062508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85062508> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hotlines (Counseling)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb13333542r> . 
+<http://data.bnf.fr/ark:/12148/cb13333542r> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb13333542r> <http://www.w3.org/2004/02/skos/core#prefLabel> "Régulation médicale"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85042748> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode116authoritiessubjectssh85042748 . 
+_:bnode116authoritiessubjectssh85042748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode116authoritiessubjectssh85042748 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85042748> . 
+_:bnode116authoritiessubjectssh85042748 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode116authoritiessubjectssh85042748 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode116authoritiessubjectssh85042748 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

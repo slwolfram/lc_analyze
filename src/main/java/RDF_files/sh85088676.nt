@@ -1,0 +1,108 @@
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muscle cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85088676 . 
+_:bnode7authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85088676 . 
+_:bnode7authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85088676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Muscle cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85088676 . 
+_:bnode11authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85088676 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Myocytes"@en . 
+_:bnode11authoritiessubjectssh85088676 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85088676 . 
+_:bnode16authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85088676 . 
+_:bnode16authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85088676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Myocytes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85021678> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85088676 . 
+_:bnode25authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85088676 . 
+_:bnode25authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85088676 <http://www.loc.gov/mads/rdf/v1#elementValue> "Cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4127469-6> . 
+<http://d-nb.info/gnd/4127469-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4127469-6> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Myofibrille"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://lod.nal.usda.gov/nalt/23476> . 
+<http://lod.nal.usda.gov/nalt/23476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://lod.nal.usda.gov/nalt/23476> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "myocytes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85117517> . 
+<http://id.loc.gov/authorities/subjects/sh85117517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85117517> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Sarcoplasmic reticulum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4170854-4> . 
+<http://d-nb.info/gnd/4170854-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4170854-4> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muskelfaser"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://purl.org/bncf/tid/32541> . 
+<http://purl.org/bncf/tid/32541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://purl.org/bncf/tid/32541> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Cellule muscolari"@it . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90003813> . 
+<http://id.loc.gov/authorities/subjects/sh90003813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90003813> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Myoblasts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://d-nb.info/gnd/4127323-0> . 
+<http://d-nb.info/gnd/4127323-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://d-nb.info/gnd/4127323-0> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Muskelzelle"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasCloseExternalAuthority> <http://data.bnf.fr/ark:/12148/cb11937793x> . 
+<http://data.bnf.fr/ark:/12148/cb11937793x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://data.bnf.fr/ark:/12148/cb11937793x> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fibres musculaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh90004742> . 
+<http://id.loc.gov/authorities/subjects/sh90004742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh90004742> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Excitable membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85088676" . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85088676> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85088676#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode72authoritiessubjectssh85088676 . 
+_:bnode72authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode72authoritiessubjectssh85088676 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode72authoritiessubjectssh85088676 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode72authoritiessubjectssh85088676 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muscle cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode82authoritiessubjectssh85088676 . 
+_:bnode82authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode82authoritiessubjectssh85088676 <http://www.w3.org/2008/05/skos-xl#literalForm> "Myocytes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#altLabel> "Myocytes" . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85021678> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85021678> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cells"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85117517> . 
+<http://id.loc.gov/authorities/subjects/sh85117517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85117517> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sarcoplasmic reticulum"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90003813> . 
+<http://id.loc.gov/authorities/subjects/sh90003813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90003813> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myoblasts"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh90004742> . 
+<http://id.loc.gov/authorities/subjects/sh90004742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh90004742> <http://www.w3.org/2004/02/skos/core#prefLabel> "Excitable membranes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4127469-6> . 
+<http://d-nb.info/gnd/4127469-6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4127469-6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myofibrille"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://lod.nal.usda.gov/nalt/23476> . 
+<http://lod.nal.usda.gov/nalt/23476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://lod.nal.usda.gov/nalt/23476> <http://www.w3.org/2004/02/skos/core#prefLabel> "myocytes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4170854-4> . 
+<http://d-nb.info/gnd/4170854-4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4170854-4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muskelfaser"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://purl.org/bncf/tid/32541> . 
+<http://purl.org/bncf/tid/32541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://purl.org/bncf/tid/32541> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cellule muscolari"@it . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://d-nb.info/gnd/4127323-0> . 
+<http://d-nb.info/gnd/4127323-0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://d-nb.info/gnd/4127323-0> <http://www.w3.org/2004/02/skos/core#prefLabel> "Muskelzelle"@de . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#closeMatch> <http://data.bnf.fr/ark:/12148/cb11937793x> . 
+<http://data.bnf.fr/ark:/12148/cb11937793x> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://data.bnf.fr/ark:/12148/cb11937793x> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fibres musculaires"@fr . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2008/05/skos-xl#altLabel> "Myocytes"@en . 
+<http://id.loc.gov/authorities/subjects/sh85088676> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode142authoritiessubjectssh85088676 . 
+_:bnode142authoritiessubjectssh85088676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode142authoritiessubjectssh85088676 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85088676> . 
+_:bnode142authoritiessubjectssh85088676 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode142authoritiessubjectssh85088676 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode142authoritiessubjectssh85088676 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 

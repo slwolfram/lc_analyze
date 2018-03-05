@@ -1,0 +1,72 @@
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Fructan-containing plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh93004522 . 
+_:bnode7authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh93004522 . 
+_:bnode7authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#elementValue> "Fructan-containing plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh93004521> . 
+<http://id.loc.gov/authorities/subjects/sh93004521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh93004521> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Inulin-containing plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85102839> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode20authoritiessubjectssh93004522 . 
+_:bnode20authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode21authoritiessubjectssh93004522 . 
+_:bnode20authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode21authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode21authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#elementValue> "Plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_SubdivideGeographically> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 93004522" . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh93004522> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh93004522#concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode32authoritiessubjectssh93004522 . 
+_:bnode32authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode32authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-source> "Work cat.: 93-21591: Inulin and inulin-containing crops, 1993" . 
+_:bnode32authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-note> "(fructan-containing plants)"@en . 
+_:bnode32authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode40authoritiessubjectssh93004522 . 
+_:bnode40authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode40authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-source> "LC data base, 6/8/93" . 
+_:bnode40authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-note> "(alkaloid-containing plants)"@en . 
+_:bnode40authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-status> "found" . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#hasSource> _:bnode48authoritiessubjectssh93004522 . 
+_:bnode48authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Source> . 
+_:bnode48authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-source> "Web. 3;CAB thes.;Biol. & agr. index, v. 43" . 
+_:bnode48authoritiessubjectssh93004522 <http://www.loc.gov/mads/rdf/v1#citation-status> "notfound" . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode54authoritiessubjectssh93004522 . 
+_:bnode54authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode54authoritiessubjectssh93004522 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-06-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode54authoritiessubjectssh93004522 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode54authoritiessubjectssh93004522 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode61authoritiessubjectssh93004522 . 
+_:bnode61authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode61authoritiessubjectssh93004522 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1993-07-26T11:07:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode61authoritiessubjectssh93004522 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode61authoritiessubjectssh93004522 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fructan-containing plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85102839> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85102839> <http://www.w3.org/2004/02/skos/core#prefLabel> "Plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh93004521> . 
+<http://id.loc.gov/authorities/subjects/sh93004521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh93004521> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inulin-containing plants"@en . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode82authoritiessubjectssh93004522 . 
+_:bnode82authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode82authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93004522> . 
+_:bnode82authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode82authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#createdDate> "1993-06-14T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode82authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+<http://id.loc.gov/authorities/subjects/sh93004522> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode90authoritiessubjectssh93004522 . 
+_:bnode90authoritiessubjectssh93004522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode90authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh93004522> . 
+_:bnode90authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode90authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#createdDate> "1993-07-26T11:07:21"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode90authoritiessubjectssh93004522 <http://purl.org/vocab/changeset/schema#changeReason> "revised"^^<http://www.w3.org/2001/XMLSchema#string> . 

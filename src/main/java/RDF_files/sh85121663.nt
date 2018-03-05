@@ -1,0 +1,98 @@
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ship's papers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode7authoritiessubjectssh85121663 . 
+_:bnode7authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode8authoritiessubjectssh85121663 . 
+_:bnode7authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode8authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode8authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ship's papers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode11authoritiessubjectssh85121663 . 
+_:bnode11authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode11authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode11authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Merchant ship's papers"@en . 
+_:bnode11authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode16authoritiessubjectssh85121663 . 
+_:bnode16authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode17authoritiessubjectssh85121663 . 
+_:bnode16authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode17authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode17authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementValue> "Merchant ship's papers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasVariant> _:bnode20authoritiessubjectssh85121663 . 
+_:bnode20authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+_:bnode20authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Variant> . 
+_:bnode20authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#variantLabel> "Ship's documents"@en . 
+_:bnode20authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode25authoritiessubjectssh85121663 . 
+_:bnode25authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode26authoritiessubjectssh85121663 . 
+_:bnode25authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode26authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode26authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementValue> "Ship's documents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85121549> . 
+<http://id.loc.gov/authorities/subjects/sh85121549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85121549> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Ship registers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85081308> . 
+<http://id.loc.gov/authorities/subjects/sh85081308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85081308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85081308> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Maritime law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85081308> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode38authoritiessubjectssh85121663 . 
+_:bnode38authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode39authoritiessubjectssh85121663 . 
+_:bnode38authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode39authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode39authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementValue> "Maritime law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasBroaderAuthority> <http://id.loc.gov/authorities/subjects/sh85083757> . 
+<http://id.loc.gov/authorities/subjects/sh85083757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Topic> . 
+<http://id.loc.gov/authorities/subjects/sh85083757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85083757> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Merchant marine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85083757> <http://www.loc.gov/mads/rdf/v1#elementList> _:bnode47authoritiessubjectssh85121663 . 
+_:bnode47authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:bnode48authoritiessubjectssh85121663 . 
+_:bnode47authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> . 
+_:bnode48authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#TopicElement> . 
+_:bnode48authoritiessubjectssh85121663 <http://www.loc.gov/mads/rdf/v1#elementValue> "Merchant marine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85014066> . 
+<http://id.loc.gov/authorities/subjects/sh85014066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85014066> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Bills of health (Maritime law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#hasNarrowerAuthority> <http://id.loc.gov/authorities/subjects/sh85078074> . 
+<http://id.loc.gov/authorities/subjects/sh85078074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.loc.gov/mads/rdf/v1#Authority> . 
+<http://id.loc.gov/authorities/subjects/sh85078074> <http://www.loc.gov/mads/rdf/v1#authoritativeLabel> "Logbooks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSHAuthorizedHeadings> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSCollection> <http://id.loc.gov/authorities/subjects/collection_LCSH_General> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#isMemberOfMADSScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://id.loc.gov/vocabulary/identifiers/lccn> "sh 85121663" . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2002/07/owl#sameAs> <info:lc/authorities/sh85121663> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2002/07/owl#sameAs> <http://id.loc.gov/authorities/sh85121663#concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.loc.gov/mads/rdf/v1#adminMetadata> _:bnode66authoritiessubjectssh85121663 . 
+_:bnode66authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://id.loc.gov/ontologies/RecordInfo#RecordInfo> . 
+_:bnode66authoritiessubjectssh85121663 <http://id.loc.gov/ontologies/RecordInfo#recordChangeDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode66authoritiessubjectssh85121663 <http://id.loc.gov/ontologies/RecordInfo#recordStatus> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
+_:bnode66authoritiessubjectssh85121663 <http://id.loc.gov/ontologies/RecordInfo#recordContentSource> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ship's papers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode76authoritiessubjectssh85121663 . 
+_:bnode76authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode76authoritiessubjectssh85121663 <http://www.w3.org/2008/05/skos-xl#literalForm> "Merchant ship's papers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#altLabel> "Merchant ship's papers" . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2008/05/skos-xl#altLabel> _:bnode83authoritiessubjectssh85121663 . 
+_:bnode83authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> . 
+_:bnode83authoritiessubjectssh85121663 <http://www.w3.org/2008/05/skos-xl#literalForm> "Ship's documents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#altLabel> "Ship's documents" . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85081308> . 
+<http://id.loc.gov/authorities/subjects/sh85081308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85081308> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maritime law"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/authorities/subjects/sh85083757> . 
+<http://id.loc.gov/authorities/subjects/sh85083757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85083757> <http://www.w3.org/2004/02/skos/core#prefLabel> "Merchant marine"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85121549> . 
+<http://id.loc.gov/authorities/subjects/sh85121549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85121549> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ship registers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85014066> . 
+<http://id.loc.gov/authorities/subjects/sh85014066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85014066> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bills of health (Maritime law)"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/authorities/subjects/sh85078074> . 
+<http://id.loc.gov/authorities/subjects/sh85078074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> . 
+<http://id.loc.gov/authorities/subjects/sh85078074> <http://www.w3.org/2004/02/skos/core#prefLabel> "Logbooks"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/authorities/subjects> . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2008/05/skos-xl#altLabel> "Merchant ship's papers"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2008/05/skos-xl#altLabel> "Ship's documents"@en . 
+<http://id.loc.gov/authorities/subjects/sh85121663> <http://www.w3.org/2004/02/skos/core#changeNote> _:bnode120authoritiessubjectssh85121663 . 
+_:bnode120authoritiessubjectssh85121663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/changeset/schema#ChangeSet> . 
+_:bnode120authoritiessubjectssh85121663 <http://purl.org/vocab/changeset/schema#subjectOfChange> <http://id.loc.gov/authorities/subjects/sh85121663> . 
+_:bnode120authoritiessubjectssh85121663 <http://purl.org/vocab/changeset/schema#creatorName> <http://id.loc.gov/vocabulary/organizations/dlc> . 
+_:bnode120authoritiessubjectssh85121663 <http://purl.org/vocab/changeset/schema#createdDate> "1986-02-11T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> . 
+_:bnode120authoritiessubjectssh85121663 <http://purl.org/vocab/changeset/schema#changeReason> "new"^^<http://www.w3.org/2001/XMLSchema#string> . 
