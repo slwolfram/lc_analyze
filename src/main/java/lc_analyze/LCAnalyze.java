@@ -13,8 +13,8 @@ package lc_analyze;
 //headings and/or names for this program to be of any use.
 //
 //List of operations:
-//
-//
+//////
+//////
 
 import java.io.File;
 import java.io.FileInputStream;
